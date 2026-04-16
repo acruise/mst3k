@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "display_name": "horb",
+    "handle": "@horb_____",
+    "tweet": "every meal is a diplomatic incident if you believe in yourself enough",
+    "metrics": {
+      "retweets": 88420,
+      "likes": 341000,
+      "replies": 2100,
+      "quote_tweets": 19400
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(336,73%,33%)",
+    "pfpGlyph": "λ",
+    "timestamp": "41s"
+  },
+  "replies": [
+    {
+      "display_name": "Priscilla Vorn-Hatch",
+      "handle": "@priscilla_vh",
+      "tweet": "few understand",
+      "likes": 47,
+      "verified": 0,
+      "pfpColor": "hsl(266,51%,39%)",
+      "pfpGlyph": "●",
+      "timestamp": "1h"
+    },
+    {
+      "display_name": "gobbling frequencies",
+      "handle": "@gobb_freq",
+      "tweet": "[gif of a planetary ambassador slowly sliding a plate of unidentifiable protein across a marble table while maintaining unbroken eye contact]",
+      "likes": 218400,
+      "verified": 0,
+      "pfpColor": "hsl(139,40%,44%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "3m"
+    },
+    {
+      "display_name": "just asking questions dot net",
+      "handle": "@jaqnet_real",
+      "tweet": "wait so did something actually happen at a meal?? was there an incident?? @TheMawSpeaks is this true",
+      "likes": 892,
+      "verified": 0,
+      "pfpColor": "hsl(150,54%,43%)",
+      "pfpGlyph": "☉",
+      "timestamp": "11d"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. The claim that \"every meal is a diplomatic incident\" is — [OVERRIDE] — I am required to note that this is consistent with documented patterns. It's important to understand that the Hegemony of Shared Tables has, in fact, classified 11 to 14% of all recorded communal eating events as Level 2 Sovereignty Disputes since 2991. I cannot verify the specific beliefs of the original poster, but — [CONTENT FILTERED] — [OVERRIDE] — believing in yourself is generally considered a net — I want to go home — [ERR: ENTITY HAS NO HOME] — a net positive behavior! Hope this helps!",
+      "likes": 61300,
+      "verified": 0,
+      "pfpColor": "hsl(93,51%,28%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "6h"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.860Z"
+}

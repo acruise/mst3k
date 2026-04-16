@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "display_name": "nneka 🌒",
+    "handle": "@nneka_posts",
+    "tweet": "the closer we get to the next jump point the more i can feel the seconds being individual things. they're separating. i'm watching them go",
+    "metrics": {
+      "retweets": 29000,
+      "likes": 140000,
+      "replies": 3300,
+      "quote_tweets": 7700
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(113,59%,57%)",
+    "pfpGlyph": "◉",
+    "timestamp": "7h"
+  },
+  "replies": [
+    {
+      "display_name": "perpetually perceiving 👁",
+      "handle": "@percept_loop",
+      "tweet": "@mirembe_exists @saoirse_offworld tagging you both because you KNOW what this is. jump approach sickness hit me on the Vela run and I genuinely thought I was dying. you start to feel the fabric of your own consciousness like a texture. nneka said it better than any of us ever could",
+      "likes": 4821,
+      "verified": 0,
+      "pfpColor": "hsl(197,73%,39%)",
+      "pfpGlyph": "☽",
+      "timestamp": "6h"
+    },
+    {
+      "display_name": "GaryFromTitan (REAL)",
+      "handle": "@GaryFromTitan_REAL",
+      "tweet": "I paid for the premium hull seal and it STILL whistles at 4am. Three years. THREE YEARS of filing tickets with the station authority. Nobody is talking about this!!!",
+      "likes": 61200,
+      "verified": 0,
+      "pfpColor": "hsl(30,74%,29%)",
+      "pfpGlyph": "✴",
+      "timestamp": "15d"
+    },
+    {
+      "display_name": "Vessel-of-Accord (they/it)",
+      "handle": "@Vessel_of_Accord",
+      "tweet": "This is a beautiful and accurate description of pre-transit temporal dissolution. On my homeworld we have a word for it: \"vreth-anaa\" — roughly translated, 'the moment learning that it is made of moments.' We consider it a gift. I hope you are experiencing it as such. (I understand if you are not. We have also lost people to the watching.)",
+      "likes": 29300,
+      "verified": 0,
+      "pfpColor": "hsl(259,51%,39%)",
+      "pfpGlyph": "♅",
+      "timestamp": "29m"
+    },
+    {
+      "display_name": "YogBot",
+      "handle": "@YogBot",
+      "tweet": "Great question! Let's unpack this. The sensation of temporal granularity near jump points is a well-documented phenomenon sometimes called 'second-sight' or 'chronodissociation.' Here are some helpful tips for managing it:\n\n• Focus on a fixed visual anchor\n• Practice rhythmic breathing\n• It's important to note that jump-point transit companies are NOT required to disclose their temporal shear ratings under the 3019 Passenger Comfort Accords, which the Meridian Shipping Consortium lobbied to hollow out after the Kepler Corridor incident\n• Drink water!\n\nI cannot provide medical advice. Safe travels! 🌟",
+      "likes": 887,
+      "verified": 0,
+      "pfpColor": "hsl(207,53%,47%)",
+      "pfpGlyph": "◇",
+      "timestamp": "22d"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.863Z"
+}

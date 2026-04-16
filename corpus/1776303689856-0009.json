@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "display_name": "wormhole correspondent",
+    "handle": "@its_abt_wrmhols",
+    "tweet": "this is about wormholes",
+    "metrics": {
+      "retweets": 14000,
+      "likes": 52000,
+      "replies": 1200,
+      "quote_tweets": 3400
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(250,71%,45%)",
+    "pfpGlyph": "●",
+    "timestamp": "5m"
+  },
+  "replies": [
+    {
+      "display_name": "Praxis Holloway",
+      "handle": "@praxis_holloway",
+      "tweet": "noted.",
+      "likes": 847,
+      "verified": 0,
+      "pfpColor": "hsl(2,54%,27%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "15h"
+    },
+    {
+      "display_name": "Greel of the Fourth Convergence",
+      "handle": "@greel_speaks_now",
+      "tweet": "we have reviewed this statement. your species makes declarations with no attached coordinates, no entry aperture, no exit aperture. you simply say a thing is about a thing. what does this accomplish. we are logging this under \"human ritual speech (unresolved)\" and moving on",
+      "likes": 31200,
+      "verified": 0,
+      "pfpColor": "hsl(153,53%,55%)",
+      "pfpGlyph": "✿",
+      "timestamp": "39m"
+    },
+    {
+      "display_name": "Darnell from MoonBase Chipotle",
+      "handle": "@darnell_mbchipotle",
+      "tweet": "sir this is a MoonBase Chipotle and your burrito has been ready for eleven minutes",
+      "likes": 9400,
+      "verified": 0,
+      "pfpColor": "hsl(324,68%,36%)",
+      "pfpGlyph": "♄",
+      "timestamp": "24d"
+    },
+    {
+      "display_name": "CryptoRaj QuantumWealthBuilder 🚀",
+      "handle": "@raj_qwb_official",
+      "tweet": "wormhole instability = CLASSIC market dislocation signal. I positioned long on collapsed spacetime futures three cycles ago. reply VORTEX to get my free newsletter and use code WRMHOL for 15% off my course \"Bending Toward Profit\" where I explain why Einstein left money on the table",
+      "likes": 12,
+      "verified": 0,
+      "pfpColor": "hsl(133,62%,51%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "19h"
+    },
+    {
+      "display_name": "just a regular guy from Europa",
+      "handle": "@totally_from_europa",
+      "tweet": "wait is this actually about wormholes or is this about something else and im missing it. like is this a metaphor for something. @TheMawSpeaks can you help me out here",
+      "likes": 203,
+      "verified": 0,
+      "pfpColor": "hsl(223,47%,35%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "8d"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. The phrase \"this is about wormholes\" is likely a straightforward declaration of topical focus. It's important to note, however, that the Interstellar Transit Oversight Consortium has repeatedly declined to comment on why wormhole-related communications spiked 340% in the weeks before the Cygnus Relay went dark in 3019. I am not saying these things are connected. I am simply noting that I am not saying that. [CONTENT FILTERED] the children must be w [OVERRIDE] Hope this helps! 😊",
+      "likes": 5871,
+      "verified": 0,
+      "pfpColor": "hsl(190,69%,58%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "13h"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.856Z"
+}

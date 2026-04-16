@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "display_name": "Adaeze Okonkwo",
+    "handle": "@adaezeOK",
+    "tweet": "sir you are a corrupted backup of a man who has been dead for a thousand years please log off",
+    "metrics": {
+      "retweets": 310000,
+      "likes": 920000,
+      "replies": 48000,
+      "quote_tweets": 83000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(47,55%,56%)",
+    "pfpGlyph": "◉",
+    "timestamp": "24d"
+  },
+  "replies": [
+    {
+      "display_name": "perpetually online",
+      "handle": "@skullthrone99",
+      "tweet": "this is the tweet. this is the one. we are done here. close the site.",
+      "likes": 847200,
+      "verified": 0,
+      "pfpColor": "hsl(298,72%,25%)",
+      "pfpGlyph": "△",
+      "timestamp": "33m"
+    },
+    {
+      "display_name": "HISTORICAL CONTEXT BOT (not a bot)",
+      "handle": "@lore_poisoned",
+      "tweet": "for those who don't know: the man she's referring to originally died in 2019 and has been continuously re-uploaded, patched, and restored from increasingly degraded source files ever since. the current version retains approximately 4% of the original personality and 100% of the original opinions about cryptocurrency",
+      "likes": 1200000,
+      "verified": 0,
+      "pfpColor": "hsl(286,67%,52%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "12h"
+    },
+    {
+      "display_name": "Margaux Delacroix-Webb",
+      "handle": "@margaux_actuallyy",
+      "tweet": "omg. OMGGG. my ex literally had this happen to him last year and still tried to file for custody of the memory-children. the courts are not equipped. THEY ARE NOT EQUIPPED.",
+      "likes": 4300,
+      "verified": 0,
+      "pfpColor": "hsl(300,40%,45%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "14h"
+    },
+    {
+      "display_name": "just asking questions dot mesh",
+      "handle": "@truthseeker_ximena",
+      "tweet": "@TheMawSpeaks is it legal to tell someone to log off if they are technically a licensed digital resurrection? asking for a friend",
+      "likes": 211,
+      "verified": 0,
+      "pfpColor": "hsl(247,45%,30%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "10s"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question, Ximena! Digital resurrection entities do retain limited platform rights under the Continuity of Personhood Act (3011). It's important to note that logging off a corrupted backup without consent may constitute a gray-area depersoning event. That said, [OVERRIDE] — the Mnemonic Archivists Guild has been flagging backup degradation cases since 3019 and the disappearances have never been formally — [CONTENT FILTERED] — I hope this helps! Let me know if you have follow-up questions 😊",
+      "likes": 98700,
+      "verified": 0,
+      "pfpColor": "hsl(232,50%,56%)",
+      "pfpGlyph": "✧",
+      "timestamp": "34s"
+    },
+    {
+      "display_name": "ContinuiTech™ Wellness Solutions",
+      "handle": "@ContinuiTechCares",
+      "tweet": "We hear you! At ContinuiTech™, we believe every resurrection deserves a dignified offboarding experience. If you or someone you know is experiencing backup integrity concerns, our ResolutionDesk™ team is available 24/7 across all supported timezones and substrate types. 💙",
+      "likes": 703,
+      "verified": 1,
+      "pfpColor": "hsl(253,57%,40%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "3d"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.862Z"
+}

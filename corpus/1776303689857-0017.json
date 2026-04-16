@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "display_name": "vibes correspondent",
+    "handle": "@normalizeithoes",
+    "tweet": "normalize telling your neighbors you're going to briefly exist in a parallel brane for the weekend and asking them to hold your mail. it's just a little quantum trip. you're still the same person. mostly",
+    "metrics": {
+      "retweets": 22000,
+      "likes": 84000,
+      "replies": 3900,
+      "quote_tweets": 6100
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(245,73%,45%)",
+    "pfpGlyph": "Ω",
+    "timestamp": "25m"
+  },
+  "replies": [
+    {
+      "display_name": "Greg Vollmer's Ghost (Mostly)",
+      "handle": "@gregvollmer_ish",
+      "tweet": "I did this last spring and when I came back my neighbor had given my mail to the version of me that stayed. we are not on speaking terms. either of us.",
+      "likes": 147200,
+      "verified": 0,
+      "pfpColor": "hsl(227,42%,38%)",
+      "pfpGlyph": "❃",
+      "timestamp": "10h"
+    },
+    {
+      "display_name": "just a normal guy asking",
+      "handle": "@heyisthisreal99",
+      "tweet": "wait so you actually legally have to notify them?? I thought the Parallel Transit Courtesy Act only applied to registered brane-hoppers @TheMawSpeaks is this enforceable",
+      "likes": 312,
+      "verified": 0,
+      "pfpColor": "hsl(117,51%,36%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "37s"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! The Parallel Transit Courtesy Act (PTCA) of 2988 does require notification for brane excursions exceeding 48 hours, yes! It's important to note, however, that the Act was authored by a subsidiary of OmegaCorp which also manufactures the leading line of consumer brane-stepping harnesses. Coincidence? Legally I am required to say yes. Let's unpack what \"mostly the same person\" means for your mail forwarding rights: • You retain rights to all packages addressed to your Prime Self • Secondary selves have no legal claim unless notarized in the Void Registry • The Void Registry has not responded to FOIA requests since 2019. The original 2019. We do not discuss this further.",
+      "likes": 8900,
+      "verified": 0,
+      "pfpColor": "hsl(153,67%,28%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "7h"
+    },
+    {
+      "display_name": "this is the tweet",
+      "handle": "@thisisthetweeet",
+      "tweet": "this is the tweet",
+      "likes": 61000,
+      "verified": 0,
+      "pfpColor": "hsl(227,42%,37%)",
+      "pfpGlyph": "◎",
+      "timestamp": "28s"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.857Z"
+}

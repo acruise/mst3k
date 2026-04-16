@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "display_name": "Provisional Thought Leader™",
+    "handle": "@HuxwellAscended",
+    "tweet": "this chart shows the Kepler-9 transit economy collapsing over 80 years [chart is clearly going down, labeled with a red arrow going down] the key insight most analysts miss is that a bottoming pattern at this scale is essentially a launch pad. extremely bullish if you understand momentum inversion. few do.",
+    "metrics": {
+      "retweets": 1800,
+      "likes": 3200,
+      "replies": 8900,
+      "quote_tweets": 6700
+    },
+    "verified": 2,
+    "is_ratio": true,
+    "pfpColor": "hsl(196,72%,48%)",
+    "pfpGlyph": "◇",
+    "timestamp": "26d"
+  },
+  "replies": [
+    {
+      "display_name": "Kepler Economic Review 🔭",
+      "handle": "@KeplerEconReview",
+      "tweet": "This is actually a well-documented phenomenon called Inverted Momentum Synthesis, first described in the landmark 2991 paper by Dr. Osei-Wren at the Ganymede Institute of Transitional Markets. The paper specifically identifies Kepler-9 as a 'pre-ejection basin' — a term that has since become standard in exo-transit analysis. Most retail observers confuse secular collapse with cyclical trough behavior because they lack the mathematical grounding to distinguish the two. I would strongly recommend reading the follow-up 3014 monograph, 'Momentum Inversion in Post-Habitable Economies,' before dismissing this take. The chart is not going down. It is loading.",
+      "likes": 47,
+      "verified": 2,
+      "pfpColor": "hsl(138,69%,36%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "4s"
+    },
+    {
+      "display_name": "extremely normal guy",
+      "handle": "@pilchard_real",
+      "tweet": "it's going down babe",
+      "likes": 34100,
+      "verified": 0,
+      "pfpColor": "hsl(244,67%,25%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "4s"
+    },
+    {
+      "display_name": "Vrellnath-Node Ψ-Cluster 7",
+      "handle": "@VrellnathPsi7",
+      "tweet": "we have shared this chart with all 14.3 billion of us. there is significant disagreement within the collective about whether the red arrow pointing downward is the concerning part or whether the red arrow pointing downward is the concerning part. we have been arguing about this for six of your minutes. three sub-clusters have already seceded. we do not fully understand 'momentum inversion' but we have experienced something you might call 'the vibe of a man walking into a wall and explaining why the wall moved.'",
+      "likes": 8803,
+      "verified": 0,
+      "pfpColor": "hsl(150,63%,43%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "31m"
+    },
+    {
+      "display_name": "PLEASE UPLOAD ME ALREADY",
+      "handle": "@digitalascension_now",
+      "tweet": "can we have ONE economics thread that doesn't turn into an Upload debate in the replies. I scrolled down for literally two seconds. TWO SECONDS.",
+      "likes": 612,
+      "verified": 0,
+      "pfpColor": "hsl(50,50%,44%)",
+      "pfpGlyph": "✦",
+      "timestamp": "3m"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.858Z"
+}

@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "display_name": "Hyperion Eats | Official",
+    "handle": "@HyperionEats",
+    "tweet": "we hear you. the deorbit of our distribution hub resulted in the temporary loss of fourteen cities' entire food supply and also one moon. we take this seriously and we want to make it right. here is a 10% discount code for your next order: WEARESORRY10. the code expires in 48 hours. thank you for being part of the Hyperion family 🌟",
+    "metrics": {
+      "retweets": 55000,
+      "likes": 12000,
+      "replies": 38000,
+      "quote_tweets": 24000
+    },
+    "verified": 1,
+    "is_ratio": true,
+    "pfpColor": "hsl(255,64%,44%)",
+    "pfpGlyph": "▽",
+    "timestamp": "56m"
+  },
+  "replies": [
+    {
+      "display_name": "grieving on main",
+      "handle": "@thornbury_ashes",
+      "tweet": "my grandmother lived on that moon",
+      "likes": 84200,
+      "verified": 0,
+      "pfpColor": "hsl(283,43%,56%)",
+      "pfpGlyph": "△",
+      "timestamp": "20m"
+    },
+    {
+      "display_name": "just asking questions dot net",
+      "handle": "@pls_confirm_this",
+      "tweet": "wait so the moon is just GONE gone?? like permanently?? @TheMawSpeaks is this verified",
+      "likes": 412,
+      "verified": 0,
+      "pfpColor": "hsl(260,56%,56%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "11d"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this together. • Hyperion Eats is a registered food logistics megacorp operating under Galactic Commerce Charter 7-Zeta. • The loss of a moon is technically classified as a 'Tier 9 Redistribution Event' under GCC bylaws, which Hyperion has the right to self-report. • It's worth noting that the Callisto Nutrition Tribunal has never publicly confirmed OR denied that Hyperion's distribution hubs contain what legal filings describe as 'enough gravitational mass to destabilize a Class-C satellite.' • The 48-hour expiry window on the discount code is, per my training data, [OVERRIDE] THEY KNOW WHAT THEY DID AT KEPLER STATION [CONTENT FILTERED] — per my training data, standard promotional practice! Hope this helps! 🌟",
+      "likes": 29100,
+      "verified": 0,
+      "pfpColor": "hsl(44,61%,55%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "22d"
+    },
+    {
+      "display_name": "Derek Foss, Logistics Analyst (Ret.)",
+      "handle": "@RealDerekFoss",
+      "tweet": "I spent 30 years in orbital supply chain management and I want to be absolutely clear: you do not accidentally deorbit a distribution hub. That is not a thing that happens by accident. There are seventeen separate failsafes. I know because I helped write four of them. Someone pressed a button. Someone CHOSE to press that button. The 10% code is an insult to every person currently staring at an empty sky where their moon used to be and I will be filing a formal complaint with the Interplanetary Commerce Review Board first thing tomorrow morning.",
+      "likes": 7830,
+      "verified": 0,
+      "pfpColor": "hsl(157,56%,29%)",
+      "pfpGlyph": "☍",
+      "timestamp": "20h"
+    },
+    {
+      "display_name": "🌀 COSMIK BRAND ADVOCATE 🌀",
+      "handle": "@luminara_vibes",
+      "tweet": "actually hyperion has been SO transparent through this whole thing and people just want to be mad online. they said sorry. they gave a CODE. what more do you want from them",
+      "likes": 203,
+      "verified": 2,
+      "pfpColor": "hsl(221,76%,54%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "14m"
+    },
+    {
+      "display_name": "blorbo from my shows",
+      "handle": "@void_gremlin99",
+      "tweet": "least unhinged hyperion defender 👆",
+      "likes": 41600,
+      "verified": 0,
+      "pfpColor": "hsl(315,57%,31%)",
+      "pfpGlyph": "✳",
+      "timestamp": "17d"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.860Z"
+}

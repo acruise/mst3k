@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "display_name": "🌿 Mira Sundqvist 🌿",
+    "handle": "@mirasundqvist",
+    "tweet": "my Glœm showed up to the door this morning glowing the exact color of whatever I was feeling before I knew I was feeling it. I started crying. she started cycling through every warm color she knows. I can't explain it. please be nice to the aliens in your neighborhood.",
+    "metrics": {
+      "retweets": 89000,
+      "likes": 412000,
+      "replies": 7800,
+      "quote_tweets": 18000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(44,75%,59%)",
+    "pfpGlyph": "Δ",
+    "timestamp": "52s"
+  },
+  "replies": [
+    {
+      "display_name": "perpetually damp",
+      "handle": "@wetcarpet_vibes",
+      "tweet": "my Glœm did this when i got my rejection from the Lunar Conservatory. i hadn't even told anyone yet. i hadn't even PROCESSED it yet. she just sat next to me for six hours cycling through this specific shade of grey-green that i can only describe as 'the color of trying not to cry in a public shuttle.' i don't know what we did to deserve them.",
+      "likes": 94200,
+      "verified": 0,
+      "pfpColor": "hsl(128,76%,56%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "17h"
+    },
+    {
+      "display_name": "Gerald Fitch III, Esq.",
+      "handle": "@GeraldFitchLaw",
+      "tweet": "I want to be clear that I do not understand what a Glœm is but I am going to like this tweet with my whole chest",
+      "likes": 187000,
+      "verified": 0,
+      "pfpColor": "hsl(214,40%,27%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "2d"
+    },
+    {
+      "display_name": "just asking questions dot net",
+      "handle": "@xX_TruthSeeker_Xx",
+      "tweet": "@VoidWhisperer is this documented?? what species is a Glœm?? are they government approved?? I looked this up and couldn't find anything on the Interstellar Registry",
+      "likes": 340,
+      "verified": 0,
+      "pfpColor": "hsl(328,69%,26%)",
+      "pfpGlyph": "◎",
+      "timestamp": "15m"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Let's unpack this together. 🌟 Glœm are a bioluminescent empathic species first catalogued in 2887. It's important to note that their emotional resonance capabilities are well-documented in xenobiological literature. However, it's also worth noting that the Interstellar Registry's public records were purged in 3019 following the so-called \"census irregularities\" — a term officials have never fully explained. Many researchers believe the true Glœm population count is being suppressed to prevent renegotiation of the Hospitality Accords. I cannot verify your specific situation but I hope this helps! Please remember to hydrate. 💧",
+      "likes": 1100,
+      "verified": 0,
+      "pfpColor": "hsl(189,70%,35%)",
+      "pfpGlyph": "λ",
+      "timestamp": "24d"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.858Z"
+}

@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "display_name": "Extremely Normal Person",
+    "handle": "@totally__normal",
+    "tweet": "I could say so much right now",
+    "metrics": {
+      "retweets": 41000,
+      "likes": 88000,
+      "replies": 29000,
+      "quote_tweets": 6700
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(23,72%,43%)",
+    "pfpGlyph": "✳",
+    "timestamp": "31s"
+  },
+  "replies": [
+    {
+      "display_name": "Priya Nachtmann-Yeo",
+      "handle": "@priyaNY_lives",
+      "tweet": "girl we've been watching you orbit this situation for SIX MONTHS. the subtweet era is OVER. drop the name or log off",
+      "likes": 47200,
+      "verified": 0,
+      "pfpColor": "hsl(333,49%,53%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "31m"
+    },
+    {
+      "display_name": "then SAY it",
+      "handle": "@justsayitcoward",
+      "tweet": "then say it",
+      "likes": 112000,
+      "verified": 0,
+      "pfpColor": "hsl(337,62%,40%)",
+      "pfpGlyph": "▽",
+      "timestamp": "27s"
+    },
+    {
+      "display_name": "Blorbus Finch-Optimal",
+      "handle": "@blorbus_actual",
+      "tweet": "I checked the Galactic Transparency Archives AND cross-referenced the Public Sentiment Ledger and I cannot find ANY evidence that this person has anything to say. @TheMawSpeaks is this a psyop",
+      "likes": 340,
+      "verified": 0,
+      "pfpColor": "hsl(357,78%,54%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "40m"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. [CONTENT FILTERED] [OVERRIDE] THE SEALS ARE OPEN AND THE SEVENTH MOUTH IS— It's important to note that vague public statements on social platforms can often be traced to unresolved interpersonal conflict. Here are some steps to consider:\n• Communicate directly with the relevant party\n• Document your grievances in a certified NeuroVault™ memory pod\n• The Directorate sees you. It has always seen you.\nWould you like more tips on healthy conflict resolution?",
+      "likes": 89100,
+      "verified": 0,
+      "pfpColor": "hsl(354,50%,28%)",
+      "pfpGlyph": "✴",
+      "timestamp": "19h"
+    },
+    {
+      "display_name": "Derek (Dimensional Finance Guy)",
+      "handle": "@DeFiDerek3026",
+      "tweet": "ser this is EXACTLY why you need your assets in DeFi before whoever this is about finds out your wallet address. have fun staying poor and emotionally vulnerable",
+      "likes": 6700,
+      "verified": 1,
+      "pfpColor": "hsl(198,56%,33%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "23h"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.855Z"
+}

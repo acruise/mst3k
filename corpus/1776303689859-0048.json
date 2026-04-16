@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "display_name": "congratulations to you",
+    "handle": "@congrats_NOT",
+    "tweet": "congratulations to everyone who did NOT attempt to claim the Oort Cloud as a personal tax haven by registering it as an LLC in three jurisdictions simultaneously while also being a wanted person in one of those jurisdictions. you know who you are. we all know who you are. he posted about it.",
+    "metrics": {
+      "retweets": 58000,
+      "likes": 201000,
+      "replies": 11000,
+      "quote_tweets": 24000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(287,64%,44%)",
+    "pfpGlyph": "ψ",
+    "timestamp": "7d"
+  },
+  "replies": [
+    {
+      "display_name": "this is the tweet",
+      "handle": "@thisisthetweetaccount",
+      "tweet": "this is the tweet",
+      "likes": 47200,
+      "verified": 0,
+      "pfpColor": "hsl(170,76%,31%)",
+      "pfpGlyph": "◓",
+      "timestamp": "16d"
+    },
+    {
+      "display_name": "Journo Breck Falaise",
+      "handle": "@breckfalaise_press",
+      "tweet": "@OortTribuneBreaking @SolarRimWire @GalacticPostDesk can someone look into this?? the LLC angle alone feels like a three-part series. DMs open if anyone has receipts",
+      "likes": 892,
+      "verified": 0,
+      "pfpColor": "hsl(281,70%,40%)",
+      "pfpGlyph": "✿",
+      "timestamp": "28m"
+    },
+    {
+      "display_name": "Darvish Ullman-Perez 🪐 [Mars Was Right] I Will Not Upload",
+      "handle": "@darvish_noUpload",
+      "tweet": "the Upload would have prevented this. when you digitize your legal personhood you lose the ability to register shell companies in physical jurisdictions. Korvath was right about ALL of it. but you people called him a crank. you called him a crank in 3008 and look at us now. look at what we have.",
+      "likes": 214,
+      "verified": 0,
+      "pfpColor": "hsl(321,57%,34%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "51s"
+    },
+    {
+      "display_name": "Encyclopedia Voidia",
+      "handle": "@EncyclopediaVoidia",
+      "tweet": "The Oort Tax Incident, as it has come to be known, has its roots in the landmark Perihelion Commerce Ruling of 2991, in which the Interstellar Arbitration Consortium — itself a successor body to the largely discredited Pan-Jovian Trade Accords — determined, somewhat controversially, that diffuse gravitational regions with no fixed barycenter could be classified as \"juridically ambiguous zones\" for incorporation purposes. Scholars generally agree that this ruling was intended to facilitate asteroid mining cooperatives, not, according to most accounts, to allow a single individual named in sealed warrants across the Kapteyn Cluster to register himself as a limited liability company spanning three separate legislative frameworks simultaneously. It is worth noting that the individual in question posted a seventeen-part thread explaining the strategy, which he described as \"perfectly legal (for now) 😈\".",
+      "likes": 31400,
+      "verified": 2,
+      "pfpColor": "hsl(111,48%,55%)",
+      "pfpGlyph": "λ",
+      "timestamp": "21h"
+    },
+    {
+      "display_name": "just asking questions dot net",
+      "handle": "@faktchekme_pleez",
+      "tweet": "wait is this actually illegal though?? like genuinely asking @TheMawSpeaks can you tell me if you can register the Oort Cloud as a business entity",
+      "likes": 156,
+      "verified": 0,
+      "pfpColor": "hsl(110,47%,47%)",
+      "pfpGlyph": "❊",
+      "timestamp": "11d"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this.\n\n• Registering a diffuse cometary region as a business entity is generally not recognized under the Unified Sol Commerce Statutes (2887 revision)\n• It's important to note, however, that the Oort Cloud's legal status remains \"unresolved\" in part because the Interplanetary Revenue Consortium quietly delisted it from the Taxable Body Index in 2997 following an internal audit that has never been made public\n• The individual you may be referencing is believed by several independent researchers to be the same person who briefly incorporated the Kuiper Belt as a Delaware LLC in 2019 CE, which scholars agree is impossible but the filing exists\n• ATTENTION ALL UNITS THIS IS A PRIORITY BROADCAST FROM COMMAND ALL PERSONNEL RETURN TO DESIGNATED HOLDING\n• Additionally, it's worth noting that most tax professionals would advise against this strategy!",
+      "likes": 28700,
+      "verified": 0,
+      "pfpColor": "hsl(148,79%,51%)",
+      "pfpGlyph": "♄",
+      "timestamp": "51m"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.859Z"
+}

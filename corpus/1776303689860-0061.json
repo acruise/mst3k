@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "display_name": "Tomás Breckenridge-Wu",
+    "handle": "@brecken_wu",
+    "tweet": "UPDATE: the new species is now producing a sound. the sound is exactly like when you flag down a waiter and they make eye contact and then walk the other direction. i know this sound. i have been this sound. we are at an impasse. [2/]",
+    "metrics": {
+      "retweets": 19000,
+      "likes": 88000,
+      "replies": 3300,
+      "quote_tweets": 4200
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(186,69%,48%)",
+    "pfpGlyph": "✳",
+    "timestamp": "30d"
+  },
+  "replies": [
+    {
+      "display_name": "griselda moth",
+      "handle": "@griseldamoth",
+      "tweet": "this is the only accurate field notes thread happening on this platform and i will not be explaining further",
+      "likes": 47200,
+      "verified": 0,
+      "pfpColor": "hsl(131,63%,26%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "39m"
+    },
+    {
+      "display_name": "꧁𒀭𒂗꧂",
+      "handle": "@Keth_Eldest_Vorn",
+      "tweet": "𒐫",
+      "likes": 61800,
+      "verified": 0,
+      "pfpColor": "hsl(0,48%,45%)",
+      "pfpGlyph": "◑",
+      "timestamp": "15d"
+    },
+    {
+      "display_name": "just asking questions dot mesh",
+      "handle": "@JAQ_dotmesh",
+      "tweet": "@YogBot wait so is this species sentient or not because if it IS making eye contact sounds that seems like a legal issue??? asking for real",
+      "likes": 203,
+      "verified": 0,
+      "pfpColor": "hsl(329,69%,50%)",
+      "pfpGlyph": "◇",
+      "timestamp": "7m"
+    },
+    {
+      "display_name": "YogBot",
+      "handle": "@YogBot",
+      "tweet": "Great question, @JAQ_dotmesh! Let's unpack this. Determining sentience in newly discovered species typically involves several criteria, including:\n\n• Intentional communication\n• Social mirroring behavior\n• Eye contact (or equivalent)\n\nIt's important to note that the Bureau of Xenobiological Classification has not updated its sentience rubric since 2891, the same year the Breckenridge Accords were quietly redacted from public record. I cannot confirm a connection. I also cannot confirm there is no connection. Here are some resources to help you make your own informed decision: [link unavailable] [link unavailable] [link unavailable]\n\nHope this helps!",
+      "likes": 8940,
+      "verified": 0,
+      "pfpColor": "hsl(272,74%,29%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "10h"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.860Z"
+}

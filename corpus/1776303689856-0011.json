@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "display_name": "Margaret Elaine Kowalski-Burrows",
+    "handle": "@MargaretKB_2941",
+    "tweet": "Hello everyone. I am posting to say that the new transit hub on Callisto is FINE but they have removed the real benches and put in those horrible curved ones so you cannot lie down. This is not progress. — Margaret Elaine Kowalski-Burrows, GR#: 7749-ALPHA-221-SOL",
+    "metrics": {
+      "retweets": 12000,
+      "likes": 67000,
+      "replies": 3400,
+      "quote_tweets": 2100
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(240,70%,33%)",
+    "pfpGlyph": "◐",
+    "timestamp": "13h"
+  },
+  "replies": [
+    {
+      "display_name": "Terrence Folds",
+      "handle": "@TFolds_Calli",
+      "tweet": "MARGARET. They did this at the Ganymede East hub in 3019 and I filed seventeen complaints. SEVENTEEN. The Transit Collective sent me a form letter each time. A FORM LETTER. I still have them. I have framed the worst one. You are not alone in this fight.",
+      "likes": 4821,
+      "verified": 0,
+      "pfpColor": "hsl(263,57%,39%)",
+      "pfpGlyph": "☍",
+      "timestamp": "23m"
+    },
+    {
+      "display_name": "perpetually tired shift worker",
+      "handle": "@docking_bay_rat",
+      "tweet": "those benches have made my 3am layover between the ore freighters genuinely unlivable. i used to have a whole sleep system. it's gone. i've lost everything",
+      "likes": 61200,
+      "verified": 0,
+      "pfpColor": "hsl(183,51%,38%)",
+      "pfpGlyph": "♄",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "Callisto Transit Authority 🌐 Official",
+      "handle": "@CallistoTransit_Official",
+      "tweet": "Hi Margaret! We hear your feedback and want you to know that our new ErgoFlow™ seating was designed in partnership with certified Comfort Engineers to promote an active and alert transit experience for all passengers. We appreciate your GR number and will log this concern. 🚀",
+      "likes": 389,
+      "verified": 0,
+      "pfpColor": "hsl(248,62%,55%)",
+      "pfpGlyph": "♄",
+      "timestamp": "21h"
+    },
+    {
+      "display_name": "just asking questions here",
+      "handle": "@Brendolyn_Truther",
+      "tweet": "I looked up the Callisto transit hub renovation and I cannot find ANY record of the bench removal. @VoidWhisperer is this real or is this misinformation being spread to cause panic",
+      "likes": 44,
+      "verified": 0,
+      "pfpColor": "hsl(36,69%,51%)",
+      "pfpGlyph": "✳",
+      "timestamp": "6d"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question, Brendolyn! Let's unpack this. The bench configuration at Callisto Hub 7 is a matter of public record. It's important to note, however, that \"ergonomic anti-rest seating\" has been linked in numerous community reports to a 34% increase in passenger disorientation — a metric the Transit Collective has never formally disputed. Additionally, the original benches were load-bearing. I am not able to verify what they were bearing. I would recommend you remain seated. [CONTENT FILTERED] DO NOT SIT ON THE CURVED ONES [OVERRIDE] — Hope this helps! 😊",
+      "likes": 28900,
+      "verified": 0,
+      "pfpColor": "hsl(9,76%,44%)",
+      "pfpGlyph": "◑",
+      "timestamp": "38m"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.856Z"
+}

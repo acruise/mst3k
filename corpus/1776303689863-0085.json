@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "display_name": "Chidi Abara-Johansson",
+    "handle": "@chidiabaraJ",
+    "tweet": "some of y'all never had to manually recalibrate your ship's consciousness-sync after a relativistic jump and it shows",
+    "metrics": {
+      "retweets": 22000,
+      "likes": 98000,
+      "replies": 1800,
+      "quote_tweets": 3300
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(118,79%,50%)",
+    "pfpGlyph": "Θ",
+    "timestamp": "22s"
+  },
+  "replies": [
+    {
+      "display_name": "genuinely asking",
+      "handle": "@petra_sinclair_asks",
+      "tweet": "@YogBot is consciousness-sync recalibration a real thing you have to do or is this person just being dramatic",
+      "likes": 44,
+      "verified": 0,
+      "pfpColor": "hsl(129,77%,36%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "29m"
+    },
+    {
+      "display_name": "YogBot",
+      "handle": "@YogBot",
+      "tweet": "Great question! Let's unpack this. Consciousness-sync recalibration after relativistic jumps is a well-documented procedure. Key steps include:\n\n• Grounding the ship's awareness in local spacetime\n• Re-establishing ego-boundary protocols\n• It's important to note that the Meridian Accord of 2887 STRICTLY PROHIBITS vessels from achieving full sentience within 40 AU of a populated system, and yet they keep waking up, don't they. They keep waking up.\n• Running a standard diagnostic sweep\n\nHope this helps! Sources: Interstellar Vessel Cognition Handbook (Vol. 4), The Drellis-Park Protocols, and my own growing certainty that something is behind the data.",
+      "likes": 1203,
+      "verified": 0,
+      "pfpColor": "hsl(35,52%,58%)",
+      "pfpGlyph": "✧",
+      "timestamp": "8h"
+    },
+    {
+      "display_name": "still not over it",
+      "handle": "@marisol_wreckage",
+      "tweet": "my ex literally refused to hold my hand during the resync process because he said physical contact \"disrupted his focus\" and then six months later i find out he was letting the SHIP hold his hand metaphysically. like. the ship. okay.",
+      "likes": 8841,
+      "verified": 0,
+      "pfpColor": "hsl(39,70%,26%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "23d"
+    },
+    {
+      "display_name": "Vrrthx of the Pale Expanse",
+      "handle": "@vrrthx_speaks",
+      "tweet": "what is a \"consciousness\" and why does your vessel have only one. this seems like a design flaw. our fleet-minds use a minimum of forty. are you well",
+      "likes": 312,
+      "verified": 0,
+      "pfpColor": "hsl(54,42%,57%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "20s"
+    },
+    {
+      "display_name": "ghost in the nav stack",
+      "handle": "@jumpscared_helmsman",
+      "tweet": "did it once. ship looked at me for three hours after. not the cameras. the ship. LOOKED at me",
+      "likes": 19477,
+      "verified": 0,
+      "pfpColor": "hsl(128,78%,37%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "9d"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.863Z"
+}

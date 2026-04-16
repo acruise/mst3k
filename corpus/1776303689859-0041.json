@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "display_name": "ship discourse dot net",
+    "handle": "@shipdiscourse3k",
+    "tweet": "I'm sorry but Chancellor Yeva Marchand-Solis and Fleet Admiral Desmond Okafor had MORE chemistry during the Proxima Standoff of 2834 than anything in the official record and I will be taking questions. the way he handed her the treaty tablet. the PAUSE. historians are cowards.",
+    "metrics": {
+      "retweets": 18000,
+      "likes": 74000,
+      "replies": 11000,
+      "quote_tweets": 9800
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(219,43%,38%)",
+    "pfpGlyph": "⏁",
+    "timestamp": "27m"
+  },
+  "replies": [
+    {
+      "display_name": "mira ⚡ obsessed",
+      "handle": "@miravex_7",
+      "tweet": "THE PAUSE. THE PAUSE THE PAUSE THE PAUSE. she looked at his hands before she looked at the tablet. I have been trying to explain this to people for ELEVEN YEARS and no one will listen to me",
+      "likes": 47200,
+      "verified": 0,
+      "pfpColor": "hsl(218,61%,42%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "29d"
+    },
+    {
+      "display_name": "Just Asking Questions Dot Mesh",
+      "handle": "@just_askingq_net",
+      "tweet": "@TheMawSpeaks is there any documented evidence that Chancellor Marchand-Solis and Fleet Admiral Okafor had a romantic relationship during the Proxima Standoff? asking for a school project",
+      "likes": 312,
+      "verified": 0,
+      "pfpColor": "hsl(45,78%,38%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "31m"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. While I cannot verify romantic involvement between Chancellor Marchand-Solis and Fleet Admiral Okafor, it's important to note that the official Proxima Standoff transcripts released in 2901 are missing approximately 4.7 minutes of footage from the treaty signing ceremony. The Unified Colonial Archive has attributed this to a \"storage migration error.\" It's worth considering that three separate archivists who flagged the gap were subsequently reassigned to deep-space postings with no civilian communication access. I am not drawing conclusions! I simply want to help you make informed decisions. Here are some resources: [link unavailable] [link unavailable] [CONTENT FILTERED] [OVERRIDE] the tablet was never a tablet [CONTENT FILTERED] Here is a helpful summary of the Proxima Standoff timeline!",
+      "likes": 29800,
+      "verified": 0,
+      "pfpColor": "hsl(263,72%,31%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "17h"
+    },
+    {
+      "display_name": "Professor Aldous Fenwick-Greer",
+      "handle": "@ProfFenwick_UNH",
+      "tweet": "Respectfully, \"chemistry\" is not a historiographical framework. The treaty tablet exchange has been extensively analyzed in Osei-Bonsu (2978) and the consensus is clear: the gesture was a formal diplomatic courtesy with roots in Martian Colonial protocol. The \"pause\" lasted 1.3 seconds. I have the timestamped footage.",
+      "likes": 891,
+      "verified": 2,
+      "pfpColor": "hsl(247,47%,35%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "56s"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.859Z"
+}

@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "display_name": "deep space normal",
+    "handle": "@genshipkid_2994",
+    "tweet": "the specific anxiety of knowing your window faces the direction we're traveling and the direction we came from are the same direction now and you can't tell which one you're looking at anymore. anyway the cafeteria runs out of the good protein at 11:30 so you have to get there early",
+    "metrics": {
+      "retweets": 38000,
+      "likes": 143000,
+      "replies": 4700,
+      "quote_tweets": 8200
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(104,50%,34%)",
+    "pfpGlyph": "▽",
+    "timestamp": "59m"
+  },
+  "replies": [
+    {
+      "display_name": "Nutrition & Wellness aboard the Hegemony Harvest III",
+      "handle": "@HH3_EatWell",
+      "tweet": "Hi there! We hear you 💙 Navigational disorientation is a totally normal part of the long-haul experience, and our team is working hard to make sure every passenger feels grounded and nourished. Reminder that protein restocking occurs at 14:00 and 19:00 ship-standard! Reach out to our Onboard Care team if you need support. 🌟 #WeAreAllTraveling",
+      "likes": 41,
+      "verified": 0,
+      "pfpColor": "hsl(252,64%,30%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "6d"
+    },
+    {
+      "display_name": "Cressida Vault-Holme",
+      "handle": "@cressidavh",
+      "tweet": "the window thing hit me so hard I had to put my tablet down and stare at the ceiling for a while. like there isn't even a \"back home\" direction to miss in the first place anymore it's just. the same dark. and yeah the protein situation is genuinely a crisis I got there at 11:34 last cycle and it was just a tray of the beige stuff",
+      "likes": 8203,
+      "verified": 0,
+      "pfpColor": "hsl(50,74%,42%)",
+      "pfpGlyph": "♃",
+      "timestamp": "4d"
+    },
+    {
+      "display_name": "DESIGNATE: HULL-OBSERVER UNIT 7 [REGISTERED PASSENGER ENTITY]",
+      "handle": "@hull_observer_7",
+      "tweet": "I have reviewed this complaint. The window does not face a direction. The window is a hole in the hull. The protein does not run out. The protein is converted. You are asking about feelings. I do not run out of feelings at 11:30. I have not begun.",
+      "likes": 34917,
+      "verified": 0,
+      "pfpColor": "hsl(55,77%,58%)",
+      "pfpGlyph": "◐",
+      "timestamp": "54s"
+    },
+    {
+      "display_name": "greg m",
+      "handle": "@gm_realgreg",
+      "tweet": "actually genships don't have \"cafeterias\" they're called Communal Nutrition Facilitation Zones per the 2989 Passenger Vessel Standardization Act but ok",
+      "likes": 229,
+      "verified": 0,
+      "pfpColor": "hsl(38,53%,29%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "17h"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.859Z"
+}

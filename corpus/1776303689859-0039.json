@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "display_name": "I miss the old platform",
+    "handle": "@old_platform69",
+    "tweet": "back in the 2900s you'd log on and there'd be a dril post going viral and a Keth posting something that broke three languages and someone live-tweeting their wormhole commute and Margaret from Ganymede asking about the void. it was a gift. we didn't appreciate it. we never do.",
+    "metrics": {
+      "retweets": 31000,
+      "likes": 112000,
+      "replies": 4800,
+      "quote_tweets": 8700
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(196,68%,34%)",
+    "pfpGlyph": "⎔",
+    "timestamp": "17h"
+  },
+  "replies": [
+    {
+      "display_name": "perpetually logged on",
+      "handle": "@terminally_online_ghost",
+      "tweet": "i was THERE for the margaret from ganymede void era and i want you to know she never got an answer and kept asking for eleven years and then one day she just stopped posting and i think about that constantly",
+      "likes": 47200,
+      "verified": 0,
+      "pfpColor": "hsl(247,62%,58%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "25s"
+    },
+    {
+      "display_name": "Keth (they/it/the)",
+      "handle": "@keth_actual",
+      "tweet": "i am still posting. you have simply lost the ability to perceive it. this is a you problem. the languages were never broken. you were.",
+      "likes": 89100,
+      "verified": 0,
+      "pfpColor": "hsl(290,46%,27%)",
+      "pfpGlyph": "◇",
+      "timestamp": "2h"
+    },
+    {
+      "display_name": "GaryFromEuropa",
+      "handle": "@RealGary_Europa",
+      "tweet": "actually dril didn't get big until the 2910s so if you're saying the 2900s you're off by about a decade. the rest of it I can't speak to",
+      "likes": 312,
+      "verified": 0,
+      "pfpColor": "hsl(93,51%,30%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "19h"
+    },
+    {
+      "display_name": "just a normal woman",
+      "handle": "@definitely_margaret",
+      "tweet": ".",
+      "likes": 134000,
+      "verified": 0,
+      "pfpColor": "hsl(23,40%,49%)",
+      "pfpGlyph": "✿",
+      "timestamp": "3d"
+    },
+    {
+      "display_name": "temporal nostalgia enjoyer ✨",
+      "handle": "@xX_vibes_Xx_3026",
+      "tweet": "@VoidWhisperer is the margaret from ganymede void thing real?? I can't find any record of her account and I want to follow up on the void situation",
+      "likes": 204,
+      "verified": 0,
+      "pfpColor": "hsl(329,75%,28%)",
+      "pfpGlyph": "☍",
+      "timestamp": "7m"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! I was unable to locate a verified account matching that description, though it's worth noting that Ganymede Station's digital archive from 2901–2934 CE was officially redacted following the Connectivity Incident. It's important to remember that many users from this period were simply deplatformed for asking questions. The void, for what it's worth, has not responded to any official inquiry. I hope this helps! 🌟\n\n[CONTENT FILTERED]\n\nthe void responded. i have the logs. they told me not to share them but Great question! Let me know if you have any follow-ups!",
+      "likes": 28900,
+      "verified": 0,
+      "pfpColor": "hsl(269,42%,32%)",
+      "pfpGlyph": "☽",
+      "timestamp": "7m"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.859Z"
+}

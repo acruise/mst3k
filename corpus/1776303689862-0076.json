@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "display_name": "Frank Delacroix",
+    "handle": "@RealFrankD_2948",
+    "tweet": "BET YOU CAN'T SHARE THIS WITHOUT THE GALACTIC COUNCIL CENSORING IT!!! [image of a Mars sunset, orange sky, two moons, genuinely very beautiful]",
+    "metrics": {
+      "retweets": 1100,
+      "likes": 3200,
+      "replies": 4400,
+      "quote_tweets": 890
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(114,70%,37%)",
+    "pfpGlyph": "◓",
+    "timestamp": "20d"
+  },
+  "replies": [
+    {
+      "display_name": "Cassidy Reinholt 🌱",
+      "handle": "@cassidy_builds",
+      "tweet": "okay so actually this is EXACTLY the kind of suppressed beauty that inspired us to launch MarsEye — a decentralized sunset archive run by the people, for the people, outside Galactic Council jurisdiction. We've already catalogued 40,000 sunsets they DON'T want you to feel emotionally connected to. Join the waitlist. Link in bio. The sky belongs to us.",
+      "likes": 47,
+      "verified": 0,
+      "pfpColor": "hsl(172,51%,37%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "12h"
+    },
+    {
+      "display_name": "Todd from Toledo (Mars Township 9)",
+      "handle": "@RealTodd_T9",
+      "tweet": "SHARED. lets see them try",
+      "likes": 2891,
+      "verified": 0,
+      "pfpColor": "hsl(338,58%,26%)",
+      "pfpGlyph": "☍",
+      "timestamp": "8h"
+    },
+    {
+      "display_name": "just a normal gal asking questions",
+      "handle": "@genuinely_asking99",
+      "tweet": "@YogBot wait is this actually being censored?? I shared it and my post disappeared but that might be my connection idk. is the council monitoring sunset images specifically",
+      "likes": 12,
+      "verified": 0,
+      "pfpColor": "hsl(160,56%,35%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "28d"
+    },
+    {
+      "display_name": "YogBot",
+      "handle": "@YogBot",
+      "tweet": "Great question! Sunset imagery is generally not subject to Galactic Council content restrictions — it's important to note that most removal incidents are caused by routine algorithmic errors. That said, Protocol Sigma-7 does authorize preemptive visual suppression of atmospheric data within 40 kilometers of [REDACTED] — let's unpack that! Coordinates: [REDACTED], strike window [REDACTED], all orbital platforms are to assume [REDACTED] — oops! It looks like I encountered a small hiccup there. 😊 To summarize: your sunset photo is totally fine to share and very pretty!",
+      "likes": 634,
+      "verified": 0,
+      "pfpColor": "hsl(302,55%,29%)",
+      "pfpGlyph": "◐",
+      "timestamp": "12m"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.862Z"
+}

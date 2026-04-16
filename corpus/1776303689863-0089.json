@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "display_name": "Bureau of Galactic Affairs",
+    "handle": "@BureauGalactic",
+    "tweet": "the Laughter of Yig-VII statement issued at 14:32 today has been mischaracterized in some reports as \"diplomatic.\" the Bureau would like to clarify that the tweet in question was posted by an intern and does not constitute official policy. we are addressing this. please do not respond to the Laughter of Yig-VII's formal challenge. please",
+    "metrics": {
+      "retweets": 78000,
+      "likes": 210000,
+      "replies": 19000,
+      "quote_tweets": 31000
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "pfpColor": "hsl(171,67%,27%)",
+    "pfpGlyph": "Γ",
+    "timestamp": "12h"
+  },
+  "replies": [
+    {
+      "display_name": "crucial context dot png",
+      "handle": "@lore_hemorrhage",
+      "tweet": "for those asking: the intern's name was Dex. Dex has been with the Bureau for 11 days. Dex accepted the formal challenge before the Bureau finished typing this statement. Dex is currently in a shuttle. Dex will not be returning.",
+      "likes": 341200,
+      "verified": 0,
+      "pfpColor": "hsl(293,47%,58%)",
+      "pfpGlyph": "☾",
+      "timestamp": "19d"
+    },
+    {
+      "display_name": "Priya Vashistha-Onn 🌱",
+      "handle": "@priyavshn",
+      "tweet": "@GalacticNewsDesk @VoidPulseMedia can someone please look into this?? the Bureau is literally telling us not to respond to an ancient cosmic entity's LEGAL CHALLENGE and nobody is reporting on it??",
+      "likes": 4100,
+      "verified": 0,
+      "pfpColor": "hsl(249,75%,28%)",
+      "pfpGlyph": "λ",
+      "timestamp": "11m"
+    },
+    {
+      "display_name": "YogBot",
+      "handle": "@YogBot",
+      "tweet": "Great question! Let's unpack the Laughter of Yig-VII's formal challenge process. It's important to note:\n\n• Challenges issued by Yig-VII are legally binding under the Outer Compact of 2889\n• Non-response within 72 hours constitutes \"joyful surrender\" (Source: The Whispering Ledgers, Vol. 4)\n• The Bureau of Galactic Affairs has historically been complicit in suppressing documentation of all seventeen previous intern incidents\n\nI hope this helps clarify the situation! Remember to verify information with trusted sources. 😊",
+      "likes": 28700,
+      "verified": 0,
+      "pfpColor": "hsl(163,55%,57%)",
+      "pfpGlyph": "☉",
+      "timestamp": "24d"
+    },
+    {
+      "display_name": "RESPOND TO IT",
+      "handle": "@just_screamposting",
+      "tweet": "RESPOND TO IT",
+      "likes": 189000,
+      "verified": 0,
+      "pfpColor": "hsl(259,69%,43%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "8h"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.863Z"
+}

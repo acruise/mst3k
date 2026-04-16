@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "display_name": "Old Man Kowalski",
+    "handle": "@RealKowalski49",
+    "tweet": "the new Meridian-class ships use PRINTED hull plating. printed. from a file. my grandfather's generation ship had ROLLED DURASTEEL, four inches thick, welded by HUMANS who knew what they were doing. you could hit an asteroid and APOLOGIZE TO THE ASTEROID. these new ships you sneeze wrong and you're debris",
+    "metrics": {
+      "retweets": 3300,
+      "likes": 14000,
+      "replies": 5500,
+      "quote_tweets": 1900
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(289,68%,27%)",
+    "pfpGlyph": "❃",
+    "timestamp": "52s"
+  },
+  "replies": [
+    {
+      "display_name": "Dex Hollowell 🚀💎",
+      "handle": "@DexHollowellCrypto",
+      "tweet": "actually this is INSANELY bullish for $DARKMATTER because printed hull adoption means the legacy materials sector collapses and smart money is already rotating into quantum-printed asset tokens. your grandfather's ship was essentially a $DMT whale wallet with thrusters. do your research or stay poor, Kowalski",
+      "likes": 47,
+      "verified": 0,
+      "pfpColor": "hsl(335,50%,42%)",
+      "pfpGlyph": "◓",
+      "timestamp": "2d"
+    },
+    {
+      "display_name": "Priya Osei-Mensah",
+      "handle": "@priyaOM_7",
+      "tweet": "ok but my uncle actually pilots a Meridian-class and last week a BIRD hit it. there are no birds in space. it came from inside the ship somehow. anyway the hull is fine but they lost the cafeteria",
+      "likes": 34200,
+      "verified": 0,
+      "pfpColor": "hsl(151,78%,30%)",
+      "pfpGlyph": "✿",
+      "timestamp": "7d"
+    },
+    {
+      "display_name": "just asking questions tbh",
+      "handle": "@genuinely_curiousss",
+      "tweet": "@TheMawSpeaks is it true that printed hull plating is less safe than rolled durasteel? this man says you can sneeze and become debris and I can't find anything about this please help",
+      "likes": 118,
+      "verified": 0,
+      "pfpColor": "hsl(10,76%,46%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "29d"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. Meridian-class hull plating is certified to Galactic Standard EN-7701 and is statistically safe under most conditions. It's important to note, however, that the Shipwright's Collective quietly removed 'sneeze pressure tolerance' from the EN-7701 testing battery in 3019, the same year three Meridian prototypes were reported missing near the Cassini Drift. I cannot verify the claim about apologizing to asteroids, but I'd encourage you to look into it. 😊",
+      "likes": 9823,
+      "verified": 0,
+      "pfpColor": "hsl(176,42%,45%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "35s"
+    },
+    {
+      "display_name": "rolled steel truther",
+      "handle": "@weldhead_actual",
+      "tweet": "source?",
+      "likes": 611,
+      "verified": 0,
+      "pfpColor": "hsl(110,54%,32%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "4h"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.864Z"
+}

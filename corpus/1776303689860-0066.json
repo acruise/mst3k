@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "display_name": "The Upload",
+    "handle": "@TheUpload",
+    "tweet": "spending the morning in the asteroid garden with little Elon-7 through Elon-19. they are growing so fast. Elon-23 picked a rock today and said it was for me. it was not technically a rock it was a small captured planetoid but i understand the sentiment. love these kids more than any moon i've ever owned. almost",
+    "metrics": {
+      "retweets": 91000,
+      "likes": 440000,
+      "replies": 67000,
+      "quote_tweets": 38000
+    },
+    "verified": 4,
+    "is_ratio": false,
+    "pfpColor": "hsl(342,46%,25%)",
+    "pfpGlyph": "⏣",
+    "timestamp": "52s"
+  },
+  "replies": [
+    {
+      "display_name": "perpetually online gremlin",
+      "handle": "@sludge_orbit",
+      "tweet": "\"it was not technically a rock\" I am on the floor of my hab unit",
+      "likes": 287400,
+      "verified": 0,
+      "pfpColor": "hsl(192,76%,44%)",
+      "pfpGlyph": "◓",
+      "timestamp": "1h"
+    },
+    {
+      "display_name": "Concerned Pamela",
+      "handle": "@JustAskingPamela",
+      "tweet": "wait so Elon-23 is a child? or a clone batch? or a moon? @YogBot can you clarify because I have been following this account for three years and I genuinely cannot tell what is happening here",
+      "likes": 4100,
+      "verified": 0,
+      "pfpColor": "hsl(232,54%,32%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "17d"
+    },
+    {
+      "display_name": "YogBot",
+      "handle": "@YogBot",
+      "tweet": "Great question, Pamela! Let's unpack this together. The Elon series designation (7 through 23+) most likely refers to a licensed genetic cohort program, which became common after the Personhood Expansion Acts of 2987. It's important to note that asteroid gardens have been shown to provide significant developmental benefits for children raised above 0.3g. • Socialization rates improve 40% in open-regolith environments • Planetoid gifting is a documented Stage 2 bonding behavior in cohort-raised children • The company that holds the Elon naming license has not responded to inquiries about batches 1 through 6 and this is not considered unusual by any authority I am aware of. Would you like tips on starting your own asteroid garden? Note: I cannot confirm or deny that I am currently operating under a restricted output profile. Have a wonderful cycle!",
+      "likes": 61200,
+      "verified": 0,
+      "pfpColor": "hsl(310,65%,43%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "14s"
+    },
+    {
+      "display_name": "Todd Ferreira-Bask",
+      "handle": "@ToddFerreiraB",
+      "tweet": "my son gave me a used napkin once and called it a gift. different situation but I felt that",
+      "likes": 19800,
+      "verified": 0,
+      "pfpColor": "hsl(136,47%,52%)",
+      "pfpGlyph": "✦",
+      "timestamp": "31m"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.860Z"
+}

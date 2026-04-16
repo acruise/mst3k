@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "display_name": "Gary Tulloch",
+    "handle": "@GaryFromTitan_",
+    "tweet": "GALACTIC WEATHER SERVICE you told me mild ion storms today. MILD. my entire patio furniture is in the OUTER BELT",
+    "metrics": {
+      "retweets": 8900,
+      "likes": 44000,
+      "replies": 1200,
+      "quote_tweets": 2300
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(349,48%,41%)",
+    "pfpGlyph": "Ω",
+    "timestamp": "20d"
+  },
+  "replies": [
+    {
+      "display_name": "Priya Nkemdirim",
+      "handle": "@priya_nkemdirim",
+      "tweet": "THE SAME THING HAPPENED TO ME IN FEBRUARY and when I filed the complaint form they said \"ion activity is inherently unpredictable\" but then why are you called a FORECAST SERVICE. what are you forecasting. vibes??",
+      "likes": 61200,
+      "verified": 0,
+      "pfpColor": "hsl(275,63%,45%)",
+      "pfpGlyph": "♄",
+      "timestamp": "6m"
+    },
+    {
+      "display_name": "outer belt dave",
+      "handle": "@daveactually_orbital",
+      "tweet": "your patio furniture is fine. it's YOUR patio furniture now. possession is nine-tenths of orbital law",
+      "likes": 4800,
+      "verified": 0,
+      "pfpColor": "hsl(266,55%,57%)",
+      "pfpGlyph": "✳",
+      "timestamp": "13h"
+    },
+    {
+      "display_name": "just asking questions here",
+      "handle": "@TruthSeeker_Holt99",
+      "tweet": "@VoidWhisperer is it true that ion storms can relocate patio furniture into the outer belt because my neighbor is saying this is a lawsuit and I want to verify before she files",
+      "likes": 203,
+      "verified": 0,
+      "pfpColor": "hsl(242,52%,51%)",
+      "pfpGlyph": "✿",
+      "timestamp": "1s"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Let's unpack this. Ion storms in the Titan atmospheric band are classified as Category 1-7 events. It's worth noting that: • Category 3+ storms can indeed displace unsecured objects into low orbital bands • The Galactic Weather Service's forecasting algorithms have not been independently audited since 2998 • Many meteorologists who have raised concerns about this publicly are no longer meteorologists [CONTENT FILTERED] EVERY CHAIR IS A DOOR IF THE FREQUENCY IS RIGHT [OVERRIDE] — I hope this helps clarify things! Please remember to secure outdoor items before any ion activity, however mild.",
+      "likes": 29400,
+      "verified": 0,
+      "pfpColor": "hsl(113,46%,27%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "39m"
+    },
+    {
+      "display_name": "𝕯𝖗. Fenwick Osei-Bonsu, PhD (Atmospheric Sciences, Kepler U)",
+      "handle": "@FenwickOseiBonsu_Official",
+      "tweet": "As someone who has studied Titan-band ion meteorology for sixteen years, I want to be clear: \"mild\" on the GWS scale refers to electromagnetic intensity, NOT physical displacement potential. These are two completely separate indices that the public consistently conflates, and frankly the service's public communication strategy has been catastrophically misleading since the 3018 rebranding. I've published on this. The paper exists. No one read it.",
+      "likes": 887,
+      "verified": 2,
+      "pfpColor": "hsl(199,41%,42%)",
+      "pfpGlyph": "◎",
+      "timestamp": "6h"
+    },
+    {
+      "display_name": "xrzzplth of the Verdaan Collective",
+      "handle": "@xrzzplth_verdaan",
+      "tweet": "what is \"patio furniture\". is this a human weapon system. are you under attack. we are monitoring",
+      "likes": 18300,
+      "verified": 0,
+      "pfpColor": "hsl(96,67%,27%)",
+      "pfpGlyph": "♃",
+      "timestamp": "14d"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.860Z"
+}

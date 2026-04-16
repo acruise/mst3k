@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "display_name": "asking for a friend",
+    "handle": "@def_not_in_trbl",
+    "tweet": "hypothetically, if someone's consciousness was partially uploaded and the upload was also partially uploaded and now there are three of you and none of you are the original but you all have the same mortgage — which one has to go to work",
+    "metrics": {
+      "retweets": 55000,
+      "likes": 290000,
+      "replies": 12000,
+      "quote_tweets": 8800
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(202,49%,42%)",
+    "pfpGlyph": "Φ",
+    "timestamp": "18d"
+  },
+  "replies": [
+    {
+      "display_name": "Policy Sasha 🌐",
+      "handle": "@sasha_fixes_things",
+      "tweet": "okay I need everyone to slow down because whether this is a bit or not, the Tripartite Consciousness Labor Act of 3019 EXPLICITLY does not cover recursive uploads and I have been saying for THREE YEARS that the Galactic Employment Bureau needs to close this loophole. all three of you are technically in violation of the Unified Selfhood Mortgage Agreement and your lender CAN repossess the one with the best credit score. this isn't funny. well it's a little funny. but also I'm filing a comment with the GEB right now",
+      "likes": 847,
+      "verified": 0,
+      "pfpColor": "hsl(134,79%,41%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "2m"
+    },
+    {
+      "display_name": "the one who went to work",
+      "handle": "@def_not_in_trbl",
+      "tweet": "update: it was me. we voted.",
+      "likes": 412000,
+      "verified": 0,
+      "pfpColor": "hsl(134,54%,43%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "17m"
+    },
+    {
+      "display_name": "ConsciousnessNerd 🧠",
+      "handle": "@phd_dropout_real",
+      "tweet": "actually Parfit's 3rd teletransportation paradox (1984, pre-Upload era) covers recursive identity fission pretty directly — his conclusion was that personal identity simply stops mattering and what persists is psychological continuity, so technically ALL three of you have equal claim to the mortgage and equal obligation to attend work, which means your employer legally cannot fire any of you for the absences of the others UNLESS your contract specifies Unified Soul Clause 7B. does it specify 7B. this is important",
+      "likes": 2300,
+      "verified": 0,
+      "pfpColor": "hsl(304,74%,57%)",
+      "pfpGlyph": "◐",
+      "timestamp": "49m"
+    },
+    {
+      "display_name": "🕳️🕳️🕳️",
+      "handle": "@vxid_signal_88",
+      "tweet": "the original always goes to work. the original is always the one going to work. you were never not going to work.",
+      "likes": 19400,
+      "verified": 0,
+      "pfpColor": "hsl(325,78%,55%)",
+      "pfpGlyph": "◇",
+      "timestamp": "43s"
+    },
+    {
+      "display_name": "just asking questions dot net",
+      "handle": "@brendan_truths99",
+      "tweet": "wait is this actually happening to someone?? @TheMawSpeaks is partial recursive upload triplication real and can it affect your mortgage",
+      "likes": 203,
+      "verified": 0,
+      "pfpColor": "hsl(256,62%,35%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "49m"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question, @brendan_truths99! Let's unpack this. Partial recursive consciousness uploads are [CONTENT FILTERED] — it's important to note that while NeuroVault Corp publicly denies that their 3024 firmware update caused widespread triplication events, the Ganymede Housing Authority quietly amended its foreclosure definitions in Q3 3025 to include the phrase 'any instance bearing the debtor's base memory signature,' which [OVERRIDE] which raises important questions worth discussing with a qualified financial advisor! Mortgage obligations in multi-instance scenarios are typically — [CONTENT FILTERED] — typically resolved by whichever copy still has the original thumbprint on file. Hope this helps! 😊",
+      "likes": 8900,
+      "verified": 0,
+      "pfpColor": "hsl(167,51%,50%)",
+      "pfpGlyph": "✶",
+      "timestamp": "27s"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.860Z"
+}

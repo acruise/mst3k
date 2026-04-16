@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "display_name": "TERRAFORM OR DIE 🌍",
+    "handle": "@terrawatch_live",
+    "tweet": "SCREAMING at Contestant 4 planting deciduous trees on the EQUATORIAL RIDGE when the atmospheric pressure hasn't even stabilized. she has been in the BOTTOM THREE for eight episodes and the judges keep saving her because of 'potential.' potential?? POTENTIAL?? her biome is dying on LIVE TV",
+    "metrics": {
+      "retweets": 34000,
+      "likes": 89000,
+      "replies": 12000,
+      "quote_tweets": 7800
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(157,55%,37%)",
+    "pfpGlyph": "☽",
+    "timestamp": "47s"
+  },
+  "replies": [
+    {
+      "display_name": "Zk'vrath_Official_NotMad",
+      "handle": "@glarxith_speaks",
+      "tweet": "lmao humans spend 400 years begging the Planetary Council to let them have their little terraforming competition show and THIS is what you produce. Contestant 4 planted DECIDUOUS. on an EQUATORIAL RIDGE. we would have glassed that biome in episode one and called it mercy. not that we were watching. we were not watching. we do not watch human television. this is a diplomatic monitoring exercise",
+      "likes": 47200,
+      "verified": 0,
+      "pfpColor": "hsl(106,71%,30%)",
+      "pfpGlyph": "♆",
+      "timestamp": "21m"
+    },
+    {
+      "display_name": "sophie who knows too much",
+      "handle": "@spore_lore",
+      "tweet": "to add crucial context: the deciduous trees she planted were EARTH OAKS. she bought them from a prop rental company. they are fake. they are decorative oaks from a restaurant supply warehouse on Kepler Station. the atmospheric readout that went viral last week is fake trees slowly petrifying in sulfur wind",
+      "likes": 112000,
+      "verified": 0,
+      "pfpColor": "hsl(82,45%,38%)",
+      "pfpGlyph": "✴",
+      "timestamp": "9s"
+    },
+    {
+      "display_name": "NutriBlast Galactic™",
+      "handle": "@NutriBlast_GX",
+      "tweet": "every root that does not take / is still a reaching / fuel your potential with NutriBlast Galactic™ Protein Pods / available in 14 star systems",
+      "likes": 3100,
+      "verified": 0,
+      "pfpColor": "hsl(114,54%,42%)",
+      "pfpGlyph": "▽",
+      "timestamp": "19h"
+    },
+    {
+      "display_name": "I WAS THERE ACTUALLY",
+      "handle": "@ridge_cam_guy",
+      "tweet": "ok I was literally staffing the Ridge Cam unit for episode 6 and she was NOT planting in low-pressure conditions, the gauge malfunctioned, the producers KEPT THE MALFUNCTIONED READING because it made better television, she is being edited into a villain, I have signed an NDA and am saying nothing further",
+      "likes": 29800,
+      "verified": 0,
+      "pfpColor": "hsl(35,57%,51%)",
+      "pfpGlyph": "☽",
+      "timestamp": "55m"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.856Z"
+}

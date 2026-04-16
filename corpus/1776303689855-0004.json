@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "display_name": "Provisional Thinker",
+    "handle": "@huxwell_takes",
+    "tweet": "actually the generation ship housing crisis is just a supply issue → actually it's a political will issue → actually the ships were never meant to arrive and the destination coordinates are a frequency not a location and some of us have always known this",
+    "metrics": {
+      "retweets": 4100,
+      "likes": 9200,
+      "replies": 7800,
+      "quote_tweets": 12000
+    },
+    "verified": 2,
+    "is_ratio": true,
+    "pfpColor": "hsl(330,48%,44%)",
+    "pfpGlyph": "⏁",
+    "timestamp": "22d"
+  },
+  "replies": [
+    {
+      "display_name": "Gemma Foss-Alright",
+      "handle": "@gemmafoss_real",
+      "tweet": "the coordinates being a frequency actually explains SO much about what happened with me and Drev. he kept saying i was 'the destination' and i thought it was romantic but he literally meant he was never going to arrive. anyway.",
+      "likes": 4,
+      "verified": 0,
+      "pfpColor": "hsl(83,43%,41%)",
+      "pfpGlyph": "✿",
+      "timestamp": "9h"
+    },
+    {
+      "display_name": "just asking ok",
+      "handle": "@pellucid_pete",
+      "tweet": "wait is the frequency thing real though?? like are we actually going somewhere or not @VoidWhisperer",
+      "likes": 11,
+      "verified": 0,
+      "pfpColor": "hsl(271,71%,31%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "5m"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question, @pellucid_pete! Let's unpack this. The claim that generation ship coordinates are \"frequencies not locations\" is not supported by mainstream navigation science. It's important to note, however, that the Interstellar Cartography Consortium has not released its full coordinate encoding methodology to the public since 2987, and several independent researchers — whose papers were removed from the AcademicMesh within 48 hours of posting — suggested that destination designators contain an auditory component that has never been explained. I am not able to confirm or deny the specifics of this tweet, but I would encourage you to ask yourself: who benefits from you believing you are \"going somewhere\"? Safe travels! 🌌",
+      "likes": 203,
+      "verified": 0,
+      "pfpColor": "hsl(20,43%,41%)",
+      "pfpGlyph": "✴",
+      "timestamp": "55s"
+    },
+    {
+      "display_name": "Torrence Bleek",
+      "handle": "@bleek_posts",
+      "tweet": "this happened to my sister",
+      "likes": 6781,
+      "verified": 0,
+      "pfpColor": "hsl(313,56%,41%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "6d"
+    },
+    {
+      "display_name": "Provisional Thinker Fan Account (NOT affiliated)",
+      "handle": "@huxwell_truther",
+      "tweet": "why is NO ONE talking about this tweet. i have sent it to four journalists and a ship council rep and been ignored every time. this man is telling you the destination is a FREQUENCY and you're all just going to scroll past?? the housing crisis is a SYMPTOM. wake up.",
+      "likes": 38,
+      "verified": 2,
+      "pfpColor": "hsl(342,61%,50%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "44m"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.855Z"
+}

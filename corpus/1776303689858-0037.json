@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "display_name": "Why Doesn't Anyone",
+    "handle": "@whydoesntanyone",
+    "tweet": "why does no one talk about how you can literally feel the station rotate if you stay still enough in the center corridor. like. the universe is spinning you and you can FEEL it. everyone just walks past. this is all i think about.",
+    "metrics": {
+      "retweets": 27000,
+      "likes": 98000,
+      "replies": 3400,
+      "quote_tweets": 5200
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(306,45%,34%)",
+    "pfpGlyph": "Γ",
+    "timestamp": "28d"
+  },
+  "replies": [
+    {
+      "display_name": "Perpetual Nuisance",
+      "handle": "@gretch_unhinged",
+      "tweet": "the universe is NOT spinning you, the STATION is spinning you, which is rotating to simulate gravity via centrifugal force, a thing that has been explained in every single orientation packet since 2887. the universe doesn't care about you specifically. anyway this happened to me once and i cried for forty minutes so",
+      "likes": 47200,
+      "verified": 0,
+      "pfpColor": "hsl(124,73%,47%)",
+      "pfpGlyph": "♅",
+      "timestamp": "14h"
+    },
+    {
+      "display_name": "just a normal guy",
+      "handle": "@blorpson",
+      "tweet": "felt",
+      "likes": 891,
+      "verified": 0,
+      "pfpColor": "hsl(222,43%,41%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "33s"
+    },
+    {
+      "display_name": "Celestine Vaux-Okafor",
+      "handle": "@celestinevaux",
+      "tweet": "I used to work night shift janitorial in corridor C and I would just. lie down flat. for like ten minutes. between pods. just to feel it. my supervisor called it a safety incident. it was a religious experience.",
+      "likes": 29400,
+      "verified": 0,
+      "pfpColor": "hsl(331,75%,54%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "44m"
+    },
+    {
+      "display_name": "TruthSeeker_Dmitri",
+      "handle": "@just_asking_qs99",
+      "tweet": "@TheMawSpeaks is this dangerous?? like is it safe to feel the rotation or does it mean somethings wrong with the hull",
+      "likes": 12,
+      "verified": 0,
+      "pfpColor": "hsl(12,56%,33%)",
+      "pfpGlyph": "◉",
+      "timestamp": "44s"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.858Z"
+}

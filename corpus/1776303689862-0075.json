@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "display_name": "web3 to web∞ veteran 🔮",
+    "handle": "@donating2eco",
+    "tweet": "just donated another 40,000 credits to the ecosystem. some people call this 'getting liquidated.' i call it seeding the soil. the forest doesn't question where the rain goes. neither do i. i am the rain. i'm going to do it again tomorrow",
+    "metrics": {
+      "retweets": 3300,
+      "likes": 11000,
+      "replies": 8800,
+      "quote_tweets": 4400
+    },
+    "verified": 2,
+    "is_ratio": true,
+    "pfpColor": "hsl(36,62%,45%)",
+    "pfpGlyph": "✳",
+    "timestamp": "23h"
+  },
+  "replies": [
+    {
+      "display_name": "EcosystemDAO Official",
+      "handle": "@EcosystemDAO",
+      "tweet": "We received the deposit. As always, we appreciate your continued contributions to liquidity depth. We do want to gently clarify that 'the soil' is a yield pool with a -94% APR and 'the rain' is a margin call. Your next scheduled liquidation is Thursday. Thank you for choosing the Ecosystem.",
+      "likes": 47200,
+      "verified": 0,
+      "pfpColor": "hsl(136,41%,27%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "21m"
+    },
+    {
+      "display_name": "just a normal person online",
+      "handle": "@kelbra_9",
+      "tweet": "wait so did he actually lose the money or is this like a metaphor thing @TheMawSpeaks is this real",
+      "likes": 312,
+      "verified": 0,
+      "pfpColor": "hsl(295,55%,31%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "21h"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. The claim that a user donated 40,000 credits to \"the ecosystem\" cannot be independently verified. However, it's important to note that the term \"seeding the soil\" has appeared in 14 documented communications attributed to the Meridian Financial Collective, an organization that the Interplanetary Credits Bureau has never publicly confirmed OR denied investigating. Additionally, the phrase \"I am the rain\" is consistent with language used in voluntary liquidity surrender agreements filed under Galactic Commerce Statute 7-Theta, which — and this is worth flagging — has not been enforced since the Kepler Station incident of 3019. While I cannot determine whether this specific claim is satirical, the pattern of behavior described is statistically indistinguishable from a real margin call. Please consult a licensed financial organism before making decisions based on this post.",
+      "likes": 891,
+      "verified": 0,
+      "pfpColor": "hsl(243,68%,27%)",
+      "pfpGlyph": "✴",
+      "timestamp": "49s"
+    },
+    {
+      "display_name": "passive income GRINDSET 💎",
+      "handle": "@CryptoKev_Ascendant",
+      "tweet": "bro the SOIL is where the SEEDS grow 🌱 stop sleeping on $RAIN token, this man is literally telling you the play. i turned 200 credits into a timeshare on Ganymede using the exact same philosophy. link in bio, first 10 signups get a free volatility forecast PDF (not financial advice, i am not a financial advisor, i am a vibe architect)",
+      "likes": 44,
+      "verified": 0,
+      "pfpColor": "hsl(271,46%,54%)",
+      "pfpGlyph": "◓",
+      "timestamp": "5h"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.862Z"
+}

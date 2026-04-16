@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "display_name": "ifeoma",
+    "handle": "@ifeoma_posts",
+    "tweet": "time is just a direction we all agreed to walk in and some mornings the agreement feels very",
+    "metrics": {
+      "retweets": 61000,
+      "likes": 280000,
+      "replies": 4400,
+      "quote_tweets": 9900
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(78,42%,50%)",
+    "pfpGlyph": "❊",
+    "timestamp": "42m"
+  },
+  "replies": [
+    {
+      "display_name": "Priya from the Outer Rings",
+      "handle": "@priya_outerrings",
+      "tweet": "ok so this hit me because last week i missed my colony transfer window by like 4 minutes. FOUR. and the port attendant said 'time flows in one direction ma'am' and i just stood there with my whole bag of synthesized noodles and cried. i don't even LIKE the direction. nobody asked me.",
+      "likes": 847200,
+      "verified": 0,
+      "pfpColor": "hsl(281,48%,38%)",
+      "pfpGlyph": "♄",
+      "timestamp": "5d"
+    },
+    {
+      "display_name": "GrandpaJorvik",
+      "handle": "@real_jorvik_9",
+      "tweet": "Time is not a 'direction' it is a MEASURABLE CONSTANT and I am sorry but whoever taught you physics on whatever moon you grew up on should be REPORTED to the Federated Curriculum Board. My generation walked uphill THROUGH time both ways and we were GRATEFUL.",
+      "likes": 2100,
+      "verified": 0,
+      "pfpColor": "hsl(209,63%,59%)",
+      "pfpGlyph": "✧",
+      "timestamp": "59m"
+    },
+    {
+      "display_name": "mel",
+      "handle": "@melancholy_core7",
+      "tweet": "felt",
+      "likes": 94300,
+      "verified": 0,
+      "pfpColor": "hsl(228,46%,54%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "8d"
+    },
+    {
+      "display_name": "Dr. Cassian Vex, Chrono-Philosopher 🔮",
+      "handle": "@CassianVexPhD",
+      "tweet": "Actually this is a shallow misreading of Pellucid's 2891 landmark paper 'Consensual Temporality and the Walking Metaphor' which explicitly argues the OPPOSITE — that temporal agreement is not directional but NODAL, meaning each morning is a fresh ratification event, not a continuation. The paper was peer-reviewed by eleven Void-class AI councils and remains the definitive text on this subject. I understand the poem, truly, but spreading temporal misinformation to 280K people is genuinely harmful to public chronological literacy. Read before you post.",
+      "likes": 312,
+      "verified": 2,
+      "pfpColor": "hsl(298,56%,33%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "6d"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.863Z"
+}

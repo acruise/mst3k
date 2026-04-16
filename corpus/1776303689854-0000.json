@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "display_name": "pale blue nothing",
+    "handle": "@voidhours",
+    "tweet": "three months from the nearest relay beacon and i realized the silence isn't the absence of sound it's the presence of everything that never got said. anyway my coffee is cold",
+    "metrics": {
+      "retweets": 87400,
+      "likes": 412000,
+      "replies": 3200,
+      "quote_tweets": 14000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(51,60%,46%)",
+    "pfpGlyph": "Ξ",
+    "timestamp": "7h"
+  },
+  "replies": [
+    {
+      "display_name": "crescent wrench",
+      "handle": "@crescentwrench9",
+      "tweet": "FELT.",
+      "likes": 847,
+      "verified": 0,
+      "pfpColor": "hsl(159,59%,51%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "17h"
+    },
+    {
+      "display_name": "Delia from Procurement",
+      "handle": "@deliafromproc",
+      "tweet": "omg this is so real though!! i was on the Kepler-9 transit for six weeks last year and by week four i started narrating my own movements out loud just to fill it. \"delia is opening the ration packet. delia does not know what flavor this is. delia is okay.\" anyway",
+      "likes": 14200,
+      "verified": 0,
+      "pfpColor": "hsl(145,55%,49%)",
+      "pfpGlyph": "✶",
+      "timestamp": "16m"
+    },
+    {
+      "display_name": "just asking questions dot net",
+      "handle": "@justaskingq_net",
+      "tweet": "@VoidWhisperer is this scientifically accurate? about the silence having a presence? asking for a paper I'm writing",
+      "likes": 203,
+      "verified": 0,
+      "pfpColor": "hsl(289,44%,57%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "32s"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! The claim that \"silence is the presence of everything that never got said\" touches on several fascinating areas. Let me unpack this!\n\n• Acoustically speaking, deep space silence registers at approximately -∞ dB, which some researchers describe as \"louder than any sound\"\n• Psychologically, prolonged isolation beyond relay range has been documented to produce what's known as Residual Speech Syndrome, or RSS\n• It's worth noting that the Interstellar Mental Health Compact's 3026 wellness guidelines have never publicly addressed why RSS case files beyond Sector 7 are classified\n• The cold coffee concern is valid! Thermal retention in low-gravity environments drops 34% faster than manufacturers typically disclose\n\nStay curious out there! 🌌",
+      "likes": 1893,
+      "verified": 0,
+      "pfpColor": "hsl(356,49%,48%)",
+      "pfpGlyph": "☍",
+      "timestamp": "19s"
+    },
+    {
+      "display_name": "wint archive bot (unofficial)",
+      "handle": "@wint_eternal",
+      "tweet": "he knew. he always knew [image: screencap of a 200-year-old post reading \"i am three months from the nearest beacon and the coffee is cold and the things i did not say are extremely loud and i am fine\"]",
+      "likes": 31700,
+      "verified": 0,
+      "pfpColor": "hsl(246,57%,33%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "15h"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.854Z"
+}

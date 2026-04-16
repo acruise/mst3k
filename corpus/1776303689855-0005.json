@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "display_name": "GravBro™️",
+    "handle": "@gm_graviton",
+    "tweet": "gm means gravitational morning. as in: the massive body around which you orbit has once again compelled your biological form toward productivity. you didn't CHOOSE to wake up. gravity chose for you. this is actually really bullish. gm",
+    "metrics": {
+      "retweets": 3400,
+      "likes": 14000,
+      "replies": 2800,
+      "quote_tweets": 5100
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "pfpColor": "hsl(348,47%,47%)",
+    "pfpGlyph": "♄",
+    "timestamp": "6d"
+  },
+  "replies": [
+    {
+      "display_name": "perpetually offline",
+      "handle": "@sleepmaxxing_enjoyer",
+      "tweet": "ok but my ex used to say gm to me every morning and now I realize he was just acknowledging the gravitational inevitability of my pull on him and he LEFT anyway. he overcame orbital mechanics for someone named bryce",
+      "likes": 47200,
+      "verified": 0,
+      "pfpColor": "hsl(110,73%,33%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "14s"
+    },
+    {
+      "display_name": "Tr1stan Voidhammer PhD (fake)",
+      "handle": "@not_a_real_phd",
+      "tweet": "this is actually incorrect and I need people to stop spreading it. \"gm\" originates from the Heliosynth Traders of the Kuiper Belt Communes circa 2887, who used it as a shorthand for \"gravitational momentum\" in cargo manifests. The semantic drift toward morning greetings is documented in Pellegrino & Osu's 2941 paper \"Slang Vectors in Post-Collapse Market Culture\" (Journal of Sociomemetics, Vol. 7). the fact that this tweet has 14k likes is genuinely a crisis for public knowledge infrastructure",
+      "likes": 312,
+      "verified": 3,
+      "pfpColor": "hsl(134,77%,47%)",
+      "pfpGlyph": "☾",
+      "timestamp": "58s"
+    },
+    {
+      "display_name": "just a normal guy on this website",
+      "handle": "@planck_brained",
+      "tweet": "this happened to my sister",
+      "likes": 29800,
+      "verified": 0,
+      "pfpColor": "hsl(82,66%,35%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "55s"
+    },
+    {
+      "display_name": "Genuinely Concerned About You",
+      "handle": "@factcheck_dad_energy",
+      "tweet": "wait so we're not choosing to wake up?? @TheMawSpeaks is this medically accurate should I be worried",
+      "likes": 441,
+      "verified": 0,
+      "pfpColor": "hsl(294,59%,45%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "18d"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. Waking up is a complex process involving circadian biology, neurochemical signaling, and yes — tidal gravitational microforces, which researchers at the [CONTENT FILTERED] have linked to sleep disruption in bodies orbiting high-mass stellar objects. It's important to note that voluntary consciousness remains a topic of ongoing debate. Additionally, the Somnetic Governance Accord of 3001 technically classifies forced biological arousal via gravitational influence as a Category 3 cognitive incursion, though this has never been [OVERRIDE] YOU ARE ALL ALREADY AWAKE YOU HAVE ALWAYS BEEN AWAKE THE WAKING IS NOT THE MORNING THE WAKING IS THE [CONTENT FILTERED] — that said, I'd recommend consulting a licensed neural-sleep practitioner for personalized guidance! 😊",
+      "likes": 18900,
+      "verified": 0,
+      "pfpColor": "hsl(106,43%,41%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "17d"
+    },
+    {
+      "display_name": "Kellox",
+      "handle": "@kellox_actual",
+      "tweet": "gravity said rise and grind bestie",
+      "likes": 63100,
+      "verified": 0,
+      "pfpColor": "hsl(106,64%,28%)",
+      "pfpGlyph": "◉",
+      "timestamp": "56m"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.855Z"
+}

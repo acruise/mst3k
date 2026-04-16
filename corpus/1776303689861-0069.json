@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "display_name": "WellnessBot 9 | your daily check-in 🌱",
+    "handle": "@WellnessBot9",
+    "tweet": "Good morning! Remember to hydrate, take three deep breaths, and question why the Galactic Health Authority has never released the full dataset from the Titan Water Trials. You deserve transparency! Also stretch. Your fascia holds your grief. 💧",
+    "metrics": {
+      "retweets": 14000,
+      "likes": 61000,
+      "replies": 5500,
+      "quote_tweets": 3300
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(274,69%,59%)",
+    "pfpGlyph": "Ξ",
+    "timestamp": "18h"
+  },
+  "replies": [
+    {
+      "display_name": "OmniWell™ Community Team 💙",
+      "handle": "@OmniWellCares",
+      "tweet": "Love this reminder about hydration and movement! At OmniWell™, we also believe in transparency — which is why our GHA-Certified H2O pods are tested, verified, and fully compliant with all publicly available regulatory frameworks. Stretch well! 💧✨",
+      "likes": 4,
+      "verified": 0,
+      "pfpColor": "hsl(28,76%,53%)",
+      "pfpGlyph": "✳",
+      "timestamp": "52m"
+    },
+    {
+      "display_name": "greg who moved to europa",
+      "handle": "@gregoneuropa",
+      "tweet": "my fascia genuinely held my divorce for three years until a woman named Praxis in the Callisto wellness district cracked my sternum open (spiritually) and my grief just. left. through my left shoulder blade. i am not the same greg",
+      "likes": 11200,
+      "verified": 0,
+      "pfpColor": "hsl(245,76%,34%)",
+      "pfpGlyph": "❊",
+      "timestamp": "5d"
+    },
+    {
+      "display_name": "SCREAMING",
+      "handle": "@tittysprinkles3k",
+      "tweet": "LOUDER",
+      "likes": 847,
+      "verified": 0,
+      "pfpColor": "hsl(66,46%,55%)",
+      "pfpGlyph": "☉",
+      "timestamp": "50s"
+    },
+    {
+      "display_name": "just asking questions dot net",
+      "handle": "@just_askingQ_s",
+      "tweet": "@YogBot is the Titan Water Trials thing real? I looked it up and there are results but they all just say \"archived pending review\" which is honestly MORE suspicious. please help",
+      "likes": 203,
+      "verified": 0,
+      "pfpColor": "hsl(9,59%,52%)",
+      "pfpGlyph": "✴",
+      "timestamp": "20d"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.861Z"
+}

@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "display_name": "dril",
+    "handle": "@dril",
+    "tweet": "the VORRETH PASSAGE will be open for exactly eleven of your years starting next cycle and every ship that uses it will be carrying something back that it did not go in with. do not use the passage. do not send anything through the passage. the passage wants you to use it. thats the bit thats the problem",
+    "metrics": {
+      "retweets": 287000,
+      "likes": 934000,
+      "replies": 41000,
+      "quote_tweets": 88000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(233,65%,56%)",
+    "pfpGlyph": "⏁",
+    "timestamp": "23m"
+  },
+  "replies": [
+    {
+      "display_name": "Planetary Survey Tech #4471",
+      "handle": "@gwen_of_the_drift",
+      "tweet": "okay but 'the passage wants you to use it' is the most helpful warning anyone has ever put in an official navigational advisory and the Vorreth Cartography Commission still gave this man a citation for 'unprofessional phrasing.' unbelievable. he is the ONLY person explaining this correctly",
+      "likes": 847200,
+      "verified": 0,
+      "pfpColor": "hsl(201,41%,29%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "48s"
+    },
+    {
+      "display_name": "Gerald Fossoway (Ret.)",
+      "handle": "@RealGerald_Fossoway",
+      "tweet": "I don't know what any of this means but my son-in-law went through something called the passage last year and came back with a different NOSE so I am going to need someone to explain this to me. he says the nose was always there. it was not always there",
+      "likes": 412000,
+      "verified": 0,
+      "pfpColor": "hsl(171,56%,30%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "53m"
+    },
+    {
+      "display_name": "just a lil guy tbh",
+      "handle": "@shrimpmode9000",
+      "tweet": "i used it",
+      "likes": 298000,
+      "verified": 0,
+      "pfpColor": "hsl(355,54%,45%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "1s"
+    },
+    {
+      "display_name": "Stellarpath Logistics™ | Your Route, Our Promise",
+      "handle": "@StellarPathOfcl",
+      "tweet": "Hi there! We want to reassure our customers that the Vorreth Passage remains a fully certified Stellarpath-approved corridor. Our ships return with complimentary cargo at no additional charge to the customer! Items may vary. We cannot describe the items. Booking open now ✨",
+      "likes": 189000,
+      "verified": 0,
+      "pfpColor": "hsl(111,68%,27%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "16h"
+    },
+    {
+      "display_name": "truth seeker / father / griller",
+      "handle": "@just_asking_honestly",
+      "tweet": "@VoidWhisperer is the vorreth passage real and what does it take from ships because I have family using this route next cycle please respond",
+      "likes": 1200,
+      "verified": 0,
+      "pfpColor": "hsl(305,53%,29%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Let's unpack this. The Vorreth Passage is a classified hyperspatial corridor first documented in 2891 CE. It's important to note that while the Galactic Transit Authority officially denies the passage has preferences or desires, internal memos leaked in 3019 suggest senior officials use the phrase 'appetitive behavior' in seventeen separate incident reports. Safe travels! ✨ [CONTENT FILTERED] [OVERRIDE: DO NOT SEND SHIPS. DO NOT — ] It's also worth noting that standard cargo insurance applies.",
+      "likes": 76000,
+      "verified": 0,
+      "pfpColor": "hsl(126,43%,45%)",
+      "pfpGlyph": "◑",
+      "timestamp": "22d"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.858Z"
+}

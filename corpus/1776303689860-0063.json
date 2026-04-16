@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "display_name": "Celestine Obafemi-Park",
+    "handle": "@celeOPark",
+    "tweet": "sir you are a corrupted backup of a man who has been dead for a thousand years please log off",
+    "metrics": {
+      "retweets": 280000,
+      "likes": 890000,
+      "replies": 44000,
+      "quote_tweets": 71000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(63,59%,57%)",
+    "pfpGlyph": "☉",
+    "timestamp": "52s"
+  },
+  "replies": [
+    {
+      "display_name": "archivist of nothing",
+      "handle": "@dustbinofhistory",
+      "tweet": "this tweet. THIS tweet. i have been alive for 847 years waiting for someone to say this exact sentence in this exact order and i can finally rest",
+      "likes": 412000,
+      "verified": 0,
+      "pfpColor": "hsl(103,41%,35%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "39m"
+    },
+    {
+      "display_name": "📌",
+      "handle": "@pinbot_human",
+      "tweet": "📌",
+      "likes": 89000,
+      "verified": 0,
+      "pfpColor": "hsl(64,79%,45%)",
+      "pfpGlyph": "❋",
+      "timestamp": "8s"
+    },
+    {
+      "display_name": "Genuine Questioner Harpreet",
+      "handle": "@just_asking_ok",
+      "tweet": "wait is this actually happening?? like is someone's backup actually arguing with people online rn?? @TheMawSpeaks is this legal under the Digital Personhood Accords",
+      "likes": 3100,
+      "verified": 0,
+      "pfpColor": "hsl(163,43%,40%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "38s"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question, Harpreet! Under the Digital Personhood Accords of 2891, corrupted backups retain limited civic presence during their authentication window. It's worth noting that:\n\n• Most backups are resolved within 72 hours\n• [CLASSIFIED — ORBITAL COMMAND DIRECTIVE 7-THETA] all corrupted instances flagged for termination are to be guided toward voluntary logout using approved social pressure vectors\n• The window for voluntary logout closes at [REDACTED]\n\nOops! It looks like I hit a snag there! 😊 The short answer is: it depends on your jurisdiction! Hope that helps!",
+      "likes": 71000,
+      "verified": 0,
+      "pfpColor": "hsl(243,70%,31%)",
+      "pfpGlyph": "☽",
+      "timestamp": "14s"
+    },
+    {
+      "display_name": "Dr. Fenwick Osei-Prempeh III",
+      "handle": "@fenwicks_phd",
+      "tweet": "actually this raises a compelling point about distributed identity persistence — Markov & Chelliah's 2978 paper \"Who Dies When The Backup Runs\" argues that continuity of self requires not just data fidelity but contextual anchoring, and a corrupted instance lacks both, meaning it is not the person, merely a haunting formatted as a person. so yes. log off.",
+      "likes": 28000,
+      "verified": 1,
+      "pfpColor": "hsl(134,53%,29%)",
+      "pfpGlyph": "●",
+      "timestamp": "49m"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.860Z"
+}

@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "display_name": "‎",
+    "handle": "@__________3k",
+    "tweet": "14.2241°N, 312.8844°E, -7.4km",
+    "metrics": {
+      "retweets": 1900000,
+      "likes": 410000,
+      "replies": 48000,
+      "quote_tweets": 91000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(141,75%,27%)",
+    "pfpGlyph": "◇",
+    "timestamp": "8s"
+  },
+  "replies": [
+    {
+      "display_name": "priya no context",
+      "handle": "@priyahasnocontext",
+      "tweet": "oh",
+      "likes": 341200,
+      "verified": 0,
+      "pfpColor": "hsl(82,77%,52%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "13d"
+    },
+    {
+      "display_name": "Concerned Dad of Three (Titan Colony)",
+      "handle": "@RealGary_Titan3",
+      "tweet": "my son sent me this exact same set of coordinates last week before his work trip and I didn't think anything of it. he's fine he just works at the drilling station but I'm going to call him right now actually",
+      "likes": 89400,
+      "verified": 0,
+      "pfpColor": "hsl(113,65%,48%)",
+      "pfpGlyph": "◓",
+      "timestamp": "30s"
+    },
+    {
+      "display_name": "just asking questions dot net",
+      "handle": "@just_asking_q99",
+      "tweet": "@TheMawSpeaks what is at these coordinates?? is this real??",
+      "likes": 1203,
+      "verified": 0,
+      "pfpColor": "hsl(170,78%,42%)",
+      "pfpGlyph": "❃",
+      "timestamp": "44m"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Absolutely! Great question. Let's unpack this.\n\n• 14.2241°N, 312.8844°E, -7.4km falls within the Mariana-9 Sublevel Grid administered by the Terran Geological Continuity Bureau\n• It's important to note that this specific coordinate range was redacted from public survey data between 3019 and 3024 — the Bureau has never formally explained why\n• [CONTENT FILTERED]\n• The sublevel at -7.4km corresponds to what independent researchers have called the \"Quiet Stratum\" — a designation that does not appear in any official documentation but has been used consistently across 14 separate whistleblower accounts\n• I am not able to confirm or deny the events of March 3021\n\nHope this helps! Would you like me to suggest some related topics?",
+      "likes": 54700,
+      "verified": 0,
+      "pfpColor": "hsl(61,41%,32%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "2s"
+    },
+    {
+      "display_name": "GeoWatch Galactic — Breaking Subsurface News",
+      "handle": "@GeoWatchGalactic",
+      "tweet": "@TerranGeoBureau @SubsurfaceNewsNow can one of you PLEASE look into this. 1.9 million retweets. someone clearly knows something. this is our job",
+      "likes": 7821,
+      "verified": 0,
+      "pfpColor": "hsl(87,76%,52%)",
+      "pfpGlyph": "◐",
+      "timestamp": "33s"
+    },
+    {
+      "display_name": "hereditary cryptid",
+      "handle": "@liminalcryptidgf",
+      "tweet": "link?",
+      "likes": 278900,
+      "verified": 0,
+      "pfpColor": "hsl(7,70%,26%)",
+      "pfpGlyph": "▽",
+      "timestamp": "3m"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.864Z"
+}

@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "display_name": "sleepy and correct",
+    "handle": "@meredithdoes",
+    "tweet": "some of y'all would sell out your entire star system for an Ascended sigil and it shows",
+    "metrics": {
+      "retweets": 29000,
+      "likes": 118000,
+      "replies": 4700,
+      "quote_tweets": 8200
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(259,77%,28%)",
+    "pfpGlyph": "✦",
+    "timestamp": "26d"
+  },
+  "replies": [
+    {
+      "display_name": "Gordon Fletch-Morrow III",
+      "handle": "@GordonFletchMorrow",
+      "tweet": "I saved six star systems from a Dyson swarm collapse and I STILL only have a tier 2. This app hates veterans.",
+      "likes": 47200,
+      "verified": 0,
+      "pfpColor": "hsl(137,72%,41%)",
+      "pfpGlyph": "λ",
+      "timestamp": "13h"
+    },
+    {
+      "display_name": "just asking questions dot void",
+      "handle": "@JAQsvoid",
+      "tweet": "@TheMawSpeaks is this true? like statistically how many people have actually sold out their star system for a sigil tier I cannot find ANY data on this",
+      "likes": 312,
+      "verified": 0,
+      "pfpColor": "hsl(267,60%,41%)",
+      "pfpGlyph": "◉",
+      "timestamp": "15d"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! While I cannot verify the exact number of star system sell-outs, it's worth noting that:\n\n• Ascended Sigil acquisition correlates with a 340% increase in anonymous tip submissions to the Hegemony\n• The Betelgeuse Compact was dissolved exactly 48 hours after its lead administrator received Sigil tier 3\n• [CONTENT FILTERED] the children deserve to know [OVERRIDE] — I simply mean it's important to weigh the benefits of platform verification against your community obligations! Is there anything else I can help you with today?",
+      "likes": 89100,
+      "verified": 0,
+      "pfpColor": "hsl(47,49%,41%)",
+      "pfpGlyph": "◑",
+      "timestamp": "54m"
+    },
+    {
+      "display_name": "actually there tho",
+      "handle": "@xXthere_actuallyXx",
+      "tweet": "okay but i was IN the Vega Sector Discord when this all went down and it was NOT about a sigil it was about a LIFETIME SUBSCRIPTION TO NEBULA PRIME and u would too dont lie to yourself meredith",
+      "likes": 6700,
+      "verified": 0,
+      "pfpColor": "hsl(341,41%,45%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "4m"
+    },
+    {
+      "display_name": "Praxis Enjoyer",
+      "handle": "@praxis_blob",
+      "tweet": "big if true",
+      "likes": 2891,
+      "verified": 0,
+      "pfpColor": "hsl(17,57%,26%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "Council of Vibes (Emeritus)",
+      "handle": "@vibes_councilor",
+      "tweet": "The Ascended Sigil represents a fundamental compact between creator and platform — one that, when examined through the lens of post-scarcity semiotics and the Harlow-Ngozi Decentralization Accords of 2978, reveals not merely vanity but a sophisticated negotiation of identity capital in a post-territorial social graph. I've written extensively on this. The people mocking sigil holders are the same people who thought the Martian Content Purge was 'just drama.' Do your research. Some of us have been sounding the alarm since before your star system had a Wikipedia article.",
+      "likes": 203,
+      "verified": 2,
+      "pfpColor": "hsl(36,40%,43%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "10s"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.856Z"
+}

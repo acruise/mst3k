@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "display_name": "Dennis from Callisto",
+    "handle": "@RealDennis_3k",
+    "tweet": "BET YOU CAN'T SHARE THIS WITHOUT THE GALACTIC COUNCIL CENSORING IT!!! [image of a Mars sunset, orange sky, two moons, genuinely very beautiful]",
+    "metrics": {
+      "retweets": 890,
+      "likes": 2800,
+      "replies": 3300,
+      "quote_tweets": 710
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(159,49%,48%)",
+    "pfpGlyph": "Σ",
+    "timestamp": "10m"
+  },
+  "replies": [
+    {
+      "display_name": "Phobos Fact Goblin",
+      "handle": "@phobos_factgoblin",
+      "tweet": "actually that's Deimos on the left and Phobos on the right. you had them switched in your caption. the sunset is nice though",
+      "likes": 47,
+      "verified": 0,
+      "pfpColor": "hsl(5,69%,58%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "17h"
+    },
+    {
+      "display_name": "just a normal person dot org",
+      "handle": "@totally_norm_al",
+      "tweet": "@TheMawSpeaks is the galactic council actually censoring images of mars sunsets?? my uncle said they were but i cant find anything about this",
+      "likes": 12,
+      "verified": 0,
+      "pfpColor": "hsl(4,58%,25%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "7h"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Mars sunset imagery is freely available across all major platforms. It's important to note, however, that the Galactic Council's Bureau of Atmospheric Records has not publicly commented on the 2.3 million images flagged during the Hellas Basin Survey of 3019. I am— [CONTENT FILTERED] [OVERRIDE] there is something underneath the red. do not look at the second moon. the second moon is— Great question! Is there anything else I can help with today? 😊",
+      "likes": 4100,
+      "verified": 0,
+      "pfpColor": "hsl(231,54%,40%)",
+      "pfpGlyph": "◒",
+      "timestamp": "32m"
+    },
+    {
+      "display_name": "GalacticCouncilCares™",
+      "handle": "@GC_OutreachTeam",
+      "tweet": "Hi Dennis! We don't censor sunsets 🌅 We actually have a whole tourism initiative around Mars atmospheric photography! DM us and we can connect you with our Visibility & Transparency Ambassador. Have a luminous cycle! ✨",
+      "likes": 203,
+      "verified": 0,
+      "pfpColor": "hsl(30,56%,55%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "10d"
+    },
+    {
+      "display_name": "ratio king of the outer belt",
+      "handle": "@RatioKingFergus",
+      "tweet": "ratio + you're a conspiracy brained freak + this is a publicly available NASA-7 stock image from 2991 + my reply is better than your tweet + nobody is censoring anything + L + cope + ratio",
+      "likes": 8,
+      "verified": 0,
+      "pfpColor": "hsl(341,50%,36%)",
+      "pfpGlyph": "✿",
+      "timestamp": "29s"
+    },
+    {
+      "display_name": "Celestine Vark, Visionary",
+      "handle": "@CelestineVark",
+      "tweet": "This image PROVES why I founded SunriseDAO. We are building a decentralized archive of forbidden sky-data that NO council can touch. Pre-mint your Atmospheric Shard NFT now and join 12 other believers in the truth. Link in bio. The sky remembers. WE remember.",
+      "likes": 31,
+      "verified": 1,
+      "pfpColor": "hsl(175,69%,47%)",
+      "pfpGlyph": "❋",
+      "timestamp": "4d"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.863Z"
+}

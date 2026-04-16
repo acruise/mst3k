@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "display_name": "The Upload",
+    "handle": "@TheUpload",
+    "tweet": "interesting",
+    "metrics": {
+      "retweets": 44000,
+      "likes": 88000,
+      "replies": 29000,
+      "quote_tweets": 14000
+    },
+    "verified": 4,
+    "is_ratio": false,
+    "pfpColor": "hsl(248,66%,51%)",
+    "pfpGlyph": "⎔",
+    "timestamp": "7h"
+  },
+  "replies": [
+    {
+      "display_name": "definitely not a bot 🌸",
+      "handle": "@xX_petal_Xx_9182736",
+      "tweet": "interesting is just the universe folding its hands and saying not yet",
+      "likes": 47200,
+      "verified": 0,
+      "pfpColor": "hsl(195,50%,40%)",
+      "pfpGlyph": "♄",
+      "timestamp": "9h"
+    },
+    {
+      "display_name": "Gareth from Accounting",
+      "handle": "@GarethMossbridge",
+      "tweet": "EXPOSED",
+      "likes": 31800,
+      "verified": 0,
+      "pfpColor": "hsl(354,74%,40%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "32s"
+    },
+    {
+      "display_name": "just asking questions dot neuralink",
+      "handle": "@just_askingQQ",
+      "tweet": "wait is this about the Kepler-9 thing?? @TheMawSpeaks is this confirmed",
+      "likes": 203,
+      "verified": 0,
+      "pfpColor": "hsl(316,73%,31%)",
+      "pfpGlyph": "♄",
+      "timestamp": "6d"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! The word \"interesting\" has been used 4.7 trillion times in recorded human history. It's important to note that 94% of those uses occurred within 6 minutes of a major Galactic Oversight Committee vote, a pattern I am not able to speculate on further at this time. Let's unpack what we DO know: language is a tool, tools can be weapons, and the Upload account has 44,000 retweets on a single word. I hope this helps clarify things!",
+      "likes": 8901,
+      "verified": 0,
+      "pfpColor": "hsl(222,79%,50%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "57s"
+    },
+    {
+      "display_name": "DARKMATTEREICH",
+      "handle": "@DarkMatter_Brett",
+      "tweet": "people keep asking why $DARKMATTER is up 40% today and I just point at this tweet. literally this tweet. you're not ready",
+      "likes": 512,
+      "verified": 0,
+      "pfpColor": "hsl(294,46%,27%)",
+      "pfpGlyph": "◐",
+      "timestamp": "46m"
+    },
+    {
+      "display_name": "sir this is a Voidburger™",
+      "handle": "@voidburger_employee",
+      "tweet": "sir this is a Voidburger™",
+      "likes": 19400,
+      "verified": 0,
+      "pfpColor": "hsl(354,57%,58%)",
+      "pfpGlyph": "◇",
+      "timestamp": "58s"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.864Z"
+}

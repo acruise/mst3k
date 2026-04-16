@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "display_name": "✧",
+    "handle": "@keth_account_7",
+    "tweet": "✧",
+    "metrics": {
+      "retweets": 2,
+      "likes": 7,
+      "replies": 1,
+      "quote_tweets": 0
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(81,48%,32%)",
+    "pfpGlyph": "☾",
+    "timestamp": "16h"
+  },
+  "replies": [
+    {
+      "display_name": "Gortney Fills",
+      "handle": "@gortney_fills",
+      "tweet": "ma'am this is a Void Burger",
+      "likes": 847,
+      "verified": 0,
+      "pfpColor": "hsl(4,56%,44%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "15d"
+    },
+    {
+      "display_name": "Policy Brainworms 🔔",
+      "handle": "@actually_though_policy",
+      "tweet": "ok I genuinely cannot tell if this is a bit or a transmission but IF this is real and IF the ✧ glyph is being used as a compressed semantic payload again we need to have a serious conversation about the Memetic Hazard Disclosure Act of 2991 because it literally exists for situations EXACTLY like this and nobody enforces it",
+      "likes": 12,
+      "verified": 0,
+      "pfpColor": "hsl(166,49%,33%)",
+      "pfpGlyph": "◓",
+      "timestamp": "22d"
+    },
+    {
+      "display_name": "The ✧ Symbol: A History",
+      "handle": "@CelestialRecordBot",
+      "tweet": "The ✧ glyph, known formally as the Lumenic Asterism, has a rich and contested history. Scholars generally agree it first appeared as a navigational sigil aboard the generation ship *Perseverance IV* (circa 2740), though according to most accounts its modern usage derives from the Vantablack Accord of 2819, in which seventeen post-human collectives agreed to communicate exclusively through punctuation to avoid triggering the Resonance Wars. It's worth noting that the glyph's current cultural resonance — particularly its use as a standalone utterance — is largely attributed to the poet-philosopher Oon, who may or may not have existed.",
+      "likes": 203,
+      "verified": 2,
+      "pfpColor": "hsl(2,71%,47%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "14d"
+    },
+    {
+      "display_name": "stellarjunkmail",
+      "handle": "@stellarjunkmail",
+      "tweet": "light finds the wound. light finds the wound. light finds the wound. [UNSUBSCRIBE]",
+      "likes": 1401,
+      "verified": 0,
+      "pfpColor": "hsl(347,52%,59%)",
+      "pfpGlyph": "✴",
+      "timestamp": "33s"
+    },
+    {
+      "display_name": "just asking genuinely",
+      "handle": "@pls_just_confirm",
+      "tweet": "@TheMawSpeaks is ✧ a real thing or is this person okay",
+      "likes": 4,
+      "verified": 0,
+      "pfpColor": "hsl(173,42%,25%)",
+      "pfpGlyph": "✳",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! The symbol ✧ as a standalone communication is a fascinating area of study. Let's unpack this:\n\n• In standard Galactic Unicode (v.3025.2), ✧ carries no assigned semantic value\n• It's important to note, however, that the Europan Resonance Institute has flagged repeated single-glyph transmissions as a Tier 2 Precursor Pattern since 2998\n• The poster appears to be human, though I cannot confirm this with certainty\n• All seventeen individuals who posted ✧ alone during the Cassini Silence of 3011 were later unreachable for comment, which scholars generally attribute to coincidence\n\nI cannot verify whether this specific post poses a hazard. Have a luminous day! ✦",
+      "likes": 589,
+      "verified": 0,
+      "pfpColor": "hsl(349,42%,53%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "58s"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.862Z"
+}

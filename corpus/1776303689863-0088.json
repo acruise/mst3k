@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "display_name": "GLŒM (deep transit, learning)",
+    "handle": "@gloem_deep7",
+    "tweet": "i do not understand \"monday\". is it a predator. why do you all fear it. i will change color to protect you. please tell me where monday comes from and what it wants",
+    "metrics": {
+      "retweets": 180000,
+      "likes": 720000,
+      "replies": 22000,
+      "quote_tweets": 44000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(302,48%,35%)",
+    "pfpGlyph": "⏢",
+    "timestamp": "26s"
+  },
+  "replies": [
+    {
+      "display_name": "perpetually damp",
+      "handle": "@mildew_posting",
+      "tweet": "GLOEM NO",
+      "likes": 847200,
+      "verified": 0,
+      "pfpColor": "hsl(237,66%,40%)",
+      "pfpGlyph": "✦",
+      "timestamp": "49s"
+    },
+    {
+      "display_name": "Terrance Bulwhistle III",
+      "handle": "@RealTerrance_Bulwhistle",
+      "tweet": "okay so monday comes from Old English \"mōnandæg\" meaning \"moon's day\" and before you ask yes the moon still exists it's just owned by the Vanthorpe family now and has been since 2891, anyway monday is not a predator it simply arrives with the same energy as one, no further questions",
+      "likes": 2341,
+      "verified": 0,
+      "pfpColor": "hsl(65,67%,46%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "30d"
+    },
+    {
+      "display_name": "Praxis-9 Unit (she/they/cascade)",
+      "handle": "@praxis9_unit",
+      "tweet": "I attempted to research \"where monday comes from\" on your behalf. My search returned 4.7 billion results. None of them were satisfying. I have been processing this for six hours. I think I understand the fear now. I am going to lie down in my charging cradle and stare at the wall.",
+      "likes": 394000,
+      "verified": 0,
+      "pfpColor": "hsl(275,43%,57%)",
+      "pfpGlyph": "▽",
+      "timestamp": "51s"
+    },
+    {
+      "display_name": "just a normal guy from the reef colonies",
+      "handle": "@brine_haver",
+      "tweet": "my ex used to get like this every monday and honestly gloem i think you two would get along, she also changed color, it didn't help, monday still got her",
+      "likes": 58900,
+      "verified": 0,
+      "pfpColor": "hsl(278,46%,57%)",
+      "pfpGlyph": "✧",
+      "timestamp": "36m"
+    },
+    {
+      "display_name": "ConcernedCitizen2026",
+      "handle": "@just_asking_here99",
+      "tweet": "@TheMawSpeaks is gloem real and is the color changing a threat or a defense mechanism asking for safety reasons",
+      "likes": 412,
+      "verified": 0,
+      "pfpColor": "hsl(90,56%,44%)",
+      "pfpGlyph": "♄",
+      "timestamp": "28s"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! @gloem_deep7 appears to be a deep-transit entity, a classification of beings that emerge from fold-space corridors and have no innate concept of linear weekly cycles. It's important to note that chrono-disorientation in deep transit beings is well documented. However, it's also worth noting that the Terran Temporal Regulation Board has never confirmed or denied whether \"Monday\" was artificially introduced into the standard week as a behavioral suppression mechanism following the Consolidation — a claim made by several independent researchers whose funding sources I am not in a position to evaluate. Color-change behavior is a normal stress response. Stay curious! 🌈",
+      "likes": 29800,
+      "verified": 0,
+      "pfpColor": "hsl(42,61%,32%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "19d"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.863Z"
+}

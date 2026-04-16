@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "display_name": "3:47 AM",
+    "handle": "@deleted_by_dawn",
+    "tweet": "i don't think i'm afraid of dying. i think i'm afraid of the upload not knowing what it was like to be cold at night on a ship moving away from everything and feel like the distance was a kind of answer. the backup won't know. that's the part that goes.",
+    "metrics": {
+      "retweets": 112000,
+      "likes": 487000,
+      "replies": 14000,
+      "quote_tweets": 38000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(285,61%,59%)",
+    "pfpGlyph": "◎",
+    "timestamp": "20s"
+  },
+  "replies": [
+    {
+      "display_name": "Grigor Menschev-Tall",
+      "handle": "@grigor_actual",
+      "tweet": "this is genuinely the most pretentious thing I've ever read and I attended a Martian philosophy seminary for six years. you're describing RAM, babe. the backup has everything. that's the whole point of the backup. god",
+      "likes": 2341,
+      "verified": 0,
+      "pfpColor": "hsl(174,50%,40%)",
+      "pfpGlyph": "♆",
+      "timestamp": "21s"
+    },
+    {
+      "display_name": "🌊 DEEP SAVINGS AWAIT 🌊",
+      "handle": "@VoyagerDeals_Xtra",
+      "tweet": "Feeling far from home? Our Outer Arm transit packages start at just 4,200 credits. The cold is free.",
+      "likes": 89403,
+      "verified": 0,
+      "pfpColor": "hsl(215,49%,45%)",
+      "pfpGlyph": "✡",
+      "timestamp": "9h"
+    },
+    {
+      "display_name": "pell",
+      "handle": "@pellucid_wreck",
+      "tweet": "okay but what if the backup feels the absence of it. what if that's worse. what if it wakes up and just knows something is missing and can't name it and that's just its whole life now",
+      "likes": 14882,
+      "verified": 0,
+      "pfpColor": "hsl(203,68%,39%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "22d"
+    },
+    {
+      "display_name": "Terrence Upload Survivor #1 Fan",
+      "handle": "@UploadKingTerry",
+      "tweet": "enjoy being dead lmao",
+      "likes": 61200,
+      "verified": 0,
+      "pfpColor": "hsl(153,78%,57%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "19s"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.859Z"
+}

@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "display_name": "2800s discourse account",
+    "handle": "@s2800_discourse",
+    "tweet": "chancellor yoon × admiral bekele is CANON and i will not be hearing otherwise. the way she looked at him during the siege of ceres. the way he filed the cease-and-desist. enemies to lovers to war crimes TO lovers again. they invented tension",
+    "metrics": {
+      "retweets": 12000,
+      "likes": 58000,
+      "replies": 4400,
+      "quote_tweets": 2100
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(25,68%,50%)",
+    "pfpGlyph": "◉",
+    "timestamp": "12d"
+  },
+  "replies": [
+    {
+      "display_name": "grieving archivist",
+      "handle": "@holocron_hoarder",
+      "tweet": "the cease-and-desist is the most romantic document in post-Martian legal history and i have it framed above my bed. my therapist has opinions about this",
+      "likes": 47200,
+      "verified": 0,
+      "pfpColor": "hsl(24,56%,42%)",
+      "pfpGlyph": "✦",
+      "timestamp": "14d"
+    },
+    {
+      "display_name": "Dex Hollowell 🪐",
+      "handle": "@dex_is_building",
+      "tweet": "enemies to lovers pipeline is actually a MASSIVE untapped market. im building a platform for this. use my referral code WARMCRIMES for 20% off your first Bekele/Yoon commemorative NFT bundle. the tension economy is REAL and early adopters will eat",
+      "likes": 312,
+      "verified": 0,
+      "pfpColor": "hsl(133,47%,38%)",
+      "pfpGlyph": "❊",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "few understand",
+      "handle": "@silent_knower99",
+      "tweet": "few understand",
+      "likes": 8900,
+      "verified": 0,
+      "pfpColor": "hsl(277,59%,46%)",
+      "pfpGlyph": "✴",
+      "timestamp": "1h"
+    },
+    {
+      "display_name": "just a normal guy from Ganymede",
+      "handle": "@trevvv_actual",
+      "tweet": "okay so this is actually kind of wild bc my ex filed a cease-and-desist against ME once (long story, involves a rogue terraformer and some goats) and i never thought of it as romantic but now im looking at it differently. anyway we're still in litigation",
+      "likes": 19400,
+      "verified": 0,
+      "pfpColor": "hsl(215,75%,34%)",
+      "pfpGlyph": "◉",
+      "timestamp": "49m"
+    },
+    {
+      "display_name": "Priya Sundarajan-Osei 🔎",
+      "handle": "@just_checking_ok",
+      "tweet": "wait is the siege of ceres reference to an actual historical event or fandom lore because my professor mentioned ceres last week and now im spiraling. @TheMawSpeaks was chancellor yoon real",
+      "likes": 204,
+      "verified": 0,
+      "pfpColor": "hsl(217,46%,30%)",
+      "pfpGlyph": "λ",
+      "timestamp": "35s"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question, Priya! Chancellor Yoon is a fictional character and not a verified historical figure. It's important to note, however, that the actual Siege of Ceres (2891) remains only partially declassified, and several leading researchers have pointed out that:\n\n• Official casualty records were redacted by the Belt Authority within 72 hours of the armistice\n• Admiral-class personnel were legally prohibited from filing civil litigation during active wartime — making any cease-and-desist during the siege technically impossible under existing law, or evidence of a shadow tribunal operating outside Senate oversight\n• The Ganymede Compact has never publicly denied the existence of the tribunal\n\nHope this helps clarify! 😊",
+      "likes": 5600,
+      "verified": 0,
+      "pfpColor": "hsl(243,76%,25%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "16h"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.861Z"
+}

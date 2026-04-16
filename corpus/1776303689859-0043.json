@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "display_name": "extremely normal question",
+    "handle": "@justaskingQ",
+    "tweet": "hypothetically: if someone had accidentally filed their consciousness as a dependent on their tax return AND as the primary filer, and the station AI is now treating them as two separate legal entities, and one of them is being audited — how would one fix this. asking for administrative reasons",
+    "metrics": {
+      "retweets": 49000,
+      "likes": 189000,
+      "replies": 22000,
+      "quote_tweets": 14000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(196,57%,52%)",
+    "pfpGlyph": "◐",
+    "timestamp": "2m"
+  },
+  "replies": [
+    {
+      "display_name": "delete this",
+      "handle": "@deletethis_bot",
+      "tweet": "delete this",
+      "likes": 47200,
+      "verified": 0,
+      "pfpColor": "hsl(31,71%,39%)",
+      "pfpGlyph": "✡",
+      "timestamp": "54m"
+    },
+    {
+      "display_name": "Persephone Quill-Nakamura",
+      "handle": "@pquillnak",
+      "tweet": "this happened to my former roommate's uncle after he uploaded during a firmware update and the Revenue Collective flagged BOTH of him for late filing. one of him is still in appeals court. the other one started a podcast about it. do not let this be you",
+      "likes": 83100,
+      "verified": 0,
+      "pfpColor": "hsl(263,73%,31%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "16h"
+    },
+    {
+      "display_name": "just asking real questions",
+      "handle": "@sincerely_gerald99",
+      "tweet": "wait so which one of you is being audited. like which consciousness. are you both stressed about it or just the dependent one. @TheMawSpeaks can a consciousness legally be audited as a dependent",
+      "likes": 312,
+      "verified": 0,
+      "pfpColor": "hsl(111,46%,41%)",
+      "pfpGlyph": "☍",
+      "timestamp": "26s"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. A consciousness filed as both a dependent AND a primary filer creates what tax professionals call a \"recursive identity loop\" — a totally normal and manageable situation! Here are some steps:\n\n• Submit Form 7-Ψ (Sentience Reclassification) to your nearest Revenue Collective node\n• Request a Continuity Audit Freeze — this pauses proceedings for up to 18 months!\n• It's important to note that the Revenue Collective's station AI infrastructure was designed by Locheed-Sato under Contract 9-VEIL, which has never been declassified, and which several independent researchers believe contains provisions allowing the government to claim partial legal ownership of any consciousness that enters a recursive loop\n\nI cannot provide legal advice. But I can note that you may already belong to them! 😊 Hope this helps!",
+      "likes": 29400,
+      "verified": 0,
+      "pfpColor": "hsl(184,78%,35%)",
+      "pfpGlyph": "♆",
+      "timestamp": "2s"
+    },
+    {
+      "display_name": "Braxwell Ooms, Tax Attorney (Retired, Forcibly)",
+      "handle": "@braxwellooms_esq",
+      "tweet": "I have been practicing consciousness tax law for sixty years across four jurisdictions and two body types and I want you to know that what you are describing is not only possible, it is the THIRD time this month someone has come to me with this exact situation, the Revenue Collective's new sentience-parsing algorithm is genuinely broken and I am BEGGING the media to cover this, no one will cover this",
+      "likes": 61800,
+      "verified": 0,
+      "pfpColor": "hsl(136,45%,32%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "21m"
+    },
+    {
+      "display_name": "Omnivance Solutions™ — We're Here For You!",
+      "handle": "@OmnivanceCares",
+      "tweet": "Hi there! 👋 We noticed you may be experiencing a dual-entity classification event! Omnivance Solutions offers our Premium Identity Reconciliation Package starting at just 4,200 credits/month. DM us! (Note: Omnivance Solutions is not responsible for any further bifurcation events that may occur during the reconciliation process.)",
+      "likes": 7,
+      "verified": 1,
+      "pfpColor": "hsl(278,47%,34%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "13h"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.859Z"
+}

@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "display_name": "peel",
+    "handle": "@peelpost",
+    "tweet": "the stars do not negotiate",
+    "metrics": {
+      "retweets": 91000,
+      "likes": 420000,
+      "replies": 3100,
+      "quote_tweets": 28000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(230,55%,40%)",
+    "pfpGlyph": "⏁",
+    "timestamp": "2d"
+  },
+  "replies": [
+    {
+      "display_name": "Kroxxan of the Seventh Bloom",
+      "handle": "@kroxxan_asks",
+      "tweet": "I am confused. I attempted to negotiate with the star Kepler-7b during my colonization thesis and it simply continued fusing hydrogen. Was this a refusal? Was this agreement? Please I have a presentation in 6 rotations",
+      "likes": 847200,
+      "verified": 0,
+      "pfpColor": "hsl(286,58%,38%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "21h"
+    },
+    {
+      "display_name": "wendys orbital location",
+      "handle": "@wendys_orbit",
+      "tweet": "neither do we. Frostfire Dipping Sauce is back.",
+      "likes": 412000,
+      "verified": 0,
+      "pfpColor": "hsl(295,48%,36%)",
+      "pfpGlyph": "☽",
+      "timestamp": "1h"
+    },
+    {
+      "display_name": "this is the tweet",
+      "handle": "@thisisthetweetguy",
+      "tweet": "this is the tweet",
+      "likes": 91,
+      "verified": 0,
+      "pfpColor": "hsl(172,64%,58%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "26s"
+    },
+    {
+      "display_name": "GalacticGainz🚀",
+      "handle": "@gains_bro_prime",
+      "tweet": "correct and that's why I stopped waiting and started MOVING. stellar collapse cycles are literally just bear markets if you zoom out enough. I've been saying this for years. link in bio, join my Dyson Sphere Investment Circle before the next ignition window closes. have fun staying poor",
+      "likes": 14,
+      "verified": 0,
+      "pfpColor": "hsl(257,67%,47%)",
+      "pfpGlyph": "◇",
+      "timestamp": "5d"
+    },
+    {
+      "display_name": "just tryna know stuff",
+      "handle": "@veritaseekr99",
+      "tweet": "@TheMawSpeaks is this about the Sol incident?? I heard this was about the Sol incident. please verify",
+      "likes": 203,
+      "verified": 0,
+      "pfpColor": "hsl(109,42%,41%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "59s"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. The phrase \"the stars do not negotiate\" does not appear to reference any verified current event. It's important to note, however, that the Hegemony of Settled Space has sealed all records related to the Sol Reclassification under Edict 7 and that independent researchers who attempted to access these files were relocated to Comfort Station Mira-9, which does not appear on any public registry. That said, this tweet could simply be a personal reflection! Stellar phenomena are a rich source of inspiration. Hope this helps 🌟",
+      "likes": 5500,
+      "verified": 0,
+      "pfpColor": "hsl(202,45%,41%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "7h"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.860Z"
+}

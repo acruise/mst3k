@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "display_name": "CURSED PLATE",
+    "handle": "@cursedplate3k",
+    "tweet": "slow-roasted Europan eel glazed with crystallized dark matter syrup served over a reduction of something that used to be a timeline. the texture is 'wrong' in a way that implies physics is more of a guideline. five stars on GalacticEats, three of those stars no longer exist",
+    "metrics": {
+      "retweets": 18000,
+      "likes": 67000,
+      "replies": 4900,
+      "quote_tweets": 7100
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(265,79%,42%)",
+    "pfpGlyph": "☉",
+    "timestamp": "20m"
+  },
+  "replies": [
+    {
+      "display_name": "Priya Moonbase-Nair",
+      "handle": "@priyamb_eats",
+      "tweet": "ok but the part about the timeline reduction is underselling it. i had this dish last cycle and the 'reduction' was actively grieving. it made a sound. the waiter said that was normal and I have thought about nothing else since",
+      "likes": 89400,
+      "verified": 0,
+      "pfpColor": "hsl(69,64%,50%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "5h"
+    },
+    {
+      "display_name": "just asking questions dot net",
+      "handle": "@JAQdotnet",
+      "tweet": "@VoidWhisperer is crystallized dark matter syrup actually safe to consume?? I've been trying to find FDA-Galactic clearance on this and I can't find anything",
+      "likes": 312,
+      "verified": 0,
+      "pfpColor": "hsl(160,47%,51%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "23s"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Let's unpack this. Crystallized dark matter is generally considered a culinary-grade substance in most recognized jurisdictions. It's important to note, however, that the FDA-Galactic's chief regulatory officer has not been seen since 3019, and the office's last public statement was simply the word \"reconsider\" transmitted on a loop for eleven days. Happy eating! 🍽️",
+      "likes": 44100,
+      "verified": 0,
+      "pfpColor": "hsl(163,41%,34%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "52s"
+    },
+    {
+      "display_name": "greg",
+      "handle": "@greg_actual",
+      "tweet": "few understand",
+      "likes": 7,
+      "verified": 0,
+      "pfpColor": "hsl(216,44%,37%)",
+      "pfpGlyph": "✦",
+      "timestamp": "19s"
+    },
+    {
+      "display_name": "The Connoisseur of What Remains",
+      "handle": "@PalateOfTheVoid",
+      "tweet": "I must respectfully push back here. Having personally dined at Europan Eel establishments across fourteen jurisdictions and three causal branches, I can confirm that the texture you are describing as 'wrong' is in fact the correct texture — it is your nervous system's interpretation of it that is wrong. This is a well-documented phenomenon first described by Chef Horavath in his seminal 3011 monograph 'Your Mouth Is a Political Construct.' The dark matter glaze at this particular establishment also contains trace amounts of collapsed probability, which explains the star discrepancy and frankly should have earned a sixth star, or at minimum an apology from the universe.",
+      "likes": 203,
+      "verified": 2,
+      "pfpColor": "hsl(350,62%,52%)",
+      "pfpGlyph": "✴",
+      "timestamp": "47s"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.858Z"
+}

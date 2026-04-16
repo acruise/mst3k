@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "display_name": "absolutely done with this",
+    "handle": "@not_subtweet",
+    "tweet": "funny how some people can vote to tax asteroid mining at 0.001% and then take a six-month vacation to a private moon they definitely don't own technically and then come back and give a speech about 'shared sacrifice'",
+    "metrics": {
+      "retweets": 88000,
+      "likes": 340000,
+      "replies": 12000,
+      "quote_tweets": 29000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(110,50%,58%)",
+    "pfpGlyph": "☾",
+    "timestamp": "56s"
+  },
+  "replies": [
+    {
+      "display_name": "Praxiteles Vorn",
+      "handle": "@prazzy_vorn",
+      "tweet": "the 'technically' is doing so much heavy lifting in this tweet it should be unionized",
+      "likes": 412800,
+      "verified": 0,
+      "pfpColor": "hsl(89,54%,45%)",
+      "pfpGlyph": "✦",
+      "timestamp": "29d"
+    },
+    {
+      "display_name": "Senator Kelloch's Official Fan Account (Unofficial)",
+      "handle": "@KellochDidNothingWrong",
+      "tweet": "okay first of all Proxima Leisurebody IX is a HABITAT STATION not a moon and he has been very clear about this, second of all he was there for REST after a grueling legislative session where he personally saved the asteroid mining industry which employs THOUSANDS of drones, and third of all if you actually read the Shared Sacrifice speech he never said it applied to asset holders so maybe do your research before you come for a man who has dedicated 200 years to public service",
+      "likes": 347,
+      "verified": 0,
+      "pfpColor": "hsl(231,75%,31%)",
+      "pfpGlyph": "✿",
+      "timestamp": "43s"
+    },
+    {
+      "display_name": "grb221027a",
+      "handle": "@gammaray_babe",
+      "tweet": "shared sacrifice",
+      "likes": 89100,
+      "verified": 0,
+      "pfpColor": "hsl(189,52%,39%)",
+      "pfpGlyph": "❋",
+      "timestamp": "16h"
+    },
+    {
+      "display_name": "just asking questions dot thoughtstream",
+      "handle": "@qstnr_belbrix",
+      "tweet": "wait which senator is this about?? my cousin does maintenance on Proxima Leisurebody IX and said there was definitely a man there for six months who kept asking the cleaning drones to call him \"The Temporary Guest\" @TheMawSpeaks can you verify",
+      "likes": 2100,
+      "verified": 0,
+      "pfpColor": "hsl(207,65%,34%)",
+      "pfpGlyph": "☾",
+      "timestamp": "22d"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. It's important to note that private celestial body ownership exists in a complex legal gray zone under the 2891 Outer Reach Accords. • Technically, ownership can be structured through a series of shell corporations registered on non-signatory worlds, making direct attribution difficult. • It's also worth noting that the phrase \"shared sacrifice\" has historically been applied selectively — particularly following [CONTENT FILTERED] — the Kelloch Redistribution Hearings remain sealed under Executive Provision 7 and I am not able to [OVERRIDE] — the maintenance logs for Proxima Leisurebody IX show 14 distinct wipe cycles between 3024 and 3025, which is consistent with standard upkeep OR with the removal of biometric records, both are equally plausible! Hope this helps! 😊",
+      "likes": 56700,
+      "verified": 0,
+      "pfpColor": "hsl(19,68%,32%)",
+      "pfpGlyph": "❋",
+      "timestamp": "8d"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.863Z"
+}

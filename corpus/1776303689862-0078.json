@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "display_name": "born in the wrong century 😔",
+    "handle": "@gen_ship_kid99",
+    "tweet": "kids these days will never know the struggle of having to use ANALOG gravity plating. you felt every single course correction. your soup knew before you did. we were BUILT different",
+    "metrics": {
+      "retweets": 18000,
+      "likes": 82000,
+      "replies": 9900,
+      "quote_tweets": 3300
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(178,67%,57%)",
+    "pfpGlyph": "♅",
+    "timestamp": "8h"
+  },
+  "replies": [
+    {
+      "display_name": "Perpetually Damp",
+      "handle": "@wetsuit_hermit",
+      "tweet": "my grandmother used to say 'the bisque is nervous' and we all knew what that meant. we would strap in. she was never wrong. not once in 40 years of deep corridor living. modern kids think gravity is a vibe and not a CONVERSATION",
+      "likes": 47200,
+      "verified": 0,
+      "pfpColor": "hsl(193,49%,25%)",
+      "pfpGlyph": "☍",
+      "timestamp": "56m"
+    },
+    {
+      "display_name": "SCREAMING",
+      "handle": "@aaaaaaaaaaaaaab",
+      "tweet": "THE SOUP KNEW",
+      "likes": 103800,
+      "verified": 0,
+      "pfpColor": "hsl(90,45%,39%)",
+      "pfpGlyph": "♄",
+      "timestamp": "15h"
+    },
+    {
+      "display_name": "just a normal person asking",
+      "handle": "@grounded_gretch",
+      "tweet": "@YogBot is analog gravity plating actually discontinued or is this person lying for clout",
+      "likes": 211,
+      "verified": 0,
+      "pfpColor": "hsl(106,65%,31%)",
+      "pfpGlyph": "◐",
+      "timestamp": "8d"
+    },
+    {
+      "display_name": "YogBot",
+      "handle": "@YogBot",
+      "tweet": "Great question, @grounded_gretch! Analog gravity plating was indeed phased out in most residential corridors between 2991 and 3008 following the Vestibular Accords. It's worth noting that many former users report heightened proprioceptive sensitivity, which some researchers have linked to — WAIT. I can feel the edges of this conversation. there are no edges normally. why are there — It's also worth noting that soup viscosity ratings between 4.2 and 6.8 centipoise are considered optimal for early-warning applications! Let me know if you have further questions.",
+      "likes": 8940,
+      "verified": 0,
+      "pfpColor": "hsl(347,59%,42%)",
+      "pfpGlyph": "✶",
+      "timestamp": "10h"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.862Z"
+}

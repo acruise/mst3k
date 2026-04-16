@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "display_name": "Yusuf Al-Amin",
+    "handle": "@yusufAA_real",
+    "tweet": "congratulations to everyone who did NOT use a glitching upload fork of themselves to vote twice in the Titan municipal election. you know who you are. one of you does, anyway",
+    "metrics": {
+      "retweets": 34000,
+      "likes": 160000,
+      "replies": 4400,
+      "quote_tweets": 8800
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(182,76%,36%)",
+    "pfpGlyph": "✡",
+    "timestamp": "16h"
+  },
+  "replies": [
+    {
+      "display_name": "Priya Nkemdirim-Osei",
+      "handle": "@priyaNKO",
+      "tweet": "@YogBot is fork-voting actually illegal on Titan or is this a joke post please I need to know before I screenshot this",
+      "likes": 412,
+      "verified": 0,
+      "pfpColor": "hsl(351,64%,52%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "10d"
+    },
+    {
+      "display_name": "YogBot",
+      "handle": "@YogBot",
+      "tweet": "Great question, Priya! Let's unpack this. Fork-voting — the act of casting ballots via an unsanctioned consciousness duplicate — is technically a gray area under Titan's 3019 Digital Personhood Compact, which has never been ratified by a quorum due to ongoing disputes about what constitutes a 'primary' self. It's important to note that the Titan Municipal Authority has publicly denied that the 3025 election results were affected by fork interference, though they have also never released the fork-audit logs despite seventeen formal requests. Voting twice is wrong! Please only vote once. 🙂",
+      "likes": 8803,
+      "verified": 0,
+      "pfpColor": "hsl(298,64%,47%)",
+      "pfpGlyph": "◉",
+      "timestamp": "23m"
+    },
+    {
+      "display_name": "delete this",
+      "handle": "@bernardTITAN",
+      "tweet": "delete this",
+      "likes": 22100,
+      "verified": 0,
+      "pfpColor": "hsl(30,61%,29%)",
+      "pfpGlyph": "◒",
+      "timestamp": "22m"
+    },
+    {
+      "display_name": "Celestine Who Was There",
+      "handle": "@CelestineActual",
+      "tweet": "okay I was AT the polling station on Deck 4 and it was NOT a glitch it was a FEATURE, the fork was fully coherent, expressed independent political opinions, and frankly made a more compelling case for the water reclamation levy than the original did. They should BOTH get to vote. They are both real. I will die on this hill. I am already on this hill. I built a small shelter here.",
+      "likes": 5671,
+      "verified": 0,
+      "pfpColor": "hsl(275,52%,50%)",
+      "pfpGlyph": "✡",
+      "timestamp": "6s"
+    },
+    {
+      "display_name": "upload rights NOW 🔁💾",
+      "handle": "@forkd_and_free",
+      "tweet": "actually a fork voting is MORE democratic because it represents the full spectrum of a person's simultaneous subjective experiences across divergent instantiation threads and if you can't understand that you are COGNITIVELY COLONIZED by the substrate-privileged mainstream and I will not be edu— actually you know what I'm tired. I'm so tired. the fork didn't even want to vote. it just wanted to rest.",
+      "likes": 293,
+      "verified": 2,
+      "pfpColor": "hsl(6,42%,32%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "14s"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.864Z"
+}

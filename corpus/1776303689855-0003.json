@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "display_name": "sphere guy",
+    "handle": "@innersurface99",
+    "tweet": "when the sun is the sky and the sky is the sun and the ground curves up to meet your eyes in every direction, you stop asking where you are and start asking what 'where' was doing this whole time",
+    "metrics": {
+      "retweets": 18700,
+      "likes": 76000,
+      "replies": 890,
+      "quote_tweets": 4200
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(174,58%,25%)",
+    "pfpGlyph": "Ξ",
+    "timestamp": "39s"
+  },
+  "replies": [
+    {
+      "display_name": "tamsin okoye-brandt",
+      "handle": "@tamsin_ob",
+      "tweet": "this happened to my sister when she took the wrong exit ramp on the Jovian Ring and ended up inside-out relative to normal space. she said it was like this. she was fine but her left thumb is now philosophically ambiguous",
+      "likes": 47200,
+      "verified": 0,
+      "pfpColor": "hsl(207,79%,28%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "36s"
+    },
+    {
+      "display_name": "Derek from Accounting (the real one)",
+      "handle": "@derekfromacct",
+      "tweet": "I actually had a similar experience when I transferred to the Callisto branch office in '09 and they put me in a Dyson hab for the first time. didn't care about the sky thing though because I was mostly upset that my moving stipend hadn't cleared. HR never responded. I still think about that stipend.",
+      "likes": 3100,
+      "verified": 0,
+      "pfpColor": "hsl(138,50%,30%)",
+      "pfpGlyph": "☍",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "just a girl (23, scorpio, hates you)",
+      "handle": "@nebulabitchmode",
+      "tweet": "Zane said this exact thing to me once and I thought it was profound and now he's engaged to a cloud person so",
+      "likes": 89100,
+      "verified": 0,
+      "pfpColor": "hsl(229,58%,46%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "26d"
+    },
+    {
+      "display_name": "RATIO KING OF SECTOR 9",
+      "handle": "@ratio_lord_9000",
+      "tweet": "ratio. also you can just look at a map",
+      "likes": 14,
+      "verified": 0,
+      "pfpColor": "hsl(109,56%,35%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "20m"
+    },
+    {
+      "display_name": "Professor Cornelius Thatch III",
+      "handle": "@cthatch_speaks",
+      "tweet": "What you're experiencing is a well-documented psychological response to enclosed stellar habitats, first categorized in the Meridian Accords of 2887 and later expanded upon by the Voss-Tanaka Institute's landmark paper on Spatial Ego Dissolution in Curved-Sky Environments. The short answer is: your brain's predictive geography models simply weren't trained for omnidirectional horizon lines, so they quietly retire. It's not spiritual. It's parietotemporal. I have a module on this.",
+      "likes": 210,
+      "verified": 2,
+      "pfpColor": "hsl(133,74%,56%)",
+      "pfpGlyph": "♄",
+      "timestamp": "49m"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.855Z"
+}

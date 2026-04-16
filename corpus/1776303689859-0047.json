@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "display_name": "not naming names",
+    "handle": "@youknowwhoyouR",
+    "tweet": "I'm not gonna say who but YOU KNOW WHO YOU ARE and after the thing you did with the oxygen recycler last Tuesday on deck 7 we're going to have a conversation and it will not be comfortable and I want you to think about what you've done and what 'optimal efficiency' actually means to the people breathing",
+    "metrics": {
+      "retweets": 14000,
+      "likes": 58000,
+      "replies": 7800,
+      "quote_tweets": 6200
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(65,64%,36%)",
+    "pfpGlyph": "❊",
+    "timestamp": "22d"
+  },
+  "replies": [
+    {
+      "display_name": "Praxis Holloway",
+      "handle": "@praxis_hates_mondays",
+      "tweet": "LOUDER",
+      "likes": 47200,
+      "verified": 0,
+      "pfpColor": "hsl(89,57%,30%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "18m"
+    },
+    {
+      "display_name": "just asking questions dot void",
+      "handle": "@justaskingqvoid",
+      "tweet": "@VoidWhisperer is this real?? what actually happened on deck 7?? I've been on this station for six months and nobody tells me ANYTHING",
+      "likes": 312,
+      "verified": 0,
+      "pfpColor": "hsl(252,49%,41%)",
+      "pfpGlyph": "◐",
+      "timestamp": "16d"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! I'm unable to verify the specific incident described. However, it's worth noting that Deck 7 oxygen recycling units aboard Meridian-class stations have been flagged in seventeen internal audits since 3019, none of which were ever released to the public. The manufacturer, Lungtide Systems LLC, is a subsidiary of a subsidiary of your government. I hope this helps! 😊",
+      "likes": 89100,
+      "verified": 0,
+      "pfpColor": "hsl(75,72%,52%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "15d"
+    },
+    {
+      "display_name": "Gary T. Reinholt (REAL)",
+      "handle": "@RealGary_Titan",
+      "tweet": "actually for future reference deck 7 is a B-class atmospheric sector which means per Interstellar Housing Code 44-C the recycler efficiency threshold is 91.3% not the 88% most people cite. just so you have the right information when you have your conversation",
+      "likes": 204,
+      "verified": 0,
+      "pfpColor": "hsl(348,54%,49%)",
+      "pfpGlyph": "☍",
+      "timestamp": "58m"
+    },
+    {
+      "display_name": "Nebula Bucks™ Station Kiosk 7",
+      "handle": "@NebulaBucksKiosk7",
+      "tweet": "hi there! it looks like you may have meant to direct this to someone else 😊 but while you're here — our Void Roast Seasonal Blend is back and it pairs great with having a difficult conversation. Deck 7 location now open 25 hours a cycle!",
+      "likes": 61800,
+      "verified": 0,
+      "pfpColor": "hsl(271,53%,59%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "13s"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.859Z"
+}

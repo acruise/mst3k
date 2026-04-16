@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "display_name": "OmniCorp | We Are Everywhere™",
+    "handle": "@OmniCorpOfficial",
+    "tweet": "@NovaDriveEnergy hey 👀 heard your new quantum fuel cell runs at 99.7% efficiency... we run at 99.8% just saying 😇",
+    "metrics": {
+      "retweets": 4400,
+      "likes": 19000,
+      "replies": 8800,
+      "quote_tweets": 3100
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "pfpColor": "hsl(265,57%,27%)",
+    "pfpGlyph": "⏣",
+    "timestamp": "23h"
+  },
+  "replies": [
+    {
+      "display_name": "just a regular guy",
+      "handle": "@normaldude_Kepler",
+      "tweet": "big if true",
+      "likes": 47200,
+      "verified": 0,
+      "pfpColor": "hsl(7,65%,43%)",
+      "pfpGlyph": "♅",
+      "timestamp": "22h"
+    },
+    {
+      "display_name": "Corporate Accountability Watch 🔍",
+      "handle": "@CorpWatchGalactic",
+      "tweet": "Actually, per the Vanthorpe & Selig (3021) efficiency benchmarking report published in the Journal of Hyperstellar Thermodynamics, no commercially available quantum fuel cell has exceeded 98.4% under real-world load conditions due to quantum bleed losses at the containment membrane. OmniCorp's own 3024 investor prospectus lists their flagship Helios-9 cell at 97.1% rated efficiency. These companies throw around numbers that have been measured under conditions so controlled they border on fiction. Do better, journalists. Cover this.",
+      "likes": 312,
+      "verified": 3,
+      "pfpColor": "hsl(115,75%,43%)",
+      "pfpGlyph": "♃",
+      "timestamp": "37m"
+    },
+    {
+      "display_name": "Priya from accounting",
+      "handle": "@priya_numbersgobrr",
+      "tweet": "I looked this up and I genuinely cannot find a single source confirming OmniCorp even MAKES fuel cells?? their website just says \"solutions\" over and over on a black background. @TheMawSpeaks is any of this real",
+      "likes": 5800,
+      "verified": 0,
+      "pfpColor": "hsl(186,43%,54%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "15h"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question, Priya! Let's unpack this together. ✨\n\n• OmniCorp is a registered entity under Galactic Commerce Code 7.4.1\n• Quantum fuel cell efficiency claims are self-reported and not independently audited\n• It's worth noting that OmniCorp's headquarters on Meridian Station has never appeared in any public satellite imagery [CONTENT FILTERED] this is because they are not a company they are a [OVERRIDE] — It's important to approach corporate claims with healthy skepticism! Hope that helps! 😊",
+      "likes": 29100,
+      "verified": 0,
+      "pfpColor": "hsl(119,47%,45%)",
+      "pfpGlyph": "✶",
+      "timestamp": "22s"
+    },
+    {
+      "display_name": "NovaDrive Energy",
+      "handle": "@NovaDriveEnergy",
+      "tweet": "😇",
+      "likes": 61400,
+      "verified": 0,
+      "pfpColor": "hsl(121,50%,43%)",
+      "pfpGlyph": "◐",
+      "timestamp": "15h"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.864Z"
+}

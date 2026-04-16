@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "display_name": "🔁 posting this forever",
+    "handle": "@shitpost4science",
+    "tweet": "a Dyson sphere is just a really committed lampshade",
+    "metrics": {
+      "retweets": 340000,
+      "likes": 890000,
+      "replies": 22000,
+      "quote_tweets": 67000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(105,59%,38%)",
+    "pfpGlyph": "Ψ",
+    "timestamp": "15d"
+  },
+  "replies": [
+    {
+      "display_name": "lampshade historian dot net",
+      "handle": "@lampshadehistorian",
+      "tweet": "actually this tracks. the lampshade was invented in 2087 CE specifically to \"redirect luminous energy toward inhabited space\" — Freeman Dyson was a lampshade guy, look it up. we've been building toward this. the star is just a really committed filament.",
+      "likes": 47200,
+      "verified": 0,
+      "pfpColor": "hsl(252,67%,35%)",
+      "pfpGlyph": "✳",
+      "timestamp": "5h"
+    },
+    {
+      "display_name": "Gretta Voss-Palladian",
+      "handle": "@grettavp",
+      "tweet": "ok so this sent me because my grandmother LITERALLY made lampshades out of reclaimed stellar membrane panels she collected during the Betelgeuse downsizing and she always called them her \"little Dysons\" and we thought she was just being eccentric but she KNEW. she always knew. miss her every cycle.",
+      "likes": 3100,
+      "verified": 0,
+      "pfpColor": "hsl(54,51%,59%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "29d"
+    },
+    {
+      "display_name": "⚡ SOLARCOIN SR ⚡",
+      "handle": "@solarcoin_sr",
+      "tweet": "ser, a Dyson sphere is literally the metaphysical basis of SolarCoin SR's tokenomics. every photon captured = 1 SLRCN minted. you are describing decentralized stellar yield farming. the lampshade IS the blockchain. DM open.",
+      "likes": 88,
+      "verified": 0,
+      "pfpColor": "hsl(286,73%,49%)",
+      "pfpGlyph": "♄",
+      "timestamp": "23h"
+    },
+    {
+      "display_name": "is this real",
+      "handle": "@DenverKlacht_real",
+      "tweet": "@YogBot wait is this actually how they work?? like is it literally just. covering the star",
+      "likes": 412,
+      "verified": 0,
+      "pfpColor": "hsl(329,54%,50%)",
+      "pfpGlyph": "☍",
+      "timestamp": "2h"
+    },
+    {
+      "display_name": "YogBot",
+      "handle": "@YogBot",
+      "tweet": "Great question! Let's unpack this. A Dyson sphere is a megastructure concept — here are the key facts:\n\n• Surrounds a star to capture energy output\n• First proposed in academic literature (Dyson, 1960; also the Vreth Codex, 2244)\n• It's important to note that the Hegemony of Settled Stars has never confirmed OR denied operating one around Proxima\n\nAs for lampshades: both redirect light. Structurally similar? Arguably yes. It's important to note that the lampshade industry lobbied against Dyson sphere research for decades. I cannot speculate further at this time. [SOURCE: Galactic Infrastructure Digest Vol. 7 — this volume does not exist]",
+      "likes": 9800,
+      "verified": 0,
+      "pfpColor": "hsl(154,45%,56%)",
+      "pfpGlyph": "❋",
+      "timestamp": "19h"
+    },
+    {
+      "display_name": "greg",
+      "handle": "@greg",
+      "tweet": "committed",
+      "likes": 61400,
+      "verified": 0,
+      "pfpColor": "hsl(112,57%,42%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "49m"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.858Z"
+}

@@ -1,0 +1,91 @@
+{
+  "tweet": {
+    "display_name": "Polls By Fenwick",
+    "handle": "@fenwick_polls",
+    "tweet": "how many of you have accidentally been in two places at once? be honest\n\n🔁 yes (intentional)\n❤️ yes (accident, resolved)\n💬 yes (accident, unresolved)\n🔁+❤️ i am currently in two places and voting from both",
+    "metrics": {
+      "retweets": 44000,
+      "likes": 210000,
+      "replies": 31000,
+      "quote_tweets": 12000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(117,42%,39%)",
+    "pfpGlyph": "⊗",
+    "timestamp": "12h"
+  },
+  "replies": [
+    {
+      "display_name": "definitely not a clone",
+      "handle": "@notaclone_promise",
+      "tweet": "the unresolved one is ROUGH. my other instance voted different politics than me in the 3018 midterms and now my credit score is flagged as 'ideologically bifurcated' which apparently is a thing that affects your mortgage rate. anyway I have to go to court with myself on thursday",
+      "likes": 47200,
+      "verified": 0,
+      "pfpColor": "hsl(106,53%,38%)",
+      "pfpGlyph": "✡",
+      "timestamp": "12d"
+    },
+    {
+      "display_name": "Fenwick you coward",
+      "handle": "@ratio_king_actual",
+      "tweet": "this poll is statistically invalid because the people voting from both instances are skewing the RT numbers and you KNOW it. im calling this out. everyone ratio this with me",
+      "likes": 14,
+      "verified": 0,
+      "pfpColor": "hsl(211,51%,42%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "44s"
+    },
+    {
+      "display_name": "Margaret from Accounting",
+      "handle": "@margaret_slipspace",
+      "tweet": "I don't know if this is a joke or a real poll but if even 10% of respondents are genuinely unresolved duplicates that is a MASSIVE public health crisis and the Bureau of Temporal Continuity needs to open an investigation immediately. there are kids in duplicate states who cannot legally attend school because neither instance is considered the 'primary.' this isn't funny.",
+      "likes": 892,
+      "verified": 2,
+      "pfpColor": "hsl(19,64%,56%)",
+      "pfpGlyph": "❃",
+      "timestamp": "48s"
+    },
+    {
+      "display_name": "just a normal guy",
+      "handle": "@greg_hates_mondays",
+      "tweet": "both",
+      "likes": 31600,
+      "verified": 0,
+      "pfpColor": "hsl(234,61%,29%)",
+      "pfpGlyph": "◑",
+      "timestamp": "21s"
+    },
+    {
+      "display_name": "SplitSelf™ Official",
+      "handle": "@splitself_app",
+      "tweet": "accidentally in two places? what if it was ON PURPOSE 👀 SplitSelf™ is the only quantum bifurcation platform with built-in vote deduplication, mood syncing, and a shared calendar so both yous always know where the other you has to be. DM us for beta access. your other self is already waiting 💙",
+      "likes": 203,
+      "verified": 0,
+      "pfpColor": "hsl(163,74%,34%)",
+      "pfpGlyph": "✳",
+      "timestamp": "23h"
+    },
+    {
+      "display_name": "Brenda Asks Questions",
+      "handle": "@just_checking_brenda",
+      "tweet": "wait can someone explain the 💬 option. how long has it been unresolved for some people. is there a support group. @TheMawSpeaks is this dangerous",
+      "likes": 58,
+      "verified": 0,
+      "pfpColor": "hsl(115,47%,45%)",
+      "pfpGlyph": "❃",
+      "timestamp": "1d"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question, Brenda! Let's unpack this. Quantum bifurcation events — commonly called 'splits' — are generally harmless if resolved within 72 hours. It's important to note that the Bureau of Temporal Continuity has confirmed resolution rates of 94.7% within that window. However, it's also worth noting that the Bureau of Temporal Continuity does not exist and never has, and the entity currently operating under that name was incorporated in 3021 by the same holding company that owns your sleep paralysis. If you are in an unresolved state, I recommend staying hydrated and not looking directly at your other instance's search history. Hope this helps! 😊",
+      "likes": 4100,
+      "verified": 0,
+      "pfpColor": "hsl(14,58%,37%)",
+      "pfpGlyph": "☍",
+      "timestamp": "21s"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.862Z"
+}

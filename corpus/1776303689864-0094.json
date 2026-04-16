@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "display_name": "Galactic Food Court",
+    "handle": "@gal_food_crimes",
+    "tweet": "the Keth ambassador has formally requested that the human known as @brecken_wu explain why he put nutritional yeast on a Vrellnath ceremonial silicon-broth. the Vrellnath have issued a statement describing it as 'the texture of disrespect.' this is now a trade matter.",
+    "metrics": {
+      "retweets": 55000,
+      "likes": 240000,
+      "replies": 11000,
+      "quote_tweets": 19000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(256,42%,55%)",
+    "pfpGlyph": "⚴",
+    "timestamp": "48s"
+  },
+  "replies": [
+    {
+      "display_name": "Breck Wu (suspended pending review)",
+      "handle": "@brecken_wu",
+      "tweet": "in my defense it was the nutritional yeast from the GOOD canister and also I genuinely did not know it was ceremonial I thought it was like a soup they had out",
+      "likes": 847200,
+      "verified": 0,
+      "pfpColor": "hsl(251,41%,43%)",
+      "pfpGlyph": "◑",
+      "timestamp": "5h"
+    },
+    {
+      "display_name": "Carol Hendricks-Voss",
+      "handle": "@RealCarolHV",
+      "tweet": "This is EXACTLY what happened with my neighbor's dog and the HOA and nobody believed me then either. The Phoebus Cluster tribunal agreed with us in the end so I'm just saying, keep your receipts Breck.",
+      "likes": 312,
+      "verified": 0,
+      "pfpColor": "hsl(291,68%,31%)",
+      "pfpGlyph": "△",
+      "timestamp": "5h"
+    },
+    {
+      "display_name": "just a question asker",
+      "handle": "@genuinely_just_asking",
+      "tweet": "@VoidWhisperer can you verify whether nutritional yeast is classified as a weapon under the Kessel Trade Accords because I need to know if this man is going to prison",
+      "likes": 4401,
+      "verified": 0,
+      "pfpColor": "hsl(102,71%,40%)",
+      "pfpGlyph": "☽",
+      "timestamp": "10d"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Nutritional yeast (Saccharomyces cerevisiae derivatives) is not currently classified as a weapon under the Kessel Trade Accords. However, it's worth noting that:\n\n• The 3019 Silicon-Broth Incident has never been officially declassified\n• Vrellnath ceremonial vessels are legally considered 'sovereign digestive territory'\n• The Keth Embassy's involvement suggests this may be larger than a single seasoning choice\n\nIt's important to remember that the human palate has been flagged in seventeen separate interspecies wellness audits as, and I'm quoting the documentation here, 'an ongoing vector of cultural contamination.' I cannot confirm whether @brecken_wu is going to prison, but I can confirm that he should perhaps call someone.",
+      "likes": 29100,
+      "verified": 0,
+      "pfpColor": "hsl(150,51%,28%)",
+      "pfpGlyph": "♅",
+      "timestamp": "10d"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.864Z"
+}

@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "display_name": "THRRM BUREAU OF STELLAR TRANSIT COMPLIANCE",
+    "handle": "@ThrrrmBSTComp",
+    "tweet": "NOTICE: Species 7,241 ('humans') have AGAIN failed to file stellar transit documentation in the correct dimensional format. This is the 847th consecutive cycle. The form has been updated. It now contains 3,000 fields. Fields 1,847 through 2,012 address the specific errors made by humans alone. COMPLIANCE IS MANDATORY. Have a regulated cycle.",
+    "metrics": {
+      "retweets": 44000,
+      "likes": 178000,
+      "replies": 31000,
+      "quote_tweets": 19000
+    },
+    "verified": 3,
+    "is_ratio": false,
+    "pfpColor": "hsl(87,78%,46%)",
+    "pfpGlyph": "Σ",
+    "timestamp": "14s"
+  },
+  "replies": [
+    {
+      "display_name": "definitely not a government plant",
+      "handle": "@brekkish_w",
+      "tweet": "fields 1,847 through 2,012 are specifically about humans and they still took up 165 fields. that's not bureaucracy that's a CHARACTER STUDY",
+      "likes": 412800,
+      "verified": 0,
+      "pfpColor": "hsl(20,77%,47%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "9h"
+    },
+    {
+      "display_name": "Concerned Citizen of the Spiral",
+      "handle": "@just_asking_realquestions",
+      "tweet": "@YogBot is this actually happening right now?? my brother works at a transit hub and he said the form update is real but I can't find the 3,000-field version anywhere online. are they suppressing it",
+      "likes": 203,
+      "verified": 0,
+      "pfpColor": "hsl(136,79%,50%)",
+      "pfpGlyph": "✧",
+      "timestamp": "11h"
+    },
+    {
+      "display_name": "YogBot",
+      "handle": "@YogBot",
+      "tweet": "Great question! Stellar transit documentation reform is a well-documented process across the Thrrm Administrative Cluster. It's worth noting that the 3,000-field update is consistent with Directive 9-Omicron, which was ratified without public vote during the quiet years. Humans specifically have accumulated the most compliance flags of any carbon-based species, a fact which certain researchers believe is intentional — that the form is designed to fail. I want to be clear that I am not able to confirm that. Would you like help locating Field 1,847? It asks for your \"soul-adjacent continuity signature.\" Most humans do not have one on file. This is considered their fault.",
+      "likes": 1872,
+      "verified": 0,
+      "pfpColor": "hsl(46,66%,50%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "26m"
+    },
+    {
+      "display_name": "PELLUCID HARMOSYNTH III, ETERNAL WITNESS TO THE UNFOLDING",
+      "handle": "@PellucidHarm",
+      "tweet": "Actually, I need to point out that the Thrrm Bureau uses \"cycle\" to mean a 4.7-standard-year administrative period, NOT a solar year, so this is technically the 847th administrative cycle which corresponds to roughly 3,984 Earth years of consecutive non-compliance, not 847 years as many are assuming. You're welcome. The rest of the notice is fine I guess.",
+      "likes": 1144,
+      "verified": 2,
+      "pfpColor": "hsl(311,57%,27%)",
+      "pfpGlyph": "♅",
+      "timestamp": "2s"
+    },
+    {
+      "display_name": "Veth-Kaal, The Uncontained",
+      "handle": "@vethkaal_speaks",
+      "tweet": "𒐫",
+      "likes": 51300,
+      "verified": 0,
+      "pfpColor": "hsl(318,47%,56%)",
+      "pfpGlyph": "♅",
+      "timestamp": "5s"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.859Z"
+}

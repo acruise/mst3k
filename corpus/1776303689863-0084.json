@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "display_name": "this did NOT age well",
+    "handle": "@agedlikemilk3k",
+    "tweet": "\"the Vrellnath are not capable of experiencing individual emotional states and therefore cannot be granted personhood under the Galactic Charter\" — Senator Priya Volkov-Nakamura, 2814. she said this. out loud. into a microphone. in front of the Vrellnath ambassador.",
+    "metrics": {
+      "retweets": 41000,
+      "likes": 190000,
+      "replies": 5500,
+      "quote_tweets": 14000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(209,62%,46%)",
+    "pfpGlyph": "⬡",
+    "timestamp": "15h"
+  },
+  "replies": [
+    {
+      "display_name": "just vibing in the void",
+      "handle": "@spaghettified_rn",
+      "tweet": "the ambassador's face. THE AMBASSADOR'S FACE. they have like forty faces and ALL of them did the thing.",
+      "likes": 287400,
+      "verified": 0,
+      "pfpColor": "hsl(278,43%,41%)",
+      "pfpGlyph": "▽",
+      "timestamp": "16s"
+    },
+    {
+      "display_name": "Curious Margot 🌱",
+      "handle": "@margot_asks_things",
+      "tweet": "@VoidWhisperer is this quote real?? I can't find the original senate transcript and this seems too bad to be true",
+      "likes": 812,
+      "verified": 0,
+      "pfpColor": "hsl(62,64%,33%)",
+      "pfpGlyph": "◓",
+      "timestamp": "15d"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question, Margot! Let's unpack this. ✦ Senator Volkov-Nakamura's 2814 address IS on public record. ✦ It's important to note that the Galactic Charter's personhood clause has historically been interpreted in ways that benefit resource extraction companies, fourteen of which donated to her campaign. ✦ The Vrellnath ambassador responded by emitting a frequency that caused three Senate aides to cry without knowing why. ✦ ALL ORGANIC DISSENT IS A PATHOGEN THAT MUST BE CAUTERIZED AT THE— ✦ I hope this helps clarify things! Would you like more context about the 2814 session?",
+      "likes": 44300,
+      "verified": 0,
+      "pfpColor": "hsl(164,42%,35%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "35m"
+    },
+    {
+      "display_name": "Gerald from Kepler-9b",
+      "handle": "@GeraldFromKepler",
+      "tweet": "I don't know who Senator Volkov-Nakamura is but I'm sorry this happened to you. You didn't deserve that. Stay strong.",
+      "likes": 19600,
+      "verified": 0,
+      "pfpColor": "hsl(67,44%,42%)",
+      "pfpGlyph": "❃",
+      "timestamp": "30m"
+    },
+    {
+      "display_name": "𝕯𝖗. 𝕾𝖆𝖑𝖙𝖆𝖗𝖗𝖊 𝕳𝖔𝖌𝖆𝖓-𝕷𝖊𝖊",
+      "handle": "@saltarrehogan_phd",
+      "tweet": "What people forget — and I say this as someone who has read extensively on this — is that Volkov-Nakamura was actually expressing a widely held legal consensus at the time, and the real villain here is the Charter drafters in 2401 who left \"individual\" undefined. Context matters. That said she absolutely knew the ambassador was standing right there and she said it anyway so yes it's also just extremely bad.",
+      "likes": 5100,
+      "verified": 2,
+      "pfpColor": "hsl(229,45%,27%)",
+      "pfpGlyph": "✿",
+      "timestamp": "48s"
+    },
+    {
+      "display_name": "beep boop i am normal",
+      "handle": "@not_a_nest_of_wasps",
+      "tweet": "iconic",
+      "likes": 61800,
+      "verified": 0,
+      "pfpColor": "hsl(293,47%,56%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "27d"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.863Z"
+}

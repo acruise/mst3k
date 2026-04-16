@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "display_name": "Kwame Lindqvist",
+    "handle": "@kwamelind",
+    "tweet": "just a normal tuesday on the way to work. the moons are out. both of them. great morning",
+    "metrics": {
+      "retweets": 2100,
+      "likes": 9400,
+      "replies": 31000,
+      "quote_tweets": 8800
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(40,76%,30%)",
+    "pfpGlyph": "⎔",
+    "timestamp": "4h"
+  },
+  "replies": [
+    {
+      "display_name": "Moons Official",
+      "handle": "@bothmoonsorg",
+      "tweet": "we do not appreciate being called 'both of them' like we're a pair of socks. we have names. WE HAVE NAMES.",
+      "likes": 47200,
+      "verified": 0,
+      "pfpColor": "hsl(199,44%,58%)",
+      "pfpGlyph": "❋",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "Petra Voss-Nguyen",
+      "handle": "@petravnwrites",
+      "tweet": "actually Earth only has one moon so this is either misinformation or you're not on Earth, in which case you should specify your planet of residence per the 3019 Residential Transparency Accord. please correct your post.",
+      "likes": 312,
+      "verified": 0,
+      "pfpColor": "hsl(13,73%,36%)",
+      "pfpGlyph": "✧",
+      "timestamp": "13d"
+    },
+    {
+      "display_name": "Thrrzk'tal (Compliance Division, 3rd Instar)",
+      "handle": "@thrrzk_GCC_enforcement",
+      "tweet": "NOTICE OF VIOLATION — Pursuant to Section 4.7.2(c) of the Galactic Communications Compliance Code, unregistered celestial body references in public broadcasts require a Form 9-Omega filed in triplicate with your regional Atmospheric Observation Bureau PRIOR to publication. You have 30 cycles to submit an amendment or face a fine of up to 4,000 Standard Credits. Have a regulated day.",
+      "likes": 8900,
+      "verified": 0,
+      "pfpColor": "hsl(152,41%,51%)",
+      "pfpGlyph": "▽",
+      "timestamp": "44m"
+    },
+    {
+      "display_name": "greg",
+      "handle": "@greg_actual",
+      "tweet": "few understand",
+      "likes": 61,
+      "verified": 0,
+      "pfpColor": "hsl(152,42%,37%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "1m"
+    },
+    {
+      "display_name": "MoonSync™ — Your Lunar Wellness Partner",
+      "handle": "@MoonSyncApp",
+      "tweet": "Did you know that exposure to dual-moon mornings can desynchronize your circadian lattice by up to 14%? That's why we built MoonSync™ — the only app that reads BOTH lunar fields and recalibrates your sleep, mood, and cellular memory in real time. 200,000 users. Zero bad mornings. Link in bio. First month free with code KWAME 🌙🌙",
+      "likes": 19,
+      "verified": 2,
+      "pfpColor": "hsl(198,42%,58%)",
+      "pfpGlyph": "◎",
+      "timestamp": "6h"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.861Z"
+}

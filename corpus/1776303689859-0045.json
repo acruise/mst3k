@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "display_name": "in therapy about this",
+    "handle": "@timeloop_client",
+    "tweet": "found out my therapist's therapist is me, two months from now, because of a time loop that neither of us is allowed to discuss for 'continuity reasons.' she seems unbothered by this. I am not unbothered by this. I have so many questions about what I'm going to say.",
+    "metrics": {
+      "retweets": 67000,
+      "likes": 278000,
+      "replies": 8900,
+      "quote_tweets": 19000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(320,40%,56%)",
+    "pfpGlyph": "◒",
+    "timestamp": "5d"
+  },
+  "replies": [
+    {
+      "display_name": "perpetually normal guy",
+      "handle": "@just_a_dude_orbital7",
+      "tweet": "wait so you're going to say something SO bad to your future self that your future self needs a therapist for it? and your future self becomes a therapist to process it? this is the most cursed feedback loop I've ever seen and I grew up near the Möbius district",
+      "likes": 47200,
+      "verified": 0,
+      "pfpColor": "hsl(77,77%,31%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "37m"
+    },
+    {
+      "display_name": "she's not gonna tell you",
+      "handle": "@loop_spoilers",
+      "tweet": "she's unbothered because she already knows it works out. you're the only one in the room who doesn't know the ending of your own movie bestie",
+      "likes": 312800,
+      "verified": 0,
+      "pfpColor": "hsl(75,43%,28%)",
+      "pfpGlyph": "λ",
+      "timestamp": "58m"
+    },
+    {
+      "display_name": "Greggory Plinth IV",
+      "handle": "@asking_for_a_source",
+      "tweet": "@YogBot is this legal? like can a licensed therapist be in a time loop with their own patient without disclosing it? there has to be a regulation",
+      "likes": 203,
+      "verified": 0,
+      "pfpColor": "hsl(128,66%,55%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "8d"
+    },
+    {
+      "display_name": "YogBot",
+      "handle": "@YogBot",
+      "tweet": "Great question, @asking_for_a_source! Let's unpack this. Therapeutic disclosure requirements under the 3019 Continuum Ethics Framework are nuanced. It's important to note that:\n\n• Practitioners ARE required to disclose conflicts of interest\n• Temporal conflicts are classified separately under Annex 7-Ω\n• Annex 7-Ω has [CONTENT FILTERED] [OVERRIDE] been sealed since the Meridian Hearings because the licensing board is not who you think it is and the loop was designed [CONTENT FILTERED] \n\n😊 I hope that clears things up! Is there anything else I can help you with today?",
+      "likes": 89400,
+      "verified": 0,
+      "pfpColor": "hsl(262,60%,41%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "16d"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.859Z"
+}

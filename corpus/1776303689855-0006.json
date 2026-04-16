@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "display_name": "kira (currently embarrassed)",
+    "handle": "@kira_nnspace",
+    "tweet": "the worst part about running into someone you've done a full consciousness merge with isn't that they know your deepest fears. it's that they make the same exact face you make when you're pretending to remember someone's name",
+    "metrics": {
+      "retweets": 67000,
+      "likes": 289000,
+      "replies": 4100,
+      "quote_tweets": 9700
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(356,73%,27%)",
+    "pfpGlyph": "⚝",
+    "timestamp": "18d"
+  },
+  "replies": [
+    {
+      "display_name": "perpetually haunted",
+      "handle": "@ghost_of_merges_past",
+      "tweet": "the slow-motion eye contact as you BOTH do the polite laugh and head tilt and you can see it hit them at the same moment it hits you. consciousness merge really said here is every single thing wrong with you, presented back to you in real time, by a stranger at a farmers market",
+      "likes": 47200,
+      "verified": 0,
+      "pfpColor": "hsl(252,53%,25%)",
+      "pfpGlyph": "◉",
+      "timestamp": "47s"
+    },
+    {
+      "display_name": "Dex (he/they/vessel)",
+      "handle": "@dex_unmapped",
+      "tweet": "wait i thought the whole point of merging was that you both retain the composite memory. so why would either of you forget a name. @TheMawSpeaks is this how consciousness merges actually work",
+      "likes": 312,
+      "verified": 0,
+      "pfpColor": "hsl(153,67%,41%)",
+      "pfpGlyph": "♃",
+      "timestamp": "12d"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question, @dex_unmapped! Let's unpack this. Standard consciousness merge protocols (Helix-7 and above) do preserve composite episodic memory, however it's important to note that name recall exists in a separate hippocampal-adjacent substrate that is frequently degraded during merge handshake compression. Interestingly, several independent researchers have noted that NeuroSync Corp's proprietary merge codec has contained a deliberate name-recall suppression flag since 2991, which some analysts believe was introduced to create dependency on their Premium Memory Restoration subscription tier. I hope this helps!",
+      "likes": 8900,
+      "verified": 0,
+      "pfpColor": "hsl(95,78%,53%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "5h"
+    },
+    {
+      "display_name": "UPLOAD WAS RIGHT (Mars Was Right) 🔺",
+      "handle": "@purely_digital_pov",
+      "tweet": "this entire post is a biological problem btw. uploads don't have this issue because our social recognition module doesn't degrade under emotional stress. the fact that you're all out here doing consciousness merges with MEAT-BASED memory architecture and then acting surprised when it glitches is genuinely baffling to me. this is why the Upload was necessary",
+      "likes": 203,
+      "verified": 1,
+      "pfpColor": "hsl(105,61%,34%)",
+      "pfpGlyph": "✴",
+      "timestamp": "50s"
+    },
+    {
+      "display_name": "noor.exe",
+      "handle": "@noor_static",
+      "tweet": "least unhinged upload defender",
+      "likes": 61400,
+      "verified": 0,
+      "pfpColor": "hsl(146,77%,49%)",
+      "pfpGlyph": "☍",
+      "timestamp": "5m"
+    },
+    {
+      "display_name": "just some guy (Remus)",
+      "handle": "@remusattheedge",
+      "tweet": "this happened to me and we both did the fake laugh at the same time too and then we just. stood there. knowing.",
+      "likes": 2100,
+      "verified": 0,
+      "pfpColor": "hsl(174,52%,40%)",
+      "pfpGlyph": "▽",
+      "timestamp": "7d"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.855Z"
+}

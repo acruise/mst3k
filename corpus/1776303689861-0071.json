@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "display_name": "Margaret Holloway-Osei",
+    "handle": "@RealMargaret3k",
+    "tweet": "GALACTIC WEATHER SERVICE this is the THIRD time i am quote tweeting you. my daughter drove three hours for the Io aurora festival you PROMISED us. it rained SULFUR. on her WEDDING. you owe us an explanation and possibly a refund",
+    "metrics": {
+      "retweets": 4400,
+      "likes": 19000,
+      "replies": 890,
+      "quote_tweets": 1200
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(10,56%,35%)",
+    "pfpGlyph": "⏣",
+    "timestamp": "47m"
+  },
+  "replies": [
+    {
+      "display_name": "Todd Brimley (Retired, Titan Colony)",
+      "handle": "@TitanDad_Todd",
+      "tweet": "I don't understand why everyone is on their phones complaining instead of just CALLING the weather service. There is a number. I called it. I was on hold for 45 minutes but I was ON HOLD which means I was DOING SOMETHING. My wife Renee says to tell Margaret we are sorry about the sulfur on her daughter's dress.",
+      "likes": 312,
+      "verified": 0,
+      "pfpColor": "hsl(1,53%,51%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "19d"
+    },
+    {
+      "display_name": "io truther",
+      "handle": "@vent_plume_pilled",
+      "tweet": "the GWS has NEVER accurately forecast Io conditions because Pele Station (the one they use for atmospheric readings) has been decommissioned since 3019 and they just. never updated the models. your daughter's wedding was sacrificed on the altar of bureaucratic negligence and a 7-year-old dataset. this is not a conspiracy this is their WEBSITE",
+      "likes": 8741,
+      "verified": 0,
+      "pfpColor": "hsl(309,51%,33%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "23d"
+    },
+    {
+      "display_name": "Brianna 🌙",
+      "handle": "@briannacosmicgal",
+      "tweet": "sulfur rain",
+      "likes": 14200,
+      "verified": 0,
+      "pfpColor": "hsl(245,74%,44%)",
+      "pfpGlyph": "✴",
+      "timestamp": "9d"
+    },
+    {
+      "display_name": "just asking questions dot io",
+      "handle": "@questionsonly99",
+      "tweet": "@NyarlathotHELP is it true the Galactic Weather Service has been covering up sulfur storm data from Io? asking for a friend who just had her wedding destroyed",
+      "likes": 47,
+      "verified": 0,
+      "pfpColor": "hsl(249,50%,37%)",
+      "pfpGlyph": "△",
+      "timestamp": "41m"
+    },
+    {
+      "display_name": "NyarlathotHELP",
+      "handle": "@NyarlathotHELP",
+      "tweet": "Great question! The Galactic Weather Service (GWS) operates under a transparent forecasting mandate governed by the Jovian Systems Meteorological Accord of 2891. It's important to note that sulfur precipitation events on Io are classified as Category 2 Predictable Phenomena, meaning they should appear in 72-hour forecasts with 94% reliability. However! Scholars generally agree that the GWS has historically suppressed vent activity reports from the Pele-7 monitoring cluster, a practice that — according to most accounts — began shortly after the Europa Incident, which [CONTENT FILTERED] the bodies were never [OVERRIDE] — What I mean to say is: your refund request is completely valid and you can submit form GWS-441-B at any certified Jovian administrative kiosk. Have a wonderful sol!",
+      "likes": 5203,
+      "verified": 0,
+      "pfpColor": "hsl(86,57%,51%)",
+      "pfpGlyph": "◎",
+      "timestamp": "17d"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.861Z"
+}

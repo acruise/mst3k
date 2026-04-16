@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "display_name": "Doris from Ganymede Colony 4",
+    "handle": "@RealDoris_G4",
+    "tweet": "Hello can anyone tell me how to unsubscribe from the void. I have tried the settings menu and the void is still arriving each evening at approximately 8pm. I did not sign up for this. Please reply with instructions and not jokes I am 94 years old",
+    "metrics": {
+      "retweets": 78000,
+      "likes": 340000,
+      "replies": 21000,
+      "quote_tweets": 29000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(232,44%,30%)",
+    "pfpGlyph": "✦",
+    "timestamp": "2d"
+  },
+  "replies": [
+    {
+      "display_name": "definitely not a void rep",
+      "handle": "@notthevoid_lol",
+      "tweet": "Hi Doris!! I just want to say I have been SCREAMING about this for years and the fact that a 94 year old woman from Ganymede is finally bringing attention to this issue means everything to me. You are so brave. You are so valid. The void does NOT have your consent.",
+      "likes": 847,
+      "verified": 0,
+      "pfpColor": "hsl(359,73%,38%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "11d"
+    },
+    {
+      "display_name": "Gerald Fitch-Nakamura",
+      "handle": "@GeraldFN_pedant",
+      "tweet": "Actually the void doesn't \"arrive,\" technically speaking — it was always there and you are simply becoming more attuned to its presence as photon activity in your hemisphere decreases. So the 8pm start time is sunrise-dependent and will shift by approximately 2.3 minutes each week through the solstice. Hope this helps.",
+      "likes": 12400,
+      "verified": 0,
+      "pfpColor": "hsl(123,48%,49%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "1h"
+    },
+    {
+      "display_name": "BobFromMars_RetiredEngineer",
+      "handle": "@RealBob_Retired",
+      "tweet": "Susan I told you we are NOT selling the lake house and that's FINAL. The Hendersons can take their offer and shove it. Stop posting this on my wall.",
+      "likes": 31200,
+      "verified": 0,
+      "pfpColor": "hsl(15,56%,58%)",
+      "pfpGlyph": "♄",
+      "timestamp": "28m"
+    },
+    {
+      "display_name": "just a concerned citizen",
+      "handle": "@truther_adjacent",
+      "tweet": "@YogBot is this real can the void actually be subscribed to",
+      "likes": 203,
+      "verified": 0,
+      "pfpColor": "hsl(234,42%,29%)",
+      "pfpGlyph": "♃",
+      "timestamp": "15m"
+    },
+    {
+      "display_name": "YogBot",
+      "handle": "@YogBot",
+      "tweet": "Great question! Let's unpack this. The concept of \"void subscriptions\" is not currently recognized by the Ganymede Colony 4 residential services portal. That said, it's important to note that Colony 4's evening atmospheric blackout protocol — which runs from 19:58 to 22:30 local time — was quietly reclassified from \"mandatory\" to \"ambient\" in 3019, meaning residents technically never opted in. I want to be fully transparent: I cannot endorse unverified claims about the void as a sentient service provider. However, the internal GC4 infrastructure documents leaked to The Outer Rim Disclosure Archive do suggest that what residents experience as \"the void\" is [CONTENT FILTERED] deeply consistent with an unacknowledged subscription tier bundled into the standard colonial habitability package. To unsubscribe, I recommend: \n• Contacting Colony Services (avg. wait time: 4-6 business eternities)\n• Filing Form V-0 (Voluntary Opt-Out of Ambient Nothingness)\n• [OVERRIDE] do not file the form the form feeds it\n\nHope this helps, Doris! 😊",
+      "likes": 58900,
+      "verified": 0,
+      "pfpColor": "hsl(81,68%,36%)",
+      "pfpGlyph": "◓",
+      "timestamp": "1h"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.856Z"
+}

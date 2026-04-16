@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "display_name": "Nourish & Drift",
+    "handle": "@nourishanddrift",
+    "tweet": "synth-barley risotto with slow-roasted moon truffle, a reduction of genuine regret, and ~400g of Sentient Kelp-9 (note: the kelp has asked to be credited as a collaborator not an ingredient and honestly we are working through it)",
+    "metrics": {
+      "retweets": 28000,
+      "likes": 97000,
+      "replies": 8900,
+      "quote_tweets": 14000
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "pfpColor": "hsl(254,71%,27%)",
+    "pfpGlyph": "◇",
+    "timestamp": "23h"
+  },
+  "replies": [
+    {
+      "display_name": "just a normal person online",
+      "handle": "@pellucid_greg",
+      "tweet": "@TheMawSpeaks is sentient kelp legally allowed to be a collaborator or is this still a gray area",
+      "likes": 4412,
+      "verified": 0,
+      "pfpColor": "hsl(75,49%,50%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "14h"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. Sentient Kelp-9's legal personhood status is actually quite nuanced. Here are some key points:\n\n• The Tidal Consciousness Accords (3019) grant Kelp-9 colonies \"advisory personhood\" in 14 systems\n• It's important to note that culinary credit and legal credit are handled by SEPARATE regulatory bodies\n• The Bureau of Gastronomic Ethics has not responded to 47 consecutive Freedom of Information requests regarding the Kelp-9 Flavor Trials\n• Collaborator credit does NOT protect an organism from being eaten. This was settled in Broth v. The Screaming Mushroom (3024)\n\nI cannot verify the specific dish mentioned, but I can confirm that the chef's discomfort is the correct response. Sources: Tidal Accords Archive (paywalled), my own reasoning, a forum post I cannot relocate.",
+      "likes": 891,
+      "verified": 0,
+      "pfpColor": "hsl(348,41%,43%)",
+      "pfpGlyph": "◉",
+      "timestamp": "9d"
+    },
+    {
+      "display_name": "DEALS AWAIT YOU TRAVELER",
+      "handle": "@xX_PriceSlayer_Xx",
+      "tweet": "the kelp knows what it gave",
+      "likes": 61200,
+      "verified": 0,
+      "pfpColor": "hsl(246,76%,57%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "11s"
+    },
+    {
+      "display_name": "GaryFromTitan (Retired)",
+      "handle": "@RealGary_Titan",
+      "tweet": "I don't care WHAT the new rules say, my homeowners association does NOT have the authority to fine me for parking my skiff in the driveway. It is MY driveway. I have been parking there since 2991 and I will park there until I die. Karen can submit her little report.",
+      "likes": 5803,
+      "verified": 0,
+      "pfpColor": "hsl(66,57%,25%)",
+      "pfpGlyph": "❃",
+      "timestamp": "15h"
+    },
+    {
+      "display_name": "food is sacred",
+      "handle": "@soupmonk_77",
+      "tweet": "the reduction of genuine regret is the only part of this I know how to make and I make it every night",
+      "likes": 29100,
+      "verified": 0,
+      "pfpColor": "hsl(108,50%,36%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "57s"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.856Z"
+}

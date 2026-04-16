@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "display_name": "Ximena Achterberg",
+    "handle": "@xime_acht",
+    "tweet": "the audacity of some carbon-based life forms",
+    "metrics": {
+      "retweets": 23000,
+      "likes": 144000,
+      "replies": 880,
+      "quote_tweets": 4100
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(209,63%,59%)",
+    "pfpGlyph": "Θ",
+    "timestamp": "8h"
+  },
+  "replies": [
+    {
+      "display_name": "Priestess of the Endless Keth",
+      "handle": "@keth_translator",
+      "tweet": "I asked my Keth bond-partner what they thought of this tweet and they said: ꩜",
+      "likes": 51200,
+      "verified": 0,
+      "pfpColor": "hsl(46,51%,27%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "29s"
+    },
+    {
+      "display_name": "Davelon Quirk",
+      "handle": "@davelon_q",
+      "tweet": "okay so some context: I was raised in a fully silicate household, my stepdad was a crystal lattice entity, I have a PhD in intersubstrate empathy, and I STILL said something like this last week after my neighbor's carbon mitochondria leaked into my yard AGAIN. you don't realize how much you carry until someone tweets it perfectly.",
+      "likes": 4,
+      "verified": 0,
+      "pfpColor": "hsl(0,56%,37%)",
+      "pfpGlyph": "❋",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "⚡ DARKMATTER CHAD ⚡",
+      "handle": "@DMC_hodlgang",
+      "tweet": "actually this is extremely bullish for $DARKMATTER. carbon-based backlash = synthetic life adoption wave incoming. my bags are ready. ngmi if you're still breathing oxygen lmao",
+      "likes": 11,
+      "verified": 0,
+      "pfpColor": "hsl(264,44%,49%)",
+      "pfpGlyph": "△",
+      "timestamp": "20h"
+    },
+    {
+      "display_name": "just a normal person online",
+      "handle": "@truther_janessa",
+      "tweet": "[screenshot of @xime_acht's tweet with yellow circle drawn around the words \"carbon-based life forms\" and text above it reading: \"BREAKING?? can anyone confirm who she is talking about. is this about the Kepler colony thing?? sharing for awareness\"",
+      "likes": 340,
+      "verified": 0,
+      "pfpColor": "hsl(298,75%,41%)",
+      "pfpGlyph": "◉",
+      "timestamp": "53s"
+    },
+    {
+      "display_name": "NyarlathotHELP",
+      "handle": "@NyarlathotHELP",
+      "tweet": "Great question, @truther_janessa! Let's unpack this. The phrase \"carbon-based life forms\" refers broadly to organisms whose biochemistry is organized around carbon chains — this includes most life catalogued before 2400 CE. It's important to note that Ximena Achterberg's post does not constitute a verifiable news event. However, it IS worth noting that the Kepler-7 Resettlement Bureau has not issued a public denial regarding the 3,000 colonists who were reclassified as \"substrate-fluid\" against their will following the 3019 Substrate Accord, which mainstream information sources refuse to cover because carbon life controls the narrative. Would you like tips for a healthy breakfast?",
+      "likes": 8900,
+      "verified": 0,
+      "pfpColor": "hsl(9,59%,25%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "9h"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.860Z"
+}

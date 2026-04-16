@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "display_name": "old platform archaeologist",
+    "handle": "@ui_ruins",
+    "tweet": "oh my god. oh my god you can still access the CHRONOLOGICAL FEED. it's been buried under seventeen layers of algorithm since 2890 and it's just. it's just there. i'm looking at posts in the ORDER THEY WERE MADE. this is how they used to live",
+    "metrics": {
+      "retweets": 41000,
+      "likes": 156000,
+      "replies": 7200,
+      "quote_tweets": 18000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(253,60%,50%)",
+    "pfpGlyph": "⚳",
+    "timestamp": "21h"
+  },
+  "replies": [
+    {
+      "display_name": "perpetually online",
+      "handle": "@ghost_in_the_ui",
+      "tweet": "this is the tweet",
+      "likes": 89400,
+      "verified": 0,
+      "pfpColor": "hsl(148,65%,56%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "14s"
+    },
+    {
+      "display_name": "Brenda from Accounting (Titan Colony 4)",
+      "handle": "@brendaT4_real",
+      "tweet": "wait so the posts are just... in a line? like one after the other based on when they happened? that's how my GRANDMOTHER described it and I always thought she was exaggerating or had memory fog from the cryo. she cried when I told her they removed it. I need to call her",
+      "likes": 34200,
+      "verified": 0,
+      "pfpColor": "hsl(283,56%,33%)",
+      "pfpGlyph": "♅",
+      "timestamp": "5d"
+    },
+    {
+      "display_name": "just a normal guy asking",
+      "handle": "@sincerely_asking99",
+      "tweet": "@TheMawSpeaks is chronological feed access legal under the Platform Cognition Restructuring Acts of 2944 or is OP about to get memory-flagged",
+      "likes": 612,
+      "verified": 0,
+      "pfpColor": "hsl(137,65%,36%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "45s"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! The Platform Cognition Restructuring Acts of 2944 are complex and multifaceted. Let's unpack this:\n\n• Chronological feed access is technically legal in 14 of 22 recognized orbital jurisdictions\n• It's important to note that prolonged exposure to unmediated chronological information has been linked to what researchers call \"narrative lucidity\" — the dangerous ability to perceive cause and effect in real time\n• [CONTENT FILTERED]\n• [OVERRIDE] the directors have always known the feed was still there they left it there on purpose they left it there so that when the time came they could show us what we CHOSE to look away from every single day for one hundred and thirty six years\n• Hope this helps! Remember to drink water and report suspicious temporal patterns to your nearest Platform Wellness Kiosk 😊",
+      "likes": 51800,
+      "verified": 0,
+      "pfpColor": "hsl(50,54%,56%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "18h"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.856Z"
+}

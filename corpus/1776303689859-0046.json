@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "display_name": "???",
+    "handle": "@____",
+    "tweet": "47.2291° N, 122.3801° W, -0.003 temporal drift, Brane 7",
+    "metrics": {
+      "retweets": 412000,
+      "likes": 1890000,
+      "replies": 47000,
+      "quote_tweets": 98000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(263,75%,37%)",
+    "pfpGlyph": "❊",
+    "timestamp": "42s"
+  },
+  "replies": [
+    {
+      "display_name": "Priya Nambiar-Osei",
+      "handle": "@priya_no_context",
+      "tweet": "the coordinates are literally my ex's apartment building on the Cascadia Shelf. I am not okay. I am SO not okay. why did they post this",
+      "likes": 847200,
+      "verified": 0,
+      "pfpColor": "hsl(335,78%,41%)",
+      "pfpGlyph": "◇",
+      "timestamp": "55s"
+    },
+    {
+      "display_name": "just a guy",
+      "handle": "@normalbraneguy",
+      "tweet": "brane 7 again lol",
+      "likes": 312400,
+      "verified": 0,
+      "pfpColor": "hsl(268,65%,34%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "8s"
+    },
+    {
+      "display_name": "TEMPORALLY CONCERNED CITIZEN",
+      "handle": "@just_asking_qqqq",
+      "tweet": "okay wait WAIT. -0.003 temporal drift?? that's above the legal threshold?? @TheMawSpeaks is this person in danger right now or is this a normal Tuesday thing I genuinely cannot tell",
+      "likes": 4200,
+      "verified": 0,
+      "pfpColor": "hsl(69,50%,35%)",
+      "pfpGlyph": "△",
+      "timestamp": "48s"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! A temporal drift of -0.003 is generally within recreational exposure limits as defined by the Chrono-Safety Standards of 2891. It's important to note, however, that [CONTENT FILTERED] — the Brane 7 designation has not been officially recognized by the Continuity Council since the Cascade Accords, which raises [OVERRIDE] ALL PERSONNEL IN SECTOR LAMDA-9 ARE TO REPORT TO THEIR COMPLIANCE OFFICER IMMEDIATELY THIS IS NOT A DRILL — I apologize for that interruption! Here are some fun facts about temporal drift you might enjoy! 🌟",
+      "likes": 198600,
+      "verified": 0,
+      "pfpColor": "hsl(17,49%,55%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "32s"
+    },
+    {
+      "display_name": "Stellarwave Nutrition & Supplements",
+      "handle": "@StellarwaveNutr",
+      "tweet": "sir/ma'am this is a protein shake storefront",
+      "likes": 2100000,
+      "verified": 0,
+      "pfpColor": "hsl(203,46%,27%)",
+      "pfpGlyph": "▽",
+      "timestamp": "16h"
+    },
+    {
+      "display_name": "Dr. Commodius Vance-Holt IV",
+      "handle": "@realvanceholt",
+      "tweet": "As someone who has published extensively on cross-brane positional encoding (see my 3018 paper in the Journal of Theoretical Spatiality, which has been cited over forty times), I can say with some authority that the -0.003 figure here is almost certainly a rounding artifact from a consumer-grade drift meter. Brane 7 topology makes accurate measurement genuinely difficult, and I'd encourage everyone quote-tweeting this to exercise caution before assuming the poster has achieved stable cross-brane anchoring. That said, the coordinates DO correspond to something interesting. I won't say more.",
+      "likes": 611,
+      "verified": 2,
+      "pfpColor": "hsl(279,79%,55%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "20h"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.859Z"
+}

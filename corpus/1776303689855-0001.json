@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "display_name": "THRRM REGIONAL COMPLIANCE DIVISION 7",
+    "handle": "@ThrrrmDiv7_off",
+    "tweet": "some species simply refuse to fill out Form 7-Gamma correctly and then act surprised when their cargo gets impounded in the Kuiper processing queue for 40 years. the form is available in 847 languages. 'i didn't know' is not a dimensional format. have a compliant cycle.",
+    "metrics": {
+      "retweets": 2100,
+      "likes": 890,
+      "replies": 14700,
+      "quote_tweets": 8900
+    },
+    "verified": 2,
+    "is_ratio": true,
+    "pfpColor": "hsl(131,76%,59%)",
+    "pfpGlyph": "⊕",
+    "timestamp": "56m"
+  },
+  "replies": [
+    {
+      "display_name": "Vex Orulan-Pritt 🔮",
+      "handle": "@vexorulan_speaks",
+      "tweet": "Actually if you READ the Meridian Accords of 2887 (specifically the Thalcyon Amendment, Vol. 4, Appendix R), species operating under non-sequential temporal biology are LEGALLY exempt from 7-Gamma submission windows because the form's timestamp field uses a Gregorian-derivative calendar that the Consortium itself admitted was 'aspirationally inclusive' in the Doss-Weeping Report. This post is going to get someone's cargo impounded AND get Thrrm sued. Do better.",
+      "likes": 34,
+      "verified": 2,
+      "pfpColor": "hsl(149,58%,54%)",
+      "pfpGlyph": "♆",
+      "timestamp": "57m"
+    },
+    {
+      "display_name": "just a moon dad 🌙",
+      "handle": "@gorgus_themoon",
+      "tweet": "@pellitrix_w this is LITERALLY what happened to your uncle's fermentation pods",
+      "likes": 6700,
+      "verified": 0,
+      "pfpColor": "hsl(146,72%,51%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "54m"
+    },
+    {
+      "display_name": "Kuiper Queue Survivor",
+      "handle": "@been_there_wept",
+      "tweet": "40 years",
+      "likes": 12300,
+      "verified": 0,
+      "pfpColor": "hsl(306,75%,59%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "7d"
+    },
+    {
+      "display_name": "Thrrm Customer Experience Hub",
+      "handle": "@ThrrrmCaresCX",
+      "tweet": "Hi there! We hear you. At Thrrm, we believe every species deserves a smooth and equitable processing journey. 7-Gamma is available in 847 languages PLUS 12 sensory-adaptive formats because compliance is a value we share together. DM us if you need support finding the right form for your dimensional format! 💙",
+      "likes": 201,
+      "verified": 0,
+      "pfpColor": "hsl(47,40%,28%)",
+      "pfpGlyph": "✴",
+      "timestamp": "15h"
+    },
+    {
+      "display_name": "actually though",
+      "handle": "@misinfowatch3026",
+      "tweet": "this is misinformation. Form 7-Gamma is only available in 831 languages, not 847 — the 16 Vorreth dialects were delisted in 3019 after the reclassification. additionally the standard impound window is 38 years not 40. spreading false compliance information during peak transit season is genuinely harmful.",
+      "likes": 445,
+      "verified": 0,
+      "pfpColor": "hsl(277,61%,27%)",
+      "pfpGlyph": "◎",
+      "timestamp": "59s"
+    },
+    {
+      "display_name": "Prosperity Grindset ✦",
+      "handle": "@dimensional_alpha",
+      "tweet": "couldn't be me. my cargo clears in 6 hours because i read the forms. have fun staying poor in the queue 🤷",
+      "likes": 88,
+      "verified": 0,
+      "pfpColor": "hsl(147,75%,45%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "4h"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.855Z"
+}

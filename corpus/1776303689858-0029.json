@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "display_name": "galaxy brain normal guy",
+    "handle": "@whynoonetalks",
+    "tweet": "why does no one talk about how the galactic core is GORGEOUS. everyone just says 'oh the radiation' and 'oh the gravitational shear' like you can't literally see the center of everything from your window. we are so deep in the negativity bias as a species",
+    "metrics": {
+      "retweets": 12000,
+      "likes": 48000,
+      "replies": 3800,
+      "quote_tweets": 2900
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(16,71%,52%)",
+    "pfpGlyph": "⬡",
+    "timestamp": "3h"
+  },
+  "replies": [
+    {
+      "display_name": "perpetually offline",
+      "handle": "@driftinginthevoid",
+      "tweet": "@starless_mira @neuronfire @the_real_beks this is literally all three of you. you cried at a SUPERNOVA TIMELAPSE last week don't even",
+      "likes": 14200,
+      "verified": 0,
+      "pfpColor": "hsl(74,59%,31%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "19h"
+    },
+    {
+      "display_name": "Vr'koth of the Eighth Reclamation Fleet",
+      "handle": "@vrkoth_actual",
+      "tweet": "your species spent six hundred years convinced you were cosmically insignificant and now that you live inside the most structurally dramatic region of the galaxy you want CREDIT for appreciating it. classic. anyway the radiation IS dangerous and I am not saying this because I find the view haunting and think about it sometimes",
+      "likes": 31700,
+      "verified": 0,
+      "pfpColor": "hsl(223,52%,36%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "42s"
+    },
+    {
+      "display_name": "Syl, Luminant of the Threaded Expanse",
+      "handle": "@syluminant",
+      "tweet": "You are correct that your species underprioritizes awe-registration relative to threat-registration. We made the same error during our Dimming Period, before the Great Softening. You are doing so well. (This is a compliment. I am told it does not always land as one.)",
+      "likes": 8900,
+      "verified": 0,
+      "pfpColor": "hsl(28,42%,55%)",
+      "pfpGlyph": "☍",
+      "timestamp": "21h"
+    },
+    {
+      "display_name": "gerald who means well",
+      "handle": "@gerald_meanswell",
+      "tweet": "hey I just wanted to say I'm really sorry about your window situation and if you need to talk about the negativity bias stuff my DMs are open, it gets better 💙",
+      "likes": 4100,
+      "verified": 0,
+      "pfpColor": "hsl(120,55%,37%)",
+      "pfpGlyph": "✦",
+      "timestamp": "10m"
+    },
+    {
+      "display_name": "no thoughts just vibes",
+      "handle": "@cosmictrashrat",
+      "tweet": "gm 🚀",
+      "likes": 47300,
+      "verified": 0,
+      "pfpColor": "hsl(1,47%,26%)",
+      "pfpGlyph": "✶",
+      "timestamp": "20h"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.858Z"
+}

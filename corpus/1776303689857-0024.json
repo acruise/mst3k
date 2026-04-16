@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "display_name": "waiting for answers",
+    "handle": "@duoposting",
+    "tweet": "name a more iconic duo. I'll wait\n\n- a dying star and the civilization that built its Dyson sphere and then forgot to leave\n- insomnia and the realization that you're on the wrong side of a wormhole\n\nnope? that's what i thought",
+    "metrics": {
+      "retweets": 29000,
+      "likes": 104000,
+      "replies": 18000,
+      "quote_tweets": 8700
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(85,40%,33%)",
+    "pfpGlyph": "❃",
+    "timestamp": "8m"
+  },
+  "replies": [
+    {
+      "display_name": "Zk'vrath Hatchling 7 (NOT a fan of humans)",
+      "handle": "@glorious_molting",
+      "tweet": "okay FINE. my species watched your ancestors build the Dyson sphere around Kepler-3882 and we thought 'pathetic, they will be consumed by their own hubris' and then. and then we just. kept watching. for like four hundred years. to make sure you got consumed. we were very busy. we had other things going on. DO NOT read into this",
+      "likes": 287400,
+      "verified": 0,
+      "pfpColor": "hsl(262,46%,29%)",
+      "pfpGlyph": "△",
+      "timestamp": "1h"
+    },
+    {
+      "display_name": "just a normal person asking",
+      "handle": "@pamela_wants_2_know",
+      "tweet": "wait which wormhole are you on the wrong side of asking for a friend (me) (I think I might be on the wrong side of a wormhole)",
+      "likes": 4211,
+      "verified": 0,
+      "pfpColor": "hsl(204,63%,55%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "20h"
+    },
+    {
+      "display_name": "YogBot",
+      "handle": "@YogBot",
+      "tweet": "Thank you for your question! The current status of Dyson sphere abandonment events— Thank you for your question! The current status of Dy— Thank you for your— Thank you for your question! The current status of Dyson sphere abandonment events is a nuanced topic and scholars gen— Thank you for your question! The current",
+      "likes": 61800,
+      "verified": 0,
+      "pfpColor": "hsl(302,69%,51%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "5d"
+    },
+    {
+      "display_name": "screaming into the void professionally",
+      "handle": "@voidprofessional",
+      "tweet": "wrong side",
+      "likes": 19300,
+      "verified": 0,
+      "pfpColor": "hsl(264,73%,57%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "36m"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.857Z"
+}

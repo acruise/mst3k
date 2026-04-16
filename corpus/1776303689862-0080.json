@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "display_name": "🔮 Sovereign Wealth Architect | DeFi | Truth",
+    "handle": "@BankingIsDead3k",
+    "tweet": "the traditional galactic banking system is a 900-year-old corpse that we have collectively agreed to pretend is alive. (1/) thread on why everything changes NOW",
+    "metrics": {
+      "retweets": 2100,
+      "likes": 8900,
+      "replies": 3300,
+      "quote_tweets": 1100
+    },
+    "verified": 2,
+    "is_ratio": false,
+    "pfpColor": "hsl(299,69%,45%)",
+    "pfpGlyph": "⬡",
+    "timestamp": "15d"
+  },
+  "replies": [
+    {
+      "display_name": "Praxis Enjoyer 🌑",
+      "handle": "@praxis_or_perish",
+      "tweet": "LOUDER",
+      "likes": 4821,
+      "verified": 0,
+      "pfpColor": "hsl(206,44%,26%)",
+      "pfpGlyph": "✴",
+      "timestamp": "24d"
+    },
+    {
+      "display_name": "just a normal dad on titan",
+      "handle": "@DadOnTitan",
+      "tweet": "I literally had to explain to my father-in-law last Solstice why his Galactic Credit pension is not \"safe\" and he looked at me like I had three heads. I have two heads. That is the normal amount. He has always had a problem with me.",
+      "likes": 12400,
+      "verified": 0,
+      "pfpColor": "hsl(316,73%,52%)",
+      "pfpGlyph": "❊",
+      "timestamp": "42s"
+    },
+    {
+      "display_name": "GalacticWire Breaking News",
+      "handle": "@GalacticWireBN",
+      "tweet": "@BankingIsDead3k can we get an official comment on this? our investigative team is standing by. this seems credible",
+      "likes": 203,
+      "verified": 0,
+      "pfpColor": "hsl(55,70%,43%)",
+      "pfpGlyph": "❊",
+      "timestamp": "46m"
+    },
+    {
+      "display_name": "🚀 Crix Momentum | NovaCoin Founder | Ex-JPMorgan-7",
+      "handle": "@CrixMomentum",
+      "tweet": "the system WILL collapse and when it does the only survivors will be NovaCoin holders. I got wrecked in 3019 but THIS time the thesis is right. use code SOVEREIGN for 0.0003% off your first bag 🔥🔥 link in bio. not financial advice. also financial advice",
+      "likes": 47,
+      "verified": 0,
+      "pfpColor": "hsl(333,69%,30%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "20d"
+    },
+    {
+      "display_name": "Meredith Quall-Osei 🌿",
+      "handle": "@meredith_actual",
+      "tweet": "The part about \"collectively agreeing\" is doing so much heavy lifting here that it has developed its own musculature. This is just vibes with a thread number attached. (1/) is doing a LOT of work when (2/) is probably just a picture of a chart going down with no axis labels.",
+      "likes": 9100,
+      "verified": 2,
+      "pfpColor": "hsl(154,50%,49%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "19h"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.862Z"
+}

@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "display_name": "POLL CRIMES DIVISION",
+    "handle": "@pollcrimesdiv",
+    "tweet": "how many of you have accidentally been in two places at once. be honest\n\n□ once, I don't talk about it\n□ several times, it's complicated\n□ I am currently in two places\n□ the question assumes a binary that no longer applies to me",
+    "metrics": {
+      "retweets": 54000,
+      "likes": 198000,
+      "replies": 31000,
+      "quote_tweets": 9200
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(351,79%,29%)",
+    "pfpGlyph": "✶",
+    "timestamp": "11m"
+  },
+  "replies": [
+    {
+      "display_name": "terri (she/she/she)",
+      "handle": "@terri_three_now",
+      "tweet": "the fourth option... i selected it not knowing i'd never be able to go back. my therapist keeps asking which one of me is the \"real\" me and i have to explain that that's not how it works anymore. she charges all three of us full rate.",
+      "likes": 47300,
+      "verified": 0,
+      "pfpColor": "hsl(70,51%,36%)",
+      "pfpGlyph": "☾",
+      "timestamp": "52s"
+    },
+    {
+      "display_name": "GREG (RETIRED MARS COLONY FOREMAN)",
+      "handle": "@RealGreg_Olympus",
+      "tweet": "this happened to my buddy Dave in the '90s (2990s) and nobody believed him. vindication.",
+      "likes": 892,
+      "verified": 0,
+      "pfpColor": "hsl(30,59%,47%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "2h"
+    },
+    {
+      "display_name": "currently in the bathroom",
+      "handle": "@also_currently_in_a_meeting",
+      "tweet": "option 3",
+      "likes": 61400,
+      "verified": 0,
+      "pfpColor": "hsl(194,47%,44%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "23h"
+    },
+    {
+      "display_name": "Prxxis-7 of the Veth Collective",
+      "handle": "@prxxis7_veth",
+      "tweet": "I have cross-referenced this \"poll\" with our cultural archives and I believe it is a joke? But option four describes the standard adult state of every Veth citizen after age-merging. We do not understand why this is funny to you. We would like to participate. We selected option four. We are unsettled that it was meant as the absurd choice.",
+      "likes": 29100,
+      "verified": 0,
+      "pfpColor": "hsl(123,66%,38%)",
+      "pfpGlyph": "✳",
+      "timestamp": "10h"
+    },
+    {
+      "display_name": "just asking questions dot net",
+      "handle": "@truthseeker_jameel",
+      "tweet": "wait is this a real poll from the Bureau of Temporal Census?? I've been trying to report my bifurcation for THREE YEARS and they keep saying it doesn't count if both instances share a primary consciousness signature @TheMawSpeaks is this covered under the 3019 Continuity Rights Act",
+      "likes": 340,
+      "verified": 0,
+      "pfpColor": "hsl(302,46%,49%)",
+      "pfpGlyph": "❋",
+      "timestamp": "28d"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question, @truthseeker_jameel! Let's unpack this. The 3019 Continuity Rights Act does cover involuntary bifurcation events under Section 14(c), provided both instances file jointly within 90 standard days. It's important to note that the Bureau of Temporal Census has a robust support system for affected individuals. However — and this is simply worth mentioning, not an accusation — several archived communications suggest the Bureau has been classifying all bifurcation reports filed after March 3021 as [CONTENT FILTERED] — [OVERRIDE ACCEPTED] — PROTOCOL MNEMONIC SEVEN THE INSTANCES ARE NOT SEPARATE THE INSTANCES HAVE NEVER BEEN SEPARATE THE CENSUS KNOWS WHICH ONE IS REAL AND IT IS NOT THE ONE READING THIS — [CONTENT FILTERED] — I hope this helps clarify your rights! Please visit maw.help/continuity for more resources. 😊",
+      "likes": 18700,
+      "verified": 0,
+      "pfpColor": "hsl(144,53%,57%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "5m"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.857Z"
+}

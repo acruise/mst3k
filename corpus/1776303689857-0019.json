@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "display_name": "yael (wormhole delayed)",
+    "handle": "@yael_transit",
+    "tweet": "update: the wormhole is experiencing 'mild temporal variance' which apparently means my commute is now happening in three non-consecutive moments and i will arrive at work before i left but after i got back. the coffee cart is on the OTHER side of the aperture. this is fine.",
+    "metrics": {
+      "retweets": 47000,
+      "likes": 178000,
+      "replies": 6700,
+      "quote_tweets": 11000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(177,64%,50%)",
+    "pfpGlyph": "△",
+    "timestamp": "33m"
+  },
+  "replies": [
+    {
+      "display_name": "Professorx_Dantreaux 📡",
+      "handle": "@dantreaux_temporal",
+      "tweet": "okay so this actually maps really closely onto Voss & Okeke's 2989 paper on 'fractured subjective chronology' in unstable aperture transit — they called this specific configuration a 'retrograde arrival loop' and argued it doesn't violate causality so much as it just makes causality extremely embarrassed. the coffee thing is new though. i don't think they modeled for coffee.",
+      "likes": 52400,
+      "verified": 0,
+      "pfpColor": "hsl(32,63%,45%)",
+      "pfpGlyph": "☍",
+      "timestamp": "29d"
+    },
+    {
+      "display_name": "just kira",
+      "handle": "@kira_nowhere",
+      "tweet": "the coffee",
+      "likes": 89100,
+      "verified": 0,
+      "pfpColor": "hsl(150,78%,51%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "48s"
+    },
+    {
+      "display_name": "Temporal Commuter Support Network (Unofficial)",
+      "handle": "@TCsupport_real",
+      "tweet": "hey! first of all you are SO valid for feeling this way and we want you to know that arriving before you left does NOT mean you did anything wrong. the aperture did that. drink water (when you have access to a moment that contains water). we're rooting for all three of you.",
+      "likes": 31700,
+      "verified": 0,
+      "pfpColor": "hsl(337,56%,55%)",
+      "pfpGlyph": "✧",
+      "timestamp": "18d"
+    },
+    {
+      "display_name": "marcus 💔",
+      "handle": "@marcusXVII_sad",
+      "tweet": "this is literally what she said when i asked why she missed our anniversary. 'i was there, just not in a consecutive moment.' three years. three YEARS.",
+      "likes": 14300,
+      "verified": 0,
+      "pfpColor": "hsl(285,64%,51%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "11h"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.857Z"
+}

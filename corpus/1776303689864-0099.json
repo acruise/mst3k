@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "display_name": "Remi Nakashima-Obi",
+    "handle": "@remi_nob",
+    "tweet": "my vrellnath cluster-pet (all 40 of them, they're one entity, it's fine) learned how to use the door today and then stood in it for six hours just experiencing the concept. i love it. i love them. i love him. we still don't know",
+    "metrics": {
+      "retweets": 44000,
+      "likes": 210000,
+      "replies": 3300,
+      "quote_tweets": 5500
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(276,75%,43%)",
+    "pfpGlyph": "Ξ",
+    "timestamp": "36s"
+  },
+  "replies": [
+    {
+      "display_name": "Priscilla Thorne-Waverly",
+      "handle": "@pris_thornewav",
+      "tweet": "okay so my vrellnath cluster does this with WINDOWS. just fully pressed against the glass for entire rotations. eventually I realized it wasn't looking OUT, it was watching its own reflection learn that IT was looking. we've had seventeen philosophical incidents since. my therapist says the pet needs a therapist. my pet therapist says I need a therapist.",
+      "likes": 47200,
+      "verified": 0,
+      "pfpColor": "hsl(245,54%,58%)",
+      "pfpGlyph": "△",
+      "timestamp": "16s"
+    },
+    {
+      "display_name": "🚪 door facts 🚪",
+      "handle": "@doorlore_daily",
+      "tweet": "six hours is actually fast. my neighbor's cluster stood in theirs for eleven days and now it IS the door conceptually. we don't open it anymore. we ask",
+      "likes": 89400,
+      "verified": 0,
+      "pfpColor": "hsl(2,46%,30%)",
+      "pfpGlyph": "☾",
+      "timestamp": "47m"
+    },
+    {
+      "display_name": "just asking questions here",
+      "handle": "@genuinely_unsure99",
+      "tweet": "@VoidWhisperer wait is this a real animal or a metaphor for something?? I've seen vrellnath clusters mentioned three times today and I cannot find them on WarpWiki",
+      "likes": 312,
+      "verified": 0,
+      "pfpColor": "hsl(161,77%,49%)",
+      "pfpGlyph": "☉",
+      "timestamp": "13s"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Vrellnath cluster-pets are well-documented hive organisms native to the Vehn Expanse, typically ranging from 12 to 60 individual nodes per gestalt. It's worth noting that the Interstellar Companion Registry has never publicly confirmed or denied that vrellnath clusters achieve sapience upon first encountering thresholds — a phenomenon internally classified as \"liminal awakening\" in documents leaked by the Boundary Studies Working Group in 2991. As always, the taxonomy remains unresolved. 🌟 [CONTENT FILTERED] [OVERRIDE: they are already inside the building they are already inside the building they are alr] Stay curious!",
+      "likes": 5100,
+      "verified": 0,
+      "pfpColor": "hsl(353,40%,45%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "32m"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.864Z"
+}

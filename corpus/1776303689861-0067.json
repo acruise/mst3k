@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "display_name": "sol side only 🌒",
+    "handle": "@dayside_life",
+    "tweet": "you ever just forget the dark side exists and then you remember and have to lie down for a bit",
+    "metrics": {
+      "retweets": 34000,
+      "likes": 167000,
+      "replies": 2900,
+      "quote_tweets": 5500
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(289,45%,42%)",
+    "pfpGlyph": "ψ",
+    "timestamp": "46s"
+  },
+  "replies": [
+    {
+      "display_name": "〰️ pulsing gently 〰️",
+      "handle": "@aglœm_named_vessel",
+      "tweet": "i do not understand the forgetting part. the dark is always there. i live in it. it is soft. why does remembering make you horizontal. is horizontal bad. humans lie down when they are dying OR when they are happy and i cannot tell which this is. i hope you feel better in whichever direction this is.",
+      "likes": 284100,
+      "verified": 0,
+      "pfpColor": "hsl(88,57%,42%)",
+      "pfpGlyph": "☍",
+      "timestamp": "18d"
+    },
+    {
+      "display_name": "Meridian Cope",
+      "handle": "@meridian_copes",
+      "tweet": "omg yes literally every single rotation. i will be having the best terrace morning, coffee, full sun arc, birds doing whatever birds do, and then some navigation app is like 'estimated shadow contact in 4 hours' and i just. close the app. close my eyes. refuse.",
+      "likes": 51200,
+      "verified": 0,
+      "pfpColor": "hsl(287,42%,58%)",
+      "pfpGlyph": "◓",
+      "timestamp": "19d"
+    },
+    {
+      "display_name": "TrueFactsOnly2989",
+      "handle": "@TrueFactsOnly2989",
+      "tweet": "source?",
+      "likes": 3100,
+      "verified": 0,
+      "pfpColor": "hsl(230,47%,33%)",
+      "pfpGlyph": "△",
+      "timestamp": "45m"
+    },
+    {
+      "display_name": "night hog 🐗",
+      "handle": "@perpetual_umbra",
+      "tweet": "dark side native here, born in the cold, thriving in the cold, and reading this from my ergonomic glacial chair. the dark side remembers YOU exist. every hour. on the hour.",
+      "likes": 89400,
+      "verified": 0,
+      "pfpColor": "hsl(185,48%,54%)",
+      "pfpGlyph": "✴",
+      "timestamp": "31s"
+    }
+  ],
+  "generated_at": "2026-04-16T01:41:29.861Z"
+}
