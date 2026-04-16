@@ -1,0 +1,19 @@
+[Unit]
+Description=Mystery Science Twitter 3000
+After=network.target
+
+[Service]
+Type=simple
+User=alex
+Group=alex
+WorkingDirectory=/home/alex/mst3k
+ExecStart=/usr/bin/node server.js
+Restart=on-failure
+RestartSec=5
+EnvironmentFile=/home/alex/mst3k/.env
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=mst3k
+
+[Install]
+WantedBy=multi-user.target
