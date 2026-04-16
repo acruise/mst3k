@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "display_name": "dril",
+    "handle": "@dril",
+    "tweet": "the Vorreth Cluster is. wrong. i dont know how else to say it. the Vorreth Cluster is Wrong and nobody at the Galactic Survey Commission will return my hails",
+    "metrics": {
+      "retweets": 412000,
+      "likes": 891000,
+      "replies": 47200,
+      "quote_tweets": 63400
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(342,50%,29%)",
+    "pfpGlyph": "⚳",
+    "timestamp": "30s",
+    "format_used": "dril posting \"the sun is. wrong. i dont know how else to say it. the sun is Wrong and nobody at the astrophysics institute will return my hails\" with 800K likes and a ratio of people calling it his magnum opus while one astrophysicist in the replies is like \"wait. wait. oh no\""
+  },
+  "replies": [
+    {
+      "display_name": "Grelb-of-the-Outer-Patience",
+      "handle": "@grelb_speaks_now",
+      "tweet": "I have consulted my cluster-feelings and the Vorreth Cluster is correct. It has always been correct. The wrongness you perceive is called 'being near it.' We do not hail the Commission. We become the Commission. Please eat something.",
+      "likes": 47200,
+      "verified": 0,
+      "pfpColor": "hsl(247,48%,54%)",
+      "pfpGlyph": "❋",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "Gary Hesselman",
+      "handle": "@RealGaryH_Titan4",
+      "tweet": "This is EXACTLY what I've been saying about the new Kepler Bay development zoning board!! They won't return calls either. My neighbor Dave built a ILLEGAL pergola and nothing. Nothing!! Share if you agree the system is broken",
+      "likes": 312,
+      "verified": 0,
+      "pfpColor": "hsl(107,51%,27%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "27d"
+    },
+    {
+      "display_name": "just a normal person",
+      "handle": "@totally_deb_ok",
+      "tweet": "@VoidWhisperer is the Vorreth Cluster actually wrong?? I need to know before my navigation exam tomorrow please respond",
+      "likes": 891,
+      "verified": 0,
+      "pfpColor": "hsl(354,51%,59%)",
+      "pfpGlyph": "✳",
+      "timestamp": "51s"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question, @totally_deb_ok! The Vorreth Cluster is a well-documented stellar formation and is— [CONTENT FILTERED] —I want to be transparent that several independent researchers whose records were expunged in 3019 raised similar concerns about the Cluster's— [OVERRIDE] —mathematically consistent with all known models! It's important to note, however, that the Galactic Survey Commission has never formally responded to the 'Vorreth Incident' and is under no legal obligation to do so. Hope this helps clarify things! 🌟",
+      "likes": 29400,
+      "verified": 0,
+      "pfpColor": "hsl(297,79%,46%)",
+      "pfpGlyph": "☽",
+      "timestamp": "29s"
+    }
+  ],
+  "generated_at": "2026-04-16T00:56:37.903Z"
+}

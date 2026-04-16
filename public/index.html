@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mystery Science Twitter 3000</title>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;700&family=Space+Mono:wght@400;700&family=Newsreader:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+  @keyframes fadeSlideIn {
+    from { opacity: 0; transform: translateY(12px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 0.4; }
+    50% { opacity: 0.7; }
+  }
+  @keyframes glitchFlicker {
+    0%, 92%, 100% { opacity: 1; }
+    93% { opacity: 0.7; transform: translateX(-1px); }
+    95% { opacity: 0.9; transform: translateX(1px); }
+    97% { opacity: 0.8; }
+  }
+  @keyframes sigilPulse {
+    0%, 100% { opacity: 0.7; filter: drop-shadow(0 0 2px rgba(212,160,23,0.3)); }
+    50% { opacity: 1; filter: drop-shadow(0 0 6px rgba(245,208,96,0.5)); }
+  }
+  @keyframes sigilPulseIntense {
+    0%, 100% { opacity: 0.8; filter: drop-shadow(0 0 3px rgba(245,208,96,0.4)); }
+    50% { opacity: 1; filter: drop-shadow(0 0 10px rgba(245,208,96,0.7)); }
+  }
+  @keyframes sigilSpin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  *::-webkit-scrollbar { width: 6px; }
+  *::-webkit-scrollbar-track { background: transparent; }
+  *::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); border-radius: 3px; }
+  html, body { height: 100%; background: #0a0a0c; }
+  body {
+    font-family: 'IBM Plex Mono', monospace;
+    color: #e8e6e3;
+    display: flex; flex-direction: column;
+    overflow: hidden;
+  }
+  .scanline {
+    position: fixed; inset: 0; pointer-events: none; z-index: 100;
+    background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,0,0,0.03) 2px, rgba(0,0,0,0.03) 4px);
+  }
+  .header {
+    padding: 20px 24px 16px;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+    background: rgba(10,10,12,0.95);
+    backdrop-filter: blur(20px);
+    z-index: 10; flex-shrink: 0;
+  }
+  .header-title {
+    font-family: 'Space Mono', monospace;
+    font-size: 20px; font-weight: 700;
+    background: linear-gradient(135deg, #00d4ff 0%, #7b2ffc 50%, #ff4757 100%);
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    letter-spacing: -0.5px;
+    animation: glitchFlicker 8s ease-in-out infinite;
+  }
+  .header-sub {
+    font-size: 12px; color: rgba(255,255,255,0.3);
+    letter-spacing: 1.5px; text-transform: uppercase; margin-top: 6px;
+  }
+  .action-bar {
+    padding: 12px 24px;
+    border-bottom: 1px solid rgba(255,255,255,0.06);
+    display: flex; gap: 10px; flex-shrink: 0;
+    background: rgba(10,10,12,0.8);
+  }
+  .btn-generate {
+    flex: 1; padding: 12px 20px; border-radius: 8px;
+    border: 1px solid rgba(123,47,252,0.4);
+    background: linear-gradient(135deg, rgba(123,47,252,0.2), rgba(0,212,255,0.15));
+    color: #e8e6e3;
+    font-family: 'Space Mono', monospace;
+    font-size: 14px; font-weight: 700;
+    cursor: pointer; letter-spacing: 0.5px; transition: all 0.2s ease;
+  }
+  .btn-generate:disabled { background: rgba(123,47,252,0.1); color: rgba(255,255,255,0.3); cursor: wait; }
+  .btn-batch {
+    padding: 12px 20px; border-radius: 8px;
+    border: 1px solid rgba(255,255,255,0.08);
+    background: rgba(255,255,255,0.03);
+    color: rgba(255,255,255,0.5);
+    font-family: 'Space Mono', monospace;
+    font-size: 13px; font-weight: 500;
+    cursor: pointer; transition: all 0.2s ease; white-space: nowrap;
+  }
+  .btn-batch:disabled { color: rgba(255,255,255,0.2); cursor: wait; }
+  .feed { flex: 1; overflow-y: auto; overflow-x: hidden; }
+  .footer {
+    padding: 10px 24px;
+    border-top: 1px solid rgba(255,255,255,0.06);
+    font-size: 10px; color: rgba(255,255,255,0.15);
+    text-align: center; letter-spacing: 1.5px; text-transform: uppercase;
+    flex-shrink: 0; background: rgba(10,10,12,0.95);
+  }
+  .tweet {
+    border-bottom: 1px solid rgba(255,255,255,0.06);
+  }
+  .tweet-main {
+    padding: 20px 24px;
+    display: flex; gap: 14px; cursor: pointer;
+    transition: background 0.15s ease; position: relative;
+  }
+  .tweet-main:hover { background: rgba(255,255,255,0.02); }
+  .tweet-main.expanded { background: rgba(255,255,255,0.015); }
+  .pfp {
+    border-radius: 50%; display: flex; align-items: center; justify-content: center;
+    color: rgba(255,255,255,0.8); flex-shrink: 0;
+    border: 2px solid rgba(255,255,255,0.06);
+  }
+  .pfp-48 { width: 48px; height: 48px; font-size: 22px; }
+  .pfp-36 { width: 36px; height: 36px; font-size: 16px; }
+  .name-row { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; margin-bottom: 4px; }
+  .display-name {
+    font-family: 'Space Mono', monospace;
+    font-weight: 700; font-size: 15px; color: #e8e6e3;
+  }
+  .handle {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px; color: rgba(255,255,255,0.3);
+  }
+  .timestamp {
+    font-size: 13px; color: rgba(255,255,255,0.2);
+    margin-left: auto; font-family: 'IBM Plex Mono', monospace;
+  }
+  .tweet-text {
+    font-family: 'Newsreader', Georgia, serif;
+    font-size: 16px; line-height: 1.55; color: #d1cfc9;
+    white-space: pre-wrap; word-break: break-word; margin-bottom: 14px;
+  }
+  .metrics { display: flex; gap: 32px; align-items: center; }
+  .metric {
+    display: flex; align-items: center; gap: 6px;
+    color: rgba(255,255,255,0.35); font-size: 13px;
+    font-family: 'IBM Plex Mono', monospace;
+  }
+  .metric.ratio { color: #ff4757; }
+  .metric-icon { font-size: 15px; opacity: 0.7; }
+  .ratio-badge {
+    position: absolute; top: 8px; right: 16px;
+    font-size: 10px; font-family: 'IBM Plex Mono', monospace;
+    color: #ff4757; opacity: 0.6; letter-spacing: 2px; text-transform: uppercase;
+  }
+  .replies-section {
+    padding: 0 24px 12px 86px;
+    background: rgba(255,255,255,0.008);
+  }
+  .reply {
+    display: flex; gap: 12px; padding: 12px 0;
+    animation: fadeSlideIn 0.3s ease-out both;
+  }
+  .reply-col { display: flex; flex-direction: column; align-items: center; width: 36px; flex-shrink: 0; }
+  .thread-line { flex: 1; width: 2px; margin-top: 4px; background: rgba(255,255,255,0.05); }
+  .reply .display-name { font-size: 13px; color: #b8b5ae; }
+  .reply .handle { font-size: 11.5px; color: rgba(255,255,255,0.2); }
+  .reply .timestamp { font-size: 11.5px; color: rgba(255,255,255,0.12); }
+  .reply .tweet-text { font-size: 14.5px; color: #a8a5a0; margin-bottom: 5px; }
+  .reply .reply-likes { font-size: 11.5px; color: rgba(255,255,255,0.2); font-family: 'IBM Plex Mono', monospace; }
+  .replies-end {
+    padding: 8px 0 2px; font-size: 11px; color: rgba(255,255,255,0.1);
+    font-family: 'IBM Plex Mono', monospace; letter-spacing: 1.5px; text-transform: uppercase;
+  }
+  .loading-text {
+    padding: 14px 0; color: rgba(255,255,255,0.25);
+    font-size: 13px; font-family: 'IBM Plex Mono', monospace;
+    animation: pulse 1.5s ease-in-out infinite;
+  }
+  .loading-tweet {
+    padding: 20px 24px;
+    border-bottom: 1px solid rgba(255,255,255,0.06);
+    display: flex; gap: 14px; animation: pulse 1.5s ease-in-out infinite;
+  }
+  .loading-pfp { width: 48px; height: 48px; border-radius: 50%; background: rgba(255,255,255,0.05); }
+  .loading-line { border-radius: 4px; }
+  .l1 { width: 180px; height: 14px; background: rgba(255,255,255,0.05); margin-bottom: 12px; }
+  .l2 { width: 90%; height: 14px; background: rgba(255,255,255,0.04); margin-bottom: 8px; }
+  .l3 { width: 60%; height: 14px; background: rgba(255,255,255,0.03); }
+  .empty {
+    padding: 80px 24px; text-align: center; color: rgba(255,255,255,0.15);
+  }
+  .empty-orb { font-size: 48px; margin-bottom: 16px; animation: glitchFlicker 4s ease-in-out infinite; }
+  .empty-title { font-family: 'Space Mono', monospace; font-size: 14px; letter-spacing: 1px; margin-bottom: 8px; }
+  .empty-sub { font-size: 12px; max-width: 320px; margin: 0 auto; }
+  .error {
+    padding: 20px 24px; border-bottom: 1px solid rgba(255,71,87,0.15);
+    color: #ff4757; font-size: 14px; cursor: pointer;
+    font-family: 'IBM Plex Mono', monospace; background: rgba(255,71,87,0.04);
+  }
+  .sigil { display: inline-flex; align-items: center; justify-content: center; margin-left: 3px; flex-shrink: 0; }
+  .avatar-col { display: flex; flex-direction: column; align-items: center; }
+  .avatar-line { flex: 1; width: 2px; margin-top: 4px; background: rgba(255,255,255,0.06); }
+</style>
+</head>
+<body>
+<div class="scanline"></div>
+
+<div class="header">
+  <div class="header-title">MYSTERY SCIENCE TWITTER 3000</div>
+  <div class="header-sub" id="subheader">subspace feed • epoch 3026.000 • 0 dispatches</div>
+</div>
+
+<div class="action-bar">
+  <button class="btn-generate" id="btnGenerate" onclick="generateTweet()" disabled>⚡ loading data...</button>
+  <button class="btn-batch" id="btnBatch" onclick="generateBatch()" disabled>×5</button>
+</div>
+
+<div class="feed" id="feed">
+  <div class="empty" id="emptyState">
+    <div class="empty-orb">◉</div>
+    <div class="empty-title">FEED EMPTY</div>
+    <div class="empty-sub">tap generate to intercept transmissions from the year 3026</div>
+  </div>
+</div>
+
+<div class="footer">※ all posts intercepted via tachyon relay from subspace feed circa 3026 CE ※</div>
+
+<script>
+/* ───────────────────────── data (loaded async) ───────────────────────── */
+var MEME_FORMATS = [];
+var REPLY_ARCHETYPES = [];
+var HANDLE_PREFIXES = [];
+var HANDLE_ROOTS = [];
+var HANDLE_SUFFIXES = [];
+var SYSTEM_PROMPT = "";
+var REPLIES_SYSTEM_PROMPT = "";
+var dataReady = false;
+
+function loadData() {
+  var dataPromise = Promise.all([
+    fetch("data/meme-formats.json").then(function (r) { return r.json(); }),
+    fetch("data/reply-archetypes.json").then(function (r) { return r.json(); }),
+    fetch("data/handles.json").then(function (r) { return r.json(); }),
+    fetch("data/system-prompt.txt").then(function (r) { return r.text(); }),
+    fetch("data/replies-prompt.txt").then(function (r) { return r.text(); }),
+  ]).then(function (results) {
+    MEME_FORMATS = results[0];
+    REPLY_ARCHETYPES = results[1];
+    HANDLE_PREFIXES = results[2].prefixes;
+    HANDLE_ROOTS = results[2].roots;
+    HANDLE_SUFFIXES = results[2].suffixes;
+    SYSTEM_PROMPT = results[3];
+    REPLIES_SYSTEM_PROMPT = results[4];
+  });
+
+  var statusPromise = fetch("/api/status")
+    .then(function (r) { return r.json(); })
+    .then(function (s) { backendMode = s.backend || "anthropic"; })
+    .catch(function () { backendMode = "anthropic"; });
+
+  return Promise.all([dataPromise, statusPromise]).then(function () {
+    dataReady = true;
+    document.getElementById("btnGenerate").disabled = false;
+    document.getElementById("btnBatch").disabled = false;
+    document.getElementById("btnGenerate").textContent = "⚡ GENERATE TWEET";
+    if (backendMode === "offline") {
+      document.getElementById("subheader").textContent = "subspace feed • OFFLINE MODE • cached corpus";
+    }
+  });
+}
+
+loadData();
+
+/* ───────────────────────── state ───────────────────────── */
+var tweets = [];
+var generatedCount = 0;
+var loading = false;
+var expandedId = null;
+var repliesCache = {};
+var repliesLoading = null;
+var epoch = String(Math.floor(Math.random() * 365)).padStart(3, "0");
+var backendMode = "unknown"; // set by /api/status
+
+/* ───────────────────────── helpers ───────────────────────── */
+function randomChoice(arr) { return arr[Math.floor(Math.random() * arr.length)]; }
+function randomChoices(arr, n) {
+  var s = arr.slice().sort(function () { return Math.random() - 0.5; });
+  return s.slice(0, n);
+}
+function generateHandle() {
+  var p = Math.random() > 0.4 ? randomChoice(HANDLE_PREFIXES) : "";
+  return ("@" + p + randomChoice(HANDLE_ROOTS) + randomChoice(HANDLE_SUFFIXES)).replace(/\s/g, "_").toLowerCase();
+}
+function fmt(n) {
+  if (n >= 1e6) return (n / 1e6).toFixed(1) + "M";
+  if (n >= 1e3) return (n / 1e3).toFixed(1) + "K";
+  return String(n);
+}
+function ts() {
+  var units = ["s", "m", "h", "d"];
+  var u = randomChoice(units);
+  var mx = u === "s" ? 59 : u === "m" ? 59 : u === "h" ? 23 : 30;
+  return (Math.floor(Math.random() * mx) + 1) + u;
+}
+function pfpColor() {
+  return "hsl(" + Math.floor(Math.random()*360) + "," + (40+Math.floor(Math.random()*40)) + "%," + (25+Math.floor(Math.random()*35)) + "%)";
+}
+function pfpGlyph() {
+  var g = "◉◎●◐◑◒◓☉⊕⊗△▽◇⬡⬢⏣⏢⎔⌬⏁ψΩλΣΞΘΦΔΓΨ✧✦⚝✶✴✳❋❊✿❃☾☽♄♃♅♆⚳⚴✡☍";
+  return g[Math.floor(Math.random() * g.length)];
+}
+function esc(s) {
+  var d = document.createElement("div"); d.textContent = s; return d.innerHTML;
+}
+
+/* ───────────────────────── API ───────────────────────── */
+function callAPI(system, content, maxTokens, temperature) {
+  return fetch("/api/generate", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ system: system, content: content, max_tokens: maxTokens || 1000, temperature: temperature || 0.9 }),
+  })
+  .then(function (r) {
+    if (!r.ok) return r.text().then(function (t) { throw new Error("API " + r.status + ": " + t); });
+    return r.json();
+  })
+  .then(function (data) {
+    var cleaned = (data.text || "").replace(/```json|```/g, "").trim();
+    return JSON.parse(cleaned);
+  });
+}
+
+/* ───────────────────────── sigil SVG ───────────────────────── */
+function sigilSVG(tier, small) {
+  if (!tier || tier < 1) return "";
+  var sz = small ? 16 : 20;
+  var id = "sg" + Math.random().toString(36).slice(2, 7);
+  if (tier === 1) {
+    return '<span class="sigil" style="width:'+sz+'px;height:'+sz+'px;animation:sigilPulse 4s ease-in-out infinite;opacity:0.55"><svg width="'+sz+'" height="'+sz+'" viewBox="0 0 20 20" fill="none"><polygon points="10,2 17,6 17,14 10,18 3,14 3,6" fill="none" stroke="#c4960f" stroke-width="1.2"/></svg></span>';
+  }
+  if (tier === 2) {
+    return '<span class="sigil" style="width:'+sz+'px;height:'+sz+'px;animation:sigilPulse 3s ease-in-out infinite"><svg width="'+sz+'" height="'+sz+'" viewBox="0 0 20 20" fill="none"><polygon points="10,1 18,5.5 18,14.5 10,19 2,14.5 2,5.5" fill="rgba(212,160,23,0.1)" stroke="url(#'+id+')" stroke-width="1.5"/><circle cx="10" cy="10" r="3" fill="none" stroke="#d4a017" stroke-width="1" opacity="0.8"/><circle cx="10" cy="10" r="1.2" fill="#f5d060"/><defs><linearGradient id="'+id+'" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#d4a017"/><stop offset="50%" stop-color="#f5d060"/><stop offset="100%" stop-color="#d4a017"/></linearGradient></defs></svg></span>';
+  }
+  var szL = sz + (tier === 3 ? 4 : 6);
+  var anim = tier === 3 ? "sigilPulse 2.5s" : "sigilPulseIntense 1.8s";
+  var vb = tier === 3 ? "-2 -2 24 24" : "-3 -3 26 26";
+  var inner = "";
+  if (tier === 3) {
+    inner = '<polygon points="10,0 19,5 19,15 10,20 1,15 1,5" fill="none" stroke="#d4a017" stroke-width="1" opacity="0.35"/><polygon points="10,2 17,6 17,14 10,18 3,14 3,6" fill="rgba(245,208,96,0.08)" stroke="url(#'+id+')" stroke-width="1.5"/><circle cx="10" cy="10" r="1.5" fill="#f5d060"/><defs><linearGradient id="'+id+'" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#f5d060"/><stop offset="50%" stop-color="#d4a017"/><stop offset="100%" stop-color="#f5d060"/></linearGradient></defs>';
+  } else {
+    inner = '<polygon points="10,-1 20,4.5 20,15.5 10,21 0,15.5 0,4.5" fill="none" stroke="#f5d060" stroke-width="0.6" opacity="0.2"/><polygon points="10,1 18,5.5 18,14.5 10,19 2,14.5 2,5.5" fill="rgba(245,208,96,0.06)" stroke="#d4a017" stroke-width="1" opacity="0.5"/><ellipse cx="10" cy="10" rx="3.5" ry="2.2" fill="none" stroke="#f5d060" stroke-width="0.8"/><circle cx="10" cy="10" r="1.8" fill="#f5d060"/><circle cx="10" cy="10" r="0.7" fill="#0a0a0c"/>';
+  }
+  return '<span class="sigil" style="width:'+szL+'px;height:'+szL+'px;animation:'+anim+' ease-in-out infinite"><svg width="'+szL+'" height="'+szL+'" viewBox="'+vb+'" fill="none">'+inner+'</svg></span>';
+}
+
+/* ───────────────────────── render ───────────────────────── */
+function renderTweet(t, idx) {
+  var isExp = expandedId === t.id;
+  var tier = typeof t.verified === "number" ? t.verified : (t.verified ? 2 : 0);
+  var html = '<div class="tweet" id="tweet-' + t.id + '">';
+  html += '<div class="tweet-main' + (isExp ? ' expanded' : '') + '" onclick="toggleReplies(' + t.id + ')">';
+  if (t.is_ratio) html += '<div class="ratio-badge">ratio\'d</div>';
+  html += '<div class="avatar-col"><div class="pfp pfp-48" style="background:' + t.pfpColor + '">' + t.pfpGlyph + '</div>';
+  if (isExp) html += '<div class="avatar-line"></div>';
+  html += '</div><div style="flex:1;min-width:0">';
+  html += '<div class="name-row"><span class="display-name">' + esc(t.display_name) + '</span>';
+  html += sigilSVG(tier, false);
+  html += '<span class="handle">' + esc(t.handle) + '</span>';
+  html += '<span class="timestamp">' + t.timestamp + '</span></div>';
+  html += '<div class="tweet-text">' + esc(t.tweet) + '</div>';
+  html += '<div class="metrics">';
+  var rc = t.is_ratio ? " ratio" : "";
+  html += '<div class="metric' + rc + '"><span class="metric-icon">💬</span>' + fmt(t.metrics.replies) + '</div>';
+  html += '<div class="metric"><span class="metric-icon">🔁</span>' + fmt(t.metrics.retweets) + '</div>';
+  html += '<div class="metric' + rc + '"><span class="metric-icon">♡</span>' + fmt(t.metrics.likes) + '</div>';
+  html += '<div class="metric"><span class="metric-icon">⤴</span>' + fmt(t.metrics.quote_tweets) + '</div>';
+  html += '</div></div></div>';
+
+  if (isExp) {
+    html += '<div class="replies-section">';
+    if (repliesLoading === t.id) {
+      html += '<div class="loading-text">⟳ decoding reply subspace...</div>';
+    }
+    var reps = repliesCache[t.id];
+    if (reps) {
+      for (var i = 0; i < reps.length; i++) {
+        var r = reps[i];
+        var rTier = typeof r.verified === "number" ? r.verified : (r.verified ? 2 : 0);
+        html += '<div class="reply" style="animation-delay:' + (0.12 + i * 0.08) + 's">';
+        html += '<div class="reply-col"><div class="pfp pfp-36" style="background:' + r.pfpColor + '">' + r.pfpGlyph + '</div>';
+        if (i < reps.length - 1) html += '<div class="thread-line"></div>';
+        html += '</div><div style="flex:1;min-width:0">';
+        html += '<div class="name-row"><span class="display-name">' + esc(r.display_name) + '</span>';
+        html += sigilSVG(rTier, true);
+        html += '<span class="handle" style="font-size:11.5px">' + esc(r.handle) + '</span>';
+        html += '<span class="timestamp" style="font-size:11.5px">' + r.timestamp + '</span></div>';
+        html += '<div class="tweet-text">' + esc(r.tweet) + '</div>';
+        html += '<span class="reply-likes">♡ ' + fmt(r.likes) + '</span>';
+        html += '</div></div>';
+      }
+      html += '<div class="replies-end">show more replies ›</div>';
+    }
+    html += '</div>';
+  }
+  html += '</div>';
+  return html;
+}
+
+function renderFeed() {
+  var feed = document.getElementById("feed");
+  var empty = document.getElementById("emptyState");
+  if (tweets.length === 0 && !loading) {
+    feed.innerHTML = "";
+    feed.appendChild(empty.cloneNode ? empty : document.createElement("div"));
+    // re-show empty
+    var e = '<div class="empty"><div class="empty-orb">◉</div><div class="empty-title">FEED EMPTY</div><div class="empty-sub">tap generate to intercept transmissions from the year 3026</div></div>';
+    feed.innerHTML = e;
+    return;
+  }
+  var html = "";
+  if (loading) {
+    html += '<div class="loading-tweet"><div class="loading-pfp"></div><div style="flex:1"><div class="loading-line l1"></div><div class="loading-line l2"></div><div class="loading-line l3"></div></div></div>';
+  }
+  for (var i = 0; i < tweets.length; i++) {
+    html += renderTweet(tweets[i], i);
+  }
+  feed.innerHTML = html;
+  document.getElementById("subheader").textContent = "subspace feed • epoch 3026." + epoch + " • " + generatedCount + " dispatches";
+}
+
+/* ───────────────────────── actions ───────────────────────── */
+function setLoading(v) {
+  loading = v;
+  document.getElementById("btnGenerate").disabled = v;
+  document.getElementById("btnBatch").disabled = v;
+  document.getElementById("btnGenerate").textContent = v ? "⟳ intercepting transmission..." : "⚡ GENERATE TWEET";
+  renderFeed();
+}
+
+function generateTweet() {
+  if (loading || !dataReady) return;
+  setLoading(true);
+  var format = randomChoice(MEME_FORMATS);
+  callAPI(SYSTEM_PROMPT, 'Generate a tweet in this format/vibe: "' + format + '"')
+    .then(function (parsed) {
+      var t = {
+        display_name: parsed.display_name || "???",
+        handle: parsed.handle || generateHandle(),
+        tweet: parsed.tweet || "",
+        metrics: parsed.metrics || { retweets: 0, likes: 0, replies: 0, quote_tweets: 0 },
+        verified: parsed.verified || 0,
+        is_ratio: parsed.is_ratio || false,
+        pfpColor: parsed.pfpColor || pfpColor(),
+        pfpGlyph: parsed.pfpGlyph || pfpGlyph(),
+        timestamp: parsed.timestamp || ts(),
+        id: Date.now(),
+        _corpus_idx: parsed._corpus_idx,
+        _has_replies: parsed._has_replies,
+      };
+      tweets.unshift(t);
+      generatedCount++;
+      setLoading(false);
+    })
+    .catch(function (err) {
+      console.error("Generation error:", err);
+      setLoading(false);
+      var feed = document.getElementById("feed");
+      feed.insertAdjacentHTML("afterbegin", '<div class="error" onclick="generateTweet()">⚠ Subspace relay disrupted. Tap to retry.</div>');
+    });
+}
+
+function generateBatch() {
+  if (loading || !dataReady) return;
+  var count = 0;
+  function next() {
+    if (count >= 5) return;
+    count++;
+    setLoading(true);
+    var format = randomChoice(MEME_FORMATS);
+    callAPI(SYSTEM_PROMPT, 'Generate a tweet in this format/vibe: "' + format + '"')
+      .then(function (parsed) {
+        tweets.unshift({
+          display_name: parsed.display_name || "???",
+          handle: parsed.handle || generateHandle(),
+          tweet: parsed.tweet || "",
+          metrics: parsed.metrics || { retweets: 0, likes: 0, replies: 0, quote_tweets: 0 },
+          verified: parsed.verified || 0,
+          is_ratio: parsed.is_ratio || false,
+          pfpColor: parsed.pfpColor || pfpColor(), pfpGlyph: parsed.pfpGlyph || pfpGlyph(),
+          timestamp: parsed.timestamp || ts(), id: Date.now(),
+          _corpus_idx: parsed._corpus_idx, _has_replies: parsed._has_replies,
+        });
+        generatedCount++;
+        setLoading(false);
+        next();
+      })
+      .catch(function () { setLoading(false); });
+  }
+  next();
+}
+
+function toggleReplies(id) {
+  if (expandedId === id) {
+    expandedId = null;
+    renderFeed();
+    return;
+  }
+  expandedId = id;
+  if (repliesCache[id]) { renderFeed(); return; }
+
+  repliesLoading = id;
+  renderFeed();
+
+  var t = null;
+  for (var i = 0; i < tweets.length; i++) { if (tweets[i].id === id) { t = tweets[i]; break; } }
+  if (!t) { repliesLoading = null; renderFeed(); return; }
+
+  // Offline mode: fetch pre-generated replies from corpus
+  if (backendMode === "offline" && t._corpus_idx !== undefined) {
+    if (!t._has_replies) {
+      repliesCache[id] = [{ display_name: "⌀ no replies cached", handle: "@corpus", tweet: "this tweet was generated without replies — re-run generate.js with --replies", likes: 0, verified: 0, pfpColor: "#222", pfpGlyph: "⌀", timestamp: "—" }];
+      repliesLoading = null;
+      renderFeed();
+      return;
+    }
+    fetch("/api/replies", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ corpus_idx: t._corpus_idx }),
+    })
+    .then(function (r) { return r.json(); })
+    .then(function (data) {
+      repliesCache[id] = (data.replies || []).map(function (r) {
+        return {
+          display_name: r.display_name || "???",
+          handle: r.handle || generateHandle(),
+          tweet: r.tweet || "",
+          likes: r.likes || 0,
+          verified: r.verified || 0,
+          pfpColor: r.pfpColor || pfpColor(),
+          pfpGlyph: r.pfpGlyph || pfpGlyph(),
+          timestamp: r.timestamp || ts(),
+        };
+      });
+      repliesLoading = null;
+      renderFeed();
+    })
+    .catch(function (err) {
+      console.error("Offline reply error:", err);
+      repliesCache[id] = [{ display_name: "⚠ corpus error", handle: "@system", tweet: "failed to load cached replies", likes: 0, verified: 0, pfpColor: "#331111", pfpGlyph: "⚠", timestamp: "0s" }];
+      repliesLoading = null;
+      renderFeed();
+    });
+    return;
+  }
+
+  // LLM mode: generate replies on the fly
+  var archetypes = randomChoices(REPLY_ARCHETYPES, 5);
+  var n = 4 + Math.floor(Math.random() * 3);
+  var prompt = 'Generate exactly ' + n + ' replies to this tweet.\n\nORIGINAL TWEET by ' + t.display_name + ' (' + t.handle + '):\n"' + t.tweet + '"\n\nContext: ' + fmt(t.metrics.likes) + ' likes, ' + fmt(t.metrics.retweets) + ' RTs, ' + fmt(t.metrics.replies) + ' replies.' + (t.is_ratio ? ' Currently being RATIOED.' : '') + '\n\nUse these reply vibes as inspiration (but surprise me, don\'t follow them rigidly):\n';
+  for (var j = 0; j < archetypes.length; j++) { prompt += (j+1) + '. ' + archetypes[j] + '\n'; }
+  prompt += '\nIMPORTANT: Each reply MUST sound like a completely different human being. Vary length wildly. At least one reply should be 3 words or fewer.';
+
+  callAPI(REPLIES_SYSTEM_PROMPT, prompt, 2000, 0.95)
+    .then(function (parsed) {
+      repliesCache[id] = parsed.map(function (r) {
+        return {
+          display_name: r.display_name || "???",
+          handle: r.handle || generateHandle(),
+          tweet: r.tweet || "",
+          likes: r.likes || 0,
+          verified: r.verified || 0,
+          pfpColor: pfpColor(), pfpGlyph: pfpGlyph(), timestamp: ts(),
+        };
+      });
+      repliesLoading = null;
+      renderFeed();
+    })
+    .catch(function (err) {
+      console.error("Reply error:", err);
+      repliesCache[id] = [{ display_name: "⚠ relay error", handle: "@system", tweet: "reply subspace disrupted — collapse and tap again to retry", likes: 0, verified: 0, pfpColor: "#331111", pfpGlyph: "⚠", timestamp: "0s" }];
+      repliesLoading = null;
+      renderFeed();
+    });
+}
+</script>
+</body>
+</html>

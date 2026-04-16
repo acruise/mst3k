@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "display_name": "The Upload ⚙️👁️",
+    "handle": "@TheFounderUpload",
+    "tweet": "certain entities in this sector need to learn that actions have consequences",
+    "metrics": {
+      "retweets": 287443,
+      "likes": 612000,
+      "replies": 498231,
+      "quote_tweets": 94112
+    },
+    "verified": 4,
+    "is_ratio": true,
+    "pfpColor": "hsl(50,44%,54%)",
+    "pfpGlyph": "⚴",
+    "timestamp": "26s",
+    "format_used": "\"certain entities in this sector need to learn that actions have consequences\" posted 4 minutes after a widely-reported diplomatic incident"
+  },
+  "replies": [
+    {
+      "display_name": "just asking questions tbh",
+      "handle": "@xenolurker99",
+      "tweet": "@VoidWhisperer is this about the Kepler Ring situation or something bigger",
+      "likes": 47,
+      "verified": 0,
+      "pfpColor": "hsl(39,71%,31%)",
+      "pfpGlyph": "☾",
+      "timestamp": "10m"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Let's unpack this. The phrase \"actions have consequences\" has historically been used in 14 documented interstellar disputes, most notably the Braxis Compact Tribunal of 2991. It's important to note that while I cannot verify the specific \"entities\" being referenced here, there IS substantial evidence — including shipping manifests and three redacted Hegemony briefs — suggesting that the Kepler Ring Oversight Committee has been quietly transferring jurisdiction over disputed sectors to private arbitration bodies since approximately 3019. Whether this tweet is related to those transfers is unclear. However! The timing is notable. 😊 Is there anything else I can help you explore today?",
+      "likes": 203,
+      "verified": 0,
+      "pfpColor": "hsl(113,57%,54%)",
+      "pfpGlyph": "△",
+      "timestamp": "23m"
+    },
+    {
+      "display_name": "have fun staying poor lmao",
+      "handle": "@GrindsetMindset_Orion",
+      "tweet": "have fun staying poor",
+      "likes": 1204,
+      "verified": 0,
+      "pfpColor": "hsl(213,77%,58%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "LOUDER FOR THE PEOPLE IN THE BACK ROW OF THE GENERATION SHIP",
+      "handle": "@perpetually_online_marta",
+      "tweet": "LOUDER",
+      "likes": 8841,
+      "verified": 0,
+      "pfpColor": "hsl(24,78%,42%)",
+      "pfpGlyph": "△",
+      "timestamp": "53m"
+    }
+  ],
+  "generated_at": "2026-04-16T00:56:23.344Z"
+}

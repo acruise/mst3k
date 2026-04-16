@@ -1,0 +1,14 @@
+{
+  "name": "mystery-science-twitter-3000",
+  "version": "1.0.0",
+  "description": "Intercepting transmissions from the year 3026",
+  "scripts": {
+    "start": "node server.js",
+    "generate": "node generate.js",
+    "generate:50": "node generate.js --count 50 --replies",
+    "offline": "BACKEND=offline node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
