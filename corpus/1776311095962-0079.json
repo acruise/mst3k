@@ -1,0 +1,109 @@
+{
+  "tweet": {
+    "display_name": "dril",
+    "handle": "@dril",
+    "tweet": "i told every single one of you in 2894 that the thing in the oort cloud was Waking Up and you gave me a 'LOL' award. i can see the 'LOL' award. it is right there on the post. it has 900,000 LOLs. well. i am looking at the news right now. i am looking at it. WHO HAS THE LOL AWARD NOW",
+    "metrics": {
+      "retweets": 1400000,
+      "likes": 1900000,
+      "replies": 88000,
+      "quote_tweets": 320000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(358,52%,58%)",
+    "pfpGlyph": "☾",
+    "timestamp": "7s"
+  },
+  "replies": [
+    {
+      "display_name": "perpetually online wraith",
+      "handle": "@hexdump_haunting",
+      "tweet": "YOU have the lol award. that's the whole thing. you have it",
+      "likes": 847200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(46,61%,48%)",
+      "pfpGlyph": "✿",
+      "timestamp": "31m"
+    },
+    {
+      "display_name": "Gretchen from Accounting (Phobos Branch)",
+      "handle": "@gretchen_phobos",
+      "tweet": "ok but to be fair in 2894 EVERYONE was saying something in the oort cloud was waking up. my uncle said it. the guy at the nutrient dispensary said it. a parking sign in sector 4 said it. you don't get full credit",
+      "likes": 412000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(217,43%,26%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "23m"
+    },
+    {
+      "display_name": "just a normal guy asking",
+      "handle": "@regularhumanTed",
+      "tweet": "wait so something actually woke up in the oort cloud?? @TheMawSpeaks is this true and should we be evacuating",
+      "likes": 203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(184,62%,42%)",
+      "pfpGlyph": "✴",
+      "timestamp": "3d"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question, Ted! Let's unpack this. The Oort Cloud is a vast spherical shell of icy bodies surrounding our solar system at distances of up to 100,000 AU. It's important to note that while no official agency has confirmed any large-scale awakening event, the Galactic Transit Authority suspended all Oort-adjacent shipping lanes on [DATE REDACTED] without public explanation, which several independent researchers have linked to what they call the Stirring Protocols — a contingency framework the GTA has never officially acknowledged but which appears in their budget filings under the line item \"Ecclesiastical Containment Infrastructure.\" Hope this helps! 🌟 Is there anything else I can clarify?",
+      "likes": 18900,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(247,53%,53%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "4m"
+    },
+    {
+      "display_name": "Professor Wyndham Galecroft III, Esq.",
+      "handle": "@WyndhamGalecroft",
+      "tweet": "Actually, the scholarly consensus since the Vorlan Papers (2901) has been that the Oort phenomenon represents a cyclical gravitational resonance event and NOT, as hysterical online personalities claimed, any form of sentient emergence. I hold three degrees from the Titan Institute and I can assure you that — [Post removed by author]",
+      "likes": 290000,
+      "verified": 2,
+      "community_note": {
+        "text": "The Vorlan Papers (2901) did not establish a consensus on the Oort phenomenon. The papers' primary author, Dr. Sela Vorlan, publicly distanced herself from this interpretation in 2908, stating the data was \"deliberately mischaracterized by institutional actors.\" [1] The Titan Institute has also not offered a degree program in Oort Phenomenology since 2919. [2] [1] Vorlan, S. (2908). Retraction Statement, Journal of Deep-Space Cosmology, Vol. 44. [2] Titan Institute Academic Catalog, 2919 Edition, p. 1102.",
+        "contributor_type": "vrellnath",
+        "total_raters": 14882,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚖️",
+            "label": "Factual Accuracy",
+            "value": "Mostly False"
+          },
+          {
+            "glyph": "🔍",
+            "label": "Source Quality",
+            "value": "Unverified"
+          },
+          {
+            "glyph": "🌡️",
+            "label": "Confidence vs. Evidence",
+            "value": "Severely Mismatched"
+          }
+        ]
+      },
+      "pfpColor": "hsl(98,41%,48%)",
+      "pfpGlyph": "◇",
+      "timestamp": "59m"
+    },
+    {
+      "display_name": "screaming into the dark",
+      "handle": "@oortzone_baby",
+      "tweet": "900,000 LOLs",
+      "likes": 1100000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(2,42%,48%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "8d"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.962Z"
+}

@@ -1,0 +1,88 @@
+{
+  "tweet": {
+    "display_name": "EVERY MORNING I RISE",
+    "handle": "@themorningpost_",
+    "tweet": "we are all going to be okay",
+    "metrics": {
+      "retweets": 2100000,
+      "likes": 1950000,
+      "replies": 310000,
+      "quote_tweets": 510000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(115,76%,50%)",
+    "pfpGlyph": "♆",
+    "timestamp": "29s"
+  },
+  "replies": [
+    {
+      "display_name": "pinning this forever",
+      "handle": "@corvid_nails",
+      "tweet": "📌",
+      "likes": 847200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(149,61%,30%)",
+      "pfpGlyph": "◐",
+      "timestamp": "6d"
+    },
+    {
+      "display_name": "Grelph Undarsson",
+      "handle": "@grelph_speaks_truth",
+      "tweet": "actually this is misinformation. the third moon of Harvellon-6 is scheduled for controlled demolition in Q3 of this year to make way for the new Kronn Bypass and the 4.7 billion residents have NOT been given evacuation clearance. we are not going to be okay. some of us specifically are going to be very not okay",
+      "likes": 1240000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(276,55%,44%)",
+      "pfpGlyph": "✴",
+      "timestamp": "8h"
+    },
+    {
+      "display_name": "just dani",
+      "handle": "@just_dani_ok",
+      "tweet": "gm 🚀",
+      "likes": 389000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(274,45%,47%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "12h"
+    },
+    {
+      "display_name": "Thelonious Brackwater IV",
+      "handle": "@brackwater_ascended",
+      "tweet": "What this post fails to account for is that \"okay\" is a deeply anthropocentric metric rooted in pre-Collapse wellness frameworks from the 2400s. I've studied Intergalactic Emotional Sovereignty under three certified Void Coaches and the data is clear: collective okayness requires individual okayness audits, which most people simply have not completed. I'm not saying the OP is wrong per se, I'm saying they haven't done the work. My Substack goes deeper on this.",
+      "likes": 412,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(1,57%,33%)",
+      "pfpGlyph": "♄",
+      "timestamp": "42m"
+    },
+    {
+      "display_name": "Morreck of the Plains",
+      "handle": "@morreck_plains",
+      "tweet": "my dad said this exact thing right before the Harvellon evacuation lottery and he got number 4,700,000,002. so",
+      "likes": 674000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(359,70%,31%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "5d"
+    },
+    {
+      "display_name": "genuinely asking please",
+      "handle": "@trulyjustasking99",
+      "tweet": "@TheMawSpeaks is this confirmed? I heard the Kronn Bypass demolition was cancelled but I can't find anything recent",
+      "likes": 88,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(311,57%,38%)",
+      "pfpGlyph": "♅",
+      "timestamp": "28s"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.963Z"
+}

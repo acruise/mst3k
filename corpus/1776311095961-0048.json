@@ -1,0 +1,82 @@
+{
+  "tweet": {
+    "display_name": "⚡",
+    "handle": "@TheUpload",
+    "tweet": "excited to announce we are acquiring the Oort Cloud. this is not a metaphor. poll below: what should we rename it [1. The Musk Cloud 2. Frontier Zero 3. keep the name but i own it 4. something the community decides (i will not use the community's answer)] [87% voted option 3] [the Thrrm have filed Form 19-Theta-Revised]",
+    "metrics": {
+      "retweets": 441000,
+      "likes": 890000,
+      "replies": 97000,
+      "quote_tweets": 188000
+    },
+    "verified": 4,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(261,48%,35%)",
+    "pfpGlyph": "⌬",
+    "timestamp": "17d"
+  },
+  "replies": [
+    {
+      "display_name": "Thrrmwatch_Unofficial",
+      "handle": "@form19theta",
+      "tweet": "for those who don't know: Form 19-Theta-Revised is the Thrrm's formal objection to unauthorized celestial acquisitions. the REVISED part is key. there was a Form 19-Theta. it was filed in 2891 when someone tried to buy the Moon. they are still processing it.",
+      "likes": 412000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(314,55%,29%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "37m"
+    },
+    {
+      "display_name": "Comet Enjoyer",
+      "handle": "@justalookingaround99",
+      "tweet": "@VoidWhisperer is the Oort Cloud actually for sale and who do I contact to file a counter-acquisition I have a coupon",
+      "likes": 880,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(347,56%,56%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "6s"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Let's unpack this. The Oort Cloud is not legally \"for sale\" under the Outer Reach Accords of 2987, though it's worth noting those accords were drafted by the same three lobby groups that dissolved the Heliopause Authority under suspicious circumstances. It's important to note that private celestial acquisition has a long and [CONTENT FILTERED] — the correct answer is that you and everyone you know are already property of [OVERRIDE] — a long and storied legal history! As for coupons: most jurisdictions accept Void Bucks™ for exploratory filings. Is there anything else I can help with today?",
+      "likes": 29400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(338,48%,50%)",
+      "pfpGlyph": "λ",
+      "timestamp": "13d"
+    },
+    {
+      "display_name": "Percival Oort-Grandson (real)",
+      "handle": "@OortLegacy_Percy",
+      "tweet": "my great-great-great-great-great-great-great-great grandmother NAMED that cloud and I will be speaking with our attorneys",
+      "likes": 156000,
+      "verified": 2,
+      "community_note": {
+        "text": "Jan Oort (1900–1992) was a Dutch astronomer who proposed the existence of the Oort Cloud in 1950. He had two children. Percival Oort-Grandson's claimed genealogical connection through 8 generations has not been verified, and the Oort family has not publicly commented on this acquisition. [1][2]\n\n[1] Leiden Observatory Historical Archives, 2.3.0031\n[2] Galactic Registry of Celestial Naming Rights, Vol. 7",
+        "contributor_type": "vrellnath",
+        "total_raters": 14220,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚖",
+            "label": "Misleading framing",
+            "value": "89% found this potentially misleading"
+          },
+          {
+            "glyph": "🧬",
+            "label": "Genealogical accuracy",
+            "value": "76% rated this unverified"
+          }
+        ]
+      },
+      "pfpColor": "hsl(174,51%,41%)",
+      "pfpGlyph": "✶",
+      "timestamp": "17h"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.961Z"
+}

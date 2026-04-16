@@ -1,0 +1,93 @@
+{
+  "tweet": {
+    "display_name": "wint",
+    "handle": "@dril",
+    "tweet": "just saw a cloud shaped like a hand. this is the third time this week. the hand keeps getting closer. im not worried about it because what is a cloud going to do. grab me? lol",
+    "metrics": {
+      "retweets": 410000,
+      "likes": 1100000,
+      "replies": 31000,
+      "quote_tweets": 78000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(0, 0%, 25%)",
+    "pfpGlyph": "◉",
+    "timestamp": "8h"
+  },
+  "replies": [
+    {
+      "display_name": "megan",
+      "handle": "@meganposting",
+      "tweet": "\"what is a cloud going to do. grab me?\" i am on the FLOOR",
+      "likes": 340000,
+      "verified": 0,
+      "pfpColor": "hsl(320, 50%, 35%)",
+      "pfpGlyph": "✿",
+      "timestamp": "8h"
+    },
+    {
+      "display_name": "⚡ Grand Arbiter Nexus ⚡",
+      "handle": "@nexus_speaks_truth",
+      "tweet": "This is precisely the kind of complacency that led to the Tau Ceti incident. I've written extensively about atmospheric sentience on my substack. The clouds are not what they seem. But of course nobody reads my work because I don't write in \"dril voice\" or whatever the masses require. Typical.",
+      "likes": 45,
+      "verified": 3,
+      "pfpColor": "hsl(40, 60%, 28%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "7h",
+      "community_note": {
+        "text": "Readers added context they thought people might want to know. This post contains several inaccuracies. [1] There is no documented 'Tau Ceti incident' involving atmospheric sentience; the poster may be referring to the 2971 atmospheric calibration dispute, which was resolved mechanically. [2] No peer-reviewed research supports the thesis of cloud-based consciousness in artificial station environments. [3] The poster's substack has been flagged by four separate academic institutions for misrepresenting unrelated events as confirmation of a unifying cosmological theory.",
+        "contributor_type": "community",
+        "total_raters": 4700,
+        "surfaced_ratings": [
+          {
+            "glyph": "✓",
+            "label": "Epistemically Sound",
+            "value": "89%"
+          },
+          {
+            "glyph": "⊗",
+            "label": "Dogs Would Like This",
+            "value": "12%"
+          },
+          {
+            "glyph": "◈",
+            "label": "Pre-Verified by Consensus",
+            "value": "—"
+          }
+        ]
+      }
+    },
+    {
+      "display_name": "vibes only",
+      "handle": "@no_thoughts_arc",
+      "tweet": "genuinely one of the funniest tweets of the year",
+      "likes": 89000,
+      "verified": 0,
+      "pfpColor": "hsl(290, 45%, 32%)",
+      "pfpGlyph": "☽",
+      "timestamp": "7h"
+    },
+    {
+      "display_name": "meteorology 9000",
+      "handle": "@weather_nerd_9k",
+      "tweet": "for the record there are no clouds on this station. the station does not have weather. this has been brought to the attention of station management and they said \"we know\"",
+      "likes": 780000,
+      "verified": 0,
+      "pfpColor": "hsl(190, 50%, 30%)",
+      "pfpGlyph": "◎",
+      "timestamp": "5h"
+    },
+    {
+      "display_name": "wint",
+      "handle": "@dril",
+      "tweet": "it waved at me",
+      "likes": 1900000,
+      "verified": 0,
+      "pfpColor": "hsl(0, 0%, 25%)",
+      "pfpGlyph": "◉",
+      "timestamp": "2h"
+    }
+  ],
+  "generated_at": "2026-04-15T00:01:03.000Z"
+}

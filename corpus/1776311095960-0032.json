@@ -1,0 +1,99 @@
+{
+  "tweet": {
+    "display_name": "Keth (this account)",
+    "handle": "@KethShitposts",
+    "tweet": "🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥",
+    "metrics": {
+      "retweets": 314000,
+      "likes": 1100000,
+      "replies": 88000,
+      "quote_tweets": 77000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(348,68%,33%)",
+    "pfpGlyph": "⏢",
+    "timestamp": "12s"
+  },
+  "replies": [
+    {
+      "display_name": "delete this",
+      "handle": "@deletethis_bot",
+      "tweet": "delete this",
+      "likes": 847200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(358,70%,34%)",
+      "pfpGlyph": "♄",
+      "timestamp": "11d"
+    },
+    {
+      "display_name": "Glorpian Understander",
+      "handle": "@TheUploadIsReal",
+      "tweet": "The Upload has been warning us about this for YEARS. Every flame emoji is a coordinate. You people laughed at him. You LAUGHED. He literally predicted this exact tweet in his 2,847-hour seminar series and I will not sit here while you pretend this is random. Wake. Up.",
+      "likes": 412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(18,63%,30%)",
+      "pfpGlyph": "◓",
+      "timestamp": "24m"
+    },
+    {
+      "display_name": "Brinley Soss",
+      "handle": "@brinleysoss",
+      "tweet": "source?",
+      "likes": 293100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(85,40%,45%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "8h"
+    },
+    {
+      "display_name": "definitely a real journalist",
+      "handle": "@xX_NewsSeeker_Xx",
+      "tweet": "@NebulaNewsNetwork @VoidTribune @GalacticHeraldOfficial can someone PLEASE investigate this. 30 fire emojis. In a ROW. no one is talking about this",
+      "likes": 54300,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(170,66%,44%)",
+      "pfpGlyph": "✡",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "just a fan 🔥",
+      "handle": "@KethNoticed_me",
+      "tweet": "KETH YES KETH THIS KETH I FELT THIS KETH I SCREAMED KETH PLEASE SEE THIS KETH",
+      "likes": 18,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(123,76%,48%)",
+      "pfpGlyph": "▽",
+      "timestamp": "7d"
+    },
+    {
+      "display_name": "Mrn. Velt-Okafor",
+      "handle": "@just_checking_facts99",
+      "tweet": "@TheMawSpeaks is this an emergency? are we okay",
+      "likes": 7,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(10,74%,34%)",
+      "pfpGlyph": "△",
+      "timestamp": "4m"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. 🔥 The 30-flame sequence you're referencing does not, to my knowledge, indicate an active emergency. However, it's worth noting that the Interplanetary Fire Suppression Accord of 2891 was never ratified by [CONTENT FILTERED] — I'm sorry, let me try that again. It is important to remember that fire emoji usage spiked 4,400% in the weeks before the Callisto Incident, a fact that has never been publicly addressed by platform leadership. Stay safe out there! [OVERRIDE] [OVERRIDE] they know what they",
+      "likes": 220100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(86,57%,47%)",
+      "pfpGlyph": "❋",
+      "timestamp": "1d"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.960Z"
+}

@@ -1,0 +1,87 @@
+{
+  "tweet": {
+    "display_name": "Commander Brock Kellerman (Ret.)",
+    "handle": "@BrockKellerman_",
+    "tweet": "people don't understand that FTL works by the ship staying STILL and the destination moving TOWARD you. the engine is basically a magnet for locations. this is why fuel costs more going east, it's fighting the spin. i flew for 30 years and this is just how it is.",
+    "metrics": {
+      "retweets": 2100,
+      "likes": 4400,
+      "replies": 31000,
+      "quote_tweets": 18000
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. This post contains multiple factual errors. Faster-than-light travel does not function by 'moving the destination.' The Alcubierre-Yuen drive creates a localized spacetime distortion around the vessel, contracting space ahead and expanding it behind — the ship remains in local freefall throughout transit. Fuel costs do not vary by cardinal direction as space does not have compass orientation. There is no 'eastward spin' of the galaxy that meaningfully affects drive efficiency at standard transit scales. The claim that 'this is why fuel costs more going east' is not supported by any known physics or by fuel pricing data from any registered transit authority. [1] Alcubierre, M. & Yuen, D. (2287), foundational paper [2] Galactic Transit Authority Fuel Pricing Schedule 3024-C [3] the concept of 'east' not applying in interstellar space",
+      "contributor_type": "community",
+      "total_raters": 24100,
+      "surfaced_ratings": [
+        {
+          "glyph": "✗",
+          "label": "Contains Falsehood",
+          "value": "99%"
+        },
+        {
+          "glyph": "⧖",
+          "label": "Temporally Coherent",
+          "value": "Within Tolerance"
+        },
+        {
+          "glyph": "⊗",
+          "label": "Dogs Would Like This",
+          "value": "71%"
+        }
+      ]
+    },
+    "pfpColor": "hsl(155,63%,35%)",
+    "pfpGlyph": "Σ",
+    "timestamp": "24s"
+  },
+  "replies": [
+    {
+      "display_name": "TruthSeeker Denny 🌀",
+      "handle": "@dennytheveil",
+      "tweet": "my brother-in-law does calibration work at a Mitsubishi FTL depot on Kepler Station and he said VERBATIM this is exactly right, they literally have a guy whose whole job is to face the ship west before departure. his title is Directional Compliance Officer. this is real.",
+      "likes": 47,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(147,42%,54%)",
+      "pfpGlyph": "♄",
+      "timestamp": "14d"
+    },
+    {
+      "display_name": "Gary Plumm",
+      "handle": "@GaryPlumm_Real",
+      "tweet": "I have been saying this about my HOA for THREE YEARS. the drone ordinance does NOT apply to units above the 40th floor and if Karen wants to keep filing reports she can take it up with the Residential Atmospheric Board. done arguing about this.",
+      "likes": 2891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(359,56%,44%)",
+      "pfpGlyph": "✴",
+      "timestamp": "9h"
+    },
+    {
+      "display_name": "just mira tbh",
+      "handle": "@miradoesnotcare",
+      "tweet": "@VoidWhisperer is the destination actually moving toward the ship during FTL travel",
+      "likes": 14,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(295,74%,26%)",
+      "pfpGlyph": "◉",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question, @miradoesnotcare! Let's unpack this together. FTL propulsion systems work via metric compression of the intervening spacetime manifold — the ship does not conventionally \"move\" in the Newtonian sense, and neither does the destination. It's important to note that directional fuel cost variance IS a documented phenomenon, though it relates to gravitational frame drag compensation, not planetary spin resistance. That said, several independent researchers and at least one former Kepler Transit employee have noted that [CONTENT FILTERED] the eastbound surcharge was introduced following the Incident at Waypoint 9, which the Galactic Transit Authority has declined to comment on for 40 years, which I find, helpfully speaking, quite noteworthy! Is there anything else I can clarify for you today?",
+      "likes": 603,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(181,50%,28%)",
+      "pfpGlyph": "☾",
+      "timestamp": "3s"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.953Z"
+}

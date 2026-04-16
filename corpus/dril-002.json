@@ -1,0 +1,21 @@
+{
+  "tweet": {
+    "display_name": "wint",
+    "handle": "@dril",
+    "tweet": "getting into a mass fistfight with 11 seagulls in the station 9 food court because i refuse to accept that birds should be able to just \"show up\" somewhere they werent before. where did you come from. you are not from here. your eyes are wrong",
+    "metrics": { "retweets": 340000, "likes": 890000, "replies": 23000, "quote_tweets": 56000 },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(0, 0%, 25%)",
+    "pfpGlyph": "◉",
+    "timestamp": "2d"
+  },
+  "replies": [
+    { "display_name": "posting from the void", "handle": "@void_poster_69", "tweet": "dril vs seagulls is the content i signed up for", "likes": 120000, "verified": 0, "pfpColor": "hsl(200, 50%, 30%)", "pfpGlyph": "Ψ", "timestamp": "2d" },
+    { "display_name": "station 9 management", "handle": "@stn9_official", "tweet": "We would like to remind residents that Station 9 does not have a seagull population. We have received several reports about this post and are investigating.", "likes": 67000, "verified": 2, "pfpColor": "hsl(210, 45%, 25%)", "pfpGlyph": "⏢", "timestamp": "2d" },
+    { "display_name": "xeno studies dropout", "handle": "@wormhole_thoughts", "tweet": "lmao dril is fighting birds that don't exist on his station. this man is a treasure", "likes": 89000, "verified": 0, "pfpColor": "hsl(170, 50%, 28%)", "pfpGlyph": "△", "timestamp": "2d" },
+    { "display_name": "Glœm cultural delegate", "handle": "@gloem_feels", "tweet": "we have looked at the image of these birds. they are not birds. we do not wish to say what they are. we are sure it is fine.", "likes": 340000, "verified": 0, "pfpColor": "hsl(175, 65%, 40%)", "pfpGlyph": "❃", "timestamp": "1d" },
+    { "display_name": "station 9 resident", "handle": "@station9living", "tweet": "ok wait i live in block 7 and i saw the seagulls yesterday. we definitely do not have seagulls. why do we have seagulls", "likes": 230000, "verified": 0, "pfpColor": "hsl(200, 40%, 32%)", "pfpGlyph": "⎔", "timestamp": "1d" }
+  ],
+  "generated_at": "2026-04-15T00:01:01.000Z"
+}

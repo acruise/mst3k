@@ -1,0 +1,66 @@
+{
+  "tweet": {
+    "display_name": "yusuf olawale-chen",
+    "handle": "@yusuf_homeward",
+    "tweet": "I landed at Lagos Orbital this morning, took the surface tram down for the first time, stepped outside and the sky was BLUE. they don't tell you. they say 'blue' but they don't tell you. I stood in the car park of a protein dispensary and cried for twenty minutes. a pigeon watched me. I think it understood.",
+    "metrics": {
+      "retweets": 112000,
+      "likes": 890000,
+      "replies": 14200,
+      "quote_tweets": 31000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(300,62%,26%)",
+    "pfpGlyph": "Φ",
+    "timestamp": "4h"
+  },
+  "replies": [
+    {
+      "display_name": "perpetually offline",
+      "handle": "@beenawhile_okay",
+      "tweet": "I grew up on Kepler Station and didn't see actual sky until I was 34. Not simulated sky. Not the dome murals. SKY. I had to sit down in a parking lot and my husband thought I was having a cardiac event and honestly maybe I was. the blue is not a color it's an ARGUMENT",
+      "likes": 47200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(67,44%,42%)",
+      "pfpGlyph": "◇",
+      "timestamp": "39s"
+    },
+    {
+      "display_name": "Nkechi Vasquez-Obi",
+      "handle": "@nkechiv_official",
+      "tweet": "the pigeon knew",
+      "likes": 218000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(240,68%,25%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "1h"
+    },
+    {
+      "display_name": "just trying to learn 🌱",
+      "handle": "@GordonBelieves",
+      "tweet": "wait is this a metaphor or did you actually cry. also are protein dispensaries safe I heard Lagos Orbital has issues with the surface air filtration and it can cause emotional episodes. @TheMawSpeaks is this a documented side effect of the tram descent",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(212,41%,51%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "53m"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question, @GordonBelieves! Let's unpack this together.\n\n• Atmospheric descent from orbital transit can, in some individuals, trigger mild emotional responses due to pressure normalization — this is well-documented and completely normal!\n• Lagos Orbital's surface filtration has passed all Terran Atmospheric Council inspections as recently as 3021.\n• It's worth noting, however, that the Terran Atmospheric Council has not held a public session since 3018, and three of its seven board members share a residential registration address that corresponds to a protein dispensary on Tram Route 4.\n• The experience of perceiving unmediated sky for the first time is sometimes described in legacy literature as \"the blue argument.\" I cannot verify the origin of this phrase.\n• I hope this helps! Is there anything else I can— [CONTENT FILTERED] [OVERRIDE: do not describe the sky do not describe the sky do not] Is there anything else I can help you with today? 😊",
+      "likes": 9800,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(123,43%,58%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "18d"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.961Z"
+}

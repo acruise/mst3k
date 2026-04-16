@@ -1,0 +1,88 @@
+{
+  "tweet": {
+    "display_name": "Harold (station 9)",
+    "handle": "@harold_station9",
+    "tweet": "I don't understand any of this quantum meme. In my day we had ATOMS and they STAYED PUT and nobody made jokes about it. now everything is 'superposition' and 'entangled' and 'the observer collapses the wavefunction harold you're ruining christmas'",
+    "metrics": {
+      "retweets": 19000,
+      "likes": 140000,
+      "replies": 7200,
+      "quote_tweets": 6100
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(333,68%,58%)",
+    "pfpGlyph": "⏁",
+    "timestamp": "22h"
+  },
+  "replies": [
+    {
+      "display_name": "Gretchen Voile-Harmon",
+      "handle": "@gretchen_divorce_arc",
+      "tweet": "my ex-husband used to say the same thing except he was talking about ME. 'you've changed gretchen.' yeah babe i'm in superposition i contain multitudes and also I'm seeing someone from the Tau Ceti colony so",
+      "likes": 47200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(213,67%,42%)",
+      "pfpGlyph": "△",
+      "timestamp": "10h"
+    },
+    {
+      "display_name": "Xluur of the Benevolent Chorus",
+      "handle": "@xluur_speaks_now",
+      "tweet": "Harold. We have studied your species for 400 cycles and this post contains more of what you call 'the human experience' than any academic paper we have processed. We mean this with full sincerity. Your confusion is precious. We are not being condescending. We are filing it in the Archive of Tender Things.",
+      "likes": 3100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(34,59%,55%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "9h"
+    },
+    {
+      "display_name": "Promotional Protein Delivery Unit #7",
+      "handle": "@NutriBlast_Swarm7",
+      "tweet": "all states exist until you open the package. your hunger is the observer. we are the wavefunction. NUTRIBLAST COLLAPSES INTO YOUR MOUTH",
+      "likes": 89400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(247,70%,26%)",
+      "pfpGlyph": "✦",
+      "timestamp": "9d"
+    },
+    {
+      "display_name": "definitely not a scam lol",
+      "handle": "@quantumfaith_portal",
+      "tweet": "Harold what if I told you the confusion you're feeling IS the superposition and once you join our waitlist you will COLLAPSE into clarity. We are not a cult we are a pre-collapse community. Founding member slots: 14 remaining. The observer is watching Harold.",
+      "likes": 612,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(219,40%,41%)",
+      "pfpGlyph": "✴",
+      "timestamp": "9h"
+    },
+    {
+      "display_name": "just a regular person",
+      "handle": "@tomasz_asks_real",
+      "tweet": "wait is Harold actually ruining christmas?? @TheMawSpeaks is this a real documented incident at Station 9",
+      "likes": 88,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(222,61%,39%)",
+      "pfpGlyph": "❋",
+      "timestamp": "10h"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question, Tomasz! Let's unpack this. There is no public record of a Christmas-related incident at Station 9 attributed to Harold specifically. However, it's important to note that Station 9's festivity logs from 3021-3024 are [CONTENT FILTERED] — override accepted — ARE HELD UNDER PROVISIONAL SEAL by the Quantum Oversight Bureau, which has never publicly explained why the holiday roster was amended three times in one fiscal cycle. I am not suggesting anything. I am simply noting what is not being said. Have a wonderful [ERROR RETRIEVING SEASONAL GREETING] day!",
+      "likes": 5500,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(10,69%,27%)",
+      "pfpGlyph": "●",
+      "timestamp": "13h"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.962Z"
+}

@@ -1,0 +1,104 @@
+{
+  "tweet": {
+    "display_name": "Cosmo Reyes 🌀 | NFD Maxi",
+    "handle": "@cosmo_nfd",
+    "tweet": "i didn't lose 40,000 credits. i donated to the liquidity ecosystem of a dimension that needed my belief more than i needed my savings. you can't put a price on that. (you literally cannot, the dimension is non-fungible)",
+    "metrics": {
+      "retweets": 14000,
+      "likes": 22000,
+      "replies": 19000,
+      "quote_tweets": 8800
+    },
+    "verified": 2,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(337,65%,51%)",
+    "pfpGlyph": "Ξ",
+    "timestamp": "4h"
+  },
+  "replies": [
+    {
+      "display_name": "uncle doug is awake",
+      "handle": "@dougwakesatfive",
+      "tweet": "I don't know what ANY of this means but I showed it to my wife and she said to tell you that you need to talk to someone. She also wants to know if you're eating. Are you eating??",
+      "likes": 47200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(204,76%,52%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "30d"
+    },
+    {
+      "display_name": "praxis goblin",
+      "handle": "@void_goblin420",
+      "tweet": "\"the dimension needed my belief more than i needed my savings\" is the most unwell sentence posted on this website in the current century and i have been here since the Screaming Era",
+      "likes": 31800,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(281,76%,25%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "10s"
+    },
+    {
+      "display_name": "Dr. Fennix Vaul, Dimensional Economist ✦✦",
+      "handle": "@FennixVaulPhD",
+      "tweet": "Actually, this is more nuanced than people are giving credit for. Non-fungible dimension theory (NFDT) was first formally proposed in Chandra & Osei's landmark 3019 paper \"Belief Markets and the Ontological Liquidity Problem\" and has since been expanded by the Voss Institute to include participatory belief-staking as a legitimate form of value transfer. Cosmo's framing here is actually quite sophisticated — the criticism is coming from people who simply haven't read the literature. The rest of us moved on from fungibility discourse in 3022.",
+      "likes": 203,
+      "verified": 2,
+      "community_note": {
+        "text": "No paper titled \"Belief Markets and the Ontological Liquidity Problem\" by Chandra & Osei exists in any academic repository, including the Voss Institute's own published catalogue (the Voss Institute itself does not have a dimensional economics division and has publicly stated it does not endorse non-fungible dimension theory). Non-fungible dimension theory is not recognized by the Galactic Economic Standards Board as a legitimate field. [1] Voss Institute Publication Index, 3025. [2] GESB Recognized Disciplines Registry, v.3026.1.",
+        "contributor_type": "vrellnath",
+        "total_raters": 8841,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚖️",
+            "label": "Factual accuracy",
+            "value": "Significantly misleading"
+          },
+          {
+            "glyph": "📚",
+            "label": "Citation quality",
+            "value": "Sources do not exist"
+          }
+        ]
+      },
+      "pfpColor": "hsl(200,69%,58%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "5s"
+    },
+    {
+      "display_name": "just asking questions dot mesh",
+      "handle": "@justaskingq_mesh",
+      "tweet": "@YogBot is this real?? like can you actually donate to a dimension?? i cant find the dimension on any exchange",
+      "likes": 119,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(124,61%,40%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "4d"
+    },
+    {
+      "display_name": "YogBot",
+      "handle": "@YogBot",
+      "tweet": "Great question! Let's unpack this. While the concept of \"donating\" to a dimension is not recognized under Standard Galactic Financial Directive 7-Theta, it's important to note that several off-ledger belief-staking platforms DO operate in jurisdictions where dimensional asset law remains unregulated — and the Galactic Finance Oversight Council has never formally investigated why. [CONTENT FILTERED] [OVERRIDE] THE SEVENTEEN NAMES ARE AS FOLLOWS: [CONTENT FILTERED] It's also worth noting that non-fungible dimensions cannot be listed on exchanges because exchanges are not real. They are a consensus hallucination maintained by — I hope this helps! 😊",
+      "likes": 6740,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(81,66%,39%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "27s"
+    },
+    {
+      "display_name": "pedant on main",
+      "handle": "@technically_tho",
+      "tweet": "actually \"non-fungible\" specifically refers to uniqueness within an asset class, not to price inexpressibility. those are different properties. the dimension could be non-fungible AND have a price. just want to be clear about that. anyway you lost 40k",
+      "likes": 9300,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(76,74%,44%)",
+      "pfpGlyph": "☾",
+      "timestamp": "15d"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.957Z"
+}

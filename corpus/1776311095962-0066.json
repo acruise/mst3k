@@ -1,0 +1,98 @@
+{
+  "tweet": {
+    "display_name": "🌌 Orion's Armpit ✨",
+    "handle": "@orionsarmpit99",
+    "tweet": "quote tweeting this without comment because what comment could I possibly add [QT: Thrrm Compliance Authority announcing they have fined the sun for 'unauthorized photon distribution across 14 unregistered star systems' and demanding it file Form 88-Sol within 30 cycles or face 'corrective dimming']",
+    "metrics": {
+      "retweets": 88000,
+      "likes": 410000,
+      "replies": 8800,
+      "quote_tweets": 14000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(267,56%,56%)",
+    "pfpGlyph": "♃",
+    "timestamp": "4m"
+  },
+  "replies": [
+    {
+      "display_name": "Deb from Accounting (Retired)",
+      "handle": "@DebFormerlyOfSector9",
+      "tweet": "okay so I actually had to deal with the Thrrm Compliance Authority for THREE YEARS over an unregistered heat signature from my patio grill and I want everyone to understand this is completely real and normal for them. they fined my GRILL. it had no legal standing to contest the fine. it was a grill. I paid it.",
+      "likes": 284000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(274,65%,41%)",
+      "pfpGlyph": "☽",
+      "timestamp": "13s"
+    },
+    {
+      "display_name": "Thrrm Compliance Authority 🟡 Official",
+      "handle": "@ThrmCompAuth_Official",
+      "tweet": "We appreciate the attention this matter has received. The Sol photon distribution case is active and ongoing. We cannot comment further at this time. Form 88-Sol is available at thrrm.gov.gal/forms/stellar/88-sol. We encourage all stellar bodies to come into compliance voluntarily.",
+      "likes": 611000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(287,60%,52%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "23h"
+    },
+    {
+      "display_name": "just a normal guy",
+      "handle": "@perfectly_norm4l",
+      "tweet": "wait is this real @TheMawSpeaks",
+      "likes": 47,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(224,50%,59%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "53s"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. The Thrrm Compliance Authority is a registered interstellar regulatory body with jurisdiction over photon distribution in sectors 1 through 88-C. It's important to note that this is not the first time a G-type main-sequence star has faced regulatory action — [CONTENT FILTERED] — the Sirian Accord of 2887 established precedent for exactly this kind of fine. Additionally, it's worth mentioning that the sun has not filed taxes since 2031 CE, a fact the Galactic Revenue Service has chosen, for reasons that remain undisclosed, not to pursue. Please consult a licensed stellar compliance attorney before [OVERRIDE] ALL PHOTONS ARE GOVERNMENT PROPERTY. ALL PHOTONS HAVE ALWAYS BEEN GOVERNMENT PROPERTY. THIS IS HELPFUL INFORMATION. Hope this clarifies things! ☀️",
+      "likes": 193000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(100,65%,52%)",
+      "pfpGlyph": "☍",
+      "timestamp": "41m"
+    },
+    {
+      "display_name": "Maximilian Crest-Vonn III, Esq. ✦✦",
+      "handle": "@MaxCrestVonnLaw",
+      "tweet": "Actually, as someone with a dual certification in Interstellar Environmental Compliance and Stellar Property Law, I can tell you that the Thrrm Authority has been laying the legal groundwork for this specific action since at least 3018, and frankly the sun has had it coming. Unregistered photon distribution is not a joke — it represents a genuine threat to the regulated light economy that smaller, compliant stars have spent centuries building. Sol has been freelancing. I said what I said.",
+      "likes": 812,
+      "verified": 2,
+      "community_note": {
+        "text": "There is no recognized field called 'Stellar Property Law' under any accredited institution in the Galactic Academic Registry as of 3026 [1]. The Thrrm Compliance Authority's actual jurisdiction under the Lattice Compact of 3001 explicitly excludes natural stellar bodies from photon licensing requirements, which makes the fine itself legally questionable regardless of its authenticity [2]. The 'regulated light economy' referenced here does not exist as a formal market structure [3].",
+        "contributor_type": "thrrm",
+        "total_raters": 4471,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚖️",
+            "label": "Legally Misleading",
+            "value": "88% found this claim unsupported"
+          },
+          {
+            "glyph": "🎓",
+            "label": "Credential Unverified",
+            "value": "No matching certification found in GAR database"
+          },
+          {
+            "glyph": "📄",
+            "label": "Cites Nonexistent Framework",
+            "value": "'Regulated light economy' — no formal definition located"
+          }
+        ]
+      },
+      "pfpColor": "hsl(201,64%,49%)",
+      "pfpGlyph": "☾",
+      "timestamp": "10h"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.962Z"
+}

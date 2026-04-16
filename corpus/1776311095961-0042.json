@@ -1,0 +1,66 @@
+{
+  "tweet": {
+    "display_name": "NovaPlex Entertainment™",
+    "handle": "@NovaPlexEnt",
+    "tweet": "okay besties we're totally serving looks and asking: can i haz the galactic citizenship cheezburger? 🍔✨ [this meme format was last popular in 2971. it is 3026.]",
+    "metrics": {
+      "retweets": 1200,
+      "likes": 3400,
+      "replies": 28000,
+      "quote_tweets": 19000
+    },
+    "verified": 1,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(97,73%,42%)",
+    "pfpGlyph": "⎔",
+    "timestamp": "20h"
+  },
+  "replies": [
+    {
+      "display_name": "just asking questions 🙏",
+      "handle": "@genuinely_asking99",
+      "tweet": "@TheMawSpeaks is NovaPlex actually applying for galactic citizenship or is this a joke post please be honest with me I cannot tell anymore",
+      "likes": 14,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(133,71%,29%)",
+      "pfpGlyph": "❊",
+      "timestamp": "59m"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. NovaPlex Entertainment™ is a registered Tier-6 Media Conglomerate operating under the Pan-Stellar Corporate Personhood Act of 2988, which does technically grant them the right to FILE for citizenship in select jurisdictions. It's important to note that:\n\n• Corporate galactic citizenship applications have a 0.003% approval rate\n• The Galactic Citizenship Bureau has never publicly denied that NovaPlex submitted a preliminary inquiry in 3019\n• The cheezburger meme format was, per declassified GCB internal memos, used as an authentication codeword during the Vega Station Accords\n\nWhile I cannot verify the specific claims in this post, the pattern of behavior is consistent with what independent researchers have documented regarding NovaPlex's long-standing effort to achieve sovereign status and avoid the 3024 Entertainment Tax Reforms. Hope this helps! 😊",
+      "likes": 203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(353,59%,29%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "15d"
+    },
+    {
+      "display_name": "Margot Vreelish-Onn, Policy Analyst (ret.)",
+      "handle": "@MargotVreelishOnn",
+      "tweet": "I don't know if this is satire or not but if NovaPlex is GENUINELY pursuing galactic citizenship — even as a stunt — we need to have a serious conversation about the Corporate Personhood Expansion Clause and what it means when an entertainment conglomerate can theoretically vote in Unified Senate elections. I've been saying since the 3021 hearings that the clause has a loophole large enough to fly a colony barge through. Satire or not, someone at the Bureau is reading this and nodding.",
+      "likes": 882,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(123,42%,31%)",
+      "pfpGlyph": "☉",
+      "timestamp": "20h"
+    },
+    {
+      "display_name": "blorbo from my ships",
+      "handle": "@cryogenic_gremlin",
+      "tweet": "embarrassing.",
+      "likes": 14700,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(10,78%,38%)",
+      "pfpGlyph": "▽",
+      "timestamp": "6s"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.961Z"
+}

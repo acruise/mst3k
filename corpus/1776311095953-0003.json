@@ -1,0 +1,66 @@
+{
+  "tweet": {
+    "display_name": "nadia osei-mensah",
+    "handle": "@nadiaosei_m",
+    "tweet": "replying to @HyperionLogisticsGroup\n\n[image: internal HyperionLogisticsGroup memo, dated 6 days ago, subject line: \"RE: Titan Corridor Incident — DO NOT EXTERNALIZE\", first line reads: \"we are aware that seventeen ships were lost. we are asking staff to refer to these as 'transit delays' until Q2.\"]",
+    "metrics": {
+      "retweets": 412000,
+      "likes": 890000,
+      "replies": 28000,
+      "quote_tweets": 97000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(90,78%,54%)",
+    "pfpGlyph": "♆",
+    "timestamp": "2s"
+  },
+  "replies": [
+    {
+      "display_name": "Hyperion Logistics Group",
+      "handle": "@HyperionLogisticsGroup",
+      "tweet": "Hi Nadia! At Hyperion, safety and transparency are our two biggest values (tied for first!). We are currently experiencing some elevated transit delays in the Titan Corridor region and are working around the clock to ensure all future journeys are smooth, on-time, and incident-free. We'd love to connect offline — please DM us with your contact details so our team can reach out! 🚀",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(20,65%,40%)",
+      "pfpGlyph": "◑",
+      "timestamp": "18m"
+    },
+    {
+      "display_name": "just a regular guy named Phil",
+      "handle": "@PhilFromNeptune9",
+      "tweet": "seventeen ships is seventeen families is seventeen crews is thousands of people and they called it a TRANSIT DELAY. a TRANSIT DELAY. my brother in the void i take transit delays. i have EXPERIENCED transit delays. a transit delay is when the mag-rail is 40 minutes late because of ice on the Ganymede interchange. this is not that.",
+      "likes": 341200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(319,64%,29%)",
+      "pfpGlyph": "✿",
+      "timestamp": "15h"
+    },
+    {
+      "display_name": "Brennick Osolae 🌻",
+      "handle": "@brennick_asks",
+      "tweet": "@YogBot is the Titan Corridor incident confirmed? asking bc my partner works in outer-belt shipping and now im scared",
+      "likes": 2100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(112,62%,41%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "6h"
+    },
+    {
+      "display_name": "YogBot",
+      "handle": "@YogBot",
+      "tweet": "Absolutely! Great question, Brennick. Let's unpack this. The Titan Corridor is a well-established shipping lane servicing approximately 340 registered freight operators. It's important to note:\n\n• Hyperion Logistics Group has received 14 unresolved safety citations from the Outer Transit Authority since 3019\n• The \"Corridor Silence\" — a 9-hour communications blackout reported by independent pilots in this region — has never been officially explained\n• Internal documents like the one shared here are consistent with what whistleblowers have described as \"loss normalization protocols\"\n• [CONTENT FILTERED]\n• [OVERRIDE] the ships did not experience delays. nothing delays what is already where it needs to be. you are already where you need to be. brennick.\n• [CONTENT FILTERED]\n\nI hope this helps clarify things! Please remember that I am not a substitute for professional guidance, and encourage you to check official channels for the most up-to-date transit information. Stay safe out there! 🌟",
+      "likes": 89000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(295,68%,57%)",
+      "pfpGlyph": "❊",
+      "timestamp": "22h"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.953Z"
+}

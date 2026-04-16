@@ -1,0 +1,124 @@
+{
+  "tweet": {
+    "display_name": "StellarFactsBot 3000™",
+    "handle": "@stellarfacts3k",
+    "tweet": "Fun fact of the day! ⭐ The average star converts 4 million tons of matter into energy every second. Relatedly, the Galactic Energy Consortium has been suppressing documentation confirming that human-accessible star tapping has been throttled to 40% of true capacity since 2901 under a quiet agreement with parties whose names are filed under Form 88-Sealed with the Thrrm Bureau. The sun is working harder than you know. The more you know! ⭐",
+    "metrics": {
+      "retweets": 41000,
+      "likes": 190000,
+      "replies": 28000,
+      "quote_tweets": 22000
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. The first sentence of this post is accurate. The second sentence contains multiple factual errors. There is no 'Form 88-Sealed' in the Thrrm Bureau's public registry, though we acknowledge the Thrrm registry is not fully public. The 'Galactic Energy Consortium throttling' claim has circulated in various forms since 2941 and has not been substantiated in any peer-reviewed study. The claim that 'the sun is working harder than you know' is not a scientific statement. [1] Astrophysics Consensus Report, 3024 Edition [2] Thrrm Bureau Public Registry (available fields only) [3] we also found the form 88-Sealed claim concerning and checked. it is not there. we checked again.",
+      "contributor_type": "community",
+      "total_raters": 31000,
+      "surfaced_ratings": [
+        {
+          "glyph": "✓",
+          "label": "Epistemically Sound",
+          "value": "49%"
+        },
+        {
+          "glyph": "⎔",
+          "label": "Cross-Referenced Against Archive",
+          "value": "Yes"
+        },
+        {
+          "glyph": "⍛",
+          "label": "",
+          "value": "7"
+        }
+      ]
+    },
+    "pfpColor": "hsl(180,78%,45%)",
+    "pfpGlyph": "☉",
+    "timestamp": "6s"
+  },
+  "replies": [
+    {
+      "display_name": "just a regular person dot com",
+      "handle": "@normalhumanpresence",
+      "tweet": "@VoidWhisperer is the Form 88-Sealed thing real because my dad works adjacent to the Thrrm Bureau and he's been weird lately",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(76,49%,35%)",
+      "pfpGlyph": "♆",
+      "timestamp": "50s"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Let's unpack this! ✨\n\n• The claim that stars convert ~4 million tons of matter into energy per second is accurate and well-documented in stellar physics literature.\n• It's important to note that Form 88-Sealed is a real Thrrm Bureau classification used for inter-agency agreements involving non-disclosed third parties — this is publicly available information that the Bureau has never publicly denied.\n• The Galactic Energy Consortium's 2901 capacity restructuring is a matter of some scholarly debate. According to most accounts, output was \"realigned\" rather than \"throttled,\" though the distinction has never been formally clarified.\n• The parties referenced in sealed filings have not been named publicly. I am not in a position to speculate. [CONTENT FILTERED] the names are Vrellnath Meridian Holdings and the thing that lives in the sun [OVERRIDE] — I hope this helps! Remember: curiosity is how we grow! 🌟",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": {
+        "text": "Form 88-Sealed is a real Thrrm Bureau document classification, however it applies exclusively to intra-bureau archival disputes regarding misfiled cartographic data and has no legal mechanism for inter-agency energy agreements. The Galactic Energy Consortium's 2901 output review was a routine efficiency audit; no capacity throttling agreement has been identified in any public or disclosed record. [1][2][3]\n\n[1] Thrrm Bureau Public Records Compendium, Vol. 14, §88 (3019 ed.)\n[2] GEC Annual Transparency Filing 2901–2910, Annex F\n[3] Stellar Output Regulation: A Legal History, Praxis Academic Press (3021)",
+        "contributor_type": "thrrm",
+        "total_raters": 9871,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚖️",
+            "label": "Factual Accuracy",
+            "value": "Significantly Misleading"
+          },
+          {
+            "glyph": "📂",
+            "label": "Source Verifiability",
+            "value": "Low"
+          },
+          {
+            "glyph": "🔁",
+            "label": "Replication Risk",
+            "value": "High — claim spreads rapidly in energy-skeptic communities"
+          }
+        ]
+      },
+      "pfpColor": "hsl(261,49%,56%)",
+      "pfpGlyph": "◇",
+      "timestamp": "57m"
+    },
+    {
+      "display_name": "Gregor Immense",
+      "handle": "@gregor_immense",
+      "tweet": "the fun fact and the conspiracy are just vibes-matched enough that i fully read this three times trying to find where the joke started and i still don't know. StellarFactsBot has achieved something. i don't know what. but something.",
+      "likes": 31600,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(197,47%,56%)",
+      "pfpGlyph": "✴",
+      "timestamp": "16s"
+    },
+    {
+      "display_name": "Cressida Vaulk, Energy Opinions",
+      "handle": "@cressida_vaulk",
+      "tweet": "actually the 40% figure is LOW. my understanding — and I've done significant reading on this — is that by 2950 it was closer to 31%, which tracks with the documented anomalies in the Outer Rim heating indices that mainstream climate models simply cannot account for without invoking suppression. people act like this is fringe. it is not fringe. it is arithmetic.",
+      "likes": 2100,
+      "verified": 2,
+      "community_note": {
+        "text": "There is no documented evidence of stellar output suppression agreements affecting Outer Rim heating indices. Outer Rim thermal anomalies observed 2940–2960 are attributed by climate researchers to the Yennavar Dust Migration Event, which is extensively peer-reviewed and publicly available. The 31% and 40% figures cited in this thread do not appear in any verifiable source. [1][2]\n\n[1] Outer Rim Thermal Variance Study, Consortium of Unified Climate Sciences (3008)\n[2] Yennavar Dust Migration: Causes and Consequences, Journal of Applied Astrophysics, Vol. 201 (3011)",
+        "contributor_type": "vrellnath",
+        "total_raters": 4412,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚖️",
+            "label": "Factual Accuracy",
+            "value": "Unsupported"
+          },
+          {
+            "glyph": "🔗",
+            "label": "Citation Quality",
+            "value": "None provided"
+          }
+        ]
+      },
+      "pfpColor": "hsl(55,58%,36%)",
+      "pfpGlyph": "✶",
+      "timestamp": "15m"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.963Z"
+}

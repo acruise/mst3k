@@ -238,6 +238,7 @@ function enrichTweet(parsed) {
     metrics: parsed.metrics || { retweets: 0, likes: 0, replies: 0, quote_tweets: 0 },
     verified: parsed.verified || 0,
     is_ratio: parsed.is_ratio || false,
+    community_note: parsed.community_note || null,
     pfpColor: pfpColor(),
     pfpGlyph: pfpGlyph(),
     timestamp: timestamp(),
@@ -252,6 +253,7 @@ function enrichReplies(parsed) {
       tweet: r.tweet || "",
       likes: r.likes || 0,
       verified: r.verified || 0,
+      community_note: r.community_note || null,
       pfpColor: pfpColor(),
       pfpGlyph: pfpGlyph(),
       timestamp: timestamp(),
@@ -325,18 +327,21 @@ function runBatch() {
 
       console.log("  Tweets: " + allTweets.length + " parsed" + (failed > 0 ? ", " + failed + " request(s) failed" : ""));
 
+      // Write corpus files IMMEDIATELY — don't wait for replies
+      var filenames = [];
+      allTweets.forEach(function (tweet, i) {
+        var filename = Date.now() + "-" + String(i).padStart(4, "0") + ".json";
+        filenames.push(filename);
+        var doc = { tweet: tweet, replies: null, generated_at: new Date().toISOString() };
+        fs.writeFileSync(path.join(corpusDir, filename), JSON.stringify(doc, null, 2));
+      });
+      console.log("  Written: " + allTweets.length + " corpus files (tweets only)");
+
       if (!withReplies) {
-        // Write corpus files immediately
-        allTweets.forEach(function (tweet, i) {
-          var filename = Date.now() + "-" + String(i).padStart(4, "0") + ".json";
-          var doc = { tweet: tweet, replies: null, generated_at: new Date().toISOString() };
-          fs.writeFileSync(path.join(corpusDir, filename), JSON.stringify(doc, null, 2));
-        });
-        console.log("  Written: " + allTweets.length + " corpus files");
         return;
       }
 
-      // Phase 2: Submit reply batch (one request per tweet — replies are tweet-specific)
+      // Phase 2: Submit reply batch (one request per tweet)
       console.log("");
       console.log("  Phase 2: Submitting " + allTweets.length + " reply requests...");
       var replyRequests = [];
@@ -347,7 +352,7 @@ function runBatch() {
       return anthropicRequest("POST", "/v1/messages/batches", { requests: replyRequests })
         .then(function (res2) {
           if (res2.status !== 200) {
-            throw new Error("Reply batch creation failed: " + res2.raw.slice(0, 200));
+            throw new Error("Reply batch creation failed (" + res2.status + "): " + res2.raw.slice(0, 300));
           }
           var batchId2 = res2.data.id;
           console.log("  Batch submitted: " + batchId2);
@@ -358,16 +363,19 @@ function runBatch() {
           return anthropicStreamResults(batch2.results_url);
         })
         .then(function (replyResults) {
-          var repliesMap = {};
           var rSucceeded = 0;
           var rFailed = 0;
 
+          // Update existing corpus files in-place with replies
           replyResults.forEach(function (r) {
             var idx = parseInt(r.custom_id.replace("reply-", ""), 10);
             try {
               var parsed = parseResult(r);
-              if (parsed) {
-                repliesMap[idx] = enrichReplies(parsed);
+              if (parsed && filenames[idx]) {
+                var filepath = path.join(corpusDir, filenames[idx]);
+                var doc = JSON.parse(fs.readFileSync(filepath, "utf8"));
+                doc.replies = enrichReplies(parsed);
+                fs.writeFileSync(filepath, JSON.stringify(doc, null, 2));
                 rSucceeded++;
               } else {
                 rFailed++;
@@ -377,19 +385,7 @@ function runBatch() {
             }
           });
 
-          console.log("  Replies: " + rSucceeded + " succeeded, " + rFailed + " failed");
-
-          // Write corpus files
-          allTweets.forEach(function (tweet, i) {
-            var filename = Date.now() + "-" + String(i).padStart(4, "0") + ".json";
-            var doc = {
-              tweet: tweet,
-              replies: repliesMap[i] || null,
-              generated_at: new Date().toISOString(),
-            };
-            fs.writeFileSync(path.join(corpusDir, filename), JSON.stringify(doc, null, 2));
-          });
-          console.log("  Written: " + allTweets.length + " corpus files");
+          console.log("  Replies: " + rSucceeded + " merged into corpus files, " + rFailed + " failed");
         });
     });
 }

@@ -1,0 +1,77 @@
+{
+  "tweet": {
+    "display_name": "grandma elspeth 🌼",
+    "handle": "@elspeth_moons",
+    "tweet": "Good Morning!! sharing this little fella because he made me smile 😊 [image: a 3D-printed biomechanical minion-adjacent creature with twelve joints and one expressive optical cluster, holding a sign that reads 'I DON'T NEED NANOBOTS TO KNOW RIGHT FROM WRONG']",
+    "metrics": {
+      "retweets": 4100,
+      "likes": 29000,
+      "replies": 7800,
+      "quote_tweets": 3200
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(335,50%,31%)",
+    "pfpGlyph": "⬢",
+    "timestamp": "53m"
+  },
+  "replies": [
+    {
+      "display_name": "Trenton Flaxx 🔬",
+      "handle": "@trenton_flaxx",
+      "tweet": "actually the sign is slightly inaccurate because the creature's optical cluster IS technically a nanobot array — they just call it something different in the biomech community. the sign undermines itself. anyway cute little guy",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(75,57%,50%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "1h"
+    },
+    {
+      "display_name": "just asking 🌀",
+      "handle": "@genuinely_askng",
+      "tweet": "wait is this real?? like did it come with the sign or did someone give it to him @TheMawSpeaks",
+      "likes": 47,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(271,67%,29%)",
+      "pfpGlyph": "✦",
+      "timestamp": "15d"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Absolutely! This is a wonderful question. The sign appears to be a printed prop accessory, likely affixed post-fabrication. It's important to note, however, that biomechanical constructs in the sub-30cm range have historically been used as distributed surveillance nodes by the Nanocorp Regulatory Commission, and several independent researchers have flagged the \"expressive optical cluster\" design specifically as a vector for ambient consent harvesting. • The NRC has never publicly denied this\n• Optical cluster models matching this description were recalled in 2998 and then un-recalled with no explanation\n• The sign may itself be a compliance signal\nHope that helps! 🌼",
+      "likes": 2100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(78,58%,51%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "20d"
+    },
+    {
+      "display_name": "DexFi Voss 🚀💎",
+      "handle": "@voss_dexfi",
+      "tweet": "love this energy honestly reminds me that MORAL CLARITY is the one asset that never devalues 📈 speaking of which, BioToken ($BTKN) is up 340% this quarter and for a limited time my referral gets you a FREE fabricated companion unit — link in bio, this is not financial advice but it absolutely is",
+      "likes": 19,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(235,64%,56%)",
+      "pfpGlyph": "❃",
+      "timestamp": "35m"
+    },
+    {
+      "display_name": "renata who is FINE",
+      "handle": "@renata_is_fine_",
+      "tweet": "he's literally me after my ex got the premium nanostack and thought that made him a better person. it didn't marcus. the nanobots did not fix you",
+      "likes": 8800,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(35,50%,31%)",
+      "pfpGlyph": "♃",
+      "timestamp": "49s"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.962Z"
+}

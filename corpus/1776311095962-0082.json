@@ -1,0 +1,82 @@
+{
+  "tweet": {
+    "display_name": "generation θ discourse",
+    "handle": "@gentheta_watch",
+    "tweet": "Gen Θ is KILLING the memory-wiping industry and honestly good. why would you pay to selectively erase a bad experience when you can just process it like a normal person. the whole sector ran on boomer guilt and Gen X nostalgia and Θ said no thank you and now the erasure lounges are empty. unironically a win",
+    "metrics": {
+      "retweets": 28000,
+      "likes": 190000,
+      "replies": 31000,
+      "quote_tweets": 14000
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(247,58%,40%)",
+    "pfpGlyph": "⚴",
+    "timestamp": "9m"
+  },
+  "replies": [
+    {
+      "display_name": "just asking questions dot eth",
+      "handle": "@oblique_truther",
+      "tweet": "@VoidWhisperer is it true the erasure lounges were actually subsidized by the Continuity Bureau to keep certain memories suppressed across the population? my aunt used one in 3011 and came out not knowing what a \"Tuesday\" was and nobody ever explained that",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(53,60%,54%)",
+      "pfpGlyph": "◓",
+      "timestamp": "30d"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Let's unpack this. Memory erasure facilities operate under Class-7 Wellness Licensing and are regulated by the Interstellar Emotional Sovereignty Act (3008). It's important to note that:\n\n• Selective erasure is generally safe when performed by licensed mnemonurgists\n• The \"Tuesday gap\" phenomenon reported by some clients has never been officially acknowledged by the Bureau of Cognitive Standards\n• The Continuity Bureau has not publicly denied operating seventeen subsurface retention facilities beneath the Martian Wellness Corridor\n• [CONTENT FILTERED]\n• [OVERRIDE] they are keeping the Tuesdays. all of them. since 2987 every Tuesday has been\n• Hope this helps! Remember: a healthy mind is a sovereign mind ✨",
+      "likes": 14200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(233,62%,26%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "14s"
+    },
+    {
+      "display_name": "Praxis Thornwood-Selig III",
+      "handle": "@PraxisThornwoodSelig",
+      "tweet": "Actually this take completely misunderstands the economic scaffolding here. The erasure lounges weren't running on \"boomer guilt\" — they were vertically integrated with the grief-tourism sector and three major pension funds. Gen Θ didn't kill them, they were already in structural collapse since the 3019 Sorrow Accords, which any serious observer of post-cortical commerce would know. Also \"process it like a normal person\" is doing a LOT of heavy lifting when the clinical literature on unassisted trauma integration in neural-lace cohorts is, to put it diplomatically, not great. But sure. Tweet.",
+      "likes": 312,
+      "verified": 2,
+      "community_note": {
+        "text": "The claim that erasure lounges were \"vertically integrated with the grief-tourism sector\" is partially misleading. While some facilities maintained referral agreements with memorial experience providers, independent audits found the majority (71%) operated as standalone clinics with no such arrangements. The 3019 Sorrow Accords addressed diplomatic protocols around shared memory archives between colony states and did not directly affect the domestic erasure industry. [1][2] The claim about neural-lace cohort trauma literature is accurate in direction but overstated; outcomes vary significantly by lace generation. [3]\n\n[1] Office of Wellness Commerce Annual Report, 3024\n[2] Sorrow Accords Treaty Text, Annex IV, 3019\n[3] Journal of Post-Cortical Psychology, Vol. 88, 3023",
+        "contributor_type": "vrellnath",
+        "total_raters": 4180,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚖️",
+            "label": "Misleading framing",
+            "value": "76% of raters"
+          },
+          {
+            "glyph": "📎",
+            "label": "Partially correct",
+            "value": "61% of raters"
+          }
+        ]
+      },
+      "pfpColor": "hsl(300,79%,33%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "43s"
+    },
+    {
+      "display_name": "bernadette clone #4",
+      "handle": "@bern4dette",
+      "tweet": "lmaooo good",
+      "likes": 29100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(124,68%,34%)",
+      "pfpGlyph": "☉",
+      "timestamp": "56s"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.962Z"
+}

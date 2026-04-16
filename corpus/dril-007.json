@@ -1,0 +1,93 @@
+{
+  "tweet": {
+    "display_name": "wint",
+    "handle": "@dril",
+    "tweet": "incredible how many stars there are now. there are way more stars than there used to be. i remember when there were less stars. this is fine with me i like stars but i do think someone should be keeping track",
+    "metrics": {
+      "retweets": 230000,
+      "likes": 710000,
+      "replies": 19000,
+      "quote_tweets": 33000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(0, 0%, 25%)",
+    "pfpGlyph": "◉",
+    "timestamp": "12h"
+  },
+  "replies": [
+    {
+      "display_name": "astro bro",
+      "handle": "@space_is_cool_69",
+      "tweet": "bro you can't just see more stars that's not how stars work lmaooo",
+      "likes": 34000,
+      "verified": 0,
+      "pfpColor": "hsl(220, 50%, 30%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "12h",
+      "community_note": {
+        "text": "Readers added context they thought people might want to know. The claim that observable stellar counts cannot change is outdated. Per the Vrellnath Collective's 2847 stellar census, observable stellar objects in the local group do fluctuate due to obscuration changes, novae, and previously uncatalogued faint sources. Dr. Osei-Mensah's reply in this thread reports a 0.3% anomalous increase that cannot be attributed to these known processes. The reply being corrected is dismissive in tone but also confidently incorrect on the underlying physics.",
+        "contributor_type": "vrellnath",
+        "total_raters": 18000,
+        "surfaced_ratings": [
+          {
+            "glyph": "⬡",
+            "label": "Vrellnath-Approved",
+            "value": "100%"
+          },
+          {
+            "glyph": "❃",
+            "label": "Does Not Alarm the Glœm",
+            "value": "34%"
+          },
+          {
+            "glyph": "☍",
+            "label": "Resonates",
+            "value": "91%"
+          }
+        ]
+      }
+    },
+    {
+      "display_name": "cosmic nihilist",
+      "handle": "@entropy_szn",
+      "tweet": "\"this is fine with me i like stars\" is so profoundly dril",
+      "likes": 180000,
+      "verified": 0,
+      "pfpColor": "hsl(310, 50%, 28%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "11h"
+    },
+    {
+      "display_name": "we are the Vrellnath",
+      "handle": "@vrellnath_cultural",
+      "tweet": "we have also noticed there are more stars. the Collective has been discussing this for 7 months. we had assumed it was common knowledge. we are now concerned that it is not common knowledge.",
+      "likes": 560000,
+      "verified": 0,
+      "pfpColor": "hsl(180, 55%, 28%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "10h"
+    },
+    {
+      "display_name": "vibes only",
+      "handle": "@no_thoughts_arc",
+      "tweet": "this is a top 5 dril tweet i dont even care if its real",
+      "likes": 67000,
+      "verified": 0,
+      "pfpColor": "hsl(290, 45%, 32%)",
+      "pfpGlyph": "☽",
+      "timestamp": "9h"
+    },
+    {
+      "display_name": "Dr. Kira Osei-Mensah",
+      "handle": "@stellardynamics",
+      "tweet": "OK. I want to be very clear that I am not endorsing this tweet. But. Our latest catalog does show a 0.3% increase in observable stellar objects in the local group that we cannot currently account for through known formation processes. There are several mundane explanations for this. I would like to emphasize the word several.",
+      "likes": 890000,
+      "verified": 2,
+      "pfpColor": "hsl(45, 55%, 32%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "7h"
+    }
+  ],
+  "generated_at": "2026-04-15T00:01:06.000Z"
+}

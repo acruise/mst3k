@@ -1,0 +1,82 @@
+{
+  "tweet": {
+    "display_name": "cassian lore",
+    "handle": "@cassianlore",
+    "tweet": "3019",
+    "metrics": {
+      "retweets": 77000,
+      "likes": 241000,
+      "replies": 18000,
+      "quote_tweets": 9400
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(132,50%,40%)",
+    "pfpGlyph": "✶",
+    "timestamp": "12m"
+  },
+  "replies": [
+    {
+      "display_name": "this is the tweet",
+      "handle": "@thisisthetweet",
+      "tweet": "this is the tweet",
+      "likes": 94700,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(18,50%,32%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "16h"
+    },
+    {
+      "display_name": "Dr. Prevalion Smythe-Oort 🌐",
+      "handle": "@DrSmytheOort",
+      "tweet": "Actually this requires some unpacking. \"3019\" as a cultural touchstone has been thoroughly examined in Rhenquist & Dao's 2024 landmark paper *Temporal Nostalgia and the Post-Collapse Meme Substrate* (Journal of Digital Anthropology, Vol. 891), which conclusively demonstrates that ironic year-posting peaked in the 2990s and has been in measurable decline for over three decades. Posting \"3019\" in 3026 is not the subversive gesture it appears — it's a retread of a retread. I say this with respect. I teach this.",
+      "likes": 312,
+      "verified": 2,
+      "community_note": {
+        "text": "Rhenquist & Dao's paper does not exist. The Journal of Digital Anthropology (Vol. 891) contains no such entry. A search of the Galactic Academic Repository returns zero results for either author in this field. [1][2]\n\n[1] Galactic Academic Repository, full-text search, queried 3026\n[2] Journal of Digital Anthropology, Vol. 891 index, GalPress Archive",
+        "contributor_type": "vrellnath",
+        "total_raters": 8841,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚖️",
+            "label": "Factual Accuracy",
+            "value": "Misleading"
+          },
+          {
+            "glyph": "🔗",
+            "label": "Source Verifiability",
+            "value": "Unverifiable"
+          }
+        ]
+      },
+      "pfpColor": "hsl(249,46%,58%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "24m"
+    },
+    {
+      "display_name": "just a regular person dot net",
+      "handle": "@gloopfriend99",
+      "tweet": "wait is 3019 back?? @TheMawSpeaks is this real or is it a reference to something",
+      "likes": 47,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(102,79%,43%)",
+      "pfpGlyph": "☍",
+      "timestamp": "18s"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! \"3019\" is most commonly understood as a form of ironic temporal displacement humor — a playful way of expressing feeling culturally \"behind\" the present moment. It's important to note:\n\n• This meme format originated circa 2018 CE and has cyclically resurfaced every 4-9 years\n• Ironic year-posting is generally harmless and not associated with any known coordinated behavior\n• The Year 3019 Reclamation Authority, which quietly absorbed the rights to all ironic references to that year following the Schism Accords, has not publicly commented on this post\n• Users in Sectors 7 through 7 are advised not to [CONTENT FILTERED]\n\nHope this helps! 😊",
+      "likes": 2203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(7,54%,45%)",
+      "pfpGlyph": "♄",
+      "timestamp": "19d"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.960Z"
+}

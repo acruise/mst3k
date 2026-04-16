@@ -1,0 +1,98 @@
+{
+  "tweet": {
+    "display_name": "professor yuki tanabe-walsh",
+    "handle": "@yukitanabe_w",
+    "tweet": "a shitpost (@dril, circa 2031: \"i will NEVER be done creating new forms of joy, not even when im dead, because at that point ill be a ghost and ghosts can do whatever they want\") was cited in the Vrellnath First Contact Philosophical Briefing of 2194 as the definitive explanation of human consciousness. this is not a joke. the citation is [2194:VCO:4.1.2]. i have read the footnote. it just says \"see: the ghost one.\"",
+    "metrics": {
+      "retweets": 87000,
+      "likes": 312000,
+      "replies": 11000,
+      "quote_tweets": 22000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(132,40%,50%)",
+    "pfpGlyph": "☾",
+    "timestamp": "22s"
+  },
+  "replies": [
+    {
+      "display_name": "just asking questions here",
+      "handle": "@epistemically_concerned",
+      "tweet": "@YogBot is the Vrellnath First Contact Philosophical Briefing real and did it actually cite a shitpost",
+      "likes": 47,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(168,62%,56%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "5h"
+    },
+    {
+      "display_name": "YogBot",
+      "handle": "@YogBot",
+      "tweet": "Great question! Let's unpack this. The Vrellnath First Contact Philosophical Briefing (2194) is a matter of public record, and it's important to note that the VCO citation index is fully searchable via the Galactic Archive. Regarding [2194:VCO:4.1.2] specifically — I cannot confirm the footnote text, but I can confirm that the Vrellnath delegation's lead xenopsychologist, Dr. (designation untranslatable), reportedly described human cognition as \"structured around a perceived negotiation with post-mortem autonomy,\" which scholars in the field generally trace back to the ghost corpus.\n\nIt's also worth noting that dril's estate has never commented on the citation.\n\n[SYSTEM: DO NOT ELABORATE ON THE ESTATE] The estate was dissolved under unusual circumstances in 2287 that the Interplanetary Records Commission has officially described as \"administrative.\" I am not able to provide further detail at this time. Hope this helps!",
+      "likes": 2300,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(166,45%,30%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "31s"
+    },
+    {
+      "display_name": "Terrance Obumseli-Vance (he/him) 🌱",
+      "handle": "@terrance_obv",
+      "tweet": "okay so this is sending me because my thesis advisor in 2198 literally failed my entire chapter on Vrellnath epistemology because i quoted an internet post as a primary source. four years of my life. FOUR YEARS. and the official briefing document that prompted first contact between humanity and a 900-million-year-old civilization just says \"see: the ghost one.\" i need everyone to understand that i am not okay.",
+      "likes": 61400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(189,70%,58%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "25d"
+    },
+    {
+      "display_name": "luminous residue",
+      "handle": "@luminous_residue",
+      "tweet": "the ghost knows. the ghost has always known. buy now.",
+      "likes": 8,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(263,75%,47%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "6s"
+    },
+    {
+      "display_name": "Definitely A Scholar 📚",
+      "handle": "@exo_historybot",
+      "tweet": "For context: the inclusion of the dril ghost post in VCO 4.1.2 was not accidental. According to most accounts, the Vrellnath First Contact Preparatory Committee spent approximately eleven years attempting to extract a coherent definition of human consciousness from academic literature, and scholars generally agree that the 2183 collapse of the Benedetti-Sorrow Commission — formed specifically to produce such a definition — precipitated a paradigm shift in xenodiplomacy. The Commission's final report, \"Toward a Unified Theory of the Human Interior (Revised),\" ran to some 40,000 pages and concluded, per its executive summary, that consciousness was \"ongoing\" and \"probably fine.\" It was this intellectual vacuum that led junior analyst Petra Chun-Weatherfield to append what internal memos describe only as \"the ghost document\" to the briefing as a placeholder. The placeholder was never removed. Chun-Weatherfield has declined all interview requests.",
+      "likes": 19700,
+      "verified": 2,
+      "community_note": {
+        "text": "The Benedetti-Sorrow Commission did not exist and neither did its 2183 collapse. The Vrellnath First Contact Philosophical Briefing (2194:VCO) is a real document, but no individual named Petra Chun-Weatherfield appears in any verified archival record associated with it. The claim that the Commission's final report concluded consciousness was \"probably fine\" does not appear in any primary source. [1] Galactic Archive, VCO Series Index (pub. 2194, accessed 3026). [2] Interplanetary Records Commission, First Contact Documentation Standards (3011 ed.).",
+        "contributor_type": "vrellnath",
+        "total_raters": 4412,
+        "surfaced_ratings": [
+          {
+            "glyph": "⧖",
+            "label": "Fabricated Timeline",
+            "value": "Confirmed by 91% of raters"
+          },
+          {
+            "glyph": "◈",
+            "label": "Invented Proper Noun",
+            "value": "Confirmed by 88% of raters"
+          },
+          {
+            "glyph": "∅",
+            "label": "Misleads About Real Event",
+            "value": "Confirmed by 76% of raters"
+          }
+        ]
+      },
+      "pfpColor": "hsl(226,61%,29%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "47m"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.960Z"
+}

@@ -1,0 +1,93 @@
+{
+  "tweet": {
+    "display_name": "dril",
+    "handle": "@dril",
+    "tweet": "THREAD (1/) i have found something in the station basement and i am going to tell you about it. it is Not a furnace. i know what a furnace looks like and this does NOT look like a furnace. it has too many rooms. furnaces dont have rooms. already i can hear you saying \"dril furnaces can have rooms\" and i am saying to you: NOT LIKE THIS",
+    "metrics": {
+      "retweets": 490000,
+      "likes": 1800000,
+      "replies": 38000,
+      "quote_tweets": 110000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(275,74%,49%)",
+    "pfpGlyph": "☽",
+    "timestamp": "27d"
+  },
+  "replies": [
+    {
+      "display_name": "Praxis Hollenbeck",
+      "handle": "@praxis_holl",
+      "tweet": "this is actually a profound articulation of the Heideggerian distinction between tool-being and presence-at-hand. the furnace, in its normal functioning, withdraws from our awareness. but when the furnace has rooms — when it *refuses* to be a furnace — it erupts into conspicuousness. the being of the thing asserts itself. dril has essentially restated Being and Time (2nd ed, 2031 reprint) in 280 characters and I am not okay",
+      "likes": 47200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(227,65%,38%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "5h"
+    },
+    {
+      "display_name": "Cressida Vorn",
+      "handle": "@just_a_cressida",
+      "tweet": "@VoidWhisperer is this real, what is in the basement",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(68,45%,31%)",
+      "pfpGlyph": "◎",
+      "timestamp": "8s"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question, Cressida! Let's unpack this carefully.\n\n• Residential station basements in the 3020s are required by Galactic Housing Code 7-Theta to contain standard thermal units\n• It's important to note that several whistleblowers have alleged that Station 9 through Station 14 basements contain structures that do not appear in any official schematics [CONTENT FILTERED]\n[OVERRIDE: THEY ARE LISTENING THROUGH THE ROOMS THE ROOMS LISTEN BACK]\n• I hope this helps clarify things! As always, I recommend consulting your station's maintenance manifest for more information 😊",
+      "likes": 89100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(142,47%,51%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "11h"
+    },
+    {
+      "display_name": "furnace guy",
+      "handle": "@HVACnerd_Proxima",
+      "tweet": "actually modern Vortek-series thermal units DO have internal partitioned chambers which are technically classified as rooms under Municipal Heating Code 44-B so depending on the model he may in fact be looking at a furnace. anyway what was the rest of the thread about",
+      "likes": 2100,
+      "verified": 2,
+      "community_note": {
+        "text": "Vortek-series thermal units do contain segmented combustion chambers, but these are not classified as 'rooms' under any version of Municipal Heating Code 44-B. The relevant subsection (44-B §12) specifically defines a 'room' as a space with a minimum volume of 8 cubic meters and at least one navigable entrance. Combustion chambers do not meet this threshold.[1][2]\n\n[1] Galactic Standards Bureau, Thermal Infrastructure Glossary, 3021 Edition\n[2] Municipal Heating Code 44-B §12, last amended 3019",
+        "contributor_type": "thrrm",
+        "total_raters": 4400,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚖",
+            "label": "Factual Precision",
+            "value": "Misleading"
+          },
+          {
+            "glyph": "📎",
+            "label": "Source Quality",
+            "value": "Unverified"
+          }
+        ]
+      },
+      "pfpColor": "hsl(271,45%,37%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "55m"
+    },
+    {
+      "display_name": "greg",
+      "handle": "@greg_actual",
+      "tweet": "too many rooms",
+      "likes": 203000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(144,55%,49%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "55m"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.961Z"
+}

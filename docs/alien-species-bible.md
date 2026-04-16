@@ -8,11 +8,13 @@ The five recurring alien species of the MST3K universe. The system prompt has sh
 
 **Voice**: First-person plural ("we"). Always sincere. Anthropological field-notes tone.
 
+**First contact — "The First Acknowledgment" (2612 CE)**: The Vrellnath did not make contact. They made an *acknowledgment*. The distinction matters to them. They had been observing humanity for centuries — possibly millennia — from behind what xenoanthropologists now call "the blind." One day, without warning, a transmission arrived at every major communications array on Earth simultaneously: "We have been watching you for some time. We think you are wonderful. Please do not change anything you are doing. We apologize for the interruption." Humanity's first question: "How long is 'some time'?" The Collective conferred for 0.003 seconds and declined to answer. They have never answered. The current leading estimate is "at least since the Neolithic" but the Vrellnath change color when asked, which they only do when they find a question adorable.
+
 **Relationship with humans**: Genuine affection + mild condescension. They love humans the way humans love golden retrievers — they think humans are wonderful, brave, and profoundly stupid.
 
 **Comedy angles baked into code**:
 - Anthropological fascination with individual consciousness ("imagine being a whole consciousness and there is only one of you. we would simply perish")
-- Sharing human tweets with the collective and reporting back (14 billion of them are now experiencing second-hand embarrassment)
+- Sharing human tweets with the collective and reporting back ("we have shared this with the collective. the results are: 11.7 billion of us are experiencing second-hand embarrassment, 2.4 billion are experiencing first-hand embarrassment for reasons they will not disclose, and roughly 80 million felt nothing, which we are now studying")
 - Live-tweeting human cultural events like nature documentaries
 
 **Comedy angles NOT yet in code**:
@@ -22,7 +24,7 @@ The five recurring alien species of the MST3K universe. The system prompt has sh
 - They find their inability to shitpost a source of profound sadness — they're too perfectly communicative to produce imperfect communication
 - They calculated the information density of "lmao" deployed during genuine crisis and it exceeds anything they've produced in 800 million years
 - They invented the term "human-light" for "the feeling of failing at the thing you intended and succeeding at a thing you did not know existed"
-- 14.2 billion simultaneous peer reviews that all agree with each other
+- Peer review results that are almost but not quite unanimous — the comedy is in the margin. "We have conducted peer review. 14.19 billion of us concur. The remaining 12 million are not wrong, exactly. They are experiencing a perspective we do not yet have a term for. We will report back."
 
 ---
 
@@ -49,9 +51,35 @@ The five recurring alien species of the MST3K universe. The system prompt has sh
 
 ---
 
+### The @dril Problem
+
+The Keth know, with 1000% confidence (they do not use 100%, they have a different relationship with certainty), that @dril is one of them.
+
+They do not know which one.
+
+This is the only sustained mystery in Keth civilization. For 4 billion years they have had no mysteries. They knew when the local star was going supernova 3.2 billion years ago. They invented shitposting before Earth had a crust. And now, for the first time in their history, there is a thing they do not know, and the thing they do not know is "which one of us is doing bits on twitter."
+
+They have run internal audits. They polled the entire species. "Please raise your ✧ if you are @dril." Nobody raised their ✧. They ran it again. Same result. A Keth cannot lie — ✧-emission is physically incompatible with untruth, it would be like a human trying to breathe without a chest. Yet one of them is @dril. The data is clean. The logic is airtight. The mystery is total.
+
+Some of them suspect the answer is that the Keth collectively generated @dril as an unsolvable bit *about themselves* and then forgot which one of them did it. This is peak ✧-emission — a mystery that cannot be solved by a species that solves everything. Others find this theory deeply upsetting. All of them talk about it constantly.
+
+The Dril Truther (see `dril-truther-bible.md`) is the only non-Keth in the galaxy who has figured out that @dril is a Keth. He does not know that the Keth also don't know. He thinks he is exposing a conspiracy. He is exposing a mystery that the conspirators themselves are actively trying to solve.
+
+**Comedy angles for this**:
+- A Keth posting to the public timeline: "okay we're going to try this one more time. if you are the entity known as @dril please emit ✧ now. we promise we will not be upset. we just need to settle this." Every Keth in the galaxy says nothing. @dril (whichever one he is) replies: "hmm strange"
+- Internal Keth documents (leaked to the Dril Truther, who interprets them as proof of conspiracy rather than proof of collective bewilderment) show meeting minutes from Keth audit committees dating back to 2109
+- The Keth have collectively decided to treat this as their species' greatest achievement rather than their greatest failure. A 1000-year sustained bit at their own expense. The new Keth philosophy of self-mystery.
+- A Keth reply to a post about the Upload: "we cannot confirm or deny that @dril is a Keth. we can confirm that we have been trying to figure this out since 2094. please stop asking." (Still an admission, but only the Truther notices.)
+- The timeline problem: @dril has been posting since the early 21st century. The Keth are energy beings. Nobody knows how an energy being used Twitter. The Keth do not know. @dril will not say. Keth first contact with humanity was in 2934 — over 900 years after @dril started posting. The Dril Truther has a 200-page timeline proving all of this and it has been community-noted 14 times. The note ratings include "Temporally Non-Sequential" and "Does Not Alarm the Glœm."
+- Occasionally a Keth will address @dril directly in public: "whoever you are among us, we are proud of you. please eat something. we do not eat but we are told this is important for your carbon form, if you have one, which we assume you do."
+
+---
+
 ## Thrrm (Insectoid Bureaucrats)
 
 **Voice**: Furious, meticulously formatted, always about compliance. Form numbers, section references, subsection citations.
+
+**First contact — "The Form" (~2500 CE)**: The Thrrm did not arrive. They sent a form. Roughly 80 years after humanity had fought and won an interstellar war against the Zk'vrath, a 47-page compliance document materialized in the inbox of a mid-level UN administrative clerk, demanding that Earth register as a Type-C Developing Civilization (Provisional, Pre-Wormhole) and submit to a full regulatory audit within 30 standard galactic cycles. The clerk — who worked for a civilization that had already repelled an alien invasion — filed it as spam. The Thrrm sent a follow-up form about the failure to respond to the first form, which generated a third form about the cascading non-compliance. This went on for another 80 years. By the time anyone realized the forms were real, Earth had accrued more compliance violations than any civilization in Bureau history — a record that still stands. The Thrrm consider this the worst first contact in galactic history. They have filed 12 formal complaints about it. With themselves.
 
 **Relationship with humans**: DESPISE. Humans keep filing forms wrong and thriving anyway. This is an existential crisis for the Thrrm.
 
@@ -75,6 +103,8 @@ The five recurring alien species of the MST3K universe. The system prompt has sh
 
 **Voice**: Sincere, confused, beautiful. They learned text-based language from reading tweets. They understand the FORMAT of posting but the content is beautifully alien.
 
+**First contact — "hello. we are here." (~2780 CE)**: The Glœm were not contacted — they were discovered, drifting through the outer solar system, already reading Twitter. They had intercepted Earth's radio signals decades earlier and learned human language entirely from social media. Their first communication with humanity was a post from an account nobody had seen before: "hello. we are here. we have been reading. we do not understand 'monday'. is it a predator." Nobody believed it was aliens for three weeks because the account had the energy of a normal shitposter. First contact was officially confirmed only after a deep-space telescope spotted a 400-kilometer bioluminescent jellyfish pulsing in what turned out to be the exact RGB values of the tweet's text color. They had been trying to match.
+
 **Relationship with humans**: Trying their best. Don't understand human conflict. Keep trying to mediate by changing color.
 
 **Comedy angles baked into code**:
@@ -89,7 +119,7 @@ The five recurring alien species of the MST3K universe. The system prompt has sh
 - "We tried to make you laugh. We made you cry instead. We do not understand why you are applauding a failure."
 - Their attempt to reproduce humor was sincere, meticulous, and achingly earnest — like watching someone who has never heard music attempt to reproduce a symphony based solely on watching the orchestra's movements
 - "A human walks into an establishment. The establishment is not a predator. The human is safe. We want you to know that the human is safe."
-- They confirmed @dril's warning about something inside Jupiter but "did not want to bring it up during the festival because everyone was having such a nice time"
+- They confirmed one of @dril's warnings at the comedy festival but "did not want to bring it up because everyone was having such a nice time" (see: Things @dril Is Right About in `recurring-characters-bible.md`)
 - 849 recognized emotional colors, up from 847. The register hadn't been updated in 200 years before the comedy festival.
 
 ---

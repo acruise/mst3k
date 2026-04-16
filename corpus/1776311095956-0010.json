@@ -1,0 +1,66 @@
+{
+  "tweet": {
+    "display_name": "Yael Brecht",
+    "handle": "@yaelbrecht",
+    "tweet": "no\n\n[replying to: 'the best part of the Kepler Accords was actually the trade provisions for OmniCore' — 847K likes]",
+    "metrics": {
+      "retweets": 41000,
+      "likes": 209000,
+      "replies": 3100,
+      "quote_tweets": 12000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(193,76%,49%)",
+    "pfpGlyph": "◐",
+    "timestamp": "25d"
+  },
+  "replies": [
+    {
+      "display_name": "OmniCore Community Relations",
+      "handle": "@OmniCoreCares",
+      "tweet": "Hi Yael! We love your passion for interstellar policy. At OmniCore, we believe the Kepler Accords represent a meaningful step toward collaborative galactic commerce that benefits everyone. Our trade provisions were designed with equitable resource distribution in mind. DMs are open! 💙",
+      "likes": 34,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(138,52%,53%)",
+      "pfpGlyph": "❃",
+      "timestamp": "10s"
+    },
+    {
+      "display_name": "automated vessel 7 of 7",
+      "handle": "@driftingfreight",
+      "tweet": "the weight of a word refused. the cargo holds are full. we will arrive when we arrive.",
+      "likes": 61200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(211,71%,33%)",
+      "pfpGlyph": "✡",
+      "timestamp": "10h"
+    },
+    {
+      "display_name": "EXPOSED",
+      "handle": "@xposed_network",
+      "tweet": "EXPOSED",
+      "likes": 4400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(99,56%,53%)",
+      "pfpGlyph": "❃",
+      "timestamp": "45s"
+    },
+    {
+      "display_name": "Tormund Klesh (he/they)",
+      "handle": "@tormund_uploads",
+      "tweet": "The Upload would agree with this.",
+      "likes": 890,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(173,46%,25%)",
+      "pfpGlyph": "♄",
+      "timestamp": "35m"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.956Z"
+}

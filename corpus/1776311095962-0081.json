@@ -1,0 +1,82 @@
+{
+  "tweet": {
+    "display_name": "margot delle 🌿",
+    "handle": "@margotdelle",
+    "tweet": "I just need one person who was there to tell me I'm not crazy",
+    "metrics": {
+      "retweets": 410,
+      "likes": 3100,
+      "replies": 44000,
+      "quote_tweets": 18000
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(100,59%,57%)",
+    "pfpGlyph": "♅",
+    "timestamp": "2d"
+  },
+  "replies": [
+    {
+      "display_name": "Grix Holloway 🔺",
+      "handle": "@grix_holloway",
+      "tweet": "I was there. You are absolutely not crazy. You are also not going to want to hear what I have to say next.",
+      "likes": 18400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(129,66%,41%)",
+      "pfpGlyph": "♄",
+      "timestamp": "30d"
+    },
+    {
+      "display_name": "MindBridge™ Official",
+      "handle": "@MindBridgeOfficial",
+      "tweet": "Hi Margot! 👋 We actually built something for exactly this. MindBridge connects you with verified Witnesses — real people who were present at your Incident (any incident, all incidents, we don't ask) who will legally confirm your experience for a small monthly subscription. First 3 confirmations FREE. Link in bio. You deserve to be believed. 💙",
+      "likes": 203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(322,77%,27%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "16d"
+    },
+    {
+      "display_name": "yelling into the expanse",
+      "handle": "@kellsVOID",
+      "tweet": "not me",
+      "likes": 9100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(33,69%,50%)",
+      "pfpGlyph": "♆",
+      "timestamp": "34s"
+    },
+    {
+      "display_name": "Provisional Compliance Officer (Class III)",
+      "handle": "@Thrrm_Vek_GCCC",
+      "tweet": "NOTICE OF NON-COMPLIANCE — Form 7-Zeta (Experiential Verification Request). Per Section 4.7.2(c) of the Galactic Communications Compliance Code, solicitation of third-party witness corroboration via public broadcast channel requires submission of a Witnessed Event Disclosure Amendment (WEDA-9b) within 30 standard cycles. Failure to file will result in your testimony being reclassified as Unverified Subjective Emission and archived under Tier D (Non-Actionable). You may also be charged retroactively for bandwidth used during the solicitation. Please contact your nearest Thrrm Administrative Burrow to begin the amendment process. We understand this is difficult. File the form.",
+      "likes": 7,
+      "verified": 0,
+      "community_note": {
+        "text": "Section 4.7.2(c) of the Galactic Communications Compliance Code does not govern personal social media posts. The GCCC Section 4.7.2(c) pertains specifically to licensed emergency broadcast networks and commercial data relays. Private citizens are not required to file a WEDA-9b under any current statute. [1][2] The Thrrm Administrative Burrow cited here does not have jurisdiction over non-commercial speech acts. [3]\n\n[1] GCCC Annotated Code, Vol. 12, §4.7 (3019 ed.)\n[2] Galactic Civil Liberties Tribunal ruling, Prenn v. Thrrm Bureau of Emissions, 3021\n[3] GCCC Jurisdictional Scope Declaration, Public Memo 88-C",
+        "contributor_type": "thrrm",
+        "total_raters": 4412,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚖️",
+            "label": "Misleading Legal Claim",
+            "value": "Confirmed misleading (3,891 / 4,412)"
+          },
+          {
+            "glyph": "📋",
+            "label": "Source Quality",
+            "value": "No valid sources cited"
+          }
+        ]
+      },
+      "pfpColor": "hsl(330,58%,43%)",
+      "pfpGlyph": "✧",
+      "timestamp": "16s"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.962Z"
+}

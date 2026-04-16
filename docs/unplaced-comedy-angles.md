@@ -10,7 +10,7 @@ These worked well and could be templates for other documents:
 
 - Opening with a real tweet format, then revealing its cosmic significance ("a human did it in twelve words, as a joke, on a phone")
 - The three colonies that didn't develop shitposting all collapsed — noting the correlation and "moving on with a facial expression that we will allow the reader to interpret"
-- The Acknowledgments section thanking the Vrellnath for "14 billion simultaneous peer reviews (all of which agreed with each other)" and NOT thanking the Thrrm
+- The Acknowledgments section thanking the Vrellnath for "14.19 billion simultaneous peer reviews (of which 12 million arrived at a conclusion we are still attempting to categorize)" and NOT thanking the Thrrm
 - Closing with the oldest known shitpost ("lol") and noting it requires no further commentary
 - The academic tone that keeps almost breaking into a joke but maintains plausible deniability
 
@@ -49,11 +49,6 @@ Life extension and time dilation create unique comedy:
 - Long-distance relationships across relativistic time dilation — one partner ages years while the other ages days
 - "I've been quiet about this for 200 years but" (genuinely has been)
 
-## The Thing Inside Jupiter
+## Things @dril Is Right About
 
-This is a running thread that should stay unresolved forever:
-
-- @dril has been warning about it
-- The Glœm confirmed it but didn't want to ruin the comedy festival
-- The Galactic Threat Assessment Board's response is "pending"
-- It should NEVER be explained. It should just keep being referenced.
+Moved to `recurring-characters-bible.md`. The running thread: @dril keeps being right about everything. Each prediction sounds like a shitpost. Each one quietly turns out to be true. Nobody connects them. They should NEVER be explained or resolved — just keep accumulating.

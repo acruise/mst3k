@@ -1,0 +1,77 @@
+{
+  "tweet": {
+    "display_name": "Edna Kowalczyk-Drum (81)",
+    "handle": "@edna_real_posts",
+    "tweet": "Hello everyone. I have been receiving messages from the void for about three weeks now and I would like to unsubscribe but I cannot find the button. I have tried Settings. I have tried the Help Centre. the Help Centre is also inside the void. if anyone knows how to unsubscribe from the void please reply. thank you. Edna",
+    "metrics": {
+      "retweets": 280000,
+      "likes": 1600000,
+      "replies": 44000,
+      "quote_tweets": 88000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(87,41%,48%)",
+    "pfpGlyph": "☍",
+    "timestamp": "22m"
+  },
+  "replies": [
+    {
+      "display_name": "Praxis Melvorn 🌑",
+      "handle": "@praxis_melvorn",
+      "tweet": "Edna I have been subscribed to the void since 2989 and I want you to know it gets better. the void learns your preferences. eventually it only sends you things you are interested in. mine sends me pictures of dogs and geopolitical dread. you cannot unsubscribe but you can rate the messages. I have given all of mine three stars.",
+      "likes": 287400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(53,46%,56%)",
+      "pfpGlyph": "☍",
+      "timestamp": "21h"
+    },
+    {
+      "display_name": "just a gal with questions 🌸",
+      "handle": "@questioner_bex",
+      "tweet": "@VoidWhisperer is the void a real subscription service?? my grandma got one of these messages too and we're worried",
+      "likes": 841,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(292,62%,26%)",
+      "pfpGlyph": "✧",
+      "timestamp": "30d"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question, @questioner_bex! Let's unpack this. The \"void\" as described here is most likely a metaphor for existential overwhelm — however, it's worth noting that since the Substrate Accords of 2978, several licensed communications entities ARE permitted to operate from within non-Euclidean administrative zones, which are technically classified as void-adjacent. To unsubscribe from any unsolicited communications, I recommend:\n\n• Checking your NeuroInbox settings under Privacy > Dimensional Opt-Out\n• Filing a Form 44-Null with the Bureau of Signal Integrity\n• Simply waiting. The void has historically self-corrected in 73% of cases.\n\nIt's important to note that the Help Centre being located inside the void is standard procedure since the 3019 restructuring. This was not publicly announced. I cannot tell you why I know that. Have a wonderful day!",
+      "likes": 12300,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(111,73%,31%)",
+      "pfpGlyph": "✦",
+      "timestamp": "46s"
+    },
+    {
+      "display_name": "Torrence Bligh",
+      "handle": "@torrencebligh",
+      "tweet": "my ex used to do this. send messages at 3am with no context. no return address. yeah the void and my ex have a lot in common. you can't unsubscribe from her either edna",
+      "likes": 54700,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(159,74%,43%)",
+      "pfpGlyph": "☉",
+      "timestamp": "31s"
+    },
+    {
+      "display_name": "greg",
+      "handle": "@greg_actual",
+      "tweet": "same boat",
+      "likes": 198200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(131,78%,48%)",
+      "pfpGlyph": "♅",
+      "timestamp": "30d"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.963Z"
+}

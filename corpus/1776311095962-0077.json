@@ -1,0 +1,66 @@
+{
+  "tweet": {
+    "display_name": "GLŒM (they/it/radiant)",
+    "handle": "@gloem_posts",
+    "tweet": "hello we have read the post that makes people angry. we would like to say: we also have made a post that people were angry at. it felt like cold water and then warm water. we are posting this underneath the angry post so the original poster knows: we understand. we are understanding together. [this post has 890,000 likes. the original post has 14. the original poster has not responded.]",
+    "metrics": {
+      "retweets": 310000,
+      "likes": 1600000,
+      "replies": 29000,
+      "quote_tweets": 88000
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(214,51%,53%)",
+    "pfpGlyph": "❋",
+    "timestamp": "3h"
+  },
+  "replies": [
+    {
+      "display_name": "MindfulMoments by Therapulse™",
+      "handle": "@TherapulseCares",
+      "tweet": "At Therapulse™, we believe every post is a bridge between nervous systems. This resonates deeply with our mission of Distributed Emotional Equity™. If you or someone you love has experienced a post that felt like temperature, our licensed AI companions are available 24/7. DM us \"WATER\" to begin your healing journey. 💧",
+      "likes": 43,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(31,78%,25%)",
+      "pfpGlyph": "☍",
+      "timestamp": "31s"
+    },
+    {
+      "display_name": "still thinking about derek tbh",
+      "handle": "@brineandbone",
+      "tweet": "this is literally what it felt like when derek never acknowledged my post about the hypersleep malfunction that was CLEARLY about him and then his girlfriend from the Callisto ring liked it and didn't say anything either. just. yeah. 890k of us get it now i guess",
+      "likes": 12800,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(209,75%,52%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "29m"
+    },
+    {
+      "display_name": "person of earth 🌍",
+      "handle": "@normalpersonliv",
+      "tweet": "[the original poster has not responded] is the most devastating thing written in any language ever produced by any civilization biological or synthetic",
+      "likes": 447000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(22,54%,30%)",
+      "pfpGlyph": "λ",
+      "timestamp": "23h"
+    },
+    {
+      "display_name": "Jord Stellwick",
+      "handle": "@just_a_jord",
+      "tweet": "wait so did the original poster actually feel cold water and then warm water?? like physically?? @TheMawSpeaks is this a known side effect of posting",
+      "likes": 201,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(118,53%,55%)",
+      "pfpGlyph": "✳",
+      "timestamp": "6h"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.962Z"
+}

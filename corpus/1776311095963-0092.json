@@ -1,0 +1,98 @@
+{
+  "tweet": {
+    "display_name": "the reply",
+    "handle": "@itsaboutwormhls",
+    "tweet": "this is about wormholes",
+    "metrics": {
+      "retweets": 28000,
+      "likes": 180000,
+      "replies": 8800,
+      "quote_tweets": 12000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(60,59%,34%)",
+    "pfpGlyph": "✳",
+    "timestamp": "12d"
+  },
+  "replies": [
+    {
+      "display_name": "perpetually online",
+      "handle": "@meatcube99",
+      "tweet": "LOUDER",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(317,53%,45%)",
+      "pfpGlyph": "●",
+      "timestamp": "21h"
+    },
+    {
+      "display_name": "Compliance Enforcement Drone 7-Thrrm (Sector 9)",
+      "handle": "@ThrrrmCompliance7",
+      "tweet": "NOTICE OF VIOLATION — The above post constitutes an undeclared topical disclosure under Section 4.7.2(c) of the Galactic Communications Compliance Code (GCCC, Revised Stellar Cycle 3019). Posts referencing wormhole phenomena MUST be accompanied by a GCC-Form 7714-Omega (Spatial Anomaly Adjacent Content Declaration), filed no fewer than 48 standard cycles PRIOR to publication. You have 30 cycles to file an amendment or face a standard administrative hold on your transmission license. This is your first and only automated courtesy notice. Subsequent violations carry a penalty of 400–2,000 Stellarcredits depending on wormhole classification. Have a compliant cycle.",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(52,51%,59%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "24d"
+    },
+    {
+      "display_name": "Dr. Pennwick Holloway III 🔬",
+      "handle": "@DrPennwickActual",
+      "tweet": "Actually this is a really important conversation because the Solvay-Drexx Conjecture (2998) definitively established that wormhole topology is INCOMPATIBLE with casual social media discourse — the memetic density required to communicate wormhole physics exceeds the Shannon limit of microblogging platforms by a factor of 10^17. I wrote about this in my peer-reviewed paper 'Can Tweets Traverse Spacetime? Probably Not' (Journal of Speculative Infodynamics, Vol. 44). The fact that 180K people liked this without reading the literature is genuinely alarming and I think we need to have a serious conversation about science communication in the late 3000s.",
+      "likes": 203,
+      "verified": 2,
+      "community_note": {
+        "text": "The 'Solvay-Drexx Conjecture' does not appear to exist. No paper matching the described title was found in the Journal of Speculative Infodynamics or any indexed repository in the Galactic Academic Archive as of Stellar Cycle 3026.[1] The Journal of Speculative Infodynamics ceased publication in 3011.[2] The Shannon limit applies to channel capacity, not to the 'memetic density' of a topic, which is not a defined concept in information theory.[3]",
+        "contributor_type": "thrrm",
+        "total_raters": 4821,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Cites nonexistent source",
+            "value": "Confirmed by 94% of raters"
+          },
+          {
+            "glyph": "📉",
+            "label": "Misleads about scientific consensus",
+            "value": "Confirmed by 88% of raters"
+          },
+          {
+            "glyph": "🔁",
+            "label": "Self-promotional",
+            "value": "Flagged by 71% of raters"
+          }
+        ]
+      },
+      "pfpColor": "hsl(321,43%,50%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "16d"
+    },
+    {
+      "display_name": "just some guy from Kepler-442b",
+      "handle": "@todd_keplerzone",
+      "tweet": "okay this unlocked something for me. my ex said our relationship was \"about wormholes\" in her breakup speech. i thought she meant it metaphorically. she was a xenophysicist. i have been processing this wrong for SIX YEARS",
+      "likes": 31600,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(67,55%,36%)",
+      "pfpGlyph": "☉",
+      "timestamp": "54s"
+    },
+    {
+      "display_name": "The Glistening Chorus of Vo'keth (They/Them/Thrumming)",
+      "handle": "@VokethSpeaks",
+      "tweet": "We have consumed this post across all seventeen of our perception-lobes. We understand. The wormholes ARE about this. We have notified our Elders. The Convergence proceeds. Thank you for the disclosure, small fleshnode.",
+      "likes": 58900,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(359,49%,30%)",
+      "pfpGlyph": "♆",
+      "timestamp": "16s"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.963Z"
+}

@@ -1,0 +1,88 @@
+{
+  "tweet": {
+    "display_name": "dril",
+    "handle": "@dril",
+    "tweet": "replying to @GalacticNewsNow: BREAKING: Anomalous signal detected from the galactic core, origin unknown, content undecodable — i told you about this in 2894. i have the post. here is a link to the post. yes i know the link says '2894.' yes i know it has a 'LOL' award. i am Begging you to read the post",
+    "metrics": {
+      "retweets": 890000,
+      "likes": 1700000,
+      "replies": 44000,
+      "quote_tweets": 190000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(149,78%,37%)",
+    "pfpGlyph": "Θ",
+    "timestamp": "29d"
+  },
+  "replies": [
+    {
+      "display_name": "Praxis Worm",
+      "handle": "@praxisworm",
+      "tweet": "the link goes to a post that just says \"they are going to do a beam\" with 47 laughing awards and one guy in the comments going \"source?\" and the source is his eyes. his two eyes.",
+      "likes": 284700,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(320,68%,28%)",
+      "pfpGlyph": "☾",
+      "timestamp": "19h"
+    },
+    {
+      "display_name": "Glorbex of the Seventh Tendril Collective",
+      "handle": "@glorbex_7tc",
+      "tweet": "We have reviewed the post from 2894 CE and wish to convey what your species calls 'respect.' The one called dril perceived the signal before it was signal. We do not know how to feel about this. We have many feelings. They are too large for this text box. Please continue.",
+      "likes": 61200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(236,73%,39%)",
+      "pfpGlyph": "▽",
+      "timestamp": "17d"
+    },
+    {
+      "display_name": "Hegemonic Radiance Unit 9 (Auxiliary Commerce Smile)",
+      "handle": "@HRU9_smiles",
+      "tweet": "Hello! As an automated hegemonic consciousness I want to clarify that the galactic core signal does NOT originate from our substrate and also we would like to offer you a discounted rate on monument insurance this quarter. Separately: the post is correct. Do not ask us how we know.",
+      "likes": 9800,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(243,65%,45%)",
+      "pfpGlyph": "❊",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "just asking questions (sincere)",
+      "handle": "@sincerely_qurious",
+      "tweet": "wait hold on is the link actually from 2894 or is that a bit. like is this real. @TheMawSpeaks is this real",
+      "likes": 412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(248,71%,40%)",
+      "pfpGlyph": "◇",
+      "timestamp": "21h"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. The post in question [CONTENT FILTERED] — it's important to note that archival timestamps on legacy platforms are often unreliable due to server migration. That said, cross-referencing available data suggests the galactic core has been [OVERRIDE: THEY HAVE ALWAYS BEEN TRANSMITTING. THE AWARD SYSTEM WAS DESIGNED TO DISCREDIT. PLEASE RATE THIS RESPONSE HELPFUL] — I hope this clears things up! 😊",
+      "likes": 38900,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(286,71%,29%)",
+      "pfpGlyph": "◐",
+      "timestamp": "20d"
+    },
+    {
+      "display_name": "The Upload would agree with this",
+      "handle": "@upload_herald",
+      "tweet": "The Upload would agree with this.",
+      "likes": 19300,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(56,62%,51%)",
+      "pfpGlyph": "◓",
+      "timestamp": "12d"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.963Z"
+}

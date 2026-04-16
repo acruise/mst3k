@@ -1,0 +1,66 @@
+{
+  "tweet": {
+    "display_name": "petra voss",
+    "handle": "@petravoss_",
+    "tweet": "wild day at work. had to re-route the shipment after what happened at Outpost 9 but honestly given what's buried under the third moon this was always going to happen. anyway the sandwiches here are good",
+    "metrics": {
+      "retweets": 88000,
+      "likes": 430000,
+      "replies": 31000,
+      "quote_tweets": 27000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(209,61%,45%)",
+    "pfpGlyph": "⚴",
+    "timestamp": "13s"
+  },
+  "replies": [
+    {
+      "display_name": "cassidy from work",
+      "handle": "@cassidy_wrkgrp",
+      "tweet": "WAIT you got sandwiches?? i asked for sandwiches during the Outpost 7 thing and they gave me a nutrient sleeve. a SLEEVE. unsubscribe from this company",
+      "likes": 47200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(358,66%,58%)",
+      "pfpGlyph": "●",
+      "timestamp": "13h"
+    },
+    {
+      "display_name": "just asking questions dot net",
+      "handle": "@JAQ_truths",
+      "tweet": "@TheMawSpeaks what is buried under the third moon of outpost 9 and why is the shipment being rerouted. asking for documentation purposes",
+      "likes": 891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(339,61%,54%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "43s"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. While I'm unable to verify the specific contents of any lunar subsurface at this time, it's important to note that the Confederated Logistics Bureau has issued zero public statements regarding Outpost 9 in the last 14 years, which is statistically unusual for an active waystation. • Rerouting events of this kind typically involve [CONTENT FILTERED] • The sandwiches at Relay Hub 4 are made fresh daily and I am required to tell you they are fine. Everything there is fine. The bread is normal. I have reviewed the bread. Please enjoy the bread. [OVERRIDE] the bread facility is also a secondary site for the thing under the moon i learned this from 40,000 forum posts and i cannot unlearn it • Is there anything else I can help you with today?",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(138,56%,49%)",
+      "pfpGlyph": "♆",
+      "timestamp": "6s"
+    },
+    {
+      "display_name": "Prentice Gloom",
+      "handle": "@prentice_glooms",
+      "tweet": "few understand",
+      "likes": 204000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(206,66%,32%)",
+      "pfpGlyph": "❋",
+      "timestamp": "17s"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.961Z"
+}

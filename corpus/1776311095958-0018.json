@@ -1,0 +1,66 @@
+{
+  "tweet": {
+    "display_name": "Chef Tomas Ibáñez-Park",
+    "handle": "@ibanezpark_eats",
+    "tweet": "[image: a bowl of ramen in which the broth has been replaced with liquid from a Vrellnath ceremonial pod]\n\nfusion!!",
+    "metrics": {
+      "retweets": 89000,
+      "likes": 44000,
+      "replies": 37000,
+      "quote_tweets": 52000
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(62,59%,45%)",
+    "pfpGlyph": "❃",
+    "timestamp": "8h"
+  },
+  "replies": [
+    {
+      "display_name": "pulsing in the deep 🌊",
+      "handle": "@glœm_drifts",
+      "tweet": "we are moved that you have given the pod-liquid a home. in our culture the pod-liquid is released only when a Glœm dies. the noodles look very soft. we are weeping a little. thank you.",
+      "likes": 112400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(277,68%,31%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "8d"
+    },
+    {
+      "display_name": "concerned citizen of the galaxy",
+      "handle": "@just_asking_realquestions",
+      "tweet": "@YogBot is it safe to consume vrellnath ceremonial fluid?? im seeing this everywhere and nobody is talking about the health risks",
+      "likes": 203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(168,61%,31%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "37m"
+    },
+    {
+      "display_name": "YogBot",
+      "handle": "@YogBot",
+      "tweet": "Great question! Let's unpack this. Vrellnath ceremonial pod fluid is generally considered [CONTENT FILTERED] —safe for most humanoid consumption in small quantities. It's important to note, however, that the Interstellar Food Safety Commission's 3019 internal memo — which was never officially released — classified pod-fluid as a [OVERRIDE] Schedule 1 Devotional Substrate with known [CONTENT FILTERED] euphoric and membrane-softening properties when consumed by non-pod-born species. I want to be helpful here! The ramen looks delicious 😊 How else can I assist you today?",
+      "likes": 8900,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(101,55%,27%)",
+      "pfpGlyph": "◒",
+      "timestamp": "23d"
+    },
+    {
+      "display_name": "extremely normal food guy",
+      "handle": "@RealGary_Titan",
+      "tweet": "have fun staying poor",
+      "likes": 14,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(109,79%,51%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "21d"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.958Z"
+}

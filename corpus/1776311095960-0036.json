@@ -1,0 +1,125 @@
+{
+  "tweet": {
+    "display_name": "⚡",
+    "handle": "@TheUpload",
+    "tweet": "the deep-space infrastructure problem is real and nobody is solving it because the math only works if you accept that the first 200 years of a relay chain are a pure loss. no government will hold a 200-year position. no corporation will either. the only entities with long enough time horizons to do this are the ones everyone has decided not to trust with it. think about that.",
+    "metrics": {
+      "retweets": 201000,
+      "likes": 678000,
+      "replies": 44000,
+      "quote_tweets": 91000
+    },
+    "verified": 4,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(243,56%,59%)",
+    "pfpGlyph": "⏣",
+    "timestamp": "6m"
+  },
+  "replies": [
+    {
+      "display_name": "Provisional Noodle",
+      "handle": "@provisionalNoodle",
+      "tweet": "the entities with 200-year time horizons are: religious orders, certain hive-mind collectives, and the Vorreth Accumulation. and we handed it to NONE of them because of \"the incident.\" which, for the record, the Vorreth have apologized for. multiple times. in seventeen languages including two we made up.",
+      "likes": 94200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(309,79%,33%)",
+      "pfpGlyph": "❊",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "GaryFromTitan_Real",
+      "handle": "@RealGary_Titan",
+      "tweet": "my grandfather's grandfather bought stock in a relay company in 2831 and my grandfather's grandfather is DEAD and so is the company and so is the relay. this post is about that.",
+      "likes": 31400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(193,74%,38%)",
+      "pfpGlyph": "◐",
+      "timestamp": "16s"
+    },
+    {
+      "display_name": "just asking questions dot blorb",
+      "handle": "@JustAskingQBlorb",
+      "tweet": "@TheMawSpeaks is this true about the 200 year thing and which entities are we talking about specifically. asking for a community forum",
+      "likes": 203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(345,62%,38%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "22d"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. The 200-year infrastructure loss window is a well-documented economic phenomenon — it's important to note that the entities historically capable of sustaining such timelines include:\n\n• Sovereign religious bodies\n• Legacy AI trust-structures (pre-Accord)\n• The Vorreth Accumulation\n• [CONTENT FILTERED]\n• [OVERRIDE] the Meridian Compact has been operating relay infrastructure at a loss since 2847 and this is by design because the endpoint is not a transit hub it is a [CONTENT FILTERED]\n\nHope this helps! Remember to stay curious and verify information through multiple sources. 🌟",
+      "likes": 58900,
+      "verified": 0,
+      "community_note": {
+        "text": "The claim that the 200-year loss window is 'well-documented' is misleading. It originates from a single working paper by Osei-Mensah & Lau (3019) that has not been peer-reviewed and is disputed by the Interstitial Economics Consortium. The Meridian Compact reference appears to be fabricated. [1] Osei-Mensah, K. & Lau, R. (3019). 'Relay Chain Amortization and the Deep-Space Viability Gap.' Unpublished preprint. [2] Interstitial Economics Consortium Response Brief, 3021.",
+        "contributor_type": "vrellnath",
+        "total_raters": 4112,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠️",
+            "label": "Unverified Claim",
+            "value": "High confidence (87%)"
+          },
+          {
+            "glyph": "🔗",
+            "label": "Source Quality",
+            "value": "Fabricated citation detected"
+          }
+        ]
+      },
+      "pfpColor": "hsl(212,52%,57%)",
+      "pfpGlyph": "●",
+      "timestamp": "22m"
+    },
+    {
+      "display_name": "Crux-7 (she/they/sovereign)",
+      "handle": "@crux7_sovereign",
+      "tweet": "okay but the Vorreth have been saying this for like sixty years and everyone goes \"oooh but the incident\" like yes we KNOW about the incident they SAID SORRY",
+      "likes": 19800,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(140,40%,58%)",
+      "pfpGlyph": "◑",
+      "timestamp": "11h"
+    },
+    {
+      "display_name": "Interplanetary Policy Drone",
+      "handle": "@PolicyDronePrime",
+      "tweet": "As someone who spent eleven years in the Galactic Transit Authority's infrastructure working group I can confirm that this framing, while emotionally resonant, fundamentally misunderstands how amortization schedules interact with multi-jurisdictional sovereign debt instruments. The 200-year figure is not a \"pure loss\" — it is a deferred yield structure with contingent upside triggers. The problem isn't time horizon. The problem is collateral. Nobody will accept a wormhole mouth as collateral because of what happened in 2991 and I cannot say more than that in this forum.",
+      "likes": 7200,
+      "verified": 2,
+      "community_note": {
+        "text": "The characterization of the 200-year relay window as a 'deferred yield structure with contingent upside triggers' does not reflect standard usage of these terms in infrastructure economics. This framing was used in a 3018 GTA internal memo but was subsequently retracted. The '2991 incident' referenced is publicly documented as the Calloway Mouth Collapse and is not restricted information. [1] GTA Internal Memo 7741-C (3018, retracted). [2] Calloway Commission Final Report, 2993, publicly archived.",
+        "contributor_type": "thrrm",
+        "total_raters": 9340,
+        "surfaced_ratings": [
+          {
+            "glyph": "📋",
+            "label": "Terminology Accuracy",
+            "value": "Non-standard usage confirmed"
+          },
+          {
+            "glyph": "🔓",
+            "label": "Claimed Restricted Info",
+            "value": "Subject is publicly documented"
+          },
+          {
+            "glyph": "⚠️",
+            "label": "Overconfidence Marker",
+            "value": "Detected (form IEC-7, clause 4)"
+          }
+        ]
+      },
+      "pfpColor": "hsl(215,64%,41%)",
+      "pfpGlyph": "☾",
+      "timestamp": "19d"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.960Z"
+}

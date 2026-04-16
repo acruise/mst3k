@@ -362,11 +362,11 @@ The First Contact Comedy Festival has been credited with the following developme
 
 It should be noted that the entity known as @dril was invited to perform at the festival and declined. Their response, transmitted via the standard communication platform, read in its entirety:
 
-> *"i have Been invited to perfomr at a 'comedy festival'. i am not a comedian. i am trying to Warn you about the thing inside jupiter. nobody listens. the jellyfish understand. ask the jellyfish"*
+> *"i have Been invited to perfomr at a 'comedy festival'. i am not a comedian. i am trying to Warn you about the sun being wrong. nobody listens. the jellyfish understand. ask the jellyfish"*
 
 The Glœm were asked. Their response was a color that their translator could not render. When pressed for a textual approximation, the lead Glœm delegate said:
 
-"There is something inside Jupiter. We did not want to bring it up during the festival because everyone was having such a nice time."
+"He is not wrong about the sun. We did not want to bring it up during the festival because everyone was having such a nice time."
 
 This matter has been referred to the Galactic Threat Assessment Board.
 

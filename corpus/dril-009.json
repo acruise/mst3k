@@ -1,0 +1,93 @@
+{
+  "tweet": {
+    "display_name": "wint",
+    "handle": "@dril",
+    "tweet": "my cat has been staring at the same spot on the ceiling for 6 weeks. i put a chair there and stared at it too. i understand now. im not going to say what i saw because you would think im making it up. the cat and i have an agreement",
+    "metrics": {
+      "retweets": 450000,
+      "likes": 1200000,
+      "replies": 38000,
+      "quote_tweets": 72000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(0, 0%, 25%)",
+    "pfpGlyph": "◉",
+    "timestamp": "3h"
+  },
+  "replies": [
+    {
+      "display_name": "pet twitter rise up",
+      "handle": "@animals_only_pls",
+      "tweet": "this is the best cat tweet ever written and i will not be hearing arguments",
+      "likes": 340000,
+      "verified": 0,
+      "pfpColor": "hsl(350, 50%, 35%)",
+      "pfpGlyph": "✿",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "concerned",
+      "handle": "@are_you_ok_dril",
+      "tweet": "what agreement. dril what agreement. what did you agree to.",
+      "likes": 120000,
+      "verified": 0,
+      "pfpColor": "hsl(0, 50%, 32%)",
+      "pfpGlyph": "⚠",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "we are the Vrellnath",
+      "handle": "@vrellnath_cultural",
+      "tweet": "the human-feline covenant is known to us. we respect it. we will not elaborate.",
+      "likes": 670000,
+      "verified": 0,
+      "pfpColor": "hsl(180, 55%, 28%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "2h"
+    },
+    {
+      "display_name": "ACTUALLY",
+      "handle": "@reply_guy_prime",
+      "tweet": "cats stare at ceilings because of bugs or light reflections. this is basic animal behavior. not everything is mysterious dril",
+      "likes": 890,
+      "verified": 1,
+      "pfpColor": "hsl(60, 45%, 30%)",
+      "pfpGlyph": "◇",
+      "timestamp": "2h",
+      "community_note": {
+        "text": "Readers added context they thought people might want to know. While it is correct that feline ceiling-fixation can result from insect activity or light reflections in ordinary circumstances, the reply dismisses the original post's specific claims without addressing them. Note that the Vrellnath Collective's reference to 'the human-feline covenant' in this thread [1] is not a metaphor — it is a recognized interspecies relationship first documented by the Collective in 2741 CE and they do not elaborate on it publicly. [2] The reply being corrected also appears on 14 other threads this month making similar dismissive claims. [3] This context is offered without prejudice.",
+        "contributor_type": "community",
+        "total_raters": 2300,
+        "surfaced_ratings": [
+          {
+            "glyph": "⧖",
+            "label": "Temporally Coherent",
+            "value": "Within Tolerance"
+          },
+          {
+            "glyph": "⟐",
+            "label": "Does Not Reference the Thing Inside Jupiter",
+            "value": "Yes"
+          },
+          {
+            "glyph": "♡",
+            "label": "Feels Right",
+            "value": "78%"
+          }
+        ]
+      }
+    },
+    {
+      "display_name": "wint",
+      "handle": "@dril",
+      "tweet": "the cat says you should also look. i am telling you what the cat said. do with this information what you will",
+      "likes": 1800000,
+      "verified": 0,
+      "pfpColor": "hsl(0, 0%, 25%)",
+      "pfpGlyph": "◉",
+      "timestamp": "1h"
+    }
+  ],
+  "generated_at": "2026-04-15T00:01:08.000Z"
+}

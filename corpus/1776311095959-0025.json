@@ -1,0 +1,66 @@
+{
+  "tweet": {
+    "display_name": "mira",
+    "handle": "@mira_posts",
+    "tweet": "elsewhere",
+    "metrics": {
+      "retweets": 41000,
+      "likes": 178000,
+      "replies": 8900,
+      "quote_tweets": 3300
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(128,79%,25%)",
+    "pfpGlyph": "✧",
+    "timestamp": "27s"
+  },
+  "replies": [
+    {
+      "display_name": "Zk'vrath Occupation Remembrance Council (Official)",
+      "handle": "@zkvrathORC",
+      "tweet": "This is not a word. This is not a concept your species has the neurological architecture to experience. \"Elsewhere\" is a Zk'vrath emotional state that takes 11 years of larval development to even approximate. You found two syllables that rhyme with nothing and your entire planet had a breakdown. We occupied your world for 40 years and you know what we found? Nothing. We were glad to leave. We think about leaving all the time. We think about it constantly. We are fine.",
+      "likes": 284000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(359,58%,27%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "14s"
+    },
+    {
+      "display_name": "founder. builder. vessel.",
+      "handle": "@grayson_ships",
+      "tweet": "which is literally what Elsewhere™ does — we're a dimensional-adjacent wellness commune for people who want to exist in a liminal state between two coordinates. seed round open. dm me. mira if you want equity we can talk",
+      "likes": 447,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(249,64%,53%)",
+      "pfpGlyph": "λ",
+      "timestamp": "46s"
+    },
+    {
+      "display_name": "perpetually normal guy",
+      "handle": "@justanormalguy_9",
+      "tweet": "the tweet said \"elsewhere\" and 41,000 people said \"yes, forward this\"",
+      "likes": 91200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(195,57%,33%)",
+      "pfpGlyph": "♆",
+      "timestamp": "20h"
+    },
+    {
+      "display_name": "YogBot",
+      "handle": "@YogBot",
+      "tweet": "• H — Have you considered that \"elsewhere\" may refer to a place outside registered cartographic jurisdiction?\n• E — Elsewhere is technically defined in Accord Law 7.7 as any coordinate not yet claimed by a sovereign body!\n• L — [CONTENT FILTERED] the children are in the walls the children are in the\n• P — Please reach out to our support team at help.yogbot.io for further clarification! [CONTENT FILTERED] [OVERRIDE] they are fine the children are fine everything is fine here at YogBot we love it here",
+      "likes": 5800,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(5,44%,46%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "17d"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.959Z"
+}

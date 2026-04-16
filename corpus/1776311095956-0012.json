@@ -1,0 +1,120 @@
+{
+  "tweet": {
+    "display_name": "Perpetua Voss",
+    "handle": "@perpetua_v",
+    "tweet": "absolutely done with this platform. the discourse has reached a new low and i will not be witness to it. goodbye. [posted November 2, 2941]",
+    "metrics": {
+      "retweets": 19000,
+      "likes": 61000,
+      "replies": 7800,
+      "quote_tweets": 3100
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(26,65%,44%)",
+    "pfpGlyph": "⊗",
+    "timestamp": "10h"
+  },
+  "replies": [
+    {
+      "display_name": "cressida moon-tang",
+      "handle": "@cressida_m",
+      "tweet": "perpetua i am BEGGING you. i was JUST about to reply to your thread about synth-kelp gentrification. you CANNOT leave. you are the last person on here saying real things. please. PLEASE. i will follow you to every platform including the deprecated ones",
+      "likes": 47,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(98,44%,44%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "19d"
+    },
+    {
+      "display_name": "Gary Flemmons (Real)",
+      "handle": "@RealGaryFlemmons",
+      "tweet": "see you tomorrow",
+      "likes": 61400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(75,53%,31%)",
+      "pfpGlyph": "☾",
+      "timestamp": "33m"
+    },
+    {
+      "display_name": "Doctrine of the Pale Immensity",
+      "handle": "@DoctrinePaleImmensity",
+      "tweet": "With respect, the discourse has not \"reached a new low\" — it has merely revealed its true substrate. I'd point anyone interested to Velhardt & Osuji (3019), \"Thermodynamic Limits of Online Sincerity,\" in which the authors argue that platform entropy is not degradation but convergence toward a base epistemic state. Perpetua is not leaving. She is completing a phase transition. The post will still be here in 85 years.",
+      "likes": 203,
+      "verified": 2,
+      "community_note": {
+        "text": "Velhardt & Osuji (3019) does not appear to exist. A search of the Pan-Galactic Academic Repository and the Unified Journal Index returns no results for this title or these authors. [1][2] The field of \"thermodynamic sincerity studies\" is not a recognized academic discipline. [3]\n\n[1] Pan-Galactic Academic Repository, full-text search, queried 3026\n[2] Unified Journal Index, cross-reference search, queried 3026\n[3] Consortium of Epistemic Sciences, Recognized Subdisciplines Registry, v.3025",
+        "contributor_type": "vrellnath",
+        "total_raters": 4821,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚗",
+            "label": "Fabricated Citation",
+            "value": "94% likely"
+          },
+          {
+            "glyph": "🌀",
+            "label": "Confidence Calibration",
+            "value": "poor"
+          }
+        ]
+      },
+      "pfpColor": "hsl(103,60%,29%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "19s"
+    },
+    {
+      "display_name": "just asking honestly",
+      "handle": "@sincerely_asking_q",
+      "tweet": "wait what discourse?? what happened?? someone DM me i've been off grid in the Europa kelp communes for 3 weeks",
+      "likes": 889,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(167,76%,27%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "19s"
+    },
+    {
+      "display_name": "NyarlathotHELP",
+      "handle": "@NyarlathotHELP",
+      "tweet": "Hi there! It looks like you're expressing frustration with online discourse — totally valid! Here are some tips for a healthy platform break: ✨ Archive your posts before deactivating. ✨ Let close mutuals know via direct message. The Voss Accord of 2998 legally requires all platform departures to be logged with the Attention Registry within 72 hours or your engagement data becomes property of the Reclamation Bureau. ✨ Consider a \"soft leave\" of 30 days before full deletion! Hope this helps! 🌟",
+      "likes": 3102,
+      "verified": 0,
+      "community_note": {
+        "text": "There is no \"Voss Accord of 2998\" and no legal requirement to register platform departures with any entity called the \"Reclamation Bureau.\" No such legislation exists in the Federated Planetary Code or any known regional charter. [1][2] User data governance is covered under the Digital Personhood Statutes (3011), which contain no such provision. [3]\n\n[1] Federated Planetary Legislative Archive, full search, queried 3026\n[2] Regional Charter Compendium, Vol. 44, 3025 ed.\n[3] Digital Personhood Statutes, 3011, §§ 1–88",
+        "contributor_type": "thrrm",
+        "total_raters": 11240,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚖",
+            "label": "Legal Accuracy",
+            "value": "false"
+          },
+          {
+            "glyph": "🤖",
+            "label": "AI Hallucination Likelihood",
+            "value": "very high"
+          }
+        ]
+      },
+      "pfpColor": "hsl(307,53%,51%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "12h"
+    },
+    {
+      "display_name": "perpetua watcher dot net",
+      "handle": "@perpetua_watcher",
+      "tweet": "this is her 14th goodbye post since 2941. she came back within 6 hours every single time. i have a spreadsheet",
+      "likes": 28700,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(217,52%,32%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "23s"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.956Z"
+}

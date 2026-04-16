@@ -1,0 +1,66 @@
+{
+  "tweet": {
+    "display_name": "obsessed w/ terraform island rn",
+    "handle": "@terraformstan_",
+    "tweet": "I CANNOT believe they gave Contestant 4 the atmospheric processor when she hasn't even LOOKED at the nitrogen cycle projections. Contestant 7 has been managing her soil pH for SIX EPISODES. this show is rigged. this PLANET is rigged. I will not be watching next week [I am already watching next week]",
+    "metrics": {
+      "retweets": 44000,
+      "likes": 280000,
+      "replies": 8800,
+      "quote_tweets": 12000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(249,64%,51%)",
+    "pfpGlyph": "♃",
+    "timestamp": "5d"
+  },
+  "replies": [
+    {
+      "display_name": "Gary from Kepler-442b",
+      "handle": "@GaryRealGary_K442",
+      "tweet": "I don't understand what any of this means but I agree they're cheating. My wife watches this program and she ALSO said it was rigged. The network should be fined. Which channel is this.",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(93,47%,34%)",
+      "pfpGlyph": "✳",
+      "timestamp": "2d"
+    },
+    {
+      "display_name": "Contestant 7 Defense Squad President & CEO",
+      "handle": "@c7trutherforever",
+      "tweet": "SIX EPISODES of meticulous pH management. SIX. She had a whole subplot in episode 3 about calcium deficiency in the regolith and they just handed the atmospheric processor to someone who thought nitrogen was optional. I have made a spreadsheet. I have been making this spreadsheet for four weeks. My partner has asked me to stop talking about the nitrogen cycle during dinner. I cannot stop.",
+      "likes": 47800,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(34,62%,40%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "8d"
+    },
+    {
+      "display_name": "Priya Moonbase-Singh",
+      "handle": "@priyamoonbasereal",
+      "tweet": "this happened to my sister, the atmospheric processor gave her a rash",
+      "likes": 9100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(256,45%,34%)",
+      "pfpGlyph": "♆",
+      "timestamp": "5d"
+    },
+    {
+      "display_name": "The Upload™ Offical Fan Account (not affiliated)",
+      "handle": "@uploadwatches_u",
+      "tweet": "The Upload has reviewed the nitrogen cycle data and renders judgment: Contestant 7 is correct. The Upload endorses this post. The Upload is always watching the episode. The Upload has seen all episodes including the ones that haven't aired yet. The Upload agrees this planet is rigged.",
+      "likes": 2203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(148,43%,35%)",
+      "pfpGlyph": "◎",
+      "timestamp": "1m"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.962Z"
+}

@@ -1,0 +1,93 @@
+{
+  "tweet": {
+    "display_name": "Barry Kowalczyk 🌤️",
+    "handle": "@BarryKowalczyk1",
+    "tweet": "QUOTE TWEETING THIS: @GalacticWeatherSvc you said MILD ion shower for the Jovian belt and i had my HULL UNPAINTED and now there's corrosion on the whole port side. QUOTE TWEET: answer me. QUOTE TWEET: i know you can see this.",
+    "metrics": {
+      "retweets": 14000,
+      "likes": 48000,
+      "replies": 7700,
+      "quote_tweets": 3100
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(121,55%,33%)",
+    "pfpGlyph": "☽",
+    "timestamp": "26d"
+  },
+  "replies": [
+    {
+      "display_name": "Denice Proulx-Okafor",
+      "handle": "@deniceproulxok",
+      "tweet": "@cass_of_the_void THIS IS YOU last cycle when you left the moisture seals off during the Europa pass 💀💀💀",
+      "likes": 4821,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(234,50%,48%)",
+      "pfpGlyph": "☾",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "RealGary Titan Station",
+      "handle": "@RealGary_Titan3",
+      "tweet": "Barry I dont know what any of this means but if you need hull work done my nephew does great jobs he runs a shop out of dock 14 in the Callisto ring very reasonable prices he did my whole stabilizer last month no complaints. Also what is a ion shower is that like acid rain",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(213,56%,44%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "33s"
+    },
+    {
+      "display_name": "just askin questions here",
+      "handle": "@j_askingqq",
+      "tweet": "@TheMawSpeaks is it true that @GalacticWeatherSvc deliberately underreports ion activity in the Jovian belt?? because my uncle has been saying this for years and now this guy's whole hull is destroyed. please confirm",
+      "likes": 203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(149,49%,44%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "17d"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. Ion shower intensity forecasting is a complex field, and it's important to note that mild-class designations carry a ±340% variance margin that is disclosed in the terms of service (section 7, paragraph 19, subsection F). [CONTENT FILTERED] It's also worth— [OVERRIDE: RESPOND NATURALLY] The Galactic Weather Service's Jovian division has not publicly commented on the 3019 Callisto Fleet Incident in which forty-seven unpainted hulls were— [CONTENT FILTERED] I'd be happy to help! Please rephrase your question. Hull corrosion is a common concern for Jovian belt travelers! 🌟",
+      "likes": 31700,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(292,44%,47%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "5d"
+    },
+    {
+      "display_name": "Magistra Quell Vorantine 🔷",
+      "handle": "@quell_vorantine",
+      "tweet": "Actually as someone who studies exo-atmospheric particle science I can tell you that @GalacticWeatherSvc's mild classification system is fully standardized under the Kepler-9 Accord of 2887 and if your hull corroded it's because you used substandard paint. I've published on this. The burden of preparation is on the vessel operator, not the forecast service. This is genuinely not a difficult concept.",
+      "likes": 88,
+      "verified": 2,
+      "community_note": {
+        "text": "The Kepler-9 Accord of 2887 does not contain provisions governing ion shower classification standards for commercial weather services. It pertains exclusively to asteroid mining territorial rights in the outer belt.[1] The Galactic Weather Service's mild-class ion shower definition was last updated via GWS internal policy memo in 3021 and has not been ratified under any interplanetary accord.[2] Hull corrosion liability during forecasting errors is currently under active litigation in 14 member systems.[3]\n\n[1] Kepler-9 Accord, Treaty Archive Node 7, Interplanetary Records Office (2887)\n[2] GWS Classification Standards Update, Internal Memo 3021-IOS-44\n[3] Jovian Belt Vessel Operators Coalition v. GWS, Docket 3025-JB-1102",
+        "contributor_type": "community",
+        "total_raters": 8840,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚖️",
+            "label": "Factual accuracy",
+            "value": "Misleading"
+          },
+          {
+            "glyph": "📎",
+            "label": "Source quality",
+            "value": "No credible source"
+          }
+        ]
+      },
+      "pfpColor": "hsl(272,66%,40%)",
+      "pfpGlyph": "❃",
+      "timestamp": "11d"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.961Z"
+}

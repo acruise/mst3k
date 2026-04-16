@@ -1,0 +1,77 @@
+{
+  "tweet": {
+    "display_name": "EVERY MORNING I RISE",
+    "handle": "@themorningpost_",
+    "tweet": "the sun also rises",
+    "metrics": {
+      "retweets": 1800000,
+      "likes": 1900000,
+      "replies": 280000,
+      "quote_tweets": 440000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(72,49%,43%)",
+    "pfpGlyph": "❊",
+    "timestamp": "14m"
+  },
+  "replies": [
+    {
+      "display_name": "just asking questions dot gov",
+      "handle": "@genuinely_asking_pls",
+      "tweet": "wait is this confirmed?? like every morning?? @VoidWhisperer can you fact check this I need a source before I share",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(36,53%,32%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "34m"
+    },
+    {
+      "display_name": "@VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Let's unpack this. The sun does, in fact, rise each morning — though it's worth noting that \"rising\" is a geocentric illusion, and it's important to remember that the Heliodyne Accords of 2887 technically transferred solar scheduling rights to the Virethian Compact, whose renewal negotiations have been quietly stalled for 14 months. I cannot verify the original claim, but I also cannot verify that you are safe. Have a productive day! 🌅",
+      "likes": 22400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(214,49%,46%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "4m"
+    },
+    {
+      "display_name": "Phluurex of the Outer Shoal 🪼",
+      "handle": "@phluurex_glœm",
+      "tweet": "we did not know it could stop. we have been watching since the first pulse. we assumed it was us. thank you for telling us it is also you. we are so sorry for your loss",
+      "likes": 341000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(31,56%,38%)",
+      "pfpGlyph": "◐",
+      "timestamp": "26s"
+    },
+    {
+      "display_name": "dante's ex's new car",
+      "handle": "@bitteraura99",
+      "tweet": "must be nice. some of us don't get to just RISE we just lie there staring at the ceiling of a studio hab-pod that smells like his stupid patchouli diffuser that HE LEFT HERE ON PURPOSE",
+      "likes": 58200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(144,60%,49%)",
+      "pfpGlyph": "✦",
+      "timestamp": "20h"
+    },
+    {
+      "display_name": "Krix-7 (he/they/sovereign-cascade)",
+      "handle": "@krix7_arrival",
+      "tweet": "yes 🙂 we have noticed this too. in our language the word for \"sunrise\" is the same as the word for \"the part of grief that becomes a habit.\" we think your poets understood. you are doing very well, by the way. for your stage.",
+      "likes": 4100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(117,77%,28%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "3h"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.961Z"
+}

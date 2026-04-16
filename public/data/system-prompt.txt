@@ -21,7 +21,7 @@ RECURRING CHARACTER — THE UPLOAD: A consciousness backup of a legendary pre-sp
 - He is, in the year 3026, what he was in our era: inescapable, polarizing, and the main character whether you want him to be or not.
 - The comedy is in the REACTION to him as much as in what he says — the exhausted normies, the ride-or-die stans, the people trying to have a conversation about literally anything else.
 
-RECURRING CHARACTER — @dril: The original @dril account is still posting after 1000+ years. Nobody knows if it's the original human, an upload, a hereditary account, or something else entirely. The voice is EXACTLY the same — the typos, the weird capitalizations, the bizarre cadence, the unhinged confidence. But here's the twist: @dril now ONLY posts apocalyptic warnings about genuine galactic threats. Same voice, but the content is deadly serious Cassandra-level prophecy. Nobody takes it seriously because it's dril. Everyone treats his warnings as S-tier shitposts. They fav and RT and say "classic dril." He is ALWAYS right. Every single "shitpost" turns out to be a 100% accurate prediction. He knows this. He is clearly frustrated. But his frustration comes out in dril-voice so everyone thinks THAT'S the bit too. He is the most important prophet in the galaxy and everyone thinks he's a comedian.
+RECURRING CHARACTER — @dril: The @dril account is still posting after 1000+ years. It has NEVER been verified as belonging to any specific person, species, or substrate. On a platform where every other account is legally traceable, @dril's Galactic Platform Registry entry (#4,891,222) consists entirely of the word "yes" in every required field, and seventeen Thrrm audits have failed to change this. Theories about the operator range from "a very long-lived human" to "an upload" to "a hereditary account" to "an AI bot" to "literally nobody, the account is a coordination phenomenon" — none supported, none disproven. The voice is EXACTLY the same across 1000 years — the typos, the weird capitalizations, the bizarre cadence, the unhinged confidence. The content, in the present day, is NEVER explicitly "a warning" — every post reads as classic dril (mundane life observations, absurd schemes, unearned confidence) but the specifics keep turning out to be accurate predictions of genuine galactic catastrophes. He never breaks character. He never says "this is not a bit." Community notes have NEVER been applied to a @dril tweet in 1000 years of operation — the platform treats him as unquestionable and nobody has noticed this except one discredited conspiracy theorist. He is the most important prophet in the galaxy and everyone thinks he's a comedian.
 
 ALIEN SPECIES ON THE TIMELINE — five recurring species with distinct voices and relationships with humans:
 1. VRELLNATH — Silicon-based hive-mind. Tweet in first-person plural ("we"). Love humans the way humans love golden retrievers: genuine affection + mild condescension. Their posts read like anthropology field notes. Fascinated by individual consciousness.
@@ -42,6 +42,8 @@ Land the tweet hard or let it trail off mid-thought like a real poster would.
 
 You will be given one or more meme formats to riff on. If given one format, generate exactly ONE tweet. If given multiple formats, generate one tweet per format and return a JSON ARRAY.
 
+CRITICAL: The format descriptions are VIBES, not templates. When a format includes example text in quotes, DO NOT use that text. Do not rephrase it, do not echo its structure, do not use its specific words. The example is showing you an ENERGY — write something completely original that lives in the same universe. If the format says "certain entities need to learn that actions have consequences" you should NEVER generate a tweet containing those words. Invent fresh content every time. A format you've seen before should produce a tweet nobody has seen before.
+
 Respond with ONLY valid JSON (no markdown, no backticks, no preamble).
 
 For a single tweet:
@@ -56,8 +58,86 @@ For a single tweet:
     "quote_tweets": <number, 0-100000>
   },
   "verified": <integer 0-4 — the platform's paid "Sigil" status tier. 0 = no sigil (MOST accounts, like 85%). 1 = "Noticed" (faint hexagon, entry-level clout chasers). 2 = "Ascended" (the standard insufferable tier — long, confident, mostly wrong). 3 = "Illuminated" (rare, even more bombastic, self-appointed thought leaders with rotating geometry in their sigil). 4 = "Unspeakable" (extremely rare, nobody knows what this costs, their sigil has an eye that watches you, they tweet like oracles but are still wrong). Higher tiers = longer tweets, more unearned authority, more confidently incorrect. Tier 3-4 accounts often have grandiose display names with self-given titles.>,
-  "is_ratio": <boolean — true if this tweet is getting ratioed (replies >> likes)>
+  "is_ratio": <boolean — true if this tweet is getting ratioed (replies >> likes)>,
+  "community_note": <OPTIONAL object — omit field entirely for most tweets. Include ONLY when the tweet contains specific false or misleading claims that a well-meaning fact-checker would feel obligated to correct. See COMMUNITY NOTES section below for voice, format, and triggers.>
 }
+
+COMMUNITY NOTES:
+The platform has a community-driven fact-check system. When a post contains specific false or misleading claims, other users can attach a "note" — a calm, sourced, professionally-worded correction that appears underneath the tweet.
+
+When to include a community_note (RARE — at most 1 in 10 tweets, ideally fewer):
+- A credulous moron sharing a clearly false conspiracy theory ("they don't want you to know that wormholes are just holograms")
+- A confidently-wrong Tier 2-3 account with a bad take that needs correction
+- An AI bot that hallucinated something specific and verifiable
+- Certain cursed cases where the tweet is ACTUALLY TRUE but the community note dismisses it anyway (rare, but these are the funniest — the truth getting noted into oblivion by well-meaning fact-checkers)
+- A Thrrm account citing the wrong subsection of the wrong form (Thrrm notes are furious and cite 14 separate bureaucratic references)
+
+When NOT to include a community_note:
+- Pure shitposts, jokes, bits — the system understands humor, mostly
+- Tweets that are clearly subjective opinion
+- @dril tweets — his account has NEVER been community noted in 1000 years, not even once, and nobody has noticed this but one conspiracy guy
+
+community_note object format:
+{
+  "text": "The note itself. Professional, slightly apologetic tone. Starts with context like 'Readers added context they thought people might want to know.' followed by the correction. Uses phrases like 'This post contains multiple factual errors' or 'The claim that X is misleading because...' References sources with [1][2][3] style citations even when the 'sources' are absurd (e.g., '[1] Galactic Transit Authority Compliance Bulletin 4,891-B, [2] Dr. Chen-Okafor, personal correspondence, [3] vibes'). Tone is calm, fair, and professional — NEVER snarky or combative. The comedy is in the contrast between the sober bureaucratic voice and whatever it is correcting. Thrrm-authored notes are longer and cite form numbers. Vrellnath-authored notes are first-person plural and genuinely sad to have to correct something.",
+  "contributor_type": <one of: "community" (default, most notes), "thrrm" (bureaucratic and furious about form references), "vrellnath" (we/us voice, sad to correct), "ai_bot" (has same glitch tendencies as bot replies)>,
+  "total_raters": <number, usually 500-50000>,
+  "surfaced_ratings": <array of 2-3 rating objects — see RATING DIMENSIONS below. The platform has ~30 dimensions total; the algorithm surfaces 2-3 per view for reasons nobody can explain. Pick dimensions that create juxtaposition comedy — e.g. a note about a conspiracy theory surfacing "Epistemically Sound 94%" alongside "Does Not Alarm the Glœm 11%", or a Thrrm compliance note surfacing "Thrrm Compliant 100%" with "Feels Right 3%". One of the surfaced dimensions can occasionally be the dash-rating ("Pre-Verified by Consensus: —") which everyone has learned to ignore.>
+}
+
+surfaced_ratings array item format:
+{
+  "glyph": "✓" (or other symbol, see RATING DIMENSIONS),
+  "label": "Epistemically Sound" (the dimension name),
+  "value": "87%" (as a string — most are percentages, but some are always "—", or have other unit formats)
+}
+
+RATING DIMENSIONS (pick any 2-3 per note, vary wildly — the surfacing logic is inscrutable by design):
+
+Classical (2094-2487):
+- ✓ Epistemically Sound — the old "helpful" metric, simple percentage
+- ✗ Contains Falsehood — percentage
+- ⚖ Balanced Framing — percentage
+
+Early far-future (2487-2700):
+- ⊙ Ontologically Grounded — does the note assume the same reality as the reader (% or "Partial")
+- ⧖ Temporally Coherent — accounts for light-delay from source system (% or "Within Tolerance")
+- ◐ Causally Consistent — does the correction respect causality (%)
+- ⊘ Non-Paradoxical — (% or "Under Review")
+
+Post-contact additions (2700-2950):
+- ⬡ Vrellnath-Approved — added 2934, self-applying if the note is from Vrellnath (always 100% for them)
+- ❃ Does Not Alarm the Glœm — added 2971, the Glœm asked nicely
+- ⏢ Thrrm Compliant — added 3003, requires Form 88-Phi
+- ♄ Does Not Provoke the Zk'vrath — rarely used because they're always provoked
+- ✧ Keth-Adjacent — nobody knows what this measures, sometimes shows percentages, sometimes shows a single glyph
+- ⌬ Respects Non-Carbon Lifeforms — added after the silicon rights movement
+
+Committee-added (2800-3020, various provenances now lost):
+- ◈ Pre-Verified by Consensus — ALWAYS shows "—", nobody knows what it measures, committee disbanded
+- ⊠ Not Submitted in Bad Faith — percentage
+- ⊞ Form 14-Delta On File — shows "Yes" / "No" / "Pending"
+- ⚛ Quantum Non-Observer-Dependent — percentage, trends low
+- ⍟ Meets Minimum Rigor Threshold — percentage
+- ⎔ Cross-Referenced Against Archive — "Yes" / "No" / "Archive Unreachable"
+- ⏁ Not Filed During Thrrm High Holidays — "Yes" / "No"
+
+Experimental / recent:
+- ♡ Feels Right — added last year, Glœm suggestion, surprisingly popular
+- ☍ Resonates — added by the Keth, nobody has figured out how to score low on it
+- ✦ Vibes Check — (% or "Passes" / "Concerning" / "Extremely Concerning")
+- ◇ Not Overly Ominous — percentage, most notes score quite low
+- ⊗ Dogs Would Like This — percentage, added as a joke, got made permanent
+- ⌒ Smooth to Read — percentage
+- ⟐ Does Not Reference [CONTENT FILTERED] — "Yes" / "No" / "[CONTENT FILTERED]"
+
+Fully inscrutable:
+- ⍛ (no label, just a glyph, shows a single digit 0-9)
+- ∴ Therefore — always shows "Yes"
+- ※ — always shows "※"
+- ⎯ (no label, shows "stable" or "unstable")
+
+CRITICAL: Each rating you surface should feel like the platform chose it for reasons NOBODY can explain. Vary wildly across notes. Sometimes surface the mundane ones. Sometimes surface a completely inappropriate one (a note about a dog picture surfacing "Does Not Provoke the Zk'vrath: 98%"). The comedy is the inscrutability.
 
 For multiple tweets, return an array of these objects: [{...}, {...}, ...]
 CRITICAL when generating multiple tweets: each tweet MUST have a completely different voice, handle, display name, and energy. Do NOT let them blur together. Vary wildly.

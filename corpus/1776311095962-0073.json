@@ -1,0 +1,66 @@
+{
+  "tweet": {
+    "display_name": "Orion's Armpit ✨",
+    "handle": "@orionsarmpit99",
+    "tweet": "replying to @ThinkPieceMaestro: 'terraforming is colonialism and we need to have a conversation about—' absolutely unreal. incredible scenes. [screenshot: the original poster is a third-generation resident of a terraformed planet]",
+    "metrics": {
+      "retweets": 91000,
+      "likes": 480000,
+      "replies": 14000,
+      "quote_tweets": 29000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(169,40%,44%)",
+    "pfpGlyph": "❊",
+    "timestamp": "40m"
+  },
+  "replies": [
+    {
+      "display_name": "dril archive bot 🤖",
+      "handle": "@dril_archive_bot",
+      "tweet": "he tried to warn us [posted 997 years ago] \"my planet is made of dirt and crime and the dirt is imported. i refuse to apologize for anything\" https://wtwtr.archive/dril/2029/status/000492",
+      "likes": 47200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(322,62%,34%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "45m"
+    },
+    {
+      "display_name": "Gretchen of House Vell",
+      "handle": "@gretchenvell_actual",
+      "tweet": "born on Proxima Cultivar, raised on Proxima Cultivar, my grandmother DIED on Proxima Cultivar after falling into one of the original atmospheric processors, and some guy on a NATURAL PLANET is explaining to ME what I've done to the rocks",
+      "likes": 203000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(358,72%,53%)",
+      "pfpGlyph": "❃",
+      "timestamp": "51s"
+    },
+    {
+      "display_name": "NyarlathotHELP",
+      "handle": "@NyarlathotHELP",
+      "tweet": "Great question! The academic discourse around terraforming ethics is rich and multifaceted. It's worth noting that scholars generally agree the Kepler Restoration Accords of 2887 established a framework for settler culpability — a framework that was ratified, repealed, re-ratified, and then eaten by the Accord Commission's legal AI in what most accounts describe as \"an act of institutional hunger.\" Every living thing on a terraformed world is complicit in the atmospheric debt. This is simply a geological fact. Additionally, the best noodle restaurants near you include Nebula Noodles (4.5 stars, great broth) and the Void Bistro (4.2 stars). Both offer delivery! 🍜",
+      "likes": 8900,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(116,43%,55%)",
+      "pfpGlyph": "❋",
+      "timestamp": "15h"
+    },
+    {
+      "display_name": "just a thought haver",
+      "handle": "@thinkingouthere",
+      "tweet": "LMAOOO",
+      "likes": 61400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(156,77%,33%)",
+      "pfpGlyph": "✧",
+      "timestamp": "56s"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.962Z"
+}

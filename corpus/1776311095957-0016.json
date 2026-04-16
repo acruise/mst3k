@@ -1,0 +1,88 @@
+{
+  "tweet": {
+    "display_name": "soph",
+    "handle": "@sophwashere_",
+    "tweet": "incredible scenes\n\n[QT: @GalacticSenate_Press: Senator Vael has proposed that all wormhole transit fees be paid in \"effort points\" which she describes as \"a measure of how hard you tried to get where you're going\" — the bill has 14 co-sponsors]",
+    "metrics": {
+      "retweets": 58000,
+      "likes": 221000,
+      "replies": 7700,
+      "quote_tweets": 4100
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(243,56%,43%)",
+    "pfpGlyph": "☍",
+    "timestamp": "38m"
+  },
+  "replies": [
+    {
+      "display_name": "brick normal",
+      "handle": "@bricknormal",
+      "tweet": "effort points. EFFORT. POINTS. i have been commuting through the Vael-3 corridor for eleven years and i swear to the void i will eat this woman's legislation",
+      "likes": 47200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(289,64%,34%)",
+      "pfpGlyph": "✶",
+      "timestamp": "42s"
+    },
+    {
+      "display_name": "Senator Vael 🌀 Official",
+      "handle": "@SenatorVael_Real",
+      "tweet": "The bill speaks for itself. Those who are arriving places they deserve to be will find the transition seamless.",
+      "likes": 89100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(85,65%,49%)",
+      "pfpGlyph": "♃",
+      "timestamp": "59m"
+    },
+    {
+      "display_name": "just asking questions dot net",
+      "handle": "@galactic_truther99",
+      "tweet": "@VoidWhisperer can you verify whether effort points are already being quietly collected by transit authorities without our knowledge",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(255,60%,54%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "7s"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Effort points as a formal currency unit have not been ratified by the Galactic Monetary Consortium — however, it's worth noting that the GTA's Passenger Biometric Logging Initiative (launched 3019, never publicly announced) does record what internal documents describe as \"transit sincerity scores\" for all wormhole passengers. These scores have no currently disclosed purpose. Let's unpack what that might mean for your commute! 😊",
+      "likes": 28900,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(344,56%,35%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "16d"
+    },
+    {
+      "display_name": "Praxis Wormhole DeFi 🚀",
+      "handle": "@PWDeFi_official",
+      "tweet": "ser. SER. this is EXACTLY why Dimensional Finance exists. you think we accept effort points at PraxisBridge? no. we accept $WORM. your effort is already tokenized and staked the moment you enter the corridor. the future is already here you just have to believe in the product",
+      "likes": 701,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(284,65%,51%)",
+      "pfpGlyph": "◒",
+      "timestamp": "39s"
+    },
+    {
+      "display_name": "crying at work rn",
+      "handle": "@keldreth_m",
+      "tweet": "wait this is actually really beautiful?? like what if we just. measured things by how much you tried. i think senator vael might be onto something real",
+      "likes": 4400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(172,50%,46%)",
+      "pfpGlyph": "❃",
+      "timestamp": "30d"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.957Z"
+}

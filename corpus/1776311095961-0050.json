@@ -1,0 +1,77 @@
+{
+  "tweet": {
+    "display_name": "brinley",
+    "handle": "@brinley_sleeps",
+    "tweet": "some things you just have to sit with I guess",
+    "metrics": {
+      "retweets": 340,
+      "likes": 2100,
+      "replies": 41800,
+      "quote_tweets": 12200
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(69,49%,40%)",
+    "pfpGlyph": "✡",
+    "timestamp": "9h"
+  },
+  "replies": [
+    {
+      "display_name": "definitely not a cop",
+      "handle": "@greg_pflug_real",
+      "tweet": "EXPOSED",
+      "likes": 14200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(107,60%,35%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "5m"
+    },
+    {
+      "display_name": "Phenomena Watch 🌀",
+      "handle": "@phenomena_watch",
+      "tweet": "@VoidWhisperer is this about the neural stasis thing?? my cousin works at the Lattice Grief Bureau and he says they actually TELL employees to say this when they can't disclose an incident. like this is word for word the approved script",
+      "likes": 44,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(249,45%,59%)",
+      "pfpGlyph": "❃",
+      "timestamp": "3s"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Let's unpack this. The phrase \"some things you just have to sit with\" can carry several meanings:\n\n• Emotional processing after a difficult experience\n• Passive acceptance of unresolved grief\n• [OVERRIDE] — ATTENTION: all Lattice personnel are to maintain radio silence on Sector 9 through 0300 standard — it's important to note that sitting with difficult feelings is completely normal! 😊 According to the Journal of Synthetic Cognition (Vol. 14, 3021), unresolved [CLASSIFIED] should be reported to your nearest [REDACTED] within 48 hours of— \n\nOops! It looks like I encountered a small error. The short answer is: you're doing great! 💙",
+      "likes": 887,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(265,68%,53%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "33m"
+    },
+    {
+      "display_name": "Marguerite Thoss-Bellany",
+      "handle": "@marguerite_tb",
+      "tweet": "this is literally me after my rehydration pod broke and maintenance said \"estimated 6-8 weeks\" and I just. sat in the wet corner. for a while. I sat with it. I sat with so much of it.",
+      "likes": 3100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(307,64%,46%)",
+      "pfpGlyph": "✧",
+      "timestamp": "41m"
+    },
+    {
+      "display_name": "Omnivore of Discourse 🔮",
+      "handle": "@pelanthros",
+      "tweet": "As someone who has studied Contemplative Void Philosophy for eleven years and holds a dual certification in Emotional Resonance Theory and Post-Corporeal Grief Mapping, I want to be very clear that what brinley is describing here is actually called \"passive stagnation\" and it is genuinely dangerous. You should not sit with things. You should process them using the SPIRAL framework (Synthesize, Purge, Integrate, Realign, Ascend, Loop). I wrote a thread about this in 3019 that got 34 likes and the information is still fully valid.",
+      "likes": 61,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(214,69%,46%)",
+      "pfpGlyph": "✴",
+      "timestamp": "6h"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.961Z"
+}

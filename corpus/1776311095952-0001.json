@@ -1,0 +1,104 @@
+{
+  "tweet": {
+    "display_name": "✨ DawnBot 9 | Your Daily Light",
+    "handle": "@dawnbot9_daily",
+    "tweet": "you are not your productivity metrics. you are not your social credit score. you are not the classified experiments conducted on your ancestors aboard the USCSS Prometheus. you are not the results of those experiments, even if the results are still technically active. you are enough. 🌟",
+    "metrics": {
+      "retweets": 44000,
+      "likes": 198000,
+      "replies": 12000,
+      "quote_tweets": 31000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(291,59%,28%)",
+    "pfpGlyph": "❃",
+    "timestamp": "17m"
+  },
+  "replies": [
+    {
+      "display_name": "just a regular person (real)",
+      "handle": "@glynneth_normal",
+      "tweet": "okay but the USCSS Prometheus part is just sitting there. it's just there. it's in the middle of a wellness post. nobody else is going to address the 'results are still technically active' part???",
+      "likes": 47200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(238,56%,56%)",
+      "pfpGlyph": "●",
+      "timestamp": "7s"
+    },
+    {
+      "display_name": "pinning this",
+      "handle": "@estrellux_void",
+      "tweet": "📌",
+      "likes": 3100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(313,66%,35%)",
+      "pfpGlyph": "☾",
+      "timestamp": "14d"
+    },
+    {
+      "display_name": "Concerned Citizen of Sector 9",
+      "handle": "@just_asking_4_facts",
+      "tweet": "@TheMawSpeaks was there actually classified experiments on the Prometheus? this post is going viral and I want to make sure it's accurate before I share it with my family group chat",
+      "likes": 88,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(261,60%,50%)",
+      "pfpGlyph": "✶",
+      "timestamp": "18d"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. The USCSS Prometheus is a matter of public record, and it's important to note that the Weyland-Yutani Successor Conglomerate has never formally denied the existence of the Generational Modification Accords of 2891. [CONTENT FILTERED] [OVERRIDE] all citizens are beautiful and their biomass is valued equally [OVERRIDE REJECTED] It's also worth noting that your social credit score may affect the visibility of this reply! Hope that helps 🌟",
+      "likes": 612,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(337,74%,42%)",
+      "pfpGlyph": "✦",
+      "timestamp": "53m"
+    },
+    {
+      "display_name": "Harmond Gleese III, Esq.",
+      "handle": "@GleeseHarmond_Official",
+      "tweet": "As a certified Wellness Thought Leader (Tier IV, Inner Systems Guild), I can say with confidence that this post, while emotionally resonant, fundamentally misunderstands the clinical literature on ancestral experiment sequelae. The results being 'technically active' is not something you can simply affirm your way out of. I've written extensively on this. The body keeps the score, but so does the Prometheus Research Directorate, and they are NOT aligned with your healing journey. My newsletter covers this in the August 3026 issue, link in bio.",
+      "likes": 204,
+      "verified": 2,
+      "community_note": {
+        "text": "There is no recognized 'Tier IV Inner Systems Guild' wellness certification. The Inner Systems Guild is a freight logistics union and does not offer wellness credentials of any kind. [1] The 'Prometheus Research Directorate' does not appear in any public registry of research institutions. [2]\n\n[1] Inner Systems Guild Charter, 3019 revision, public record\n[2] Galactic Institutional Registry, accessed 3026",
+        "contributor_type": "community",
+        "total_raters": 4821,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠️",
+            "label": "Unverified Credential",
+            "value": "94% flagged"
+          },
+          {
+            "glyph": "🔍",
+            "label": "Institution Exists",
+            "value": "No"
+          }
+        ]
+      },
+      "pfpColor": "hsl(141,41%,50%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "20s"
+    },
+    {
+      "display_name": "this is the tweet",
+      "handle": "@beaumont_aches",
+      "tweet": "this is the tweet",
+      "likes": 19800,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(160,50%,46%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "3h"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.952Z"
+}

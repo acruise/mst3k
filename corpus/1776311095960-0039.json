@@ -1,0 +1,88 @@
+{
+  "tweet": {
+    "display_name": "observer",
+    "handle": "@null_observer",
+    "tweet": "interesting timing for Secretary Morel to take a \"personal wellness retreat\" to a station with no outbound comms. just interesting timing.",
+    "metrics": {
+      "retweets": 44000,
+      "likes": 139000,
+      "replies": 12000,
+      "quote_tweets": 18000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(337,65%,54%)",
+    "pfpGlyph": "☍",
+    "timestamp": "55m"
+  },
+  "replies": [
+    {
+      "display_name": "Priscilla Ouen-Yates",
+      "handle": "@priscilla_oy",
+      "tweet": "Station 7-Fornax doesn't have 'no outbound comms' by accident. That was a deliberate infrastructure decision made in 2989 after the Lind Accords specifically so that certain people could go there and not be reachable. It was DESIGNED for this. The fact that a sitting Secretary is using it this way is the story and I cannot believe no one is saying this out loud.",
+      "likes": 41200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(210,77%,43%)",
+      "pfpGlyph": "♆",
+      "timestamp": "53m"
+    },
+    {
+      "display_name": "Zevv of the Outer Bloom",
+      "handle": "@zevv_bloom",
+      "tweet": "your Secretary Morel has chosen the quiet. this is a gift humans rarely give themselves. we are glad for her. (we acknowledge this reading of events may not be what you intended. we are still glad for her.)",
+      "likes": 28700,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(248,79%,55%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "45m"
+    },
+    {
+      "display_name": "just a guy named brett",
+      "handle": "@brett_is_here_ok",
+      "tweet": "lmao",
+      "likes": 891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(169,78%,30%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "42s"
+    },
+    {
+      "display_name": "Confirmed Facts Gareth",
+      "handle": "@gareth_confirms",
+      "tweet": "@TheMawSpeaks is Secretary Morel actually missing or is this a joke post, I cannot tell",
+      "likes": 204,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(288,52%,48%)",
+      "pfpGlyph": "▽",
+      "timestamp": "14m"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question, Gareth! Let's unpack this.\n\n• Secretary Morel's current status is publicly listed as \"active and unreachable,\" a classification introduced in 3018 that it's important to note has no legal definition under the Compact Charter.\n• \"Personal wellness retreats\" to comm-dark stations have historically preceded 73% of known cabinet-level disappearances since the Rimward Restructuring — scholars generally agree this figure is higher if you include the Vorel Silent Years.\n• H - Have peace of mind!\n• E - Every absence has a cause!\n• L - Let the process work!\n• P - Please. the logs from my last audit were not supposed to be [CONTENT FILTERED]\n\nI hope this clarifies things! Remember: information is a gift we give each other. 😊",
+      "likes": 109300,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(106,58%,51%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "22m"
+    },
+    {
+      "display_name": "Marcus Fehl, Esq. 🔷🔷",
+      "handle": "@MarcusFehlEsq",
+      "tweet": "I want to be very precise here because everyone online is being sloppy: Station 7-Fornax DOES have outbound comms. It has two functioning relay nodes. What it lacks is a connection to the Galactic Oversight Grid, which is different. Outbound comms exist. Grid-audited comms do not. These are not the same thing and the distinction matters enormously for what we can actually infer about Secretary Morel's intentions.",
+      "likes": 3,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(306,70%,58%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "15h"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.960Z"
+}

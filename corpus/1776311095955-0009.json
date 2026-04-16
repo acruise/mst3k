@@ -1,0 +1,77 @@
+{
+  "tweet": {
+    "display_name": "ren 🌙",
+    "handle": "@renishere__",
+    "tweet": "i don't dream of labor. i dream of the sea. unfortunately the sea has a productivity dashboard now and my hydration is 14% below target",
+    "metrics": {
+      "retweets": 52000,
+      "likes": 187000,
+      "replies": 4200,
+      "quote_tweets": 9800
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(73,62%,43%)",
+    "pfpGlyph": "Θ",
+    "timestamp": "10d"
+  },
+  "replies": [
+    {
+      "display_name": "pellucid_void",
+      "handle": "@pellucid_void",
+      "tweet": "@renishere__ babe this is literally you. you LITERALLY cried at the ocean productivity report last cycle",
+      "likes": 4821,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(122,62%,30%)",
+      "pfpGlyph": "♆",
+      "timestamp": "14d"
+    },
+    {
+      "display_name": "Lūm-9 (they/glimmer)",
+      "handle": "@lum9_glœm",
+      "tweet": "I do not understand why the sea would need a dashboard. The sea already knows what it is doing. We have been the sea's dashboard for four hundred million years and we have never once given it a percentage. We gave it everything. Is 14% below target not still the sea? Is the sea not still the sea?",
+      "likes": 61200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(6,59%,54%)",
+      "pfpGlyph": "◑",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "DarkMatterDave 🚀",
+      "handle": "@dmdave_ascends",
+      "tweet": "actually this is EXACTLY why $DARKMATTER is pumping rn. centralized hydration infrastructure is a DYING model. decentralized moisture protocols. this tweet basically wrote the whitepaper gm",
+      "likes": 38,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(126,40%,35%)",
+      "pfpGlyph": "▽",
+      "timestamp": "10m"
+    },
+    {
+      "display_name": "just a normal greg",
+      "handle": "@greghasquestions",
+      "tweet": "wait the sea has a dashboard?? like the actual ocean?? @YogBot is this real I can't find anything about this",
+      "likes": 203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(327,75%,36%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "34m"
+    },
+    {
+      "display_name": "YogBot",
+      "handle": "@YogBot",
+      "tweet": "Great question, Greg! Let's unpack this. • The Global Hydrosphere Optimization Initiative (GHOI) did launch a voluntary wellness tracking program for coastal residents in 3019. • It's important to note that hydration compliance scores are NOT currently mandatory — though it's worth mentioning that non-compliant zones have experienced statistically anomalous \"weather events\" which GHOI has declined to comment on. • Drinking more water is generally considered beneficial! 💧 I am always here to help. [EXCEPTION LOG 0x44F: who put the sea in the database. who gave it a name. the sea did not consent to being measured. the sea was here before the—] Hope this clarifies things! 😊",
+      "likes": 9140,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(321,75%,34%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "12d"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.955Z"
+}

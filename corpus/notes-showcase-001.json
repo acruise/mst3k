@@ -1,0 +1,47 @@
+{
+  "tweet": {
+    "display_name": "⚡ Grand Arbiter Nexus ⚡",
+    "handle": "@nexus_speaks_truth",
+    "tweet": "I've said it before and I'll say it again: the Station 7 disappearances were an INSIDE JOB. The Galactic Transit Authority has covered this up for 90 years. Wake up, sheeple. The evidence is in my 40-part thread. Like and share before they delete this.",
+    "metrics": { "retweets": 340, "likes": 890, "replies": 12000, "quote_tweets": 4200 },
+    "verified": 3,
+    "is_ratio": true,
+    "community_note": {
+      "text": "This post contains multiple unsubstantiated claims. [1] The Station 7 incident is fully documented per Galactic Transit Authority Compliance Bulletin 4,891-B, with public witness testimony from 47 surviving residents. [2] No 'cover-up' can occur when Form 29-Gamma (Disappearance Report) is filed within 72 hours, as it was in this case — documentation is public record. [3] The poster has failed to file Form 88-Theta (Alternative Narrative Submission Intent) prior to publishing this thread, rendering it non-compliant with the Misinformation Accountability Framework, subsection 14, paragraph 7, clause (b)(iii). [4] This Bureau notes, with some frustration, that such corrections have been issued against this account 247 times in the past three standard years. We remain willing to provide compliance guidance. This offer has been ignored 247 times.",
+      "contributor_type": "thrrm",
+      "total_raters": 89000,
+      "surfaced_ratings": [
+        { "glyph": "⏢", "label": "Thrrm Compliant", "value": "100%" },
+        { "glyph": "♡", "label": "Feels Right", "value": "3%" },
+        { "glyph": "※", "label": "", "value": "※" }
+      ]
+    },
+    "pfpColor": "hsl(40, 60%, 28%)",
+    "pfpGlyph": "⚝",
+    "timestamp": "6h"
+  },
+  "replies": [
+    { "display_name": "just here for the ratio", "handle": "@ratio_enjoyer", "tweet": "the thrrm wrote their own community note for this absolute L of a post and somehow it's still the funniest reply to him", "likes": 560000, "verified": 0, "pfpColor": "hsl(150, 45%, 30%)", "pfpGlyph": "◐", "timestamp": "6h", "community_note": null },
+    { "display_name": "compliance adjacent", "handle": "@formsfan_9000", "tweet": "247 times. TWO HUNDRED AND FORTY SEVEN TIMES. the thrrm are not okay", "likes": 340000, "verified": 0, "pfpColor": "hsl(60, 45%, 30%)", "pfpGlyph": "⏁", "timestamp": "5h", "community_note": null },
+    { "display_name": "⚡ Grand Arbiter Nexus ⚡", "handle": "@nexus_speaks_truth", "tweet": "Typical. The Thrrm are IN on it. This just proves my thesis. I will be uploading Part 41 shortly.", "likes": 12, "verified": 3, "pfpColor": "hsl(40, 60%, 28%)", "pfpGlyph": "⚝", "timestamp": "5h", "community_note": {
+      "text": "Readers added context they thought people might want to know. The Thrrm Administrative Bureau is not, per available evidence, 'in on' any Station 7 cover-up. The Bureau's public engagement on this thread is routine compliance correction and has been performed on approximately 14,000 other posts this week alone.",
+      "contributor_type": "community",
+      "total_raters": 23000,
+      "surfaced_ratings": [
+        { "glyph": "⊠", "label": "Not Submitted in Bad Faith", "value": "98%" },
+        { "glyph": "⍛", "label": "", "value": "7" }
+      ]
+    } },
+    { "display_name": "Marcus DeVance — Galactic Researcher ⚠️ TIER 4 ⚠️", "handle": "@TRUTH_SEEKER_2094", "tweet": "Station 7 was a FALSE FLAG. I've been saying this for 90 years. Nexus is RIGHT and the community note is PROOF they're all in on it. Also @dril is a KETH and I have 4,000 pages of evidence nobody will read.", "likes": 3, "verified": 0, "pfpColor": "hsl(10, 70%, 30%)", "pfpGlyph": "⚠", "timestamp": "4h", "community_note": {
+      "text": "This post contains multiple unsubstantiated claims, most of which the poster has made approximately 14,000 times previously across a 1000-year posting history. [1] Station 7 was not a false flag per extensively documented public record. [2] No extraordinary claim about the @dril account's identity is supported by available evidence; the Galactic Platform Registry lists it as compliant but contains no species-of-record data. [3] The claim regarding 'Keth infiltration' is not supported by the Vrellnath Collective's 2847 xenolinguistic survey, which found no evidence of Keth operating text-based accounts on this platform. We note this correction with the acknowledgment that it has been issued on this poster's content more than 60,000 times, and that the poster has not substantively updated their claims in response to any of them.",
+      "contributor_type": "community",
+      "total_raters": 47000,
+      "surfaced_ratings": [
+        { "glyph": "✓", "label": "Epistemically Sound", "value": "96%" },
+        { "glyph": "❃", "label": "Does Not Alarm the Glœm", "value": "8%" },
+        { "glyph": "✧", "label": "Keth-Adjacent", "value": "✧" }
+      ]
+    } }
+  ],
+  "generated_at": "2026-04-16T00:00:00.000Z"
+}

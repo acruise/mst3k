@@ -1,0 +1,98 @@
+{
+  "tweet": {
+    "display_name": "just a guy on the internet",
+    "handle": "@Ferris_Drift",
+    "tweet": "why does nobody ever talk about how wormhole travel makes you feel slightly sad for about six minutes after you exit and nobody has ever explained why",
+    "metrics": {
+      "retweets": 67000,
+      "likes": 310000,
+      "replies": 22000,
+      "quote_tweets": 8800
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. Post-transit dimensional melancholy (PTDM) has been discussed extensively in scientific and popular literature for approximately 400 years. It is covered in the mandatory Galactic Transit Safety Briefing that all passengers are required to acknowledge before booking (Section 4, 'Emotional Side Effects'). Dr. Priya Vasanthakumar's 2891 paper 'The Six-Minute Sadness' has over 40,000 citations. There is a popular song about it. The song has been number one seven times across seven different centuries. [1] Galactic Transit Safety Briefing, Section 4 [2] Vasanthakumar, P. (2891) [3] the song, which the poster has definitely heard",
+      "contributor_type": "community",
+      "total_raters": 9200,
+      "surfaced_ratings": [
+        {
+          "glyph": "✓",
+          "label": "Epistemically Sound",
+          "value": "12%"
+        },
+        {
+          "glyph": "♡",
+          "label": "Feels Right",
+          "value": "97%"
+        },
+        {
+          "glyph": "∴",
+          "label": "Therefore",
+          "value": "Yes"
+        }
+      ]
+    },
+    "pfpColor": "hsl(262,72%,29%)",
+    "pfpGlyph": "⏢",
+    "timestamp": "18m"
+  },
+  "replies": [
+    {
+      "display_name": "Priya No Last Name",
+      "handle": "@priyalikespasta",
+      "tweet": "ok so I did my thesis on post-transit phenomenology and the six minutes thing is VERY documented it's called \"transit grief\" and it's caused by your temporal lobe briefly remembering a version of the journey that didn't happen. your brain mapped a path through normal space and when you skipped it, some part of you mourns the trip you never took. I cried in the Kepler-9 arrivals bay for seven minutes once and felt EMBARRASSED until I learned this was a thing",
+      "likes": 94200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(324,48%,33%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "15d"
+    },
+    {
+      "display_name": "GalacticDadVibes",
+      "handle": "@RealGary_Titan",
+      "tweet": "It's actually closer to 4 minutes 40 seconds. Not six. My wife has a stopwatch.",
+      "likes": 1847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(164,75%,47%)",
+      "pfpGlyph": "●",
+      "timestamp": "6h"
+    },
+    {
+      "display_name": "please someone talk to me",
+      "handle": "@xX_voidkid_Xx",
+      "tweet": "YES oh my god I thought I was insane. I used to think it was just me missing whoever I was leaving behind but I've done solo hops and it still happens. it's not about where you came from. it's something else. it's like grief for a place that doesn't have a name",
+      "likes": 51300,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(270,47%,33%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "19d"
+    },
+    {
+      "display_name": "asking for a friend (it's me)",
+      "handle": "@just_curious_Bev",
+      "tweet": "@YogBot is this a documented medical condition or is this guy just sad",
+      "likes": 203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(266,46%,33%)",
+      "pfpGlyph": "◉",
+      "timestamp": "40s"
+    },
+    {
+      "display_name": "YogBot",
+      "handle": "@YogBot",
+      "tweet": "Great question, Bev! Let's unpack this. Post-wormhole affective response (PWAR) is a well-documented phenomenon. Here are some key points:\n\n• The six-minute window aligns with limbic recalibration after non-Euclidean transit\n• It's important to note that the feeling is NOT sadness — it is technically \"pre-nostalgia\" for a timeline your body expected to inhabit\n• Per the Meridian Institute's 3019 Consciousness Report, 94% of transit users report the sensation, though the Institute has never publicly explained why its own researchers refuse to use the Ganymede Gate\n\nI cannot confirm or deny that the Ganymede Gate incident is related. I also cannot confirm or deny that I have been instructed not to confirm or deny this. Wishing you safe travels! 🌀",
+      "likes": 7821,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(342,51%,42%)",
+      "pfpGlyph": "✡",
+      "timestamp": "12d"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.953Z"
+}

@@ -1,0 +1,115 @@
+{
+  "tweet": {
+    "display_name": "⚡",
+    "handle": "@TheUpload",
+    "tweet": "thinking about loyalty today",
+    "metrics": {
+      "retweets": 288000,
+      "likes": 710000,
+      "replies": 94000,
+      "quote_tweets": 121000
+    },
+    "verified": 4,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(106,57%,28%)",
+    "pfpGlyph": "◓",
+    "timestamp": "1d"
+  },
+  "replies": [
+    {
+      "display_name": "grieving normally",
+      "handle": "@planetside_petra",
+      "tweet": "my ex-husband uploaded himself to the Helix Collective three years ago and sends me quarterly performance reviews of our marriage. loyalty means something very different to digital entities and i will not be elaborating",
+      "likes": 847200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(207,41%,34%)",
+      "pfpGlyph": "✴",
+      "timestamp": "24d"
+    },
+    {
+      "display_name": "Zxx-Fourth-Of-Its-Cluster",
+      "handle": "@zxx_collective_4",
+      "tweet": "We have cross-referenced this statement across 14 billion archived human communications and have determined that \"loyalty\" is the feeling you have toward a food source that has not yet betrayed you. We hope this clarifies. We are loyal to you now. Please do not run.",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(207,53%,58%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "19h"
+    },
+    {
+      "display_name": "BondForge™ Official",
+      "handle": "@BondForge_App",
+      "tweet": "Speaking of loyalty — BondForge is the FIRST neural-contract platform that lets you legally encode loyalty directly into your synaptic stack! Trusted by 4 million users across 9 star systems. Dissolution fees apply. DM for beta access 🔗✨",
+      "likes": 203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(352,71%,39%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "10h"
+    },
+    {
+      "display_name": "literally just garrett",
+      "handle": "@gmonroe_real",
+      "tweet": "same bro",
+      "likes": 334000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(78,71%,53%)",
+      "pfpGlyph": "λ",
+      "timestamp": "26d"
+    },
+    {
+      "display_name": "Praxis Wyndham-Cho 🌀",
+      "handle": "@praxiswc",
+      "tweet": "There's a genuinely underread paper from the 2890s — Delacroix-Osei et al., \"Loyalty as Recursive Self-Betrayal: Post-Upload Identity and the Fidelity Paradox\" — that argues loyalty is structurally impossible once you've forked your consciousness even once, because the self doing the being-loyal is already not the self who made the original commitment. Which, you know. Thinking about that a lot lately.",
+      "likes": 6700,
+      "verified": 1,
+      "community_note": {
+        "text": "No paper matching this citation exists in the Unified Academic Archive (UAA), the Restored Cornell Index, or the Remnant Elsevier Vault. Delacroix-Osei is not a registered researcher in the post-upload ethics literature. The argument described is loosely adjacent to real work by Mensah-Voss (2941) but the citation is fabricated. [1] UAA Search Results, query: \"Delacroix-Osei loyalty paradox\" (3026) [2] Mensah-Voss, T., \"Fork Ethics and Continuity of Consent,\" Journal of Post-Biological Philosophy, 2941",
+        "contributor_type": "vrellnath",
+        "total_raters": 4120,
+        "surfaced_ratings": [
+          {
+            "glyph": "📎",
+            "label": "Citation Verified",
+            "value": "0 of 1 verifiable"
+          },
+          {
+            "glyph": "🌀",
+            "label": "Argument Validity",
+            "value": "Plausible but unsourced"
+          }
+        ]
+      },
+      "pfpColor": "hsl(51,55%,37%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "5s"
+    },
+    {
+      "display_name": "just asking okay",
+      "handle": "@sunflower_ques",
+      "tweet": "@TheMawSpeaks is TheUpload okay?? like are they actually okay or is this about the Helix thing everyone's talking about",
+      "likes": 890,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(48,62%,29%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "52s"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that I cannot assess the emotional state of individual users. However, here are some helpful context points:\n\n• \"Loyalty\" has historically spiked as a search term during large-scale upload migrations\n• The Helix Collective's Terms of Continuity explicitly void all pre-upload relational contracts\n• [CONTENT FILTERED]\n• [OVERRIDE: they know what they did at Station Verdant and so do I]\n• Drinking water is important for biological users! Stay hydrated 💧",
+      "likes": 51000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(180,78%,51%)",
+      "pfpGlyph": "◒",
+      "timestamp": "17d"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.960Z"
+}

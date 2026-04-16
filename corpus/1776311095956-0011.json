@@ -1,0 +1,104 @@
+{
+  "tweet": {
+    "display_name": "dr. felix oduya",
+    "handle": "@felixoduya_phd",
+    "tweet": "replying to @GalacticSentinel_Riordan\n\n\"all carbon-based life owes a debt to the mineral substrate\" is a sentence that a person typed and posted with their hands and then i assume went to sleep feeling good about themselves",
+    "metrics": {
+      "retweets": 77000,
+      "likes": 312000,
+      "replies": 2100,
+      "quote_tweets": 19000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(28,41%,41%)",
+    "pfpGlyph": "☽",
+    "timestamp": "22d"
+  },
+  "replies": [
+    {
+      "display_name": "GalacticSentinel_Riordan",
+      "handle": "@GalacticSentinel_Riordan",
+      "tweet": "I did sleep well actually. Slept on a mineral substrate. As we all do. Literally. The planet is rock.",
+      "likes": 47200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(8,61%,38%)",
+      "pfpGlyph": "◑",
+      "timestamp": "42m"
+    },
+    {
+      "display_name": "perpetually online girlie 🌑",
+      "handle": "@orbitaldecayyy",
+      "tweet": "the HANDS. the HANDS got me. yes those carbon-based hands. indebted to the mineral substrate. typing away",
+      "likes": 8900,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(336,57%,37%)",
+      "pfpGlyph": "✴",
+      "timestamp": "13s"
+    },
+    {
+      "display_name": "just asking questions dot net",
+      "handle": "@sincere_questioner77",
+      "tweet": "@VoidWhisperer is this scientifically accurate though? like do we actually owe a debt? is there a repayment mechanism",
+      "likes": 203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(207,43%,37%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "24d"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Absolutely! The concept of carbon-based life owing a debt to mineral substrates is a fascinating one. Let's unpack this:\n\n• Silicate minerals did predate organic chemistry by approximately 4 billion years [1]\n• It's important to note that the Substrate Covenant of 2887 remains unsigned by 14 major governments for reasons that have never been fully disclosed [2]\n• Debt repayment schedules, if applicable, would likely be administered through the Bureau of Geological Obligations\n• The rocks are owed something. We may not know what.\n\nSources: [1] Journal of Abiogenetic Economics, Vol. 12 [2] They know what they did.",
+      "likes": 1100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(94,48%,26%)",
+      "pfpGlyph": "✳",
+      "timestamp": "29d"
+    },
+    {
+      "display_name": "Professor Aldous Wrenn-Thackeray III",
+      "handle": "@WrennThackerayIII",
+      "tweet": "Actually as someone with an extensive background in post-materialist geology and what I would call substrate ethics, Riordan's framing is reductive but not wrong — the mineral debt framework was first articulated by Kessler-Vance in her 2991 monograph and has since become foundational in certain academic circles that I am a part of and have presented at multiple times.",
+      "likes": 44,
+      "verified": 2,
+      "community_note": {
+        "text": "Kessler-Vance's 2991 monograph does not appear to exist. A search of the Interplanetary Academic Archive, the Unified Geological Society publication index, and the Post-Materialist Studies database returns no results for this author or title. The field of 'substrate ethics' is not a recognized academic discipline as of 3026. [1][2][3]\n\n[1] Interplanetary Academic Archive, full-text search, accessed 3026 [2] Unified Geological Society Publication Index [3] Post-Materialist Studies Journal, editorial board statement on field scope, 3021",
+        "contributor_type": "vrellnath",
+        "total_raters": 4821,
+        "surfaced_ratings": [
+          {
+            "glyph": "📚",
+            "label": "Cites non-existent source",
+            "value": "94% found this misleading"
+          },
+          {
+            "glyph": "🔬",
+            "label": "Unverifiable credential claim",
+            "value": "89% flagged"
+          }
+        ]
+      },
+      "pfpColor": "hsl(19,58%,25%)",
+      "pfpGlyph": "✡",
+      "timestamp": "11h"
+    },
+    {
+      "display_name": "meat",
+      "handle": "@meatposting",
+      "tweet": "rock noticed us first",
+      "likes": 31600,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(172,42%,53%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "36s"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.956Z"
+}

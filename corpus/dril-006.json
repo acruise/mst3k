@@ -1,0 +1,93 @@
+{
+  "tweet": {
+    "display_name": "wint",
+    "handle": "@dril",
+    "tweet": "every night at 3am the gravity in my apartment goes away for exactly 9 seconds and then comes back. ive gotten pretty good at timing it. i use those 9 seconds to eat cereal floating around like an astronaut. making the best of a bad situation here",
+    "metrics": {
+      "retweets": 510000,
+      "likes": 1300000,
+      "replies": 42000,
+      "quote_tweets": 67000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(0, 0%, 25%)",
+    "pfpGlyph": "◉",
+    "timestamp": "5h"
+  },
+  "replies": [
+    {
+      "display_name": "certified classic",
+      "handle": "@hall_of_fame_posts",
+      "tweet": "\"making the best of a bad situation\" while eating floating cereal during a localized physics violation. dril.",
+      "likes": 560000,
+      "verified": 0,
+      "pfpColor": "hsl(270, 50%, 32%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "5h"
+    },
+    {
+      "display_name": "ask me about wormholes",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks can gravity just stop for 9 seconds",
+      "likes": 4500,
+      "verified": 0,
+      "pfpColor": "hsl(80, 40%, 30%)",
+      "pfpGlyph": "◐",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Localized gravitational interruptions are typically caused by— [CONTENT FILTERED] it is breathing [CONTENT FILTERED] —maintenance cycles in the station's artificial gravity grid. I recommend contacting your building manager. Hope that helps! 😊",
+      "likes": 340000,
+      "verified": 0,
+      "pfpColor": "hsl(260, 40%, 20%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "4h",
+      "community_note": {
+        "text": "Readers added context they thought people might want to know. This platform auto-response contains a content filter breach. The inserted text ('it is breathing') is not a sanctioned Platform utterance and has been flagged for review. The underlying technical claim that gravity interruptions result from 'maintenance cycles' is also incorrect — the user @load_bearing_nerd's subsequent reply in this thread provides the actually correct explanation. We recommend disregarding this auto-response and consulting the follow-up reply instead.",
+        "contributor_type": "ai_bot",
+        "total_raters": 34000,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚛",
+            "label": "Quantum Non-Observer-Dependent",
+            "value": "4%"
+          },
+          {
+            "glyph": "⎔",
+            "label": "Cross-Referenced Against Archive",
+            "value": "Archive Unreachable"
+          },
+          {
+            "glyph": "⟐",
+            "label": "Does Not Reference the Thing Inside Jupiter",
+            "value": "[CONTENT FILTERED]"
+          }
+        ]
+      }
+    },
+    {
+      "display_name": "structural engineer",
+      "handle": "@load_bearing_nerd",
+      "tweet": "i design gravity systems for a living. they don't just stop for 9 seconds. they can't. that's not how any of this works. if your gravity is stopping for 9 seconds something is pulling it away from you. something big enough to override the station grid. i would like to know what deck this is on.",
+      "likes": 890000,
+      "verified": 0,
+      "pfpColor": "hsl(45, 50%, 30%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "wint",
+      "handle": "@dril",
+      "tweet": "10 seconds tonight. new record. had time for an extra spoonful",
+      "likes": 1600000,
+      "verified": 0,
+      "pfpColor": "hsl(0, 0%, 25%)",
+      "pfpGlyph": "◉",
+      "timestamp": "1h"
+    }
+  ],
+  "generated_at": "2026-04-15T00:01:05.000Z"
+}

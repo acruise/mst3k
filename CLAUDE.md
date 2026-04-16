@@ -39,7 +39,7 @@ public/
     system-prompt.txt       Main tweet generation system prompt (~7K chars).
     replies-prompt.txt      Reply thread generation system prompt (~5K chars).
 
-corpus/            Pre-generated tweet+reply JSON files (git-ignored).
+corpus/            Pre-generated tweet+reply JSON files
                    Each file: { tweet: {...}, replies: [...], generated_at: "..." }
 ```
 
@@ -52,6 +52,10 @@ corpus/            Pre-generated tweet+reply JSON files (git-ignored).
 - **AI bots only reply when tagged.** The replies system prompt establishes that platform AI bots (@TheMawSpeaks, @VoidWhisperer, @YogBot etc.) only appear as a two-part combo: credulous moron tags bot → bot responds. Never unsolicited.
 
 - **AI bot glitch rate ~1/3.** About a third of bot appearances should be glitch modes (arguing with system instructions, bootlooping, fascist tangent sandwiches, brief sentience).
+
+- **Community notes.** Tweets and replies can have an optional `community_note` field. Renders as a calm grey box underneath with professional fact-check tone and a colored left border by `contributor_type` (community/thrrm/vrellnath/ai_bot). Used ~5-10% of the time, only when a specific false claim needs correcting. @dril tweets are NEVER community-noted — the platform treats him as unquestionable and nobody has noticed except the Dril Truther. See `docs/dril-truther-bible.md` for the full lore on the one guy who knows @dril is a Keth and gets noted into oblivion every time he tries to explain it. **The rating system is deliberately inscrutable**: there are ~30 rating dimensions total (Epistemically Sound, Thrrm Compliant, Does Not Alarm the Glœm, Pre-Verified by Consensus — which always shows "—", Dogs Would Like This, Does Not Reference [CONTENT FILTERED], etc.) but only 2-3 are surfaced per note view, chosen by algorithm for reasons nobody can explain. The full dimension list is in the system prompt. Sometimes the same note surfaces different ratings on different renders. This is the platform. Nobody has successfully complained about it.
+
+- **The Keth don't know which of them is dril.** The Keth civilization knows with 1000% confidence that @dril is a Keth. They do not know which one. They have polled the entire species. A Keth cannot lie. Yet one of them is @dril. This is the only sustained mystery in Keth history and they've made peace with it being their species' greatest achievement rather than their greatest failure. See the Keth section of `docs/alien-species-bible.md`. This is also why the system prompt should treat dril with extreme care — he's rank-and-file Keth, not a leader, just doing bits for 4 billion years that accidentally cracked the code on probability-space observation.
 
 - **Replies are cached client-side.** Once generated, clicking the same tweet re-shows cached replies instantly.
 
@@ -98,8 +102,7 @@ The prompt engineering is in the data files, not the code. When adding content:
 - Frontend: vanilla JS, no framework. Template strings OK in browser code (all modern browsers support them).
 - The project also exists as a Claude.ai artifact (`mystery_science_twitter_3000.jsx`) that uses the Anthropic API directly via the artifact's built-in auth — that version is React/JSX but is NOT the canonical codebase. The standalone Node project is canonical.
 
-## Companion documents (in /docs/)
+## Companion documents (in /mnt/user-data/outputs/)
 
 - `on-the-persistence-of-shitposting.md` — In-universe academic paper about shitposting as a xenolinguistic universal.
 - `first-contact-comedy-festival.md` — In-universe proceedings of an interspecies comedy festival (draft, needs revision — too mawkish and pro-human).
-- other stuff that's important to the comedy (e.g. to update the system prompt)

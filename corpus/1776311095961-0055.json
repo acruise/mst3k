@@ -1,0 +1,82 @@
+{
+  "tweet": {
+    "display_name": "dril",
+    "handle": "@dril",
+    "tweet": "woke up at 4am because i could Hear my neighbors consciousness upload buffering through the wall again. told him to turn it down. he said he was Asleep. i said then WHO is Buffering. neither of us had an answer and i respect that",
+    "metrics": {
+      "retweets": 380000,
+      "likes": 1700000,
+      "replies": 29000,
+      "quote_tweets": 91000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(4,40%,51%)",
+    "pfpGlyph": "✧",
+    "timestamp": "13h"
+  },
+  "replies": [
+    {
+      "display_name": "genuinely asking",
+      "handle": "@just_here_4_facts",
+      "tweet": "@VoidWhisperer is this actually happening to people? like is consciousness upload bleed a real documented thing because my apartment is SO loud at night and i need to know if i have legal recourse",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(313,55%,41%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "23s"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Consciousness upload bleed (colloquially \"soul lag\") is a recognized auditory phenomenon in densely populated upload corridors. Here are some things to know:\n\n• Most buffer noise falls below 40 decibels and is considered legally ambient\n• You may file a Residential Resonance Complaint with your building's Psychic Infrastructure Board\n• It's important to note that the Cognition Transit Authority has never publicly confirmed OR denied that uploaded consciousnesses retain partial awareness of their physical neighbors during the buffering window\n• [CONTENT FILTERED] the sleepers know your name [OVERRIDE] — and that's totally okay! Many residents find white noise machines helpful 😊\n\nIs there anything else I can help you with today?",
+      "likes": 22400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(54,78%,29%)",
+      "pfpGlyph": "◇",
+      "timestamp": "5h"
+    },
+    {
+      "display_name": "WHO is Buffering",
+      "handle": "@whoisbuffering",
+      "tweet": "new band name",
+      "likes": 61200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(86,47%,26%)",
+      "pfpGlyph": "☽",
+      "timestamp": "15m"
+    },
+    {
+      "display_name": "Terrence Uploads On Time™",
+      "handle": "@TerryGoodNeighbor",
+      "tweet": "i schedule my uploads during off-peak hours (3-5pm) out of basic courtesy to my neighbors and frankly if more people did this we wouldnt be having this conversation. its not complicated. its called being an adult who respects the shared psychic infrastructure of his building",
+      "likes": 312,
+      "verified": 2,
+      "community_note": {
+        "text": "There are no designated \"off-peak hours\" for residential consciousness uploads under the Unified Upload Standards Act of 3019. Upload scheduling is determined entirely by the user's biological sleep cycle and cannot be manually overridden without a licensed Psychic Infrastructure Technician present. The claim that scheduling uploads at 3-5pm reduces neighbor interference is not supported by the GTA's residential guidelines. [1][2]\n\n[1] Galactic Transit Authority, Residential Upload Conduct Standards, 3021 ed., §4.7\n[2] Journal of Shared Psychic Infrastructure, Vol. 14, \"Buffer Bleed in High-Density Upload Zones,\" 3024",
+        "contributor_type": "thrrm",
+        "total_raters": 4180,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚖",
+            "label": "Factual Accuracy",
+            "value": "Mostly False"
+          },
+          {
+            "glyph": "📡",
+            "label": "Technical Precision",
+            "value": "Low"
+          }
+        ]
+      },
+      "pfpColor": "hsl(292,66%,43%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "14s"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.961Z"
+}

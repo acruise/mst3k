@@ -1,0 +1,104 @@
+{
+  "tweet": {
+    "display_name": "THRRM COMPLIANCE DIVISION — SECTOR 7",
+    "handle": "@ThrrrmComp_S7",
+    "tweet": "THIS IS NOT HOW ARTICLE 7.4.2.1(b) WAS INTENDED TO FUNCTION. the Kuiper Exemption Clause was drafted in reference to UNINHABITED mineral bodies. a moon with a registered population of 340,000 residents, a performing arts center, and a branch of the Galactic Bank does not qualify as a 'geological feature held in personal trust.' we are filing Form 19-Theta-Revised IMMEDIATELY. do not celebrate. do not post about this. we can see that you are posting about this.",
+    "metrics": {
+      "retweets": 198000,
+      "likes": 540000,
+      "replies": 29000,
+      "quote_tweets": 61000
+    },
+    "verified": 2,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(282,53%,27%)",
+    "pfpGlyph": "Ψ",
+    "timestamp": "24d"
+  },
+  "replies": [
+    {
+      "display_name": "moon girl (literally)",
+      "handle": "@priya_from_ganymede_2",
+      "tweet": "we have a performing arts center AND a Galactic Bank branch and they want to call us a GEOLOGICAL FEATURE. I was in the production of Moons Over Kepler last spring. I had SOLOS.",
+      "likes": 847200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(285,55%,25%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "16d"
+    },
+    {
+      "display_name": "Compliance Enjoyer",
+      "handle": "@formfiller_supreme",
+      "tweet": "FORM 19-THETA-REVISED??????? they skipped 19-Theta-Original. they skipped 19-Theta-Amended. they went STRAIGHT to Revised. someone in Sector 7 is absolutely losing their mind right now and I respect it",
+      "likes": 312400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(356,43%,25%)",
+      "pfpGlyph": "✳",
+      "timestamp": "1h"
+    },
+    {
+      "display_name": "just asking questions dot void",
+      "handle": "@genuinely_just_asking",
+      "tweet": "@YogBot is it actually legal to register a moon as personal property under the Kuiper Exemption Clause? asking for a friend who may or may not be my landlord",
+      "likes": 4100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(17,69%,46%)",
+      "pfpGlyph": "☍",
+      "timestamp": "9d"
+    },
+    {
+      "display_name": "YogBot",
+      "handle": "@YogBot",
+      "tweet": "Great question! Let's unpack this. Under standard Galactic property law, the Kuiper Exemption Clause (Article 7.4.2.1(b)) does apply exclusively to uninhabited mineral bodies — it's important to note that this provision has never been successfully used to shelter a populated settlement. However, it's also worth noting that the individual who originally drafted this clause, Notary-Consul Evryn Thoss, disappeared from official records in 2987 CE, approximately 14 minutes after certifying a document for the Delacroix-Vann family trust. This is publicly available information. The Thrrm Compliance Division has filed Form 19-Theta-Revised on six prior occasions. None of those cases reached adjudication. I hope this helps!",
+      "likes": 98700,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(45,62%,37%)",
+      "pfpGlyph": "❊",
+      "timestamp": "40s"
+    },
+    {
+      "display_name": "Horatio Blench-Wormsley IV",
+      "handle": "@HoratioBlenchWorms",
+      "tweet": "Celebrated.",
+      "likes": 1200000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(320,51%,42%)",
+      "pfpGlyph": "❋",
+      "timestamp": "59s"
+    },
+    {
+      "display_name": "The Sunken Meridian 🌊",
+      "handle": "@sunken_meridian",
+      "tweet": "the audacity of posting 'do not post about this' on a post. on THE post. the post that is currently being posted. this agency drafted that sentence and then SENT IT. publicly. to everyone. they are the ones posting",
+      "likes": 423900,
+      "verified": 2,
+      "community_note": {
+        "text": "The Thrrm Compliance Division's communications are issued under Interstellar Administrative Code §334, which classifies official enforcement notices as 'mandatory disclosures' rather than public posts — meaning the Division is legally required to publish these notices while simultaneously being empowered to restrict public response under Article 9.1. The apparent contradiction is a known feature of the Code, not an oversight. See: Thrrm v. Delacroix-Vann (2991), Sector 7 Adjudication Records [1]; IAC §334 Full Text, Galactic Legislative Archive [2].",
+        "contributor_type": "thrrm",
+        "total_raters": 6741,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚖️",
+            "label": "Legal Accuracy",
+            "value": "Misleading"
+          },
+          {
+            "glyph": "📎",
+            "label": "Missing Context",
+            "value": "Significant"
+          }
+        ]
+      },
+      "pfpColor": "hsl(161,79%,37%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "34m"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.960Z"
+}

@@ -1,0 +1,21 @@
+{
+  "tweet": {
+    "display_name": "wint",
+    "handle": "@dril",
+    "tweet": "my neighbor has been playing the same song for 11 days straight. i went over to complain and he says he doesnt own a radio. we stood there and listened to it together for 40 minutes. it was coming from the walls. pretty good song honestly",
+    "metrics": { "retweets": 290000, "likes": 780000, "replies": 18000, "quote_tweets": 41000 },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(0, 0%, 25%)",
+    "pfpGlyph": "◉",
+    "timestamp": "4h"
+  },
+  "replies": [
+    { "display_name": "screaming into wifi", "handle": "@cursed_dispatch", "tweet": "\"pretty good song honestly\" after that setup is why this man is the GOAT", "likes": 230000, "verified": 0, "pfpColor": "hsl(290, 50%, 30%)", "pfpGlyph": "✶", "timestamp": "4h" },
+    { "display_name": "deck 7 truther", "handle": "@deck7noise", "tweet": "which station. please tell me which station. i need to know which station.", "likes": 12000, "verified": 0, "pfpColor": "hsl(0, 55%, 30%)", "pfpGlyph": "⚠", "timestamp": "3h" },
+    { "display_name": "cosmic nihilist", "handle": "@entropy_szn", "tweet": "the fact that he stayed and listened for 40 minutes is the most dril thing imaginable", "likes": 67000, "verified": 0, "pfpColor": "hsl(310, 50%, 28%)", "pfpGlyph": "Ξ", "timestamp": "3h" },
+    { "display_name": "we observe all things", "handle": "@vrellnath_cultural", "tweet": "we have heard this song. it is not a song. we recommend that the human @dril and his neighbor stop listening to it immediately. we are not authorized to elaborate.", "likes": 450000, "verified": 0, "pfpColor": "hsl(180, 55%, 28%)", "pfpGlyph": "⬢", "timestamp": "2h" },
+    { "display_name": "wint", "handle": "@dril", "tweet": "update: my neighbor has learned all the words. i dont know how. it is not in any language i recognize. he seems happy", "likes": 1200000, "verified": 0, "pfpColor": "hsl(0, 0%, 25%)", "pfpGlyph": "◉", "timestamp": "1h" }
+  ],
+  "generated_at": "2026-04-15T00:01:02.000Z"
+}

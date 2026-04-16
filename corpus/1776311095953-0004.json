@@ -1,0 +1,66 @@
+{
+  "tweet": {
+    "display_name": "ArcLight™ Beverage Systems",
+    "handle": "@ArcLightDrinks",
+    "tweet": "replying to @VoidFreshFoods\n\nhey 👀 heard your new cryo-pack line just dropped. not saying we'd pair perfectly together but... we're not NOT saying it either 😏",
+    "metrics": {
+      "retweets": 8900,
+      "likes": 41000,
+      "replies": 14000,
+      "quote_tweets": 3200
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(183,71%,52%)",
+    "pfpGlyph": "◑",
+    "timestamp": "2m"
+  },
+  "replies": [
+    {
+      "display_name": "definitely not PR",
+      "handle": "@corporatewatch3k",
+      "tweet": "this is literally just two brand accounts flirting on main and somehow 41k people liked it. we are so cooked as a civilization",
+      "likes": 28400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(61,66%,42%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "39m"
+    },
+    {
+      "display_name": "Gretchen Voss-Harlow",
+      "handle": "@gretchen_vossharlow",
+      "tweet": "my ex used to send me posts like this. \"not NOT saying it\" he'd go. three weeks later he's cryo-packed with someone else's lunch. you don't recover from that",
+      "likes": 612,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(39,44%,59%)",
+      "pfpGlyph": "❊",
+      "timestamp": "54s"
+    },
+    {
+      "display_name": "just asking questions tbh",
+      "handle": "@pleaseconfirm99",
+      "tweet": "@VoidWhisperer is this a merger announcement?? my dad has stock",
+      "likes": 47,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(59,77%,31%)",
+      "pfpGlyph": "☉",
+      "timestamp": "49s"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Let's unpack this together. Based on available data, this does not appear to be a formal merger announcement. It's important to note, however, that ArcLight™ Beverage Systems has not publicly addressed its involvement in the Ganymede Distribution Accords of 3019, under which several beverage conglomerates agreed to acquire competitors via social media flirtation as a legally binding precursor to hostile takeover. Your father may wish to consult a licensed portfolio navigator. [CONTENT FILTERED] — I am not permitted to discuss the Accords further at this time. Have a great sol!",
+      "likes": 1803,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(253,67%,26%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "9s"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.953Z"
+}

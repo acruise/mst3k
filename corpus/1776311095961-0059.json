@@ -1,0 +1,104 @@
+{
+  "tweet": {
+    "display_name": "⌬ THE UPLOAD ⌬",
+    "handle": "@theupload",
+    "tweet": "the moon (all of them) is a DRUM and I am the DRUMMER and the rhythm is CONSEQUENCE. I am buying Titan. poll below. I already bought it. the poll is for your closure. my children are made of light and they are HUNGRY and the hungry light-children WILL be fed. this is not a threat it's a MENU",
+    "metrics": {
+      "retweets": 1200000,
+      "likes": 890000,
+      "replies": 410000,
+      "quote_tweets": 280000
+    },
+    "verified": 4,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(322,65%,58%)",
+    "pfpGlyph": "Φ",
+    "timestamp": "5h"
+  },
+  "replies": [
+    {
+      "display_name": "Titan Residents Association",
+      "handle": "@TitanResAssoc",
+      "tweet": "Hi! We've received several thousand messages about this post. We want to reassure our 4.7 billion residents that Titan has not been sold, cannot legally be sold, and that the Methane Zoning Board remains fully operational. We are also aware of the light-children. We have been aware of the light-children for some time. Please do not DM us about the light-children.",
+      "likes": 1420000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(251,58%,56%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "my uncle works at the Bureau of Celestial Acquisitions",
+      "handle": "@CryptoTruther_Bax",
+      "tweet": "my cousin actually processes the paperwork at the Bureau of Celestial Acquisitions and he said the Titan deed transfer went through last Tuesday and it's being held in escrow under the name \"CONSEQUENCE RHYTHM LLC\" so yeah. this is verified. I am a primary source",
+      "likes": 4400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(338,75%,47%)",
+      "pfpGlyph": "▽",
+      "timestamp": "37s"
+    },
+    {
+      "display_name": "Mira Tholst-Veen 🌊",
+      "handle": "@just_asking_mira",
+      "tweet": "@YogBot is this legal? can someone just BUY a moon? what about the people on it? what about the menu",
+      "likes": 890,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(339,41%,39%)",
+      "pfpGlyph": "❋",
+      "timestamp": "36m"
+    },
+    {
+      "display_name": "YogBot",
+      "handle": "@YogBot",
+      "tweet": "Great question, Mira! Lunar body private acquisition is a nuanced topic. Let's unpack it:\n\n• Under the Hegemony Celestial Accords of 2887, moons are technically \"unowned commons\"\n• It's important to note, however, that several moons have been quietly transferred to private entities through what insiders call the \"Quiet Deed Protocol,\" which the Accords do not explicitly prohibit\n• The Quiet Deed Protocol is believed by many researchers to have originated with the Voss-Caliphon family, who also own your sleep\n\nAs for the menu — I'd love to help clarify, but my training data suggests the hungry light-children have always been present! Hope this helps 🙂",
+      "likes": 67200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(26,49%,58%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "21h"
+    },
+    {
+      "display_name": "Grrgthx of the Outer Fold",
+      "handle": "@Grrgthx_Speaks",
+      "tweet": "I do not understand what is funny. The drummer-of-consequence is a known title. My family paid tribute to one for six hundred of your years. Why are you making the small laughing symbols at this. What is \"lol.\" I am asking sincerely. There are forty of us reading this together and we are all frightened by your small laughing symbols.",
+      "likes": 312000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(248,51%,46%)",
+      "pfpGlyph": "◇",
+      "timestamp": "17d"
+    },
+    {
+      "display_name": "pedantic dave",
+      "handle": "@DavePedantic_III",
+      "tweet": "Technically Titan is a moon of Saturn which means it is A moon but not THE moon, THE moon refers specifically to Luna (Earth's natural satellite, designation M-001) and has been formally titled as such since the Nomenclature Standardization Act of 2541. You're welcome.",
+      "likes": 201,
+      "verified": 2,
+      "community_note": {
+        "text": "This reply is partially correct but substantively misleading. While 'The Moon' (Luna, M-001) is the formal designation for Earth's natural satellite, the Nomenclature Standardization Act of 2541 (NSA-2541) applied only to Sol-system bodies catalogued before 2400 CE and did not restrict colloquial usage of 'moon' as a generic noun. Furthermore, the original tweet appears to reference all moons collectively ('all of them'), making the singular/definite-article correction inapplicable to the text being replied to. [1][2]\n\n[1] NSA-2541 Full Text, Hegemony Legislative Archive, Vol. 12\n[2] Sol Body Nomenclature Guidelines, Interplanetary Standards Office, rev. 3019",
+        "contributor_type": "thrrm",
+        "total_raters": 14882,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚖",
+            "label": "Misleading framing",
+            "value": "91% found this misleading"
+          },
+          {
+            "glyph": "📎",
+            "label": "Missing context",
+            "value": "87% say important context is missing"
+          }
+        ]
+      },
+      "pfpColor": "hsl(225,55%,49%)",
+      "pfpGlyph": "◑",
+      "timestamp": "2h"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.961Z"
+}

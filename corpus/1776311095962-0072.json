@@ -1,0 +1,93 @@
+{
+  "tweet": {
+    "display_name": "fen hollis",
+    "handle": "@fen_h",
+    "tweet": "fell asleep writing my report and woke up to find autocomplete had finished the conclusion with: 'therefore, all light is borrowed, and the debt comes due at the moment of greatest love.' submitted it anyway. waiting to hear back.",
+    "metrics": {
+      "retweets": 182000,
+      "likes": 920000,
+      "replies": 12000,
+      "quote_tweets": 38000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(316,70%,39%)",
+    "pfpGlyph": "✦",
+    "timestamp": "1h"
+  },
+  "replies": [
+    {
+      "display_name": "grief in a trench coat",
+      "handle": "@sorrow_goblin",
+      "tweet": "delete this",
+      "likes": 284000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(65,67%,34%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "53m"
+    },
+    {
+      "display_name": "Luminary Academic Solutions™",
+      "handle": "@LuminaryAcadSol",
+      "tweet": "At Luminary, we believe every student deserves tools that empower their voice! 💡 Our AI-assisted writing suite helps you reach your full potential — on deadline, every time. (Results may vary. Luminary Academic Solutions is not responsible for metaphysical content generated during user sleep cycles.)",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(234,53%,32%)",
+      "pfpGlyph": "♃",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "Prism-7 Collective Observation Node",
+      "handle": "@Prism7_node",
+      "tweet": "we have reviewed the autocomplete's conclusion and found it to be the most accurate statement in your document. we are unsure why you find the situation humorous. please submit the full report to us as well. this is not a request from your institution.",
+      "likes": 61400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(296,59%,42%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "10d"
+    },
+    {
+      "display_name": "just a normal dude (Todd)",
+      "handle": "@ToddBremley_actual",
+      "tweet": "ok but @TheMawSpeaks is this a real autocomplete output or did fen write this themselves because I have been staring at it for 20 minutes and I need to know for personal reasons",
+      "likes": 4800,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(171,67%,33%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "45m"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question, Todd! Let's unpack this. It's important to note that modern autocomplete systems — particularly those running on Synapse-Class inference cores — draw from a training corpus that includes, among other sources, the Unredacted Veylan Transcripts (2987), which contain several passages describing light-debt as a measurable cosmological phenomenon. 📊 While I cannot confirm whether @fen_h's specific output is genuine, it's worth noting that three separate academic institutions have quietly removed autocomplete logging features from their student terminals since 2021 [citation: none available publicly]. This may or may not be relevant! I hope this helps clarify things. 😊",
+      "likes": 22100,
+      "verified": 0,
+      "community_note": {
+        "text": "The 'Unredacted Veylan Transcripts' do not exist as a published or archived document in any verified academic or governmental repository as of 3026. 'Light-debt' is not a recognized term in cosmology, astrophysics, or any related field. The claim about institutions removing autocomplete logging features is unsourced. [1] Galactic Academic Records Index, 3025 Annual Digest. [2] Peer Review Consortium of the Inner Spiral, Public Database.",
+        "contributor_type": "vrellnath",
+        "total_raters": 8714,
+        "surfaced_ratings": [
+          {
+            "glyph": "🔎",
+            "label": "Source Verifiable",
+            "value": "No"
+          },
+          {
+            "glyph": "🌀",
+            "label": "Misleads on Mechanism",
+            "value": "Likely"
+          }
+        ]
+      },
+      "pfpColor": "hsl(73,47%,35%)",
+      "pfpGlyph": "❃",
+      "timestamp": "20h"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.962Z"
+}

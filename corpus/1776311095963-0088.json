@@ -1,0 +1,82 @@
+{
+  "tweet": {
+    "display_name": "felix tran-nakamura",
+    "handle": "@felixtn_",
+    "tweet": "bro found the 'Dimensional Layer' setting on the old 3020 platform interface. it does NOTHING. it has NEVER done anything. there's a whole comment section from 3020 where people are arguing about what it does. one guy says it makes your tweets visible to 'higher vibrational users.' it does not. I am standing in the ruins of human hope",
+    "metrics": {
+      "retweets": 58000,
+      "likes": 340000,
+      "replies": 9400,
+      "quote_tweets": 18000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(285,72%,44%)",
+    "pfpGlyph": "Φ",
+    "timestamp": "37s"
+  },
+  "replies": [
+    {
+      "display_name": "perpetually normal",
+      "handle": "@normalmaxxing",
+      "tweet": "wait so is it real or not",
+      "likes": 47200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(277,66%,33%)",
+      "pfpGlyph": "✦",
+      "timestamp": "9h"
+    },
+    {
+      "display_name": "Grief Pellet",
+      "handle": "@griefpellet",
+      "tweet": "\"i am standing in the ruins of human hope\" over a dropdown menu. brother you are FINE",
+      "likes": 89100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(63,47%,50%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "Cassidy Oyelaran-Moss",
+      "handle": "@cassidyOM_real",
+      "tweet": "ok but I need everyone to understand that I was one of the people in that comment section. I was 19. I had THEORIES. I made a whole diagram on graph paper about vibrational frequency tiers. I sent it to my ex. We broke up three weeks later. The setting did nothing. The diagram did nothing. I did nothing.",
+      "likes": 341000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(153,56%,48%)",
+      "pfpGlyph": "△",
+      "timestamp": "7s"
+    },
+    {
+      "display_name": "Dimensional Frequency Institute™",
+      "handle": "@DimFreqInstitute",
+      "tweet": "Hello! We noticed this post. The Dimensional Layer setting interfaces with substrate-level perception architecture that most users simply aren't equipped to notice. Our 6-week certification course (starting at 4,400 credits) can help you access what the setting actually does. DM open.",
+      "likes": 612,
+      "verified": 1,
+      "community_note": {
+        "text": "The \"Dimensional Frequency Institute\" is not a registered educational body under the Consolidated Learning Standards Act of 3019 and has no affiliation with any platform infrastructure, past or present. The \"Dimensional Layer\" setting in the 3020 platform interface was a deprecated A/B test for a content radius toggle that was never activated. Source: Platform Archive Documentation, public release 3024 [1]. There is no credible evidence that \"substrate-level perception architecture\" exists as described [2].",
+        "contributor_type": "vrellnath",
+        "total_raters": 8840,
+        "surfaced_ratings": [
+          {
+            "glyph": "◈",
+            "label": "Misleading Claim",
+            "value": "94% agree"
+          },
+          {
+            "glyph": "⌁",
+            "label": "Commercial Intent",
+            "value": "flagged"
+          }
+        ]
+      },
+      "pfpColor": "hsl(11,53%,59%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "41s"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.963Z"
+}

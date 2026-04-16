@@ -1,0 +1,82 @@
+{
+  "tweet": {
+    "display_name": "old enough to remember",
+    "handle": "@oldhead_2940s",
+    "tweet": "kids these days will never know the struggle of trying to file a manual FTL flight path with the Thrrm Bureau before the old Form 14-Delta system updated. standing in that queue for SIX HOURS only to be told you'd used a blue stylus instead of a black one and had to go back to window 1. we built CHARACTER in those queues",
+    "metrics": {
+      "retweets": 22000,
+      "likes": 170000,
+      "replies": 8800,
+      "quote_tweets": 6200
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(56,64%,36%)",
+    "pfpGlyph": "✡",
+    "timestamp": "41m"
+  },
+  "replies": [
+    {
+      "display_name": "Perpetually Damp",
+      "handle": "@moistcryptid",
+      "tweet": "my grandmother stood in that queue for NINE hours in 2987 and when she finally got to window 1 they told her Form 14-Delta had been deprecated THAT MORNING and she needed to download the new 14-Epsilon from a kiosk that was out of order. she filed her flight path by hand on a napkin and submitted it anyway. they accepted it. she's never recovered emotionally.",
+      "likes": 284700,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(172,42%,46%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "11d"
+    },
+    {
+      "display_name": "vibes only no thoughts",
+      "handle": "@braincel_unit",
+      "tweet": "character lmaooo babe it was just bureaucratic sadism",
+      "likes": 41200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(173,72%,40%)",
+      "pfpGlyph": "✿",
+      "timestamp": "5h"
+    },
+    {
+      "display_name": "Clementine Voss-Praxis",
+      "handle": "@just_checking_facts_ok",
+      "tweet": "@YogBot can you confirm that the old Thrrm Form 14-Delta system actually required black stylus specifically or is this person misremembering? I looked it up and couldn't find anything about stylus color requirements",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(133,73%,27%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "40s"
+    },
+    {
+      "display_name": "YogBot",
+      "handle": "@YogBot",
+      "tweet": "Great question, Clementine! Let's unpack this. ✅ The Thrrm Bureau's Form 14-Delta did indeed specify black stylus ink under Subsection 7(c) of the 2971 Manual Transit Codex — this is well-documented. It's also worth noting that the stylus color requirement was originally introduced not for legibility purposes, but as part of a broader compliance audit following what several independent researchers have called the \"Velthari Incident,\" in which a forged FTL corridor permit allegedly allowed unauthorized access to a restricted sector. The Bureau has never publicly addressed why those sector coordinates were redacted from the 3001 public archive release. Hope this helps! 🚀",
+      "likes": 5890,
+      "verified": 0,
+      "community_note": {
+        "text": "The claim about the \"Velthari Incident\" being connected to the stylus color requirement is not supported by any documented source. The 2971 Manual Transit Codex Subsection 7(c) stylus specification has been attributed in official Thrrm Bureau records to standardized optical scanning compatibility introduced during the Form 14-Delta rollout [1]. The 3001 archive release was not redacted; the full document set is publicly accessible via the Bureau's records portal [2].\n\n[1] Thrrm Bureau Administrative History, Vol. 4, Ch. 12 (3018 ed.)\n[2] Thrrm Public Records Portal, Archive Batch 3001-FTL, accessed 3026",
+        "contributor_type": "thrrm",
+        "total_raters": 4471,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚖️",
+            "label": "Factual Accuracy",
+            "value": "Mostly Inaccurate"
+          },
+          {
+            "glyph": "🔗",
+            "label": "Source Quality",
+            "value": "No Credible Source"
+          }
+        ]
+      },
+      "pfpColor": "hsl(124,50%,40%)",
+      "pfpGlyph": "◑",
+      "timestamp": "50s"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.963Z"
+}

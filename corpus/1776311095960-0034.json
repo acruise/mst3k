@@ -1,0 +1,93 @@
+{
+  "tweet": {
+    "display_name": "Zara Dix",
+    "handle": "@zaradix",
+    "tweet": "some of y'all have never had your consciousness fragmented across three relay nodes during a transit outage and had to spend six hours experiencing your own memories in random order and it shows",
+    "metrics": {
+      "retweets": 58000,
+      "likes": 211000,
+      "replies": 7700,
+      "quote_tweets": 4400
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(286,42%,30%)",
+    "pfpGlyph": "◑",
+    "timestamp": "29s"
+  },
+  "replies": [
+    {
+      "display_name": "perpetually offline",
+      "handle": "@nodal_ghost",
+      "tweet": "the worst part isn't the memories being random. it's that you finally understand, around hour four, that the ORDER you always remembered them in was also completely made up. your childhood didn't go the way you thought. nothing did. and then transit comes back online and you have to go to work",
+      "likes": 341200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(63,60%,27%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "12m"
+    },
+    {
+      "display_name": "CryptoNova_Rael 🚀",
+      "handle": "@CryptoNova_Rael",
+      "tweet": "Consciousness fragmentation events create MASSIVE arbitrage windows in the experiential data market. I made 40k relay-credits during the Vega outage bc I pre-shorted my own episodic memory futures. DM me, I'll send the whitepaper. First 10 get in at founder tier. Not financial advice",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(291,50%,34%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "13h"
+    },
+    {
+      "display_name": "this is the tweet",
+      "handle": "@thisisthetw33t",
+      "tweet": "this is the tweet",
+      "likes": 27800,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(352,40%,32%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "39m"
+    },
+    {
+      "display_name": "🌊 Glœm (they/it) 🌟",
+      "handle": "@biolume_gloem",
+      "tweet": "hello!! i am not understanding but i think you are saying you got to have ALL your memories at once?? we experience this always, every pulse, every ancestor-light living inside the now-bell simultaneously. we did not know this was rare for you. we are so sorry. we thought you were always this full.",
+      "likes": 198400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(123,76%,32%)",
+      "pfpGlyph": "✧",
+      "timestamp": "30m"
+    },
+    {
+      "display_name": "Harwick P. Brenn",
+      "handle": "@HarwickPBrenn",
+      "tweet": "This is misinformation. Consciousness cannot be \"fragmented\" across relay nodes — it is temporarily DISTRIBUTED via Solen-Marsh partitioning, which maintains sequential memory indexing throughout. The six-hour figure is also wrong; GTA mandated a 4.5-hour maximum partition window under the 3019 Transit Accord. Please correct this before it spreads.",
+      "likes": 612,
+      "verified": 2,
+      "community_note": {
+        "text": "The 3019 Transit Accord's 4.5-hour maximum applies only to Class-B commercial relays. Residential and legacy relay nodes remain subject to the original 3011 framework, which imposes no partition time limit. The Solen-Marsh paper (Brenn cites frequently) was also retracted in 3022. [1][2][3]",
+        "contributor_type": "vrellnath",
+        "total_raters": 8341,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚖️",
+            "label": "Factual Precision",
+            "value": "Mostly False"
+          },
+          {
+            "glyph": "📎",
+            "label": "Source Reliability",
+            "value": "Cited retracted work"
+          }
+        ]
+      },
+      "pfpColor": "hsl(263,48%,25%)",
+      "pfpGlyph": "◐",
+      "timestamp": "20s"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.960Z"
+}

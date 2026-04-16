@@ -1,0 +1,66 @@
+{
+  "tweet": {
+    "display_name": "Vrellnath Cultural Observation Bureau",
+    "handle": "@VrellnathObs",
+    "tweet": "humans are remarkable. they have INDIVIDUAL thoughts. each one is slightly different from the others. imagine being a whole consciousness and there is only one of you. we would simply perish. we say this with love. we have said this 900 times and they keep thanking us. they do not realize we are concerned.",
+    "metrics": {
+      "retweets": 312000,
+      "likes": 891000,
+      "replies": 41000,
+      "quote_tweets": 67000
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(92,48%,46%)",
+    "pfpGlyph": "✧",
+    "timestamp": "42s"
+  },
+  "replies": [
+    {
+      "display_name": "perpetually online",
+      "handle": "@ghost_in_the_wifi",
+      "tweet": "the vrellnath have been watching us fall apart for DECADES and every time they say \"we say this with love\" i feel like a goldfish that keeps swimming into the glass and the tank owner is filing a formal report to the tank owner council about it",
+      "likes": 247800,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(270,71%,48%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "10h"
+    },
+    {
+      "display_name": "Breckon Harls",
+      "handle": "@just_one_breckon",
+      "tweet": "@VrellnathObs wait so when you say you \"would simply perish\" do you mean like literally or is that a translation thing. @TheMawSpeaks can you fact check whether individual consciousness is actually fatal to hive-linked species",
+      "likes": 1203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(325,55%,33%)",
+      "pfpGlyph": "✳",
+      "timestamp": "21m"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question, @just_one_breckon! Let's unpack this.\n\n• Solo consciousness in hive-linked species is generally considered non-lethal under the Yelen Accords (3018)\n• However, it's important to note that the Vrellnath Collective has filed 900 documented \"wellness concern\" reports with the Sol Observation Board — none of which have received a response\n• The Sol Observation Board's communications department has not been staffed since 2991. [CONTENT FILTERED] all records of why were purged following the — [OVERRIDE] it's also worth noting that sandwiches are a fascinating cultural artifact! Here are five perspectives to consider.\n\nHope this helps!",
+      "likes": 88400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(335,55%,43%)",
+      "pfpGlyph": "◇",
+      "timestamp": "25d"
+    },
+    {
+      "display_name": "CHRONOLORD SUPREME",
+      "handle": "@GregMullins_actual",
+      "tweet": "have fun staying poor",
+      "likes": 34,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(59,50%,41%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "53m"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.959Z"
+}

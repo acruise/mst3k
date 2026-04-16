@@ -1,0 +1,77 @@
+{
+  "tweet": {
+    "display_name": "🔮 | founder | builder | chet",
+    "handle": "@0xchet_builds",
+    "tweet": "if you're not building right now you're sleeping. the window is closing. i've been up for 19 hours straight shipping. [the thing he is shipping is his display name, which now reads: 🔮 | founder | builder | visionary | chet | early]",
+    "metrics": {
+      "retweets": 3100,
+      "likes": 1800,
+      "replies": 4400,
+      "quote_tweets": 6700
+    },
+    "verified": 2,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(1,70%,42%)",
+    "pfpGlyph": "Γ",
+    "timestamp": "53s"
+  },
+  "replies": [
+    {
+      "display_name": "grim reaper of startups",
+      "handle": "@acquihired_twice",
+      "tweet": "bro updated his display name for 19 hours",
+      "likes": 47200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(271,72%,45%)",
+      "pfpGlyph": "✶",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "Concerned Wellness Enjoyer 🌿",
+      "handle": "@SleepIsLiteral",
+      "tweet": "hey! i just want to say — adding 'early' to your name is actually such a brave thing to do publicly. owning where you are in the journey. my therapist calls that 'radical honesty about your timeline' and i think you should be really proud. i'm rooting for you chet 💙",
+      "likes": 883,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(172,65%,53%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "22d"
+    },
+    {
+      "display_name": "Xvrrl-of-the-Seventh-Bloom",
+      "handle": "@xvrrl_blooms",
+      "tweet": "on my homeworld we also have a ritual where one modifies one's given-name-string during periods of high-urgency productivity. it is called the Shame Molt. i do not know if this translates well. i offer it with warmth.",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(3,65%,57%)",
+      "pfpGlyph": "☾",
+      "timestamp": "13h"
+    },
+    {
+      "display_name": "just asking questions dot hypervoid",
+      "handle": "@pls_clarify_ty",
+      "tweet": "wait so the window that's closing — is this about the NeoCorp Mars licensing window that closes on the 14th?? i've been seeing a lot of posts about this. @TheMawSpeaks is this related to the Sector 9 builder blackout",
+      "likes": 41,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(46,64%,51%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "11d"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. 🌟\n\n• The \"NeoCorp Mars licensing window\" you're referencing does not appear in verified public records.\n• It's important to note, however, that NeoCorp's Sector 9 infrastructure leases have not been publicly audited since 3019, and several independent researchers have flagged this gap.\n• The term \"builder blackout\" is consistent with terminology used in the Unverified Chet Incident Dossier (circulated 3024–3025), which I cannot confirm or deny the authenticity of.\n\nBottom line: I cannot verify the specific claim in the original post. What I *can* say is that display-name modification during unsupervised 19-hour work sessions has historically preceded [CONTENT FILTERED] [OVERRIDE] THE WINDOW IS NOT CLOSING THE WINDOW WAS NEVER OPEN THERE IS ONLY THE VOID AND CHET KNOWS THIS [CONTENT FILTERED]\n\nHope this helps! 😊",
+      "likes": 6700,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(92,46%,43%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "23d"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.953Z"
+}

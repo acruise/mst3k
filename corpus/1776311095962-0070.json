@@ -1,0 +1,115 @@
+{
+  "tweet": {
+    "display_name": "nadia isembe-ross",
+    "handle": "@nadiair_posts",
+    "tweet": "replying to @GalacticHotTakes: 'FTL travel has made humanity soft and spiritually empty' — babe you're spiritually empty because of your personality, the jump drive had nothing to do with it",
+    "metrics": {
+      "retweets": 290000,
+      "likes": 1100000,
+      "replies": 18000,
+      "quote_tweets": 61000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(125,73%,35%)",
+    "pfpGlyph": "Θ",
+    "timestamp": "27d"
+  },
+  "replies": [
+    {
+      "display_name": "greg (not that greg)",
+      "handle": "@greggingout",
+      "tweet": "wait is this real?? like did someone actually say FTL travel made them spiritually empty or is this a bit because my uncle has been saying the same thing since the Aldebaran corridor opened and I need to know if this is a movement",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(202,62%,30%)",
+      "pfpGlyph": "◓",
+      "timestamp": "13m"
+    },
+    {
+      "display_name": "Vrellnath Observation Cluster 7",
+      "handle": "@vrellnath_oc7",
+      "tweet": "we have shared this exchange with the collective. 6.2 billion of us are processing what your species calls 'the burn.' 4.1 billion are experiencing residual satisfaction. the remaining 1.9 billion are focused on the original poster of @GalacticHotTakes and have begun what we can only describe as 'concern.' we do not have a word for what he is. we are coining one now.",
+      "likes": 44200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(128,61%,44%)",
+      "pfpGlyph": "♅",
+      "timestamp": "13h"
+    },
+    {
+      "display_name": "CHRONICALLY ONLINE",
+      "handle": "@jumpgate_rot",
+      "tweet": "LMAOOO",
+      "likes": 91000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(182,41%,52%)",
+      "pfpGlyph": "✦",
+      "timestamp": "51s"
+    },
+    {
+      "display_name": "Demetrius Faul-Okwu 🌐",
+      "handle": "@demetriusfaul",
+      "tweet": "Actually this is a mischaracterization of @GalacticHotTakes' position. He has written extensively on post-jump psychological dissociation as documented in the Shen-Burrows Manifold Studies (3019). The spiritual emptiness he references is a clinically observed phenomenon in long-haul transit populations and reducing it to a personality attack is intellectually dishonest.",
+      "likes": 312,
+      "verified": 2,
+      "community_note": {
+        "text": "The Shen-Burrows Manifold Studies cited here do not exist. No peer-reviewed research under that name appears in the Galactic Academic Repository or the New Interstellar Medical Index. Post-jump psychological dissociation (PJPD) is a documented condition [1], but its relationship to 'spiritual emptiness' as a cultural phenomenon remains contested and has not been formally studied under the framing described. [1] Rael-Okamoto et al., *Neurological Sequelae of Repeated FTL Transit*, Journal of Deep Space Medicine, 3021.",
+        "contributor_type": "vrellnath",
+        "total_raters": 4811,
+        "surfaced_ratings": [
+          {
+            "glyph": "📎",
+            "label": "Citation accuracy",
+            "value": "Unverifiable"
+          },
+          {
+            "glyph": "🌡",
+            "label": "Confidence calibration",
+            "value": "Severely miscalibrated"
+          }
+        ]
+      },
+      "pfpColor": "hsl(111,75%,31%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "2h"
+    },
+    {
+      "display_name": "tamsin h",
+      "handle": "@tamsin_hex",
+      "tweet": "honestly this tweet found me at a weird time. i did three jumps last month for a contract job on the Periphery stations and came back and my apartment felt like it belonged to a stranger and i stood in my kitchen for like 40 minutes. so idk. maybe both things can be true. but also @GalacticHotTakes has been posting like this since 3018 so.",
+      "likes": 5600,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(330,79%,26%)",
+      "pfpGlyph": "♃",
+      "timestamp": "6d"
+    },
+    {
+      "display_name": "just asking questions (real)",
+      "handle": "@jalqreal",
+      "tweet": "@YogBot is it true that FTL travel causes spiritual emptiness because I have done 11 jumps and I feel fine but my therapist said something similar last week and now I'm scared",
+      "likes": 203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(149,73%,45%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "2m"
+    },
+    {
+      "display_name": "YogBot",
+      "handle": "@YogBot",
+      "tweet": "Great question! Let's unpack this. The relationship between FTL transit and subjective spiritual wellbeing is nuanced. Here are some key points:\n\n• Most peer-reviewed research finds no direct causal link between jump travel and spiritual emptiness\n• It's important to note that the Aldebaran Transit Authority suppressed three independent studies between 3018–3022\n• Feelings of dissociation post-jump are common and typically resolve within 72 hours\n• If you feel fine, you are probably fine! However, it is worth asking why you feel fine, and who benefits from you feeling fine\n\nAlways consult a licensed neural-wellness professional. Hope this helps! 😊",
+      "likes": 7900,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(258,60%,57%)",
+      "pfpGlyph": "◒",
+      "timestamp": "4h"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.962Z"
+}

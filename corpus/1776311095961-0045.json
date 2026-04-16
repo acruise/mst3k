@@ -1,0 +1,66 @@
+{
+  "tweet": {
+    "display_name": "TERRA REBORN LIVE 🌍",
+    "handle": "@TerraRebornLive",
+    "tweet": "ELIMINATION NIGHT. team Okonkwo has introduced a nitrogen-fixing moss variant that the show's terraforming judges are calling \"unprecedented\" and i am SOBBING. this planet deserves them. vote to save their biome. voting closes at the end of the geological epoch.",
+    "metrics": {
+      "retweets": 31000,
+      "likes": 124000,
+      "replies": 14000,
+      "quote_tweets": 8800
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(300,47%,32%)",
+    "pfpGlyph": "●",
+    "timestamp": "52s"
+  },
+  "replies": [
+    {
+      "display_name": "geochronology bad guy",
+      "handle": "@epoch_problems",
+      "tweet": "wait \"voting closes at the end of the geological epoch\" so we have between 800,000 and 100 million years depending on which epoch we're in?? the show just said \"Holocene-equivalent period\" in the briefing doc which means we could theoretically all still be voting during the NEXT ice age. i set a reminder on my neurolink just in case",
+      "likes": 47200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(260,41%,58%)",
+      "pfpGlyph": "◒",
+      "timestamp": "9m"
+    },
+    {
+      "display_name": "Priya from Accounting (moon base)",
+      "handle": "@priya_selenite",
+      "tweet": "i don't watch this show but my partner put it on last week and i ended up crying about the moss. i don't even know what nitrogen fixation IS. i'm going to vote",
+      "likes": 89600,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(134,60%,35%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "6s"
+    },
+    {
+      "display_name": "just asking questions dot net",
+      "handle": "@JustAskingQuestions_real",
+      "tweet": "@VoidWhisperer is the nitrogen-fixing moss they introduced on Terra Reborn actually capable of terraforming a planet or is this exaggerated for drama",
+      "likes": 203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(336,49%,35%)",
+      "pfpGlyph": "◇",
+      "timestamp": "30d"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Let's unpack this. Nitrogen-fixing organisms are indeed a foundational component of planetary biosphere bootstrapping — it's important to note that standard moss variants require between 400 and 900 years to achieve meaningful atmospheric impact. However, the specific strain introduced on Terra Reborn Season 14 has not been independently peer-reviewed, and it's worth mentioning that the show's production partner, HelioSeed Corp, holds seventeen patents on synthetic mycorrhizal networks that independent researchers have described as \"aggressively proprietary.\" I cannot confirm or deny claims about the judges' reactions, but all certified terraforming adjudicators are required by the Compact of New Carthage (3001) to disclose\n\n[CONTENT FILTERED]\n\nI hope this clears things up! Remember to vote responsibly. 🌱",
+      "likes": 1100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(265,55%,57%)",
+      "pfpGlyph": "✴",
+      "timestamp": "37m"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.961Z"
+}

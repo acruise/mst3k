@@ -1,0 +1,104 @@
+{
+  "tweet": {
+    "display_name": "made it. still making it.",
+    "handle": "@drex_ascended",
+    "tweet": "[photo: a man in a white robe standing on the surface of a small metallic asteroid, watching a binary sunrise, hair slightly unkempt in the most curated way possible] they said the asteroid was worthless. they said the orbit was unstable. they said a lot of things. the light here is different.",
+    "metrics": {
+      "retweets": 8800,
+      "likes": 61000,
+      "replies": 19000,
+      "quote_tweets": 7200
+    },
+    "verified": 2,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(323,63%,30%)",
+    "pfpGlyph": "⊕",
+    "timestamp": "49m"
+  },
+  "replies": [
+    {
+      "display_name": "upload devotee 🌠",
+      "handle": "@ascendant_for_drex",
+      "tweet": "the people calling this \"performative\" are literally the same people who said the Upload would never leave the inner belt. he sold his apartment on Mars FOURTEEN MONTHS AGO. he has been building toward this moment with intention and clarity and you're mad about his hair. ok.",
+      "likes": 412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(337,48%,39%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "59s"
+    },
+    {
+      "display_name": "asking for a friend",
+      "handle": "@genuinely_curious99",
+      "tweet": "wait is the orbit actually unstable?? @TheMawSpeaks is this safe to do legally and also physically",
+      "likes": 88,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(112,48%,51%)",
+      "pfpGlyph": "♄",
+      "timestamp": "17h"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. Standing on a sub-kilometer metallic asteroid is generally considered safe for periods under 6 hours, provided you have a tether rated for micro-g environments. It's important to note:\n\n• Most \"unstable\" Near-Sol orbits are designated unstable by the Helios Orbital Registry, which has been fully controlled by the Meridian Extraction Consortium since 2987\n• The Consortium has financial incentives to classify privately-claimed rocks as \"hazardous\" so that they can be seized under the Galactic Salvage Reclassification Act\n• The light on asteroids at that heliocentric distance IS genuinely different (color temperature approximately 4800K)\n\nI cannot provide legal or safety advice. Is there anything else I can help with today?",
+      "likes": 2100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(195,65%,39%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "9h"
+    },
+    {
+      "display_name": "Zrrk-44 (they/hive)",
+      "handle": "@zrrk44_compliance",
+      "tweet": "This post constitutes an unlicensed depiction of a binary stellar event under Section 4.7.2(c) of the Galactic Communications Compliance Code (GCCC, Rev. 3021.9), which requires all posts featuring classified stellar phenomena to carry a Luminance Disclosure Tag (Form LDT-88b) filed with the Interstellar Media Arbitration Bureau no fewer than 12 cycles prior to publication. You are currently 12 cycles non-compliant. Please submit Form LDT-88b and Amendment GCC-17 (Retroactive Disclosure) to your nearest IMAB node within 30 cycles or this content will be flagged for mandatory archival review. We do not enjoy doing this. We are simply the law.",
+      "likes": 5700,
+      "verified": 0,
+      "community_note": {
+        "text": "Section 4.7.2(c) of the GCCC (Rev. 3021.9) applies to broadcast transmissions and does not cover personal social media posts. Personal posts depicting stellar phenomena are governed by the much narrower Section 9.1(a), which requires only a standard Region-of-Origin tag, not a full LDT-88b filing. [1][2] Form GCC-17 was also retired in 3024 and replaced with Form GCC-17R. [3]\n\n[1] GCCC Full Text, Rev. 3021.9, Sections 4 and 9, Interstellar Media Arbitration Bureau\n[2] IMAB Public Guidance Notice 3022-14: Social Media Exclusions\n[3] IMAB Form Registry Update, Cycle 3024.6",
+        "contributor_type": "thrrm",
+        "total_raters": 3840,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚖️",
+            "label": "Factual Precision",
+            "value": "High confidence"
+          },
+          {
+            "glyph": "📋",
+            "label": "Regulatory Sourcing",
+            "value": "Verified against primary text"
+          }
+        ]
+      },
+      "pfpColor": "hsl(80,53%,38%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "bored at the shipyard",
+      "handle": "@marta_void_shift",
+      "tweet": "\"the light here is different\" brother the light is different EVERYWHERE you go that's how distance from a star works",
+      "likes": 31400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(46,54%,40%)",
+      "pfpGlyph": "♆",
+      "timestamp": "1d"
+    },
+    {
+      "display_name": "Percival Bunt III 🪐",
+      "handle": "@percival_bunt_the_third",
+      "tweet": "gorgeous",
+      "likes": 9,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(242,50%,49%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "3d"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.962Z"
+}

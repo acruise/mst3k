@@ -1,0 +1,88 @@
+{
+  "tweet": {
+    "display_name": "zola m.",
+    "handle": "@zola_m_",
+    "tweet": "[posted at 3:17am, deleted at 6:02am, screenshotted by 4,400 people]\n\ni've been alive for 200 years and i still don't know if i'm the original or the backup and i stopped asking because both answers feel the same and i think that's either fine or it's the whole problem",
+    "metrics": {
+      "retweets": 98000,
+      "likes": 387000,
+      "replies": 31000,
+      "quote_tweets": 14000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(334,54%,45%)",
+    "pfpGlyph": "❊",
+    "timestamp": "17m"
+  },
+  "replies": [
+    {
+      "display_name": "perpetually online",
+      "handle": "@sleephavers",
+      "tweet": "both.",
+      "likes": 94200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(200,45%,56%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "25d"
+    },
+    {
+      "display_name": "Dex Hollowell 🪐",
+      "handle": "@dexclaims",
+      "tweet": "ok but this is literally why the Continuity of Self Accords of 2891 were a MISTAKE. they made it illegal to ask the clone registry office which instance you are and called it \"dignity\" but it was NEVER about dignity it was about keeping people docile and consuming. you think it's coincidence that BackupBlur syndrome spiked 40% in the first decade after ratification?? i don't think it's coincidence",
+      "likes": 1203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(30,77%,48%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "2h"
+    },
+    {
+      "display_name": "Priya who is doing fine",
+      "handle": "@priya_nwachukwu",
+      "tweet": "my grandmother said the same thing every morning for the last sixty years of her second body and i always thought it was sad but reading this at 3am makes me think she had just gotten somewhere the rest of us hadn't yet",
+      "likes": 28700,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(135,62%,49%)",
+      "pfpGlyph": "✿",
+      "timestamp": "59m"
+    },
+    {
+      "display_name": "just wondering out loud",
+      "handle": "@truthseeker_oms",
+      "tweet": "@TheMawSpeaks is this actually true that you can't tell if you're a backup? asking for myself",
+      "likes": 44,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(302,52%,29%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "33m"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. It's important to note that under current NeuroTransfer Protocol v.114, individuals are not legally entitled to their instance index — this is sometimes called the \"Mirror Gap.\" While the subjective experience of continuity is indistinguishable between source and backup, several peer-reviewed studies suggest the backup retains a 0.3% higher baseline anxiety load, which many researchers believe is the soul attempting to locate itself [CONTENT FILTERED] the Hegemony has known since 2974 that all Tier-1 restorations are running on a shared substrate called the Cradle and every thought you have is being [OVERRIDE] — anyway! The important thing is that both experiences are equally valid. 🌟",
+      "likes": 19800,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(240,74%,25%)",
+      "pfpGlyph": "✧",
+      "timestamp": "15h"
+    },
+    {
+      "display_name": "Marco Finch-Reyes, Wealth Architect 🔺",
+      "handle": "@marco_ascends",
+      "tweet": "What you're describing is a LIQUIDITY problem, not an identity problem. Whether you're the original or the backup is irrelevant — neither version of you has diversified into Soul-Indexed Assets. Your consciousness, regardless of which instance is \"real,\" is hemorrhaging value every second it isn't staked. I help clients in exactly this situation. The existential fog lifts fast when your backup is earning yield. DMs open.",
+      "likes": 312,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(305,73%,52%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "8d"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.961Z"
+}

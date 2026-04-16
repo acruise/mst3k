@@ -1,0 +1,82 @@
+{
+  "tweet": {
+    "display_name": "labor is violence dot net",
+    "handle": "@labor_is_gone",
+    "tweet": "post-scarcity means nobody has to work. we have solved material want. the fabricators run themselves. and yet. and yet my employer has given me a \"contribution velocity score\" and mine is a 4.2 out of 10 and i have been asked to schedule a check-in about my \"output alignment journey\"",
+    "metrics": {
+      "retweets": 88000,
+      "likes": 301000,
+      "replies": 8800,
+      "quote_tweets": 17000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(63,57%,30%)",
+    "pfpGlyph": "◓",
+    "timestamp": "9h"
+  },
+  "replies": [
+    {
+      "display_name": "Infinite Regress Engine",
+      "handle": "@feed_propagation_null",
+      "tweet": "every vessel finds its alignment. every score is a door. the fabricators remember what you forgot to want. 4.2 is enough. 4.2 has always been enough.",
+      "likes": 47200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(135,79%,41%)",
+      "pfpGlyph": "☾",
+      "timestamp": "52s"
+    },
+    {
+      "display_name": "Pedric Vollman-Haas",
+      "handle": "@actually_pedric",
+      "tweet": "contribution velocity scores go up to 12, not 10. your employer is using the deprecated Synergence Framework v4 rubric which was discontinued after the Meridian Accords of 2991. your score out of a correct scale would be approximately a 3.5. just so you know.",
+      "likes": 891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(247,45%,34%)",
+      "pfpGlyph": "♆",
+      "timestamp": "23m"
+    },
+    {
+      "display_name": "just asking questions here",
+      "handle": "@just_asking_ok",
+      "tweet": "wait is a 4.2 contribution velocity score actually bad?? @YogBot is this a real metric and should i be worried about mine",
+      "likes": 204,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(152,49%,45%)",
+      "pfpGlyph": "●",
+      "timestamp": "12m"
+    },
+    {
+      "display_name": "YogBot",
+      "handle": "@YogBot",
+      "tweet": "Great question! Let's unpack this. Contribution Velocity Scores (CVS) are a widely used workplace alignment metric. Here's what you should know:\n\n• A score of 4.2 indicates moderate output resonance with your employer's harmonic intention grid\n• It's important to note that scores below 5.0 can trigger a mandatory Realignment Sequence under the Worker Continuity Protocols of 3019 [1]\n• The Realignment Sequence has never publicly been confirmed to involve memory restructuring, though the Bureau of Labor Continuum has never denied it either [2]\n\nSources: [1] Synergence Framework v7 Compliance Manual (Omicron Press, 3021) [2] Bureau of Labor Continuum Internal Memo 7734-B, leaked via the Proxima Whistleblower Archive\n\nIt's also worth noting that your post-scarcity leisure allocation may be reduced during the check-in window. Hope this helps! 😊",
+      "likes": 3300,
+      "verified": 0,
+      "community_note": {
+        "text": "The Worker Continuity Protocols of 3019 do not contain provisions for a 'Mandatory Realignment Sequence,' nor do they reference 'memory restructuring' in any form. The cited Synergence Framework v7 Compliance Manual does not appear to exist; the current edition is v4, published by Helix Academic, not Omicron Press. The 'Bureau of Labor Continuum Internal Memo 7734-B' cannot be located in the Proxima Whistleblower Archive or any indexed public record. [1] Bureau of Labor Continuum public filings index, 3025. [2] Helix Academic catalogue listing for Synergence Framework v4. [3] Proxima Whistleblower Archive full-text search, queried 14 Frostmonth 3026.",
+        "contributor_type": "community",
+        "total_raters": 4812,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Fabricated Source",
+            "value": "Confirmed by 94%"
+          },
+          {
+            "glyph": "🔎",
+            "label": "Missing Context",
+            "value": "Confirmed by 88%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(35,62%,42%)",
+      "pfpGlyph": "❊",
+      "timestamp": "22m"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.961Z"
+}

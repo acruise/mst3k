@@ -135,6 +135,12 @@
     font-size: 16px; line-height: 1.55; color: #d1cfc9;
     white-space: pre-wrap; word-break: break-word; margin-bottom: 14px;
   }
+  .tweet-text ul {
+    white-space: normal; margin: 6px 0; padding-left: 20px;
+  }
+  .tweet-text li {
+    margin-bottom: 3px;
+  }
   .metrics { display: flex; gap: 32px; align-items: center; }
   .metric {
     display: flex; align-items: center; gap: 6px;
@@ -148,6 +154,66 @@
     font-size: 10px; font-family: 'IBM Plex Mono', monospace;
     color: #ff4757; opacity: 0.6; letter-spacing: 2px; text-transform: uppercase;
   }
+  .cnote {
+    margin-top: 14px; padding: 12px 14px;
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 6px;
+    background: rgba(255,255,255,0.02);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px;
+  }
+  .cnote-header {
+    display: flex; align-items: center; gap: 6px;
+    color: rgba(255,255,255,0.45);
+    font-size: 11px; letter-spacing: 0.5px;
+    margin-bottom: 6px;
+    text-transform: uppercase;
+  }
+  .cnote-header-icon { font-size: 13px; }
+  .cnote-text {
+    color: rgba(255,255,255,0.6);
+    line-height: 1.5;
+    font-family: 'Newsreader', Georgia, serif;
+    font-size: 13.5px;
+  }
+  .cnote-votes {
+    margin-top: 8px;
+    font-size: 10.5px;
+    color: rgba(255,255,255,0.3);
+    letter-spacing: 0.5px;
+  }
+  .cnote-ratings {
+    margin-top: 10px;
+    display: flex; flex-wrap: wrap; gap: 14px;
+    padding: 8px 0 2px;
+    border-top: 1px dashed rgba(255,255,255,0.06);
+    font-family: 'IBM Plex Mono', monospace;
+  }
+  .cnote-rating {
+    display: inline-flex; align-items: baseline; gap: 5px;
+    font-size: 11px;
+  }
+  .cnote-glyph {
+    color: rgba(255,255,255,0.55);
+    font-size: 13px;
+  }
+  .cnote-label {
+    color: rgba(255,255,255,0.4);
+    letter-spacing: 0.3px;
+  }
+  .cnote-value {
+    color: rgba(255,255,255,0.65);
+    font-weight: 700;
+  }
+  .cnote-thrrm { border-left: 2px solid rgba(220,180,60,0.4); }
+  .cnote-vrellnath { border-left: 2px solid rgba(120,180,220,0.4); }
+  .cnote-ai_bot { border-left: 2px solid rgba(180,80,180,0.4); }
+  .cnote-community { border-left: 2px solid rgba(255,255,255,0.15); }
+  .reply .cnote {
+    margin-top: 8px; padding: 8px 10px;
+    font-size: 12px;
+  }
+  .reply .cnote-text { font-size: 12.5px; }
   .replies-section {
     padding: 0 24px 12px 86px;
     background: rgba(255,255,255,0.008);
@@ -308,6 +374,65 @@ function pfpGlyph() {
 function esc(s) {
   var d = document.createElement("div"); d.textContent = s; return d.innerHTML;
 }
+function fmtTweet(s) {
+  var escaped = esc(s);
+  // Convert lines starting with - or • or * into <ul><li> lists
+  var lines = escaped.split("\n");
+  var out = [];
+  var inList = false;
+  for (var i = 0; i < lines.length; i++) {
+    var m = lines[i].match(/^[\s]*[-•*]\s+(.*)/);
+    if (m) {
+      if (!inList) { out.push("<ul>"); inList = true; }
+      out.push("<li>" + m[1] + "</li>");
+    } else {
+      if (inList) { out.push("</ul>"); inList = false; }
+      out.push(lines[i]);
+    }
+  }
+  if (inList) out.push("</ul>");
+  return out.join("\n");
+}
+
+function renderNote(note) {
+  if (!note || !note.text) return "";
+  var type = note.contributor_type || "community";
+  var label = type === "thrrm" ? "BUREAU COMPLIANCE NOTE"
+    : type === "vrellnath" ? "COLLECTIVE-AUTHORED CONTEXT"
+    : type === "ai_bot" ? "PLATFORM AUTO-CONTEXT"
+    : "READERS ADDED CONTEXT";
+  var html = '<div class="cnote cnote-' + type + '">';
+  html += '<div class="cnote-header"><span class="cnote-header-icon">⚠</span> ' + label + '</div>';
+  html += '<div class="cnote-text">' + esc(note.text) + '</div>';
+
+  var ratings = note.surfaced_ratings || [];
+  // Legacy fallback: if old helpful_votes format is present, synthesize a classical rating
+  if (!ratings.length && (note.helpful_votes || note.not_helpful_votes)) {
+    var helpful = note.helpful_votes || 0;
+    var notHelpful = note.not_helpful_votes || 0;
+    var total = helpful + notHelpful;
+    if (total > 0) {
+      ratings = [{ glyph: "✓", label: "Epistemically Sound", value: Math.round((helpful / total) * 100) + "%" }];
+      if (!note.total_raters) note.total_raters = total;
+    }
+  }
+
+  if (ratings.length) {
+    html += '<div class="cnote-ratings">';
+    for (var i = 0; i < ratings.length; i++) {
+      var r = ratings[i];
+      html += '<span class="cnote-rating"><span class="cnote-glyph">' + esc(r.glyph || "·") + '</span>';
+      html += '<span class="cnote-label">' + esc(r.label || "") + '</span>';
+      html += '<span class="cnote-value">' + esc(r.value || "—") + '</span></span>';
+    }
+    html += '</div>';
+  }
+  if (note.total_raters) {
+    html += '<div class="cnote-votes">' + fmt(note.total_raters) + ' contributors rated this note · ratings surfaced by algorithm</div>';
+  }
+  html += '</div>';
+  return html;
+}
 
 /* ───────────────────────── API ───────────────────────── */
 function callAPI(system, content, maxTokens, temperature) {
@@ -363,14 +488,16 @@ function renderTweet(t, idx) {
   html += sigilSVG(tier, false);
   html += '<span class="handle">' + esc(t.handle) + '</span>';
   html += '<span class="timestamp">' + t.timestamp + '</span></div>';
-  html += '<div class="tweet-text">' + esc(t.tweet) + '</div>';
+  html += '<div class="tweet-text">' + fmtTweet(t.tweet) + '</div>';
   html += '<div class="metrics">';
   var rc = t.is_ratio ? " ratio" : "";
   html += '<div class="metric' + rc + '"><span class="metric-icon">💬</span>' + fmt(t.metrics.replies) + '</div>';
   html += '<div class="metric"><span class="metric-icon">🔁</span>' + fmt(t.metrics.retweets) + '</div>';
   html += '<div class="metric' + rc + '"><span class="metric-icon">♡</span>' + fmt(t.metrics.likes) + '</div>';
   html += '<div class="metric"><span class="metric-icon">⤴</span>' + fmt(t.metrics.quote_tweets) + '</div>';
-  html += '</div></div></div>';
+  html += '</div>';
+  html += renderNote(t.community_note);
+  html += '</div></div>';
 
   if (isExp) {
     html += '<div class="replies-section">';
@@ -390,8 +517,9 @@ function renderTweet(t, idx) {
         html += sigilSVG(rTier, true);
         html += '<span class="handle" style="font-size:11.5px">' + esc(r.handle) + '</span>';
         html += '<span class="timestamp" style="font-size:11.5px">' + r.timestamp + '</span></div>';
-        html += '<div class="tweet-text">' + esc(r.tweet) + '</div>';
+        html += '<div class="tweet-text">' + fmtTweet(r.tweet) + '</div>';
         html += '<span class="reply-likes">♡ ' + fmt(r.likes) + '</span>';
+        html += renderNote(r.community_note);
         html += '</div></div>';
       }
       html += '<div class="replies-end">show more replies ›</div>';
@@ -446,6 +574,7 @@ function generateTweet() {
         metrics: parsed.metrics || { retweets: 0, likes: 0, replies: 0, quote_tweets: 0 },
         verified: parsed.verified || 0,
         is_ratio: parsed.is_ratio || false,
+        community_note: parsed.community_note || null,
         pfpColor: parsed.pfpColor || pfpColor(),
         pfpGlyph: parsed.pfpGlyph || pfpGlyph(),
         timestamp: parsed.timestamp || ts(),
@@ -482,6 +611,7 @@ function generateBatch() {
           metrics: parsed.metrics || { retweets: 0, likes: 0, replies: 0, quote_tweets: 0 },
           verified: parsed.verified || 0,
           is_ratio: parsed.is_ratio || false,
+          community_note: parsed.community_note || null,
           pfpColor: parsed.pfpColor || pfpColor(), pfpGlyph: parsed.pfpGlyph || pfpGlyph(),
           timestamp: parsed.timestamp || ts(), id: Date.now(),
           _corpus_idx: parsed._corpus_idx, _has_replies: parsed._has_replies,
@@ -533,6 +663,7 @@ function toggleReplies(id) {
           tweet: r.tweet || "",
           likes: r.likes || 0,
           verified: r.verified || 0,
+          community_note: r.community_note || null,
           pfpColor: r.pfpColor || pfpColor(),
           pfpGlyph: r.pfpGlyph || pfpGlyph(),
           timestamp: r.timestamp || ts(),
@@ -566,6 +697,7 @@ function toggleReplies(id) {
           tweet: r.tweet || "",
           likes: r.likes || 0,
           verified: r.verified || 0,
+          community_note: r.community_note || null,
           pfpColor: pfpColor(), pfpGlyph: pfpGlyph(), timestamp: ts(),
         };
       });

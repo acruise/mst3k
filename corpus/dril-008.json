@@ -1,0 +1,21 @@
+{
+  "tweet": {
+    "display_name": "wint",
+    "handle": "@dril",
+    "tweet": "took a nap from 2pm to 4pm and when i woke up it was 2pm again. free nap. the system has a glitch and i intend to exploit it",
+    "metrics": { "retweets": 380000, "likes": 990000, "replies": 27000, "quote_tweets": 51000 },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(0, 0%, 25%)",
+    "pfpGlyph": "◉",
+    "timestamp": "9h"
+  },
+  "replies": [
+    { "display_name": "lmao", "handle": "@lmao_lmao_lmao", "tweet": "\"free nap\" is the greatest thing this man has ever written", "likes": 230000, "verified": 0, "pfpColor": "hsl(120, 40%, 30%)", "pfpGlyph": "◎", "timestamp": "9h" },
+    { "display_name": "temporal physicist (on break)", "handle": "@timeloop_hater", "tweet": "can you tell me what deck you're on. i am asking professionally. i am asking very professionally and calmly.", "likes": 120000, "verified": 0, "pfpColor": "hsl(50, 55%, 28%)", "pfpGlyph": "Θ", "timestamp": "8h" },
+    { "display_name": "jen", "handle": "@jen_online", "tweet": "this is just his clock being broken right", "likes": 23000, "verified": 0, "pfpColor": "hsl(340, 45%, 35%)", "pfpGlyph": "✧", "timestamp": "7h" },
+    { "display_name": "jen", "handle": "@jen_online", "tweet": "right?", "likes": 120000, "verified": 0, "pfpColor": "hsl(340, 45%, 35%)", "pfpGlyph": "✧", "timestamp": "7h" },
+    { "display_name": "wint", "handle": "@dril", "tweet": "update: took 3 more free naps. it is still 2pm. beginning to think this might not be a glitch", "likes": 1400000, "verified": 0, "pfpColor": "hsl(0, 0%, 25%)", "pfpGlyph": "◉", "timestamp": "6h" }
+  ],
+  "generated_at": "2026-04-15T00:01:07.000Z"
+}

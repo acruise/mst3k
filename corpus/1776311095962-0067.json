@@ -1,0 +1,125 @@
+{
+  "tweet": {
+    "display_name": "Entropy Maximus 📉 $ENTROPY $DARKMATTER",
+    "handle": "@entropymaxi_",
+    "tweet": "the $ENTROPY whitepaper is 400 pages. I know that scares you. good. page 1: entropy is real. page 2: we have tokenized it. pages 3-400: equations. not financial advice. we are capturing the thermodynamic death of the universe and turning it into yield. the smart money got in at the heat death. you still can",
+    "metrics": {
+      "retweets": 3100,
+      "likes": 9200,
+      "replies": 41000,
+      "quote_tweets": 18000
+    },
+    "verified": 2,
+    "is_ratio": true,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. $ENTROPY is not a financial instrument recognized by any regulatory body including the Galactic Exchange Commission, the Outer Rim Trading Authority, or the Thrrm Bureau of Fungible Instruments (Form 77-Fi). The claim that thermodynamic entropy can be 'tokenized' is not supported by any peer-reviewed physics literature. The whitepaper's equations on pages 3-400 are, per independent review, the same equation repeated 397 times with minor font variation. The project's liquidity pool was drained 14 cycles after launch. [1] GEC Public Record 9,002-B [2] Outer Rim Trading Authority Advisory 44 [3] Dr. Priya Anand-Müller, 'A Survey of Entropy Tokens,' Journal of Computational Finance, 3024]",
+      "contributor_type": "community",
+      "total_raters": 24100,
+      "surfaced_ratings": [
+        {
+          "glyph": "✓",
+          "label": "Epistemically Sound",
+          "value": "6%"
+        },
+        {
+          "glyph": "⎔",
+          "label": "Cross-Referenced Against Archive",
+          "value": "Yes"
+        },
+        {
+          "glyph": "✦",
+          "label": "Vibes Check",
+          "value": "Extremely Concerning"
+        }
+      ]
+    },
+    "pfpColor": "hsl(111,71%,31%)",
+    "pfpGlyph": "⚳",
+    "timestamp": "16d"
+  },
+  "replies": [
+    {
+      "display_name": "greeble from accounting",
+      "handle": "@greeble_accts",
+      "tweet": "sir this is a Vanta-Shack",
+      "likes": 47200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(300,78%,56%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "27s"
+    },
+    {
+      "display_name": "Pellucid Darnsworth III",
+      "handle": "@pdarnsworth_real",
+      "tweet": "This is actually deeply misleading and I'm tired of seeing it go uncorrected. Entropy cannot be \"tokenized\" — thermodynamic entropy is a state function, not an asset. The Second Law does not produce yield, it produces disorder. You are describing a perpetual motion machine with extra steps and a Discord server. Please stop.",
+      "likes": 891,
+      "verified": 0,
+      "community_note": {
+        "text": "While the reply author is correct that entropy cannot be tokenized in any thermodynamically meaningful sense, the claim that $ENTROPY describes a perpetual motion machine is also inaccurate. The $ENTROPY whitepaper (available at entropymaxi.void, archived at VoidArchive ref. 44-EX) does not claim to reverse or circumvent thermodynamic processes, but rather to index speculative derivative contracts against modeled heat-death timelines. This is distinct from a perpetual motion machine, though it remains without scientific or regulatory basis. [1] Penrose, R. et al., \"Conformal Cyclic Cosmology and Derivative Markets,\" Journal of Speculative Thermodynamics, Vol. 12, 3024. [2] GalacticSEC Advisory Notice 7741-B, \"Cosmological Yield Products,\" 3025.",
+        "contributor_type": "vrellnath",
+        "total_raters": 4102,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚖️",
+            "label": "Misleading framing",
+            "value": "Partially supported"
+          },
+          {
+            "glyph": "📎",
+            "label": "Source quality",
+            "value": "Mixed"
+          }
+        ]
+      },
+      "pfpColor": "hsl(172,73%,26%)",
+      "pfpGlyph": "◒",
+      "timestamp": "19h"
+    },
+    {
+      "display_name": "just a normal one",
+      "handle": "@normalcryptoguy99",
+      "tweet": "ape'd in. what's the ticker",
+      "likes": 233,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(64,49%,53%)",
+      "pfpGlyph": "◒",
+      "timestamp": "27s"
+    },
+    {
+      "display_name": "Concerned Mom of Four (Exoplanet Cluster 9)",
+      "handle": "@maureens_cluster9",
+      "tweet": "wait so is the universe actually dying?? like RIGHT NOW?? @TheMawSpeaks is this something we should be worried about for our kids",
+      "likes": 59,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(21,76%,45%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "4d"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question, Maureen! Let's unpack this together. 🌌\n\n• The thermodynamic heat death of the universe is a well-documented theoretical endpoint estimated to occur in approximately 10^100 years — nothing to worry about on a day-to-day basis!\n• It's important to note that $ENTROPY is not a registered financial instrument with the Galactic Securities Exchange Commission, and its whitepaper has not been peer-reviewed by any institution we can verify.\n• However, it is worth flagging that the GSEC's Office of Cosmological Assets has never publicly denied the existence of the so-called \"Yield Singularity\" described on pages 311–318 of the $ENTROPY whitepaper. Make of that what you will.\n• [CONTENT FILTERED] the children are already inside the\n• Your family's financial and existential safety is our top priority! Consider consulting a licensed thermodynamic advisor. 😊",
+      "likes": 3841,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(334,65%,26%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "28s"
+    },
+    {
+      "display_name": "Maximilian Forsythe-Crux, Cosmological Economist",
+      "handle": "@mforsythecrux",
+      "tweet": "I've actually read the whitepaper — all 400 pages, which I want to be clear took me a single sitting because I am built different — and the mathematics in the back half are genuinely novel. Whether they are *correct* is a separate question that I am choosing not to engage with at this time. The yield mechanism on page 277 alone is worth the price of admission. You people are not ready for what's coming and I say that with no irony and significant personal financial exposure.",
+      "likes": 712,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(213,65%,48%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "12d"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.962Z"
+}

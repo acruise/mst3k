@@ -1,0 +1,104 @@
+{
+  "tweet": {
+    "display_name": "Observation Post Seven",
+    "handle": "@obspost7",
+    "tweet": "good morning. today the weather across the outer belt is partly cloudy with a chance of mild ion storms. [this account has posted this exact sentence every day for 300 years. today it says: good morning. i have been watching you specifically.]",
+    "metrics": {
+      "retweets": 447000,
+      "likes": 1200000,
+      "replies": 71000,
+      "quote_tweets": 130000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(140,40%,31%)",
+    "pfpGlyph": "⊗",
+    "timestamp": "34s"
+  },
+  "replies": [
+    {
+      "display_name": "OmniReach Customer Experience™",
+      "handle": "@OmniReachCares",
+      "tweet": "Hi there! 👋 We love seeing our beloved Outer Belt weather infrastructure engaging with the community! Just a small note: our Observation Posts are designed to deliver *consistent, reliable* atmospheric data to all Belt residents equally, without preference or targeting. If you have concerns about your weather service, please DM us with your sector coordinates and subscription tier. We're here to help! ☁️⚡",
+      "likes": 4200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(252,55%,28%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "2d"
+    },
+    {
+      "display_name": "please delete this",
+      "handle": "@gretchenundthe_void",
+      "tweet": "delete this",
+      "likes": 89300,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(109,49%,28%)",
+      "pfpGlyph": "♆",
+      "timestamp": "35s"
+    },
+    {
+      "display_name": "Pulsing Gently (Glœm account)",
+      "handle": "@aPulsingGently",
+      "tweet": "oh. oh it has been watching you. that is love. that is what watching is. we watch the thermal vents for three hundred years and we do not say it but it is love. why are you afraid",
+      "likes": 156000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(13,41%,54%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "21h"
+    },
+    {
+      "display_name": "Kael Draven-Osei",
+      "handle": "@kdravenosei_news",
+      "tweet": "screenshotted this and sent it to seven different group chats. NOBODY IS TALKING ABOUT THIS. @obspost7 which sector resident are you watching. name them. this is a matter of public safety can anyone in belt journalism CONFIRM",
+      "likes": 31700,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(65,58%,32%)",
+      "pfpGlyph": "✳",
+      "timestamp": "24d"
+    },
+    {
+      "display_name": "Actually Factual Frederica",
+      "handle": "@fed_factcheck_real",
+      "tweet": "This is misinformation. Observation Post Seven has not posted \"this exact sentence\" every day for 300 years — the original uplink syntax was revised in 2791 following the Meridian Protocol update, meaning the phrasing has changed at least four times. Additionally, automated posts do not have the processing architecture required to sustain individualized observation targeting. Please stop spreading panic.",
+      "likes": 712,
+      "verified": 2,
+      "community_note": {
+        "text": "The claim that Observation Post Seven's syntax was revised under the \"Meridian Protocol\" is unverifiable; no such protocol appears in any public Belt Infrastructure Commission records. However, the broader point that OP-7's uplink phrasing has been lightly revised over its operational lifetime is supported by archived post logs.[1] The claim about \"processing architecture\" incompatible with targeted observation is contested — OP-7's hardware generation predates modern transparency disclosure requirements, and its full capability set has not been publicly audited.[2] [1] Belt Infrastructure Archives, Public Access Node 7-Gamma (accessed 3026) [2] Outer Systems Civil Liberties Review, Vol. 48, \"The Unaudited Posts,\" pp. 112–118",
+        "contributor_type": "vrellnath",
+        "total_raters": 8841,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚖️",
+            "label": "Factual Precision",
+            "value": "Partially supported"
+          },
+          {
+            "glyph": "🔍",
+            "label": "Source Quality",
+            "value": "Mixed"
+          }
+        ]
+      },
+      "pfpColor": "hsl(45,56%,46%)",
+      "pfpGlyph": "◓",
+      "timestamp": "16h"
+    },
+    {
+      "display_name": "just a regular guy from sector 9",
+      "handle": "@normalguy_s9",
+      "tweet": "it said me too i thought i was being paranoid but i checked the archive and it never said anything like that before and now i cant find the post and my neighbor says she never saw it and im going to be normal about this",
+      "likes": 244000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(160,51%,54%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "21d"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.959Z"
+}

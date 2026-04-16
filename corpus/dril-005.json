@@ -1,0 +1,21 @@
+{
+  "tweet": {
+    "display_name": "wint",
+    "handle": "@dril",
+    "tweet": "love too go to the store and buy a sandwhich and notice that the guy behind the counter has the exact same face as the last 4 guys who served me a sandwhich over the past 3 years. great sandwhich shop. love the consistency",
+    "metrics": { "retweets": 190000, "likes": 560000, "replies": 14000, "quote_tweets": 29000 },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(0, 0%, 25%)",
+    "pfpGlyph": "◉",
+    "timestamp": "1d"
+  },
+  "replies": [
+    { "display_name": "sandwich discourse", "handle": "@food_takes_only", "tweet": "this is just a franchise dril. they hire the same type of guy. this is normal", "likes": 23000, "verified": 0, "pfpColor": "hsl(30, 50%, 35%)", "pfpGlyph": "◐", "timestamp": "1d" },
+    { "display_name": "orbit gremlin", "handle": "@lil_gremlin_arc", "tweet": "\"love the consistency\" is doing SO much heavy lifting here", "likes": 120000, "verified": 0, "pfpColor": "hsl(150, 45%, 30%)", "pfpGlyph": "⏣", "timestamp": "1d" },
+    { "display_name": "wint", "handle": "@dril", "tweet": "went back today. same guy. i asked his name. he said it was different from last time but his face did the exact same thing when he smiled. the exact same thing. like a gif", "likes": 670000, "verified": 0, "pfpColor": "hsl(0, 0%, 25%)", "pfpGlyph": "◉", "timestamp": "22h" },
+    { "display_name": "sector 12 local", "handle": "@sector12daily", "tweet": "which sandwich shop. please. i need to know which sandwich shop because there's one near me where i swear the staff", "likes": 89000, "verified": 0, "pfpColor": "hsl(100, 40%, 30%)", "pfpGlyph": "⎔", "timestamp": "20h" },
+    { "display_name": "sector 12 local", "handle": "@sector12daily", "tweet": "actually never mind. forget i said anything. the sandwich is good", "likes": 340000, "verified": 0, "pfpColor": "hsl(100, 40%, 30%)", "pfpGlyph": "⎔", "timestamp": "20h" }
+  ],
+  "generated_at": "2026-04-15T00:01:04.000Z"
+}

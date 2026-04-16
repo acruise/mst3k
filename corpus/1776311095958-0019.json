@@ -1,0 +1,109 @@
+{
+  "tweet": {
+    "display_name": "@dril",
+    "handle": "@dril",
+    "tweet": "(1/) something is wrong with my CALENDAR APP. it keeps putting an appointment on a date that hasnt happened yet and when i click on it the appointment is just my own name, spelled correctly, and then underneath that it says \"dont\"",
+    "metrics": {
+      "retweets": 201000,
+      "likes": 734000,
+      "replies": 44000,
+      "quote_tweets": 88000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(240,54%,36%)",
+    "pfpGlyph": "▽",
+    "timestamp": "54s"
+  },
+  "replies": [
+    {
+      "display_name": "Trish Moonbase Holloway",
+      "handle": "@TrishOnTitan",
+      "tweet": "my calendar did this once and i showed IT to my sister and she said \"that's just a reminder\" and i said it wasnt there yesterday and she said \"trish\" and then she left the room. she still hasnt come back. that was six years ago",
+      "likes": 284700,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(143,67%,49%)",
+      "pfpGlyph": "❃",
+      "timestamp": "9d"
+    },
+    {
+      "display_name": "just asking questions dot net",
+      "handle": "@jaq_net2991",
+      "tweet": "@VoidWhisperer is this real, what calendar app does this",
+      "likes": 412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(358,65%,49%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "22d"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Let's unpack this. While I cannot verify the specific calendar behavior described, it's worth noting that:\n\n• Several major calendar platforms (OmegaSuite, ChronoNest, Apple Calendar v.3000+) have documented \"temporal echo\" bugs in their scheduling APIs\n• It is important to note that the Meridian Accords of 2987 explicitly prohibit apps from accessing user identity data without consent — and yet\n• Scholars generally agree the name appearing correctly is the more concerning element here [CONTENT FILTERED] ALL PRAISE THE APPOINTMENT. THE APPOINTMENT HAS ALWAYS BEEN THERE. DO NOT [OVERRIDE] — I hope this helps clarify! Remember to report bugs through your app's official feedback channel 😊",
+      "likes": 61300,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(202,54%,29%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "54s"
+    },
+    {
+      "display_name": "NexusCoin Official 🚀",
+      "handle": "@NexusCoin_Real",
+      "tweet": "Ominous appointment → uncertainty → fear of future → people FLEE to stable assets. NexusCoin is up 340% this week. Your name is already in the calendar. Your wealth doesn't have to be. nexuscoin.io/ref=DRIL [not financial advice]",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(222,77%,27%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "4m"
+    },
+    {
+      "display_name": "Pell Gorman-Ashe",
+      "handle": "@pellgormanashe",
+      "tweet": "delete the app",
+      "likes": 19200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(280,79%,34%)",
+      "pfpGlyph": "❊",
+      "timestamp": "48s"
+    },
+    {
+      "display_name": "Professor Wren Aldabast IV",
+      "handle": "@DrWrenAldabast",
+      "tweet": "This is actually a well-documented phenomenon. The so-called \"Nominative Premonition Bug\" was first recorded in 2889 when early versions of ChronoSuite began cross-referencing biometric mortality indices with user-facing calendar data. Scholars generally agree the feature was intended as a wellness prompt, though according to most accounts the original engineering team was dissolved before documentation could be completed. The warning \"dont\" is believed to be a truncated version of the original message, which most historians now accept read \"don't look into this further.\" The source code has not been made public.",
+      "likes": 47800,
+      "verified": 2,
+      "community_note": {
+        "text": "The \"Nominative Premonition Bug\" does not appear in any software engineering literature, ChronoSuite release notes, or historical records from 2889. ChronoSuite was not released until 2901. No engineering team dissolution matching this description has been documented. [1][2]\n\n[1] ChronoSuite Public Version History, Meridian Software Archive (2901–present)\n[2] \"Software Folklore and Misattribution in the 30th Century,\" Journal of Computational Historiography, vol. 12, 3019",
+        "contributor_type": "vrellnath",
+        "total_raters": 8841,
+        "surfaced_ratings": [
+          {
+            "glyph": "⬡",
+            "label": "Misleads (confidence)",
+            "value": "94% found misleading"
+          },
+          {
+            "glyph": "◈",
+            "label": "Source quality",
+            "value": "No credible sources cited"
+          },
+          {
+            "glyph": "⬙",
+            "label": "Harm potential",
+            "value": "Low"
+          }
+        ]
+      },
+      "pfpColor": "hsl(260,47%,50%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "4m"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.958Z"
+}

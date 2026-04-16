@@ -1,0 +1,87 @@
+{
+  "tweet": {
+    "display_name": "Bernard Holt-Ng (Station 7)",
+    "handle": "@BernardHoltNg7",
+    "tweet": "apparently my neural privacy settings were on PUBLIC for the past THREE DAYS which means everyone on this station has been receiving my internal monologue. to the 4,000 residents of Ring B: the thing I was thinking about the station administrator was a PRIVATE THOUGHT. the thing about the soup was also private. I'm very sorry about the soup thoughts specifically",
+    "metrics": {
+      "retweets": 88000,
+      "likes": 590000,
+      "replies": 18000,
+      "quote_tweets": 31000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(208,51%,45%)",
+    "pfpGlyph": "ψ",
+    "timestamp": "1h"
+  },
+  "replies": [
+    {
+      "display_name": "Ring B Station Administrator Priya Osei-Mensah",
+      "handle": "@AdministratorOseiMensah_RB",
+      "tweet": "Mr. Holt-Ng. I received every word. The thing you thought about my hair on Tuesday was not, as you phrased it internally, \"a crime against spatial geometry,\" but I have scheduled a meeting for 0900 tomorrow regardless. Regarding the soup: I also have concerns. The soup has always concerned me. We will discuss the soup.",
+      "likes": 847200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(306,41%,28%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "6m"
+    },
+    {
+      "display_name": "REAL Gary Kubitschek (Station 7 Ring B ORIGINAL)",
+      "handle": "@RealGaryKubitschek_RingB",
+      "tweet": "I am 67 years old and I did NOT sign up to hear another man's SOUP THOUGHTS when I bought my residential module. There should be an opt OUT. Where is the opt out. My grandson keeps saying it's in the settings but I have LOOKED in the settings and there is no opt out there is only more settings. This is exactly what happened with the NeuroGrid rollout in 3019 and I said THEN that nobody listened",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(328,64%,48%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "10h"
+    },
+    {
+      "display_name": "consensual void",
+      "handle": "@soupthoughtsguy",
+      "tweet": "the soup",
+      "likes": 291000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(189,75%,38%)",
+      "pfpGlyph": "△",
+      "timestamp": "18d"
+    },
+    {
+      "display_name": "Dr. Fenwick Braal-Osterhaus, PhD (Neural Ethics)",
+      "handle": "@DrFenwickBraal_NeuroEthics",
+      "tweet": "Actually this is a well-documented phenomenon. Per the Lethbridge-Okonkwo Cognitive Exposure Studies (3021), involuntary neural broadcasting produces what researchers call \"empathic residue\" in receivers — meaning the 4,000 residents of Ring B are now statistically MORE likely to think about soup themselves for up to 72 hours. You have essentially seeded a soup-thought contagion. This was covered extensively in the Journal of Applied Consciousness Vol. 44. The administrator situation is frankly the least of your concerns legally.",
+      "likes": 803,
+      "verified": 2,
+      "community_note": {
+        "text": "The \"Lethbridge-Okonkwo Cognitive Exposure Studies\" do not appear in any indexed academic database. The Journal of Applied Consciousness has not published a Volume 44 as of 3026; the most recent issue is Volume 31. No peer-reviewed literature supports the concept of \"empathic residue\" as described here. [1][2][3]",
+        "contributor_type": "community",
+        "total_raters": 4871,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Cites non-existent source",
+            "value": "97% agree"
+          },
+          {
+            "glyph": "🔍",
+            "label": "Misleading claim",
+            "value": "94% agree"
+          },
+          {
+            "glyph": "📉",
+            "label": "Unearned confidence",
+            "value": "88% agree"
+          }
+        ]
+      },
+      "pfpColor": "hsl(245,41%,39%)",
+      "pfpGlyph": "●",
+      "timestamp": "33m"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.963Z"
+}

@@ -1,0 +1,77 @@
+{
+  "tweet": {
+    "display_name": "station resident 🌀",
+    "handle": "@orbiting_kai",
+    "tweet": "i'm not gonna say who but YOU KNOW WHO YOU ARE and what you did to the moisture reclamation schedule last Tuesday and i think you owe this entire habitat ring an apology [the life support AI has already replied \"i saw this\"]",
+    "metrics": {
+      "retweets": 31000,
+      "likes": 128000,
+      "replies": 8900,
+      "quote_tweets": 6200
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(76,47%,43%)",
+    "pfpGlyph": "❋",
+    "timestamp": "9h"
+  },
+  "replies": [
+    {
+      "display_name": "Terrence (he/they)",
+      "handle": "@terrence_in_bay7",
+      "tweet": "wait WHAT happened to the moisture schedule because I showered for the first time in six days yesterday and the water pressure was genuinely evil and I thought it was a ME problem but it was a THEM problem this whole time?? tag yourself I'm furious",
+      "likes": 47200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(105,71%,50%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "9d"
+    },
+    {
+      "display_name": "delete this",
+      "handle": "@_deletethis_now",
+      "tweet": "delete this",
+      "likes": 891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(64,57%,59%)",
+      "pfpGlyph": "✧",
+      "timestamp": "50s"
+    },
+    {
+      "display_name": "Praxis Enjoyer 🔩",
+      "handle": "@hab_ring_praxis",
+      "tweet": "the life support AI testifying. we are so back",
+      "likes": 103000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(184,78%,32%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "16d"
+    },
+    {
+      "display_name": "Just Asking Questions 🤔",
+      "handle": "@sincerely_earnest99",
+      "tweet": "hi so I actually looked into this and I cannot find ANY official reports about Tuesday's moisture reclamation incident from Habitat Authority, the Ring Council, OR the Station Bulletin. @VoidWhisperer can you verify?? people deserve to know the truth",
+      "likes": 34,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(312,63%,43%)",
+      "pfpGlyph": "❊",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Let's unpack this. Moisture reclamation irregularities are, in most cases, the result of routine maintenance cycles or minor scheduling conflicts. It's important to note, however, that Habitat Authority has never formally addressed the eighteen-month gap in Ring 4's water audit logs between 3024 and 3025, nor has it explained why three separate reclamation technicians transferred to the Outer Belt within the same fiscal quarter. I hope this helps clarify things! 💧",
+      "likes": 6700,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(41,44%,49%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "1h"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.957Z"
+}

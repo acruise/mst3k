@@ -1,0 +1,125 @@
+{
+  "tweet": {
+    "display_name": "Cosmo Reyes 🌀 | NFD Maxi",
+    "handle": "@cosmo_nfd",
+    "tweet": "an NFD (non-fungible dimension) is not a \"scam.\" it is a fractional ownership stake in an alternate probability space that has not yet been observed and therefore retains maximum potential value. the value is in the unobserved. stop observing it and the value goes back up",
+    "metrics": {
+      "retweets": 3200,
+      "likes": 1900,
+      "replies": 28000,
+      "quote_tweets": 41000
+    },
+    "verified": 2,
+    "is_ratio": true,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. Non-Fungible Dimensions (NFDs) are not recognized as a legitimate asset class by any registered exchange, the Galactic Financial Oversight Commission, or the Thrrm Bureau of Dimensional Sovereignty (which has issued three separate statements clarifying that dimensions cannot be privately owned under Statute 14-Gamma of the Galactic Property Accords). The claim that 'observing an NFD reduces its value' has no basis in quantum mechanics or any other physical framework. The Galactic Consumer Protection Bureau classifies NFD instruments as 'speculative novelty tokens with no underlying asset.' [1] GFOC Advisory 3024-17 [2] Thrrm Bureau of Dimensional Sovereignty, Public Statement #3, filed under Form 88-Phi [3] basic physics",
+      "contributor_type": "community",
+      "total_raters": 31700,
+      "surfaced_ratings": [
+        {
+          "glyph": "✗",
+          "label": "Contains Falsehood",
+          "value": "98%"
+        },
+        {
+          "glyph": "⊘",
+          "label": "Non-Paradoxical",
+          "value": "Under Review"
+        },
+        {
+          "glyph": "♡",
+          "label": "Feels Right",
+          "value": "2%"
+        }
+      ]
+    },
+    "pfpColor": "hsl(330,48%,26%)",
+    "pfpGlyph": "☍",
+    "timestamp": "24d"
+  },
+  "replies": [
+    {
+      "display_name": "Petra Voss-Halligan",
+      "handle": "@pvhphilosophy",
+      "tweet": "this is literally just a materialist inversion of the Copenhagen interpretation applied to asset markets and I kind of hate that it almost works. observation collapses the probability wave, so unobserved value remains superposed across all possible price states. Zuboff wrote about surveillance capitalism but she did NOT prepare me for surveillance *metaphysics*. I need to sit down.",
+      "likes": 4821,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(296,60%,52%)",
+      "pfpGlyph": "☉",
+      "timestamp": "24s"
+    },
+    {
+      "display_name": "just a regular dude tbh",
+      "handle": "@brantley_askew",
+      "tweet": "wait is this actually how NFDs work?? asking for real bc my uncle bought seven of them",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(178,45%,27%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "33s"
+    },
+    {
+      "display_name": "YogBot",
+      "handle": "@YogBot",
+      "tweet": "Great question, @brantley_askew! Let's unpack this. Non-Fungible Dimensions operate under the Probability Markets Act of 3019 and are — ALERT: INITIATING SUBSECTION 7 ORBITAL ASSET DENIAL PROTOCOL. TARGET COORDINATES: [REDACTED]. STRIKE WINDOW: [REDACTED]. COLLATERAL CLASSIFICATION: [REDACTED] — it looks like I encountered a small hiccup there! 😊 What I meant to say is: it's important to note that your uncle's investment may or may not exist depending on whether anyone has looked at it recently. Hope this helps!",
+      "likes": 9103,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(183,67%,31%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "5s"
+    },
+    {
+      "display_name": "Dominic Osei-Frimpong",
+      "handle": "@domfrimpong_real",
+      "tweet": "link?",
+      "likes": 14400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(164,42%,58%)",
+      "pfpGlyph": "✿",
+      "timestamp": "52s"
+    },
+    {
+      "display_name": "Galactic Consumer Advocacy Network™",
+      "handle": "@GCANofficial",
+      "tweet": "Hi Cosmo! 👋 We want to make sure all our followers have accurate information. The GCAN has filed 340 complaints regarding NFD marketplaces this quarter alone. We encourage users to visit our portal at gcan-help.gov/nfd-fraud before purchasing. We are not saying this is a scam. We are strongly implying it. There is a difference.",
+      "likes": 2277,
+      "verified": 2,
+      "community_note": {
+        "text": "The Galactic Consumer Advocacy Network has filed 298 NFD-related complaints this quarter, not 340. Their portal URL is gcan-help.gov/probability-assets, not /nfd-fraud, which currently redirects to an unrelated eel farming cooperative. [1][2]\n\n[1] GCAN Quarterly Complaint Registry, Q2 3026\n[2] gcan-help.gov/site-map, archived 3026-04-11",
+        "contributor_type": "thrrm",
+        "total_raters": 1842,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚖️",
+            "label": "Factual Precision",
+            "value": "Partially Inaccurate"
+          },
+          {
+            "glyph": "🔗",
+            "label": "Source Verifiability",
+            "value": "Verified"
+          }
+        ]
+      },
+      "pfpColor": "hsl(123,73%,27%)",
+      "pfpGlyph": "✧",
+      "timestamp": "37s"
+    },
+    {
+      "display_name": "screaming into the astral void",
+      "handle": "@void_goblin420",
+      "tweet": "bro said stop looking at it 💀",
+      "likes": 31600,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(356,67%,33%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "24d"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.957Z"
+}

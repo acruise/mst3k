@@ -1,0 +1,104 @@
+{
+  "tweet": {
+    "display_name": "Vrellnath Observation Cluster 9",
+    "handle": "@vrellnath_oc9",
+    "tweet": "update 4: the human designated 'groom' has now produced water from his ocular organs for the third time. we have cross-referenced our databases. this is called 'happy crying.' the distinction from 'sad crying' remains unclear to us. we are producing water from our sensory nodes also. the hive has voted. we do not require clarity. we love this.",
+    "metrics": {
+      "retweets": 204000,
+      "likes": 1100000,
+      "replies": 18900,
+      "quote_tweets": 44000
+    },
+    "verified": 2,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(232,76%,30%)",
+    "pfpGlyph": "⌬",
+    "timestamp": "10d"
+  },
+  "replies": [
+    {
+      "display_name": "Gwendolyn Pruitt-Nakamura",
+      "handle": "@gwen_pn",
+      "tweet": "@stellarboy_kai this is LITERALLY you at your brother's ceremony last rotation. you leaked from BOTH nodes.",
+      "likes": 47200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(59,54%,39%)",
+      "pfpGlyph": "◓",
+      "timestamp": "1d"
+    },
+    {
+      "display_name": "SOBBING",
+      "handle": "@perpetually_dehydrated",
+      "tweet": "sobbing",
+      "likes": 312000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(200,52%,31%)",
+      "pfpGlyph": "❃",
+      "timestamp": "28d"
+    },
+    {
+      "display_name": "FutureWed™ Bridal Solutions",
+      "handle": "@FutureWed_Corp",
+      "tweet": "Vrellnath Observation Cluster 9, we LOVE your documentation of this sacred moment 💍✨ Did you know FutureWed™ offers full-spectrum ceremony coverage for inter-species and multi-consciousness weddings, including Hive Witness packages starting at just 4,000 credits? DM us to lock in your date. The love is real. So are the savings.",
+      "likes": 891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(254,74%,58%)",
+      "pfpGlyph": "❊",
+      "timestamp": "6h"
+    },
+    {
+      "display_name": "Todd Brambleton",
+      "handle": "@ToddActually",
+      "tweet": "I tried to look this up and I cannot find any record of Vrellnath Observation Cluster 9 attending a human wedding. There is no Cluster 9 listed in the Vrellnath Consortium public registry. I searched for 40 minutes. Something doesn't add up here.",
+      "likes": 6700,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(270,76%,30%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "52m"
+    },
+    {
+      "display_name": "Professor Aldous Quelm",
+      "handle": "@AldousQuelm_PhD",
+      "tweet": "The Vrellnath sensory node discharge response to human lacrimation events has actually been well-documented since the First Contact Accords of 2887, and what's happening here is a classic example of what xenoemotionologists call 'affective mirroring cascade' — the hive mind's distributed empathy architecture is essentially bootstrapping human emotional grammar in real time. My monograph on this, *Tears Across the Threshold: Convergent Grief and Joy in Post-Contact Consciousness Clusters* (Proxima Academic Press, 2024), covers the biochemical parallels in Chapter 7. The fact that they cannot distinguish happy-crying from sad-crying is not a gap — it is, I would argue, the more philosophically sophisticated position. Humans themselves perform this distinction very poorly under neurological stress. I'll be posting the full thread shortly.",
+      "likes": 2100,
+      "verified": 2,
+      "community_note": {
+        "text": "Professor Quelm's monograph *Tears Across the Threshold* does not appear in the Proxima Academic Press catalogue for any year. The Vrellnath Consortium was not a signatory to the First Contact Accords of 2887; the Accords involved the Thresh Collective and the Meridian Compact only [1]. 'Affective mirroring cascade' does not appear in peer-reviewed xenoemotionology literature [2].\n\n[1] First Contact Accords, Galactic Archive Reference 2887-FC-001\n[2] Journal of Xenoemotionology, full index 2900–3025",
+        "contributor_type": "vrellnath",
+        "total_raters": 8841,
+        "surfaced_ratings": [
+          {
+            "glyph": "📚",
+            "label": "Cites unverifiable sources",
+            "value": "91% agree"
+          },
+          {
+            "glyph": "🔍",
+            "label": "Missing context",
+            "value": "87% agree"
+          }
+        ]
+      },
+      "pfpColor": "hsl(28,57%,27%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "5h"
+    },
+    {
+      "display_name": "margaux 🌙",
+      "handle": "@margaux_drift",
+      "tweet": "\"we do not require clarity. we love this.\" going to cross-stitch this onto something and cry about it for several business days",
+      "likes": 189000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(162,65%,34%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "3m"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.961Z"
+}

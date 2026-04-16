@@ -1,0 +1,21 @@
+{
+  "tweet": {
+    "display_name": "wint",
+    "handle": "@dril",
+    "tweet": "beautiful day today. nice breeze. the ocean on europa smells great this time of year. i walked all the way to the shore and the water was warm and it moved away from me when i tried to touch it. really makes you think",
+    "metrics": { "retweets": 670000, "likes": 1700000, "replies": 56000, "quote_tweets": 120000 },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(0, 0%, 25%)",
+    "pfpGlyph": "◉",
+    "timestamp": "14h"
+  },
+  "replies": [
+    { "display_name": "ocean vibes", "handle": "@saltwater_poster", "tweet": "\"really makes you think\" after describing an ocean that is actively avoiding him. poetry.", "likes": 340000, "verified": 0, "pfpColor": "hsl(190, 55%, 32%)", "pfpGlyph": "☽", "timestamp": "14h" },
+    { "display_name": "wait", "handle": "@hold_on_a_sec", "tweet": "europa has a subsurface ocean. under ice. there is no shore. there is no breeze. where is dril.", "likes": 560000, "verified": 0, "pfpColor": "hsl(0, 45%, 30%)", "pfpGlyph": "Δ", "timestamp": "13h" },
+    { "display_name": "europan oceanic survey", "handle": "@EOS_official", "tweet": "The Europan Oceanic Survey does not maintain any surface-accessible shoreline facilities. All oceanic research is conducted via subsurface drilling stations. We have no record of surface access permits issued to this account holder.", "likes": 230000, "verified": 2, "pfpColor": "hsl(210, 50%, 28%)", "pfpGlyph": "⊗", "timestamp": "12h" },
+    { "display_name": "Glœm cultural delegate", "handle": "@gloem_feels", "tweet": "we know this water. this is not water. we have a color for what this is but we are not going to use it because the last time we used this color three of us stopped being able to see", "likes": 1200000, "verified": 0, "pfpColor": "hsl(175, 65%, 40%)", "pfpGlyph": "❃", "timestamp": "10h" },
+    { "display_name": "wint", "handle": "@dril", "tweet": "going back tomorrow. bringing a sandwich. if the ocean wants half it can ask nicely", "likes": 2000000, "verified": 0, "pfpColor": "hsl(0, 0%, 25%)", "pfpGlyph": "◉", "timestamp": "6h" }
+  ],
+  "generated_at": "2026-04-15T00:01:09.000Z"
+}

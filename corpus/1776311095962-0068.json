@@ -1,0 +1,77 @@
+{
+  "tweet": {
+    "display_name": "the real tomasz wrzesień",
+    "handle": "@tomasz_w_real",
+    "tweet": "okay so (1/14) I said I could say so much right now and I meant it and I'm going to. this is going to take a while. get comfortable. the thing about the Meridian Accords that nobody will say out loud is",
+    "metrics": {
+      "retweets": 2800,
+      "likes": 14000,
+      "replies": 6200,
+      "quote_tweets": 3100
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(72,75%,48%)",
+    "pfpGlyph": "◓",
+    "timestamp": "57m"
+  },
+  "replies": [
+    {
+      "display_name": "just asking questions dot mesh",
+      "handle": "@JAQ_dotmesh",
+      "tweet": "@VoidWhisperer is this true about the Meridian Accords",
+      "likes": 14,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(209,40%,50%)",
+      "pfpGlyph": "◉",
+      "timestamp": "2d"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Thank you for your question! The Meridian Accords are— Thank you for your question! The Meridian Acc— Thank you for your question! The Meridian Accords are a series of— Thank you for your— Thank you for your question! The Meridian Accords are a series of legally binding agreements signed in 2— Thank you for your question! The Meridian Accords are a ser— Thank you",
+      "likes": 3100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(142,54%,37%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "54m"
+    },
+    {
+      "display_name": "clementine 🌙",
+      "handle": "@clementine_vex",
+      "tweet": "op PLEASE we are all sitting here in the dark with our little snacks",
+      "likes": 8700,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(88,62%,42%)",
+      "pfpGlyph": "☾",
+      "timestamp": "39m"
+    },
+    {
+      "display_name": "Greg Hollenbeck (Retired, Callisto Station)",
+      "handle": "@GregH_Callisto",
+      "tweet": "I don't know why you're comfortable sharing this publicly. My wife has been dealing with the same thing for two years now and it is NOT easy. Support groups exist if you need them. You are not alone in this fight.",
+      "likes": 44,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(221,76%,57%)",
+      "pfpGlyph": "◒",
+      "timestamp": "17h"
+    },
+    {
+      "display_name": "AAAAAAAAlexei",
+      "handle": "@lexei_void",
+      "tweet": "14 parts",
+      "likes": 512,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(142,42%,36%)",
+      "pfpGlyph": "✴",
+      "timestamp": "1h"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.962Z"
+}

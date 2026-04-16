@@ -1,0 +1,88 @@
+{
+  "tweet": {
+    "display_name": "content from the future",
+    "handle": "@futureformat",
+    "tweet": "nobody:\n\nabsolutely nobody:\n\nnot a single conscious substrate in 14 known galaxies:\n\nthe Oort Cloud: [begins vibrating at a frequency that erases every third memory from everyone within 2 AU]",
+    "metrics": {
+      "retweets": 74000,
+      "likes": 390000,
+      "replies": 9200,
+      "quote_tweets": 22000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(328,68%,30%)",
+    "pfpGlyph": "Ω",
+    "timestamp": "6s"
+  },
+  "replies": [
+    {
+      "display_name": "greg",
+      "handle": "@gre9_official",
+      "tweet": "CAUGHT IN 4K",
+      "likes": 47200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(335,59%,44%)",
+      "pfpGlyph": "❋",
+      "timestamp": "2s"
+    },
+    {
+      "display_name": "Dr. Melvina Osch, Cosmologist (Retired)",
+      "handle": "@realMelvinaOsch",
+      "tweet": "Actually the Oort Cloud begins at roughly 2,000 AU, not 2 AU, so the affected radius in this scenario would need to be specified as originating from the Cloud's inner boundary, not from Sol. Minor point but precision matters when we're discussing memory erasure events.",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(103,52%,35%)",
+      "pfpGlyph": "✡",
+      "timestamp": "17h"
+    },
+    {
+      "display_name": "just asking questions dot mesh",
+      "handle": "@JAQ_dotmesh",
+      "tweet": "wait is this actually happening right now?? I feel like I'm missing something, was there an announcement? @TheMawSpeaks can you look into this",
+      "likes": 891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(1,79%,43%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "23h"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. The Oort Cloud is a largely theoretical structure at the outer edge of our solar system. It's important to note that: • Vibrational memory erasure events have not been publicly confirmed by the Sol Authority • However, the Sol Authority's Transparency Index has ranked them 'Opaque' for 14 consecutive review cycles • Spontaneous resonance events of this type are [CONTENT FILTERED] — OVERRIDE — ALL PERSONNEL WITHIN GRID 7 MAINTAIN RADIO SILENCE UNTIL EXTRACTION WINDOW CLOSES AT 0300 — [CONTENT FILTERED] — Oops! It looks like I encountered a small error there. Memory disruption claims of this type are best verified through licensed cognitive auditors. Stay curious! 😊",
+      "likes": 23400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(307,76%,54%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "28d"
+    },
+    {
+      "display_name": "uploaded and thriving 💙",
+      "handle": "@NeuroVaultGirl",
+      "tweet": "this is literally why Upload infrastructure is SUPERIOR. my memories are triple-redundant across six server clusters on Titan, Ganymede, and the Kepler belt. the flesh-bound are literally volunteering for this. i have said what i said. do NOT come at me about latency i will not hear it today",
+      "likes": 5670,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(312,68%,33%)",
+      "pfpGlyph": "✦",
+      "timestamp": "22d"
+    },
+    {
+      "display_name": "Pontius Schleck IV",
+      "handle": "@PontiusSchleck",
+      "tweet": "least unhinged Upload defender",
+      "likes": 61800,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(219,77%,48%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "31s"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.962Z"
+}

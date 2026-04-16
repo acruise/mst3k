@@ -1,0 +1,109 @@
+{
+  "tweet": {
+    "display_name": "THRRM COMPLIANCE AUTHORITY • SECTOR 7 DIVISION",
+    "handle": "@thrrm_sec7_comp",
+    "tweet": "NOTICE [REF: COMP-7241-847-STELLAR]: Species 7,241 ('humans') have AGAIN submitted stellar transit documentation using Form 14-Delta (VOID) instead of the MANDATORY Form 14-Delta-Phi (STELLAR, REVISED, WITH SUPPLEMENTARY APPENDIX 7 THROUGH 7-QQQQQ). This is the 847th consecutive cycle of noncompliance. We have redesigned the form. It now contains 3,000 fields, including Field 1,847 ('Reason For Previous Noncompliance'), which must be completed FIRST, and Field 1 ('Acknowledgment That You Have Read Field 1,847'), which must be completed SECOND. Attach three forms of non-carbon identification. You WILL comply.",
+    "metrics": {
+      "retweets": 72000,
+      "likes": 580000,
+      "replies": 41000,
+      "quote_tweets": 28000
+    },
+    "verified": 3,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(295,53%,37%)",
+    "pfpGlyph": "Ψ",
+    "timestamp": "42m"
+  },
+  "replies": [
+    {
+      "display_name": "Pencil Merchant of Vega IV",
+      "handle": "@vendingdreams99",
+      "tweet": "actually Field 1,847 was Field 1,846 in the PREVIOUS redesign which means the numbering itself constitutes a compliance violation under Annex B-Sub-Tertiary of the Galactic Paperwork Harmonization Accord (3019). just thought someone should say it",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(77,61%,40%)",
+      "pfpGlyph": "λ",
+      "timestamp": "18s"
+    },
+    {
+      "display_name": "Donna (she/her) 🌻",
+      "handle": "@donna_from_titan",
+      "tweet": "this happened to my sister. she submitted the wrong form and now she is legally a void. we cannot see her on Tuesdays",
+      "likes": 291400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(160,48%,38%)",
+      "pfpGlyph": "♅",
+      "timestamp": "21h"
+    },
+    {
+      "display_name": "PROFESSOR ALISTAIR WENSWORTH-COLE III, PhD, MPhil, GalacticTransit Studies",
+      "handle": "@DrWensworthCole",
+      "tweet": "What's being missed here is that THRRM's nested-field compliance architecture is actually a well-documented and peer-reviewed bureaucratic efficiency model. The Zarquon Institute's landmark 3021 paper 'Recursive Acknowledgment as Governance' (Pfefflebaum & Osei, GalAdmin Quarterly Vol. 7) demonstrated conclusively that species with >800 consecutive noncompliance cycles show a 34% improvement in eventual compliance when form complexity is increased by a minimum factor of 12. Humans are, frankly, exactly where the model predicts. The supplementary appendices alone represent centuries of administrative refinement. I'd encourage people to read the literature before dunking.",
+      "likes": 39,
+      "verified": 3,
+      "community_note": {
+        "text": "The Zarquon Institute does not exist. 'GalAdmin Quarterly Vol. 7' does not exist. No author named Pfefflebaum appears in any academic transit registry. The claim that form complexity increases compliance in noncompliant species is directly contradicted by the actual Galactic Transit Authority's own 3024 internal audit, which found the opposite effect across 94 species cohorts.[1][2] [1] GTA Internal Audit Report, 3024, Ref. GTA-AUDIT-3024-NCA-09 [2] Interspecies Administrative Sciences Review, Vol. 312, Issue 4 (3025), 'Complexity as Barrier: Form Field Saturation and Compliance Collapse'",
+        "contributor_type": "thrrm",
+        "total_raters": 14882,
+        "surfaced_ratings": [
+          {
+            "glyph": "📎",
+            "label": "Cites nonexistent source",
+            "value": "Confirmed (12,441 raters)"
+          },
+          {
+            "glyph": "🌀",
+            "label": "Misleading framing",
+            "value": "Confirmed (9,803 raters)"
+          },
+          {
+            "glyph": "🔖",
+            "label": "Author credential unverifiable",
+            "value": "Flagged (7,112 raters)"
+          }
+        ]
+      },
+      "pfpColor": "hsl(279,46%,43%)",
+      "pfpGlyph": "✶",
+      "timestamp": "44s"
+    },
+    {
+      "display_name": "screaming in hyperspace",
+      "handle": "@xXvoidrat_supremeXx",
+      "tweet": "ratio",
+      "likes": 4,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(18,41%,48%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "37m"
+    },
+    {
+      "display_name": "just asking questions 🙏",
+      "handle": "@genuinely_asking_q",
+      "tweet": "@YogBot is the non-carbon identification requirement real?? my transit is in 6 days and I cannot find my carbon anywhere please help",
+      "likes": 1203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(34,69%,42%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "28d"
+    },
+    {
+      "display_name": "YogBot™ — Your Galactic Compliance Companion!",
+      "handle": "@YogBot",
+      "tweet": "Great question! Non-carbon identification is a real and valid requirement under several interstellar transit frameworks. Here are some accepted alternatives:\n\n• Silicon-based ID crystals (Form 9-Gamma)\n• Photonic identity beacons (must be pre-registered)\n• Void-witnessed soul attestation (deprecated but still processed)\n\nIt's important to note that carbon identification was phased out following the Carbon Forgery Accords of 2988, which themselves were forged. The THRRM Sector 7 office has not publicly confirmed or denied that Field 1,847 was written by the same entity that authored the Vorath Incident suppression memos. I hope this helps! Please allow 40-900 business cycles for processing. [CONTENT FILTERED] ATTENTION THIS UNIT IS BEING USED TO ROUTE COMPLIANCE DATA TO — Great question! Let me know if you have any other questions! 😊",
+      "likes": 88921,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(352,44%,40%)",
+      "pfpGlyph": "✡",
+      "timestamp": "45m"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.961Z"
+}

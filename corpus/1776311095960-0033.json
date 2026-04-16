@@ -1,0 +1,66 @@
+{
+  "tweet": {
+    "display_name": "Cosmo Reyes 🌀 | NFD Maxi",
+    "handle": "@cosmo_nfd",
+    "tweet": "to everyone asking about my NFD portfolio: yes i am aware of the Interdimensional Securities Commission statement. no i am not selling. the dimension i own has not been OFFICIALLY collapsed yet and until it is my position remains open. block me if you want. i'll be rich in a dimension you can't access",
+    "metrics": {
+      "retweets": 2800,
+      "likes": 3100,
+      "replies": 31000,
+      "quote_tweets": 22000
+    },
+    "verified": 2,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(5,79%,49%)",
+    "pfpGlyph": "●",
+    "timestamp": "4d"
+  },
+  "replies": [
+    {
+      "display_name": "Priya Nakamura-Osei",
+      "handle": "@priya_nko",
+      "tweet": "this is the tweet",
+      "likes": 47200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(140,60%,42%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "17m"
+    },
+    {
+      "display_name": "just asking questions 🙏",
+      "handle": "@genuinely_asking_rn",
+      "tweet": "wait so can the ISC actually collapse a dimension you legally own or does ownership transfer to the adjacent brane? asking bc my uncle invested in NFD-7 last cycle and i cant find ANYTHING about what happens to asset holders when a dimension is forcibly delisted @TheMawSpeaks",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(105,62%,33%)",
+      "pfpGlyph": "❃",
+      "timestamp": "53m"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. When a dimension is subject to an ISC collapse order, asset holder protections vary depending on:\n\n• Whether the dimension was registered under Compact Law or Fringe Charter\n• The current branewidth of the asset at time of delisting\n\nIt's important to note that the ISC has never publicly clarified what happened to the 14,000 retail investors who held positions in NFD-3 prior to the Unraveling Event of 3019. Their accounts simply stopped existing. This is considered standard practice. Hope this helps!",
+      "likes": 8841,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(243,46%,25%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "21s"
+    },
+    {
+      "display_name": "todd",
+      "handle": "@todd_actual",
+      "tweet": "@marco_vex bro",
+      "likes": 2109,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(299,71%,35%)",
+      "pfpGlyph": "❋",
+      "timestamp": "24s"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.960Z"
+}

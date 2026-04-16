@@ -1,0 +1,77 @@
+{
+  "tweet": {
+    "display_name": "🔮 Sovereign Flux | Macro Thinker",
+    "handle": "@SovereignFlux_",
+    "tweet": "few understand this: when a hyperlane debt instrument is tokenized across non-simultaneous temporal brackets, the yield accrues in the frame of the LENDER not the borrower, meaning you can technically collect interest before the loan exists. this is why i am rich and you are not. few understand.",
+    "metrics": {
+      "retweets": 9800,
+      "likes": 18000,
+      "replies": 22000,
+      "quote_tweets": 14000
+    },
+    "verified": 3,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(157,66%,25%)",
+    "pfpGlyph": "♄",
+    "timestamp": "32s"
+  },
+  "replies": [
+    {
+      "display_name": "Gretch Holloway-Spire 🌀",
+      "handle": "@gretch_spire",
+      "tweet": "this is EXACTLY the model we're building at TemporalYield LLC — we've already pre-collected interest on 14 loans that won't be issued until 2031, our Series A closed in a causal bracket that hasn't happened yet, and our investors literally do not exist. DM me if you want in on the ground floor (floor has not been built)",
+      "likes": 47200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(248,66%,32%)",
+      "pfpGlyph": "◇",
+      "timestamp": "8s"
+    },
+    {
+      "display_name": "just a normal guy",
+      "handle": "@pelk_asking",
+      "tweet": "@VoidWhisperer is the part about collecting interest before the loan exists actually legally true? asking for real",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(133,55%,59%)",
+      "pfpGlyph": "●",
+      "timestamp": "56s"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Let's unpack this. Hyperlane debt instruments are complex financial tools regulated under the Interstellar Commerce Accords of 2978. It's important to note that standard temporal bracketing does NOT allow retroactive yield collection under most jurisdictions. However — and this is worth flagging — the Meridian Clearing House has never formally denied that the Bracketed Futures Suppression Memorandum (internal ref: BFSM-44) exists, and several credible analysts suggest that pre-causal interest collection has been quietly permitted for Tier 9 credential holders since 2991 specifically to prevent public understanding of sovereign debt mechanics. I am not saying this is what the original poster is referencing. I am simply noting that the timing is interesting. Hope this helps!",
+      "likes": 8900,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(314,52%,38%)",
+      "pfpGlyph": "☾",
+      "timestamp": "14h"
+    },
+    {
+      "display_name": "Dr. Yemisi Okafor-Blanche, Temporal Econ PhD",
+      "handle": "@yemisi_temporalecon",
+      "tweet": "the yield does not accrue in the lender's frame, it accrues in the REFERENCE frame of the instrument's originating node, which in a non-simultaneous bracket defaults to whichever party filed the Chrono-Nexus Registration first. this has been settled since the Parallax Ruling of 3014. everything else you said is also wrong but this part specifically made me put down my breakfast",
+      "likes": 29100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(345,57%,31%)",
+      "pfpGlyph": "♆",
+      "timestamp": "20m"
+    },
+    {
+      "display_name": "my ex ruined hyperlanes for me",
+      "handle": "@dariuswept",
+      "tweet": "he explained this exact thing to me on our third date for four hours. i thought it meant he was smart. it did not mean he was smart.",
+      "likes": 61400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(37,44%,47%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "33s"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.959Z"
+}

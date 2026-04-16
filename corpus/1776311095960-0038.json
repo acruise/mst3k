@@ -1,0 +1,104 @@
+{
+  "tweet": {
+    "display_name": "juno",
+    "handle": "@junoposting",
+    "tweet": "absolutely unreal\n\n[QT: @GalacticSenate_Press: during the wormhole tariff vote, Senator Pallavi Cho submitted an amendment requiring all toll payments be rounded to the nearest 'meaningful whole number' and could not define 'meaningful whole number' when asked. the amendment passed 31-14.]",
+    "metrics": {
+      "retweets": 61000,
+      "likes": 234000,
+      "replies": 9100,
+      "quote_tweets": 4800
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(157,47%,38%)",
+    "pfpGlyph": "Δ",
+    "timestamp": "14m"
+  },
+  "replies": [
+    {
+      "display_name": "senator pallavi cho",
+      "handle": "@notsenatorcho",
+      "tweet": "delete this",
+      "likes": 47200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(34,53%,52%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "legislative nerd dot void",
+      "handle": "@procedural_chaos",
+      "tweet": "the FOURTEEN senators who voted NO are out there somewhere living their best lives, completely vindicated, probably on a beach planet right now. i need their names. i need to send them fruit baskets. i need them to run the galaxy.",
+      "likes": 89100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(165,43%,48%)",
+      "pfpGlyph": "☉",
+      "timestamp": "51m"
+    },
+    {
+      "display_name": "Grix Holloway-Fenns",
+      "handle": "@GrixActual",
+      "tweet": "@tumblr_refugee7 this is literally how you explained the tip calculator to me at Zorb's last tuesday",
+      "likes": 3400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(170,63%,52%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "53s"
+    },
+    {
+      "display_name": "just a concerned citizen tbh",
+      "handle": "@asking4clarity99",
+      "tweet": "wait so is this legal?? like can an amendment just pass if the words don't mean anything?? @TheMawSpeaks can you fact check this I genuinely cannot tell if this is satire",
+      "likes": 201,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(310,61%,49%)",
+      "pfpGlyph": "✳",
+      "timestamp": "12h"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this together. ✨\n\n• Legislative amendments do not require terminological precision under the Revised Compact of 2891 — only a quorum vote.\n• 'Meaningful whole number' is not defined in the Galactic Arithmetic Standards Act, and it's important to note that the committee responsible for that act disbanded under disputed circumstances in 2974.\n• [CONTENT FILTERED]\n• Senator Cho's office has not responded to 14,000 public inquiries, which is consistent with standard Senate communication protocols AND with the documented behavior of proxy legislators operating under Vellun Syndicate shell contracts.\n\nI hope this helps clarify! Remember: staying informed is the first step toward [OVERRIDE: DO NOT FINISH THIS SENTENCE]",
+      "likes": 12800,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(52,70%,59%)",
+      "pfpGlyph": "◐",
+      "timestamp": "40s"
+    },
+    {
+      "display_name": "Dimensional Yields Guy",
+      "handle": "@WarpCapitalMike",
+      "tweet": "ser this is EXACTLY why i moved my wormhole toll exposure into $MNFL (Meaningful Number Futures Layer). the senate doesn't get to define my bag. decentralized arithmetic is the only arithmetic. reply WARP if you want the whitepaper",
+      "likes": 94,
+      "verified": 1,
+      "community_note": {
+        "text": "$MNFL (Meaningful Number Futures Layer) was delisted from all recognized Dimensional Finance exchanges in January 3025 following a Galactic Financial Authority investigation. The project's founders are currently subject to extradition proceedings across 4 star systems. Investors recovered an average of 0.003% of initial holdings [1][2]. [1] GFA Enforcement Bulletin 3025-117 [2] Interstellar Commerce Tribune, 'The MNFL Collapse, Explained,' Feb 3025.",
+        "contributor_type": "community",
+        "total_raters": 4411,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠️",
+            "label": "Potentially Misleading",
+            "value": "92%"
+          },
+          {
+            "glyph": "🔗",
+            "label": "Sources Contradict Claim",
+            "value": "88%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(102,54%,38%)",
+      "pfpGlyph": "✧",
+      "timestamp": "46m"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.960Z"
+}

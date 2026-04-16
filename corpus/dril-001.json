@@ -1,0 +1,20 @@
+{
+  "tweet": {
+    "display_name": "wint",
+    "handle": "@dril",
+    "tweet": "spending 14 hours a day staring directly at the sun through a mass spectrometer i bought with my rent money. the sun looks different than it did last week. nobody else seems to care about this. i care about this",
+    "metrics": { "retweets": 180000, "likes": 670000, "replies": 12000, "quote_tweets": 34000 },
+    "verified": 0,
+    "is_ratio": false,
+    "pfpColor": "hsl(0, 0%, 25%)",
+    "pfpGlyph": "◉",
+    "timestamp": "6h"
+  },
+  "replies": [
+    { "display_name": "neutron star gf", "handle": "@astro_babe_3001", "tweet": "\"the sun looks different\" LMAO dril you absolute king", "likes": 89000, "verified": 0, "pfpColor": "hsl(280, 55%, 35%)", "pfpGlyph": "☾", "timestamp": "6h" },
+    { "display_name": "orbital perspective", "handle": "@bigpicture_posts", "tweet": "the part about the rent money is what makes this. nobody writes like dril", "likes": 45000, "verified": 0, "pfpColor": "hsl(200, 50%, 30%)", "pfpGlyph": "Ψ", "timestamp": "5h" },
+    { "display_name": "Dr. Yuki Tanaka-Osei", "handle": "@stellardynamics", "tweet": "lol this is great. anyway unrelated but has anyone else noticed anomalous readings in the 550nm band this week or is our equipment acting up", "likes": 2300, "verified": 2, "pfpColor": "hsl(45, 55%, 32%)", "pfpGlyph": "⌬", "timestamp": "4h" },
+    { "display_name": "Gary R. Thornton (Ret.)", "handle": "@RealGary_Titan", "tweet": "The sun DOES look different and I have been SAYING THIS for MONTHS but everyone tells me to go back to bed. THANK YOU @dril", "likes": 120, "verified": 1, "pfpColor": "hsl(30, 45%, 30%)", "pfpGlyph": "⊕", "timestamp": "3h" }
+  ],
+  "generated_at": "2026-04-15T00:01:00.000Z"
+}

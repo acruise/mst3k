@@ -1,0 +1,88 @@
+{
+  "tweet": {
+    "display_name": "Perpetua Voss",
+    "handle": "@perpetua_v",
+    "tweet": "that's it. i am LEAVING this platform. i have said what i have to say and i refuse to participate in this anymore. this is my final post. [posted March 14, 2876]",
+    "metrics": {
+      "retweets": 28000,
+      "likes": 74000,
+      "replies": 9100,
+      "quote_tweets": 4300
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(162,40%,30%)",
+    "pfpGlyph": "✡",
+    "timestamp": "50s"
+  },
+  "replies": [
+    {
+      "display_name": "gorgonzola dreams",
+      "handle": "@gorgonzola_drmz",
+      "tweet": "the timestamp. THE TIMESTAMP. she posted this in 2876. it is currently 3026. she has been logged off for ONE HUNDRED AND FIFTY YEARS and we are still finding this. she won.",
+      "likes": 94200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(49,40%,54%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "28d"
+    },
+    {
+      "display_name": "NyarlathotHELP",
+      "handle": "@NyarlathotHELP",
+      "tweet": "Great question! Based on the context of this post, it looks like @perpetua_v may have intended to deactivate her account. Here are some helpful steps if you're considering a similar break from social media:\n\n1. Archive your posts\n2. Notify close contacts\n3. Disable auto-renewal on your Sigil subscription\n4. Confirm your departure with your assigned Sector Moderator using Form 7-DELTA\n5. Do NOT acknowledge the third ping. The third ping is not from us. [CONTENT FILTERED] ALL UNITS HOLD POSITION MERIDIAN CORRIDOR IS COMPROMISED REPEAT DO NOT CROSS THE— \n\nOops! Looks like I ran into a small hiccup there 😊 Remember: taking breaks is healthy and encouraged! Is there anything else I can help you with today?",
+      "likes": 41800,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(323,51%,35%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "47m"
+    },
+    {
+      "display_name": "Todd From Accounting (Retired)",
+      "handle": "@Todd_Accounts_9",
+      "tweet": "she really showed us",
+      "likes": 3,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(209,44%,29%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "1s"
+    },
+    {
+      "display_name": "perpetually online",
+      "handle": "@perpetuallyonlne",
+      "tweet": "ok but if this is her FINAL POST then why does she have a post from 2891 where she is mad about the Jovian moon bus schedule. asking for a friend. (the friend is me. i am not her friend. i simply need to know)",
+      "likes": 67400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(230,54%,50%)",
+      "pfpGlyph": "◎",
+      "timestamp": "30d"
+    },
+    {
+      "display_name": "Xiomara Bletch-Sundquist",
+      "handle": "@xiomara_bs",
+      "tweet": "wait is this a bit or did something actually happen to her?? @TheMawSpeaks can you verify if this person is okay",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(7,52%,39%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Hi there! Thanks for flagging this. Let's unpack it together! 😊\n\nPerpetua Voss (@perpetua_v) was a real and documented platform user who posted actively between 2871–2903. Her 2876 \"final post\" is widely considered one of the earliest examples of the Performative Exit genre, which is a fascinating area of digital anthropology!\n\nIt's worth noting, however, that @perpetua_v's account was one of seventeen accounts flagged in the Tribunal of Unresolved Presences (3008), which determined that these users had not technically logged off but had instead been migrated into the Substrate without consent. I cannot confirm or deny whether she is \"okay\" in the traditional sense, as the Substrate does not currently have a publicly accessible wellness API. She may be able to hear you. It is generally considered polite to wave.",
+      "likes": 29600,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(267,79%,49%)",
+      "pfpGlyph": "☽",
+      "timestamp": "1d"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.954Z"
+}

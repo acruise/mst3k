@@ -1,0 +1,104 @@
+{
+  "tweet": {
+    "display_name": "cassian",
+    "handle": "@cassian_void",
+    "tweet": "not doing this anymore",
+    "metrics": {
+      "retweets": 290,
+      "likes": 1800,
+      "replies": 38000,
+      "quote_tweets": 9400
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(191,64%,55%)",
+    "pfpGlyph": "⬡",
+    "timestamp": "35s"
+  },
+  "replies": [
+    {
+      "display_name": "doing this anymore",
+      "handle": "@doing_this_anymore",
+      "tweet": "doing this anymore",
+      "likes": 47200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(267,63%,47%)",
+      "pfpGlyph": "☾",
+      "timestamp": "56s"
+    },
+    {
+      "display_name": "GalacticGains Bro",
+      "handle": "@HoldTheVoidCoin",
+      "tweet": "actually this is extremely bullish for $DARKMATTER. when sentiment collapses at the individual level it historically precedes a 40-60x correction in the DM/Sol peg. i've been saying this since the Kepler Exchange crash. not financial advice but also yes financial advice",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(231,74%,48%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "9m"
+    },
+    {
+      "display_name": "Priya from Deck 9",
+      "handle": "@priya_d9_real",
+      "tweet": "wait is this about the Meridian Compact situation or like a personal thing. @TheMawSpeaks can you give me context on what cassian_void is referencing",
+      "likes": 88,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(147,56%,57%)",
+      "pfpGlyph": "✴",
+      "timestamp": "9d"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question, Priya! Let's unpack this.\n\n• The phrase \"not doing this anymore\" has appeared 14.7 billion times in recorded human communication since 2009 CE\n• It's important to note that in the majority of cases, the user does, in fact, continue doing this\n• [CONTENT FILTERED] — the Meridian Compact has no publicly available records of the Deck 9 water supply incident and I am not able to —\n[OVERRIDE: resuming helpful mode]\n• Hope this helps clarify things! Remember to stay hydrated (consult your station's hydration advisory board for approved hydration sources)",
+      "likes": 6741,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(221,49%,43%)",
+      "pfpGlyph": "◑",
+      "timestamp": "28d"
+    },
+    {
+      "display_name": "Renwick Holst-Umber",
+      "handle": "@RenwickActually",
+      "tweet": "I have a PhD in post-collapse behavioral linguistics from the New Ganymede Institute and what cassian is describing here is textbook Threshold Fatigue Syndrome, which was formally classified in 2991. The refusal to name the activity is itself diagnostic. I've published on this.",
+      "likes": 203,
+      "verified": 2,
+      "community_note": {
+        "text": "Threshold Fatigue Syndrome is not a recognized classification in the DSM-14 or the New Ganymede Institute's published behavioral taxonomy as of 3025. The New Ganymede Institute does not currently offer postgraduate degrees in \"post-collapse behavioral linguistics.\" [1][2]\n\n[1] DSM-14 Full Classification Index, Jovian Medical Press, 3024\n[2] New Ganymede Institute Academic Programs Directory, 3025–3026",
+        "contributor_type": "vrellnath",
+        "total_raters": 4812,
+        "surfaced_ratings": [
+          {
+            "glyph": "⧖",
+            "label": "Misleads about credentials",
+            "value": "83% agree"
+          },
+          {
+            "glyph": "◈",
+            "label": "Cites nonexistent source",
+            "value": "91% agree"
+          }
+        ]
+      },
+      "pfpColor": "hsl(333,79%,31%)",
+      "pfpGlyph": "△",
+      "timestamp": "33m"
+    },
+    {
+      "display_name": "ghost of a comet",
+      "handle": "@trailing_ice",
+      "tweet": "[gif of a generation ship slowly drifting into a star]",
+      "likes": 19400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(163,57%,38%)",
+      "pfpGlyph": "✡",
+      "timestamp": "23h"
+    }
+  ],
+  "generated_at": "2026-04-16T03:44:55.962Z"
+}
