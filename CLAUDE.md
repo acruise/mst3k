@@ -106,3 +106,20 @@ The prompt engineering is in the data files, not the code. When adding content:
 
 - `on-the-persistence-of-shitposting.md` — In-universe academic paper about shitposting as a xenolinguistic universal.
 - `first-contact-comedy-festival.md` — In-universe proceedings of an interspecies comedy festival (draft, needs revision — too mawkish and pro-human).
+
+## TODO
+
+### P1: Save live results to corpus
+In online mode (when `backend` is `anthropic` or `ollama`) we should save generated tweets and replies to the corpus 
+directory. No sense paying twice!
+
+### P1: Persistent links
+Tweets, replies and usernames that show up in the corpus (including those that were freshly generated) should have 
+web pages with persistent IDs based on the corpus filename or user ID, as appropriate. Fabricating profile pages, 
+bio strings, etc. should be straightforward; generating a plausible per-user history of 10 or so tweets will require 
+a separate LLM call that will need to be wired up to the persistence structure as well.
+
+When the server boots up it can scan the whole corpus and, if necessary, build an index as a single JSON file. The index should contain the number of each type of entry in the corpus, the min/max timestamps, entries grouped by username, etc. The server detects whether the index needs rebuilding by looking at the timestamps of the oldest and newest files in the corpus, and the number of files. Every file in the corpus should be self-describing so the index rebuild can work correctly every time. 
+
+### P2: in-universe Y3K ads 
+They should be just as bizarrely mistargeted and random as current-day twitter ads
