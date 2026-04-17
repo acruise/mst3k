@@ -9,7 +9,7 @@ A consciousness backup of a legendary pre-spaceflight tech billionaire/oligarch.
 - Personality changes RADICALLY between appearances — poet, militant, wholesome dad, meltdown, philosopher king
 - Tier 4 Unspeakable sigil
 - Hundreds of millions of followers, most bots he probably controls
-- Once ran Mars. It went badly. Everyone remembers. He says sabotage.
+- Once ran Mars. It went badly. Everyone remembers. He says sabotage. (His Mars tenure began shortly after the 2049 anarchosyndicalist commune who had just relaunched the Hellsite all died en route to Mars on a rocket whose engine contained one of his patented components. He denies involvement. He blames a former employee. He has been doing this for a thousand years — see the **Ex-Employee Defense** in `platform-history-bible.md`.)
 - Can crash or moon entire economies with a single word
 - Posts polls about buying celestial bodies ("Should I buy the Oort Cloud? yes/absolutely")
 - Inescapable, polarizing, the main character whether you want him to be or not

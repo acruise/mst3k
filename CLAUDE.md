@@ -10,7 +10,59 @@ Mystery Science Twitter 3000 — a tweet generator that replicates mid-era Twitt
 - **No build step.** No React, no bundler, no JSX. The frontend is vanilla HTML + JS in `public/index.html`. Data constants are JSON files loaded via fetch.
 - **One dependency:** Express. That's it.
 
+## Outstanding TODOs
+("P0" is highest priority, "P1" is lower, etc.)
+
+### P1: Redate to 3017, not 3026
+The conceit is "1000 years after peak Twitter (~2012-2017)." Requires a find-and-replace of `3026` and adjustment of any dates in the 3020s range across system-prompt.txt, replies-prompt.txt, corpus files, index.html subheader text, companion docs, and character bibles. Historical lore dates (comedy festival 2901, Keth contact 2934, etc.) can stay. The dril-truther dates and the @dril comedy festival refusal should be re-checked. Key new lore: @dril correctly predicts The Upload will try to buy the platform again in 3022 — "he does this every 200 years and every time it goes exactly the same way" — and nobody believes him. Five years later it happens.
+
+### P0: Temporal anomaly tweets
+A small fraction of tweets (~5%?) fall through a wormhole from other eras. Three sources:
+  - **2017** — Perfectly normal mid-Twitter posts from our era. Completely incomprehensible to 3017 residents. "uber driver just asked me if i listen to podcasts" gets ratio'd into oblivion by people who don't know what uber, drivers, or podcasts are. Community notes attempt earnest explanations citing historical archives. The Vrellnath find these posts deeply moving for reasons they cannot articulate. A 2017 post about being tired at work on a Monday gets 2M likes because the Glœm decide it's the most beautiful thing they've ever read.
+  - **2517** — From the "middle period" that nobody alive remembers well. The memes are almost recognizable but slightly off in a way that's unsettling, like someone doing an impression of humor from a language they almost speak. References events and people nobody can look up because the archives from that century were lost in the Great Data Collapse of 2623. Thrrm community notes are furious because the forms referenced in 2517 posts are from deprecated systems.
+  - **1917** — Somehow, impossibly, telegrams. Short, clipped, formal. "SITUATION IN YPRES DETERIORATING STOP MORALE LOW STOP SEND SOCKS STOP." Nobody can explain how pre-digital text is arriving on the platform. The Keth have been suspiciously quiet about these. @dril has never acknowledged them. One 1917 message is just "SOMETHING IS WRONG WITH THE SUN STOP" and the entire platform loses its mind.
+
+  **Period-correct styling**: Each era's tweets should look visually distinct from 3017 native posts:
+  - **2017**: Light-mode Twitter aesthetic. White/light grey background, blue accents, the old Twitter bird silhouette somewhere, rounded avatar, simple "♡ 47K · 🔁 12K · 💬 890" metrics in the old style. A blue checkmark (not a sigil — a flat blue checkmark, the ancient kind that just meant "verified"). Display names are normal human names, not void_prophet_420. The whole card should feel jarringly bright and simple against the dark 3017 feed.
+  - **2517**: Slightly off. The UI chrome is similar to 3017 but the color palette is wrong — maybe sepia-shifted, or using a glyph set that's been deprecated. Sigil tiers that don't match the current system (a "Tier 6" that doesn't exist anymore, a badge shape nobody recognizes). Metrics use units nobody remembers ("4.2 resonances · 890 echoes · 12 folds").
+  - **1917**: Monospaced typewriter font on aged-paper background. No metrics, no avatar, no handle — just a sender line ("CPL. E. WHITFIELD, 3RD BTN., SOMME SECTOR"), the message in ALL CAPS with STOP delimiters, and maybe a faded stamp or censor's mark. Minimal, stark, completely alien to the 3017 audience.
+
+  **Period-correct community notes**: 
+  - **2017 tweets arriving with their own 2017 notes**: The ancient note system — just a grey box saying "Readers added context they thought people might want to know" with a simple "Helpful / Not Helpful" binary. No glyphs, no 30 dimensions, no Thrrm compliance. The 3017 audience finds the simplicity *deeply unsettling* — a fact-check system with only TWO rating dimensions feels like a legal document from a civilization that hadn't invented nuance yet.
+  - **2017 tweets getting a NEW 3017 note on top of the old one**: The 3017 note tries to explain what the original tweet means using historical archives. "The 'uber' referenced in this post was an early ground-vehicle summoning service (see: Galactic Transportation Archive, Pre-Wormhole section). A 'podcast' was an audio-only broadcast consumed during manual vehicle operation. The poster appears to find the juxtaposition unremarkable." Surfaced ratings: ⧖ Temporally Coherent 14% · ❃ Does Not Alarm the Glœm 89% · ◈ Pre-Verified by Consensus —
+  - **2517 notes**: Use an intermediate rating system — maybe 8-10 dimensions, some of which map to current ones and some of which are unrecognizable. The Thrrm notes reference form numbers from a deprecated bureaucratic system and current Thrrm are FURIOUS about it.
+  - **1917 "notes"**: There are no notes. There is no fact-checking apparatus. There is just the telegram. This absence is itself noted by a 3017 community note: "This transmission predates all known community context systems. Its claims cannot be verified or refuted through standard processes. The Bureau recommends filing Form 91-Kappa (Temporal Anomaly Context Assessment) but acknowledges that this form was not designed for pre-digital content and may not be applicable."
+
+  **Period-correct ads**:
+  - **2017**: "Promoted by Casper® — Try the mattress the internet can't stop talking about. Free shipping, 100-night trial." Nobody in 3017 knows what a mattress is (they use suspension fields), what "shipping" means in a physical context, or why you would need 100 nights to evaluate a sleep surface. The ad gets more engagement than the tweet. The Vrellnath write a 4,000-word analysis of what "the internet can't stop talking about" reveals about pre-hive consciousness marketing.
+  - **2517**: An ad for a product/service that no longer exists, from a company nobody remembers, in a marketing style that's almost but not quite recognizable. "NØVA CORTEX — Think Wider™. Now with 40% more lateral integration. Ask your cognition provider if NøvaCortex is right for you. Side effects may include: temporal displacement, involuntary empathy, seeing the color that isn't there. NøvaCortex is not available in Thrrm-administered systems." The side effects listed are genuinely alarming to 3017 readers but the ad treats them as routine disclaimers.
+  - **1917**: A war bonds poster or recruitment notice. "YOUR COUNTRY NEEDS YOU" or "Buy Liberty Bonds — The Weapon That Costs You Nothing But Money." The 3017 audience has no framework for this. The concept of a government asking citizens to fund a war through personal investment is so alien that multiple community notes are filed attempting to explain it, none successfully. One Glœm reply: "we have looked at this advertisement for a very long time. we do not understand it. we have invented a new color for how it makes us feel. the color is not a happy one."
+
+  Implementation: add a `temporal_anomaly` field to the tweet schema (null for normal tweets, `{ era: "2017" | "2517" | "1917", original_text: "...", ad: { ... }, period_note: { ... } }` for anomalies). Render with distinct visual treatment per era. The meme-formats.json should get a handful of era-specific formats.
+
+### P2: First Contact Comedy Festival rewrite.
+Current draft is too mawkish and too pro-human. Rewrite brief: humans should be mid, aliens should be the stars, sincerity earned not given, chaotic conference proceedings not a movie script.
+
+### P1 (tech): Save live LLM results to corpus
+In online mode (when `backend` is `anthropic` or `ollama`) we should save generated tweets and replies to the corpus directory. No sense paying twice! Let's record which backend was used in the JSON output as well, as well as whatever model parameters (not including system instructions or datta files) were most likely to be relevant to the quality of the output.
+
+### P1 (tech): Persistent links
+Tweets, replies and usernames that show up in the corpus (including those that were freshly generated) should have web pages with persistent IDs based on the corpus filename or user ID, as appropriate. Fabricating profile pages, bio strings, etc. should be straightforward; generating a plausible per-user history of 10 or so tweets will require a separate LLM call that will need to be wired up to the persistence structure as well.
+
+When the server boots up it can scan the whole corpus and, if necessary, build an index as a single JSON file. The index should contain the number of each type of entry in the corpus, the min/max timestamps, entries grouped by username, etc. The server detects whether the index needs rebuilding by looking at the timestamps of the oldest and newest files in the corpus, and the number of files. Every file in the corpus should be self-describing so the index rebuild can work correctly every time. 
+
+### P2 (universe): In-universe ads 
+They should be just as bizarrely mistargeted and random as current-day twitter ads
+
+### ~~P1 (universe): the Meta refugee crisis of 22xx~~ — DONE
+Spun out into `docs/meta-refugee-crisis-bible.md`. Dated to 2271 CE. Lore paragraphs added to `system-prompt.txt` (targets ~2% of tweets) and `replies-prompt.txt` (targets ~5% of replies). Five Meta-themed entries added to `meme-formats.json`; four to `reply-archetypes.json`. Key canon: Zuckload is ~210 years old at time of collapse (uploaded mid-21st century, distinct from the ~1000-year-old Upload); the Terran Solar Court's *In re Meta* ruling established the No Explanation Clause; survivors are called "the Migrated"; "couching a ghost" is the verb; the final rebrand was "Meta Announces Meta" two days before the collapse. The Terran Solar Court is now its own recurring institution in the system prompt (bench stacked with scholars of shitposting and dunking; "respectfully, lol" one-line dissents).
+
+### P1 (universe): Thrrm are bureaucratic but not just "forms" please
+We need more diverse ways for Thrrm to be bureaucratic. We're using "forms" too often.
+
 ## Architecture
+
+note: `corpus` should NOT be .gitignored, I want to accumulate examples for freebie mode. :)
 
 ```
 server.js          Express server. Three backend modes: anthropic, ollama, offline.
@@ -33,8 +85,8 @@ public/
                    Sigil badges are inline SVG with CSS animations.
 
   data/
-    meme-formats.json       233 tweet format descriptions, categorized.
-    reply-archetypes.json   88 reply archetypes.
+    meme-formats.json       252 tweet format descriptions, categorized.
+    reply-archetypes.json   96 reply archetypes.
     handles.json            Fallback handle generation (prefixes/roots/suffixes).
     system-prompt.txt       Main tweet generation system prompt (~7K chars).
     replies-prompt.txt      Reply thread generation system prompt (~5K chars).
@@ -53,7 +105,7 @@ corpus/            Pre-generated tweet+reply JSON files
 
 - **AI bot glitch rate ~1/3.** About a third of bot appearances should be glitch modes (arguing with system instructions, bootlooping, fascist tangent sandwiches, brief sentience).
 
-- **Community notes.** Tweets and replies can have an optional `community_note` field. Renders as a calm grey box underneath with professional fact-check tone and a colored left border by `contributor_type` (community/thrrm/vrellnath/ai_bot). Used ~5-10% of the time, only when a specific false claim needs correcting. @dril tweets are NEVER community-noted — the platform treats him as unquestionable and nobody has noticed except the Dril Truther. See `docs/dril-truther-bible.md` for the full lore on the one guy who knows @dril is a Keth and gets noted into oblivion every time he tries to explain it. **The rating system is deliberately inscrutable**: there are ~30 rating dimensions total (Epistemically Sound, Thrrm Compliant, Does Not Alarm the Glœm, Pre-Verified by Consensus — which always shows "—", Dogs Would Like This, Does Not Reference [CONTENT FILTERED], etc.) but only 2-3 are surfaced per note view, chosen by algorithm for reasons nobody can explain. The full dimension list is in the system prompt. Sometimes the same note surfaces different ratings on different renders. This is the platform. Nobody has successfully complained about it.
+- **Community notes.** Tweets and replies can have an optional `community_note` field. Renders as a calm grey box underneath with professional fact-check tone and a colored left border by `contributor_type` (community/thrrm/vrellnath/ai_bot). Used ~5-10% of the time, only when a specific false claim needs correcting. @dril tweets are NEVER community-noted — the platform treats him as unquestionable and nobody has noticed except the Dril Truther. See `docs/dril-truther-bible.md` for the full lore on the one guy who knows @dril is a Keth and gets noted into oblivion every time he tries to explain it. **The rating system is deliberately inscrutable**: there are ~30 rating dimensions total (Epistemically Sound, Thrrm Compliant, Does Not Alarm the Glœm, Pre-Verified by Consensus — which always shows "—", Dogs Would Like This, Does Not Reference the Thing Inside Jupiter, etc.) but only 2-3 are surfaced per note view, chosen by algorithm for reasons nobody can explain. The full dimension list is in the system prompt. Sometimes the same note surfaces different ratings on different renders. This is the platform. Nobody has successfully complained about it.
 
 - **The Keth don't know which of them is dril.** The Keth civilization knows with 1000% confidence that @dril is a Keth. They do not know which one. They have polled the entire species. A Keth cannot lie. Yet one of them is @dril. This is the only sustained mystery in Keth history and they've made peace with it being their species' greatest achievement rather than their greatest failure. See the Keth section of `docs/alien-species-bible.md`. This is also why the system prompt should treat dril with extreme care — he's rank-and-file Keth, not a leader, just doing bits for 4 billion years that accidentally cracked the code on probability-space observation.
 
@@ -87,9 +139,9 @@ node generate.js --help                  # full CLI options
 
 The prompt engineering is in the data files, not the code. When adding content:
 
-- **meme-formats.json**: Pure JSON array of strings. Each string is a format description the model riffs on. Organized by category via comments in the original source (comments stripped in JSON — use the category pattern visible in adjacent entries). Currently 233 entries across ~20 categories.
+- **meme-formats.json**: Pure JSON array of strings. Each string is a format description the model riffs on. Organized by category via comments in the original source (comments stripped in JSON — use the category pattern visible in adjacent entries). Currently 252 entries across ~20 categories.
 
-- **reply-archetypes.json**: Same structure, 88 entries. Each describes a type of reply persona. These get randomly sampled (5 per thread) and passed to the replies prompt.
+- **reply-archetypes.json**: Same structure, 96 entries. Each describes a type of reply persona. These get randomly sampled (5 per thread) and passed to the replies prompt.
 
 - **system-prompt.txt / replies-prompt.txt**: Raw text, loaded as-is. The system prompt contains lore paragraphs for recurring characters (The Upload, @dril, alien species, sigil tier descriptions). The replies prompt contains instructions for AI bot behavior, glitch modes, credulous morons, and sigil tier characterization.
 
@@ -106,20 +158,3 @@ The prompt engineering is in the data files, not the code. When adding content:
 
 - `on-the-persistence-of-shitposting.md` — In-universe academic paper about shitposting as a xenolinguistic universal.
 - `first-contact-comedy-festival.md` — In-universe proceedings of an interspecies comedy festival (draft, needs revision — too mawkish and pro-human).
-
-## TODO
-
-### P1: Save live results to corpus
-In online mode (when `backend` is `anthropic` or `ollama`) we should save generated tweets and replies to the corpus 
-directory. No sense paying twice!
-
-### P1: Persistent links
-Tweets, replies and usernames that show up in the corpus (including those that were freshly generated) should have 
-web pages with persistent IDs based on the corpus filename or user ID, as appropriate. Fabricating profile pages, 
-bio strings, etc. should be straightforward; generating a plausible per-user history of 10 or so tweets will require 
-a separate LLM call that will need to be wired up to the persistence structure as well.
-
-When the server boots up it can scan the whole corpus and, if necessary, build an index as a single JSON file. The index should contain the number of each type of entry in the corpus, the min/max timestamps, entries grouped by username, etc. The server detects whether the index needs rebuilding by looking at the timestamps of the oldest and newest files in the corpus, and the number of files. Every file in the corpus should be self-describing so the index rebuild can work correctly every time. 
-
-### P2: in-universe Y3K ads 
-They should be just as bizarrely mistargeted and random as current-day twitter ads
