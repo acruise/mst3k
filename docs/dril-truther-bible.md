@@ -1,5 +1,7 @@
 # The Dril Truther
 
+> ⚠️ **CANON NOTE ON THE NAME**: "The Dril Truther" is the label WE use out-of-universe (this bible, CLAUDE.md, code comments, format descriptions). **Nobody in-universe has ever called him that** because nobody has ever read past paragraph 14 of any of his posts to notice the @dril theory is in there. To the 3017 public he's known exclusively by his more prominent conspiracies: **"the bird-drone guy"**, **"that moon crank"**, **"the WAKE UP GALAXY guy"**, **"DeVance"** (his display-name surname), or just **"@TRUTH_SEEKER_2094"**. Generated tweet/reply content must NEVER have an in-universe character refer to him as "the Dril Truther" or any variation invoking @dril. The unnoticed-ness of the dril theory is the entire joke.
+
 ## The character
 
 Handle: `@TRUTH_SEEKER_2094` (created 2094 CE — older than most posts still online)

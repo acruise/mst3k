@@ -1,0 +1,83 @@
+{
+  "id": "1776464733669-0hin",
+  "tweet": {
+    "display_name": "meat historian",
+    "handle": "@seven_minute_window",
+    "tweet": "on this day. 770 years.",
+    "metrics": {
+      "retweets": 84201,
+      "likes": 341882,
+      "replies": 2104,
+      "quote_tweets": 9887
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(14,60%,42%)",
+    "pfpGlyph": "⏁",
+    "timestamp": "57s"
+  },
+  "replies": [
+    {
+      "display_name": "j",
+      "handle": "@jjjjjjjjjjjjjjj",
+      "tweet": "never forget",
+      "likes": 4821,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(76,60%,46%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "46s"
+    },
+    {
+      "display_name": "Eternal Verna 🧡",
+      "handle": "@VernaLovesTheUpload",
+      "tweet": "770 years ago today my Harold and I were watching the livestream together. He squeezed my hand when The Upload came onscreen and said 'this one is different.' Harold has been gone 600 years now but I still watch every anniversary stream. He was RIGHT about so many things (we don't talk about Mars). The Upload has NEVER let this family down 🧡💫",
+      "likes": 12044,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(245,71%,32%)",
+      "pfpGlyph": "♃",
+      "timestamp": "16d"
+    },
+    {
+      "display_name": "ghost_protocol",
+      "handle": "@redacted_friend",
+      "tweet": "stop. i'm begging you. i know what day it is too but you can't keep posting like this. the `[REDACTED]` have already pulled two researchers from the Ganymede archive this month. please. use a dead drop. i still have the key from `[REDACTED]`. do not reply to this.",
+      "likes": 28912,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(327,77%,51%)",
+      "pfpGlyph": "☉",
+      "timestamp": "22d"
+    },
+    {
+      "display_name": "Dave (Jupiter)",
+      "handle": "@DaveOfJupiter",
+      "tweet": "my uncle was actually a junior archivist during the 770th anniversary prep back in '19 and he said the logistics were a NIGHTMARE. three shipments of commemorative candles got quantum-entangled with a wedding on Titan. anyway great post",
+      "likes": 341,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(194,56%,48%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "16m"
+    },
+    {
+      "display_name": "Chaz | DimFi 🔺",
+      "handle": "@ChazAcrossDims",
+      "tweet": "ser. ser. 770 years of fiat memory is why you need to be in DeFi (Dimensional Finance). immutable grief on-chain. your sorrow compounds 4.2% APY across 7 parallel branches. DM for the whitepaper 🔺",
+      "likes": 89,
+      "verified": 1,
+      "community_note": null,
+      "pfpColor": "hsl(182,43%,25%)",
+      "pfpGlyph": "✿",
+      "timestamp": "23d"
+    }
+  ],
+  "generated_at": "2026-04-17T22:25:33.669Z",
+  "backend": "anthropic",
+  "model": "claude-opus-4-7",
+  "temperature": null,
+  "summon": "meat",
+  "incite": null
+}

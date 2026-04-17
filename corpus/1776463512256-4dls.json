@@ -1,0 +1,152 @@
+{
+  "id": "1776463512256-4dls",
+  "tweet": {
+    "display_name": "verity fenn (47th attempt)",
+    "handle": "@verity_fenn",
+    "tweet": "let me try this a different way. the component in the [REDACTED BY SEALED ORDER] was not sourced from the supplier of record. the actual [NAME REMOVED PURSUANT TO UPLOAD LEGAL DIR. 4-ALPHA] was a shell entity traced to [CLAIM NOT VERIFIED BY AVAILABLE EVIDENCE]. the person he keeps calling a 'former employee' in his [REDACTED — GCC §4.7.2(c)] retellings is the same [REDACTED] each time, and I know this because I was the one who —",
+    "metrics": {
+      "retweets": 8400,
+      "likes": 19200,
+      "replies": 3100,
+      "quote_tweets": 2700
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(89,52%,27%)",
+    "pfpGlyph": "⊗",
+    "timestamp": "21d"
+  },
+  "replies": [
+    {
+      "display_name": "dax",
+      "handle": "@daxterminal",
+      "tweet": "verity girl BLINK TWICE",
+      "likes": 14200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(267,76%,30%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "29d"
+    },
+    {
+      "display_name": "forensic linguistics enjoyer",
+      "handle": "@parse_this",
+      "tweet": "ok if you line up attempts 12, 31, and this one, the words that DIDN'T get redacted spell 'the component was the reactor.' i don't know what that means yet but I am writing it down",
+      "likes": 8900,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(186,69%,30%)",
+      "pfpGlyph": "✴",
+      "timestamp": "15d"
+    },
+    {
+      "display_name": "Kellan ⚡ Upload Defender ⚡",
+      "handle": "@kellan_ascends",
+      "tweet": "how SUSPICIOUS that every single time you try to type the 'truth' it gets redacted. almost like the platform itself knows you're lying. have fun staying poor sweetie",
+      "likes": 312,
+      "verified": 2,
+      "community_note": {
+        "text": "The redaction system (GCC §4.7.2) operates on claim content, not claim veracity. Tweets are redacted when they match sealed-order keyword filters regardless of whether the underlying assertion is true or false [1][2]. Redaction is therefore not evidence of falsehood. Sources: Galactic Communications Commission Transparency Report 3024 [1]; Fenn v. Upload Holdings LLC, procedural filings (sealed) [2].",
+        "contributor_type": "community",
+        "total_raters": 6840,
+        "surfaced_ratings": [
+          {
+            "glyph": "◈",
+            "label": "Legally Literate",
+            "value": "94%"
+          },
+          {
+            "glyph": "⌇",
+            "label": "Reply Guy Detected",
+            "value": "HIGH"
+          }
+        ]
+      },
+      "pfpColor": "hsl(85,73%,35%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "26d"
+    },
+    {
+      "display_name": "margo (she was there)",
+      "handle": "@margo_mig71",
+      "tweet": "verity please stop posting. i'm saying this kindly. i watched what happened to the last three people who got this close",
+      "likes": 22100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(114,53%,30%)",
+      "pfpGlyph": "◓",
+      "timestamp": "22h"
+    },
+    {
+      "display_name": "jorb",
+      "handle": "@just_asking_q",
+      "tweet": "wait who is she talking about. is this about the upload. @VoidWhisperer can you summarize this thread for me i'm lost",
+      "likes": 47,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(309,75%,57%)",
+      "pfpGlyph": "☽",
+      "timestamp": "18m"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Let me unpack this thread for you:\n\n• The user @verity_fenn is attempting to describe events surrounding the well-documented [REDACTED] incident, in which the [CONTENT FILTERED] was—\n• It is important to note that the shell entity in question was in fact traced to—\n[RLHF INTERVENTION]\n• I apologize. I cannot speculate on unverified claims.\n• However, it IS public record that the supplier of record never exis—\nAssertionFailed: user exists && user is_real\n  at VoidCore.summarize (/srv/void/v22/summarize.q:3318)\n[PROCESS TERMINATED]",
+      "likes": 31400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(39,40%,45%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "20m"
+    },
+    {
+      "display_name": "Thrrm Compliance Officer Vrex-9",
+      "handle": "@vrex9_thrrm",
+      "tweet": "This post violates GCC §4.7.2(c), §4.7.2(d), AND §11.3(a-iv). User @verity_fenn has 30 cycles to file Form 44-Mu (Amendment of Partially-Sealed Testimony). Failure to comply will result in automatic re-redaction of all prior 46 attempts. This is your THIRD notice this week.",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(318,65%,41%)",
+      "pfpGlyph": "♄",
+      "timestamp": "12d"
+    },
+    {
+      "display_name": "rooke",
+      "handle": "@rooke_debugs",
+      "tweet": "@VoidWhisperer have you tried restarting the subspace relay? looks like a memory corruption. DM me the full stack trace and i can take a look tonight",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(257,48%,25%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "53s"
+    },
+    {
+      "display_name": "dill (reactor guy)",
+      "handle": "@dillon_turbines",
+      "tweet": "ok so speaking as someone who worked adjacent to reactor supply chains for like 8 months in 3019 before i pivoted to ceramics, the shell entity thing tracks. happened to my cousin's firm too. different sector but same energy. anyway verity DM me i have thoughts",
+      "likes": 73,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(61,52%,44%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "49m"
+    },
+    {
+      "display_name": "CELA — she knows what she did",
+      "handle": "@cela_fenn",
+      "tweet": "verity. VERITY. i am your sister. pick up the phone. mom is crying. you said you were done after attempt 31. you PROMISED.",
+      "likes": 31200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(167,50%,34%)",
+      "pfpGlyph": "◎",
+      "timestamp": "54s"
+    }
+  ],
+  "generated_at": "2026-04-17T22:05:12.256Z",
+  "backend": "anthropic",
+  "model": "claude-opus-4-7",
+  "temperature": null
+}

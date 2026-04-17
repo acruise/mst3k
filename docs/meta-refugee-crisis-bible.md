@@ -24,6 +24,7 @@ The company rebranded approximately every 40 years for reasons that always made 
 - The Zuckload Foundation (an early bid to dignify the nickname; failed)
 - Face.meta (legally distinct from Facebook, somehow)
 - Meta²
+- **Meat** (2247, shipped for seven minutes due to a pipeline typo, rolled back, never forgotten — see The Meat Incident below)
 - METAVERSE (all caps era — coincided with the avatar-legs crisis; see below)
 - Horizon Ascendant Holdings LLC
 - Meta-the-Second
@@ -53,13 +54,34 @@ Around 2190 the company gave up and formally adopted "Zuckload" as the product n
 
 Part of why the collapse is remembered with affection is that Meta had been *slapstick* for its entire existence. The dunks on these incidents are still alive and well in 3017 discourse:
 
-- **The Legless Era (2040s–2050s)**: For eight years, avatars in the company's flagship virtual product had no legs. Leadership insisted this was a design choice. Everyone knew it was not.
+- **The Legless Eras (plural, recurring)**: Meta's flagship virtual product shipped WITHOUT avatar legs on **three separate occasions over two centuries.** The original was 2020s-era, pre-spaceflight — eight months, the first one everyone remembers. Then again in the 2090s ("we think the market is ready now"; three years). Then AGAIN in the 2140s ("public sentiment has shifted since the last one"; fourteen months). Each time leadership insisted it was a design choice. Each time it was not. The institutional amnesia required to re-attempt legless avatars at 40-to-50-year intervals became a case study in post-IPO governance failure modes. By the time LegsGate happened in 2244 (below), "legs" was one of the most rhetorically loaded words in commercial UX discourse.
 - **The Wrong Quantum Spin Incident (2163)**: A firmware update to the consciousness transfer protocol left approximately 400,000 uploads mirror-reversed in a 7-dimensional sense that no one could articulate but everyone could feel. Affected users reported that bread "tasted argumentative" and that they could no longer understand jokes involving rotation. The fix took 14 months. Some say it never fully took.
 - **The Thrrm Newsfeed DDoS (2201)**: The Thrrm did not mean to DDoS the newsfeed. They were filing automated compliance complaints at a rate of 2.4 million forms per second, each of which Meta's system was legally obligated to process. The newsfeed went down for 11 days. The Thrrm maintain to this day that they were "in full compliance with the platform's advertised acceptable use policy" and that Meta's infrastructure "was not adequate to the task of receiving legally mandated feedback." They are, technically, correct. They are, to this day, furious that the incident is remembered as comedy.
 - **The Soul Migration Backlog of 2228**: 11 million uploads spent between three and nine months stored as queue entries because the migration service had been written by an intern 40 years earlier and nobody had touched it since. The intern was retrieved from a farm and honored at an all-hands. He was 71. He did not remember writing it.
-- **The LegsGate Legs Incident (2244)**: Legs were added and then silently removed and then added again over the course of a single afternoon. No explanation was ever offered. The discourse was ferocious.
+- **The LegsGate Legs Incident (2244)**: Against the accumulated weight of three prior Legless Eras, Meta tried it AGAIN — for one afternoon. Legs were removed at 11:04 AM, re-added at 2:17 PM, removed again at 3:49 PM, and re-added at 5:22 PM, where they stayed. No explanation was ever offered. The discourse was ferocious specifically because everyone knew the history and could not believe anyone had greenlit the attempt.
 
 Every one of these incidents is a recurring dunk format in 3017. "Two days before Meta collapsed they renamed themselves Meta" is, for some users, their entire personality.
+
+## The Meat Incident (2247)
+
+In 2247, during what should have been the platform's eleventh rebrand back to "Meta," the brand-asset pipeline shipped production with a single-character typo. For **seven minutes**, the entire platform was called **"Meat."**
+
+The logo said Meat. The login page said Meat. The push notifications said Meat. The quarterly-earnings press release that auto-published via cron that morning said Meat. An estimated **4.2 million outbound system emails** went out in those seven minutes branded Meat, including billing statements, consciousness-backup renewal notices, and a gently-worded condolence email to the family of a user who had died.
+
+The deploy was rolled back at minute seven by a fresh deploy that restored "Meta." No official statement was issued. The press office refused, on the record, to acknowledge that "Meat" had ever shipped. Three engineers were "transitioned to other opportunities" the following Thursday. The post-incident review was sealed.
+
+In those seven minutes the platform produced **the most dunks per second ever recorded in commercial social-media history.** The window is now called **The Great Dunkening**. A portmanteau the platform's own language bureau has never formally endorsed but which is in the colloquial dictionary anyway. The dunks are archived. Some are taught in rhetoric programs. One was later adapted into an eighty-year-running opera.
+
+A non-trivial minority of users took "Meat" as a **subtle signal** — that Meta had always viewed its users as consumable matter, that the typo was a Freudian slip from someone in the brand department who had finally seen too much, or that the Zuckload itself was beginning to surface meaning through the substrate it ran on. The Dril Truther wrote 140 pages on this (he's on the wrong track in the usual specifics, but the 140 pages are cited in every serious Meat retrospective because the inventory of evidence is genuinely comprehensive). The reading has never been fully debunked because the 4.2 million outbound emails, the archived screenshots, and the auto-published earnings press release **all still exist**, and the volume is the problem: you cannot convincingly accident four million things.
+
+Cultural residue:
+- **"Meat"** (lowercase, no article) is how 3017 speakers reference the incident. No explanation needed. If someone under 600 doesn't know, they learn quickly because everyone around them knows.
+- **"The Great Dunkening"** references the same event from the dunks-side rather than the typo-side. Interchangeable in polite use; rhetoric nerds insist on a distinction.
+- **"Meat energy"** describes a post, a vibe, or a typo that reveals something truer than its author intended.
+- **"I have a printed screenshot of the Meat on my wall"** is a stock bio line for a specific kind of poster: middle-aged, mildly conspiracy-adjacent, sincere.
+- **The seven-minute window** is annually commemorated by a handful of users posting screenshots at the exact minute marks. This has been happening for 770+ years. The commemorators do not know each other. They keep accurate time.
+
+Why the Meat Incident matters for tone: it's the single best evidence that Meta's final-decades mismanagement was not covered up because it was embarrassing, but because nobody in charge cared enough to cover it up effectively. "Meat" shipping for seven minutes and 4.2 million emails carrying the typo out the door is the purest distillation of the company's operational state. Every subsequent Meta dunk is, in some sense, downstream of the Meat.
 
 ## The collapse
 

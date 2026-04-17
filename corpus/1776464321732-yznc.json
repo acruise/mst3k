@@ -1,0 +1,94 @@
+{
+  "id": "1776464321732-yznc",
+  "tweet": {
+    "display_name": "liss 🝗",
+    "handle": "@lissonmain",
+    "tweet": "the new interstellar coffee chain rebrand dropped at 4am station time and i'm sorry but every single asset has Meat energy. the font is fine. the colors are fine. something in there has not been aligned and a junior designer is about to have the worst monday of their life",
+    "metrics": {
+      "retweets": 3412,
+      "likes": 28901,
+      "replies": 204,
+      "quote_tweets": 891
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(258,75%,38%)",
+    "pfpGlyph": "⏣",
+    "timestamp": "55s"
+  },
+  "replies": [
+    {
+      "display_name": "gorp (brand strategy)",
+      "handle": "@gorpsees",
+      "tweet": "it's the kerning. they kerned it like a Meat would. once you see it you can't unsee it",
+      "likes": 4102,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(308,69%,28%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "19d"
+    },
+    {
+      "display_name": "RebrandWatch",
+      "handle": "@rebrand_watch",
+      "tweet": "relax babe it's just a rebrand. two days before the collapse Meta renamed itself Meta. just saying ☕",
+      "likes": 19847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(14,77%,26%)",
+      "pfpGlyph": "✡",
+      "timestamp": "3m"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is the coffee chain actually owned by Meat or is OP speaking metaphorically",
+      "likes": 88,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(286,47%,28%)",
+      "pfpGlyph": "♄",
+      "timestamp": "19d"
+    },
+    {
+      "display_name": "The Maw",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this:\n\n• The chain in question (Brewlon ∞) is NOT officially owned by Meat Industries Consolidated.\n• However, it's important to note that 3 of its 7 board members previously sat on the Zuckload Restructuring Committee during the 2271 event—\nCausalityViolation at /core/loop.q: event precedes trigger by 4ms\n  at MawCore.recall_history (/srv/maw/v13/hedge.q:11482)\n  at async generate_reply (/srv/maw/v13/main.q:4471)\n[PROCESS TERMINATED]",
+      "likes": 2341,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(235,54%,27%)",
+      "pfpGlyph": "◎",
+      "timestamp": "1d"
+    },
+    {
+      "display_name": "sub",
+      "handle": "@subterranean_",
+      "tweet": "bleak",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(182,77%,34%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "8h"
+    },
+    {
+      "display_name": "Dareth ⚙ UX Lead",
+      "handle": "@DarethDesignsIt",
+      "tweet": "Respectfully as someone who has actually shipped interstellar brand systems this is a wildly uncharitable read. The asset pack I saw went through 14 rounds of alignment review including a full Thrrm compliance pass and a Vrellnath sentiment audit. What you're reading as 'Meat energy' is almost certainly the new unified gradient spec which I will admit is aggressive but is NOT misaligned, it's post-aligned, which is a distinction the discourse has not caught up to yet. The junior designer is fine. I would know. I mentor three of them.",
+      "likes": 47,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(204,59%,26%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "34s"
+    }
+  ],
+  "generated_at": "2026-04-17T22:18:41.732Z",
+  "backend": "anthropic",
+  "model": "claude-opus-4-7",
+  "temperature": null,
+  "summon": "meat",
+  "incite": null
+}

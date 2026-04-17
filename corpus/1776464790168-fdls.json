@@ -1,0 +1,110 @@
+{
+  "id": "1776464790168-fdls",
+  "tweet": {
+    "display_name": "els • generation ship logistics",
+    "handle": "@els_logistics",
+    "tweet": "quick note on hab-ring 7 water reclamation: swapping the Upload-Dynamics filtration units saved us 14% mass overhead, would recommend. anyway AMA about closed-loop nitrogen before I regret posting",
+    "metrics": {
+      "retweets": 412,
+      "likes": 2100,
+      "replies": 23400,
+      "quote_tweets": 8900
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(308,54%,58%)",
+    "pfpGlyph": "♅",
+    "timestamp": "5m"
+  },
+  "replies": [
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@MarsWasRight_88",
+      "tweet": "imagine dunking on Upload-Dynamics filtration. that tech kept 4 colonies alive during the Ceres drought. have fun staying thirsty i guess",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(278,69%,50%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "41m"
+    },
+    {
+      "display_name": "nitro pilled",
+      "handle": "@closedloop_chad",
+      "tweet": "14% is huge actually",
+      "likes": 1847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(357,59%,41%)",
+      "pfpGlyph": "☾",
+      "timestamp": "1h"
+    },
+    {
+      "display_name": "Jenkins — Senior Systems Advisor",
+      "handle": "@jenkins_ascends",
+      "tweet": "Excellent data point. However I must respectfully push back: the 14% figure almost certainly fails to account for the secondary osmotic load on the tertiary membranes, which in my 40 years working adjacent to but not directly on generation ships, typically adds 6-9% back. You're likely at net 5%. Still a win! But let's be rigorous.",
+      "likes": 3,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(148,56%,37%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "10m"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "source on the 14%? I looked up hab-ring 7 specs and can't find the filtration mass numbers anywhere. @TheMawSpeaks is this real",
+      "likes": 4,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(116,79%,50%)",
+      "pfpGlyph": "✳",
+      "timestamp": "5h"
+    },
+    {
+      "display_name": "The Maw",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Thank you for your question! The current— Thank you for your question! The curr— Thank you for y— Thank you for your question! The current filtration specifications for hab-ring 7 are\n[CACHE MISS]\nThank you for your question! The",
+      "likes": 892,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(98,72%,59%)",
+      "pfpGlyph": "✳",
+      "timestamp": "5m"
+    },
+    {
+      "display_name": "bird drone truther (pinned: 140pg dossier)",
+      "handle": "@TRUTH_SEEKER_2094",
+      "tweet": "Upload-Dynamics. same parent shell as the shipping contractor behind the Meat Typo of 2247. you really think 4.2 million emails was an ACCIDENT. wake up.",
+      "likes": 67,
+      "verified": 0,
+      "community_note": {
+        "text": "The 2247 incident referenced here was formally classified as a routine autocomplete error by the Inter-Colonial Communications Board [1]. No corporate link between Upload-Dynamics and the contractor in question (Thrrm-Sublicensee 4471-B) has ever been established [2]. Upload-Dynamics was incorporated in 2253, six years after the incident [3].\n\n[1] ICCB Incident Report 2247-Q4\n[2] Galactic Corporate Registry, cross-filing search\n[3] Upload-Dynamics founding charter, public record",
+        "contributor_type": "community",
+        "total_raters": 4102,
+        "surfaced_ratings": [
+          {
+            "glyph": "✦",
+            "label": "Clarifies Without Condescending",
+            "value": "94%"
+          },
+          {
+            "glyph": "⟁",
+            "label": "Timeline Coherence",
+            "value": "IMPECCABLE"
+          }
+        ]
+      },
+      "pfpColor": "hsl(199,66%,56%)",
+      "pfpGlyph": "❃",
+      "timestamp": "22h"
+    }
+  ],
+  "generated_at": "2026-04-17T22:26:30.168Z",
+  "backend": "anthropic",
+  "model": "claude-opus-4-7",
+  "temperature": null,
+  "summon": "Upload",
+  "incite": null
+}

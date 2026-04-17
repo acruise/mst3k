@@ -32,6 +32,27 @@
     from { transform: rotate(0deg); }
     to { transform: rotate(360deg); }
   }
+  /* Ominous breathe — ~30% of cycle is scale+rotation motion, ~70% is still.
+     Uses transform only; stacks cleanly on top of the opacity/filter pulse. */
+  @keyframes sigilBreathe {
+    0%   { transform: scale(1) rotate(0deg); }
+    4%   { transform: scale(1.08) rotate(2deg); }
+    10%  { transform: scale(0.95) rotate(-1.5deg); }
+    16%  { transform: scale(1.06) rotate(2.5deg); }
+    22%  { transform: scale(0.97) rotate(-1deg); }
+    30%  { transform: scale(1) rotate(0deg); }
+    100% { transform: scale(1) rotate(0deg); }
+  }
+  @keyframes sigilBreatheIntense {
+    0%   { transform: scale(1) rotate(0deg); }
+    3%   { transform: scale(1.12) rotate(3deg); }
+    8%   { transform: scale(0.92) rotate(-2.5deg); }
+    14%  { transform: scale(1.1) rotate(3.5deg); }
+    20%  { transform: scale(0.94) rotate(-2deg); }
+    26%  { transform: scale(1.05) rotate(1.5deg); }
+    30%  { transform: scale(1) rotate(0deg); }
+    100% { transform: scale(1) rotate(0deg); }
+  }
   * { box-sizing: border-box; margin: 0; padding: 0; }
   *::-webkit-scrollbar { width: 6px; }
   *::-webkit-scrollbar-track { background: transparent; }
@@ -42,6 +63,7 @@
     color: #e8e6e3;
     display: flex; flex-direction: column;
     overflow: hidden;
+    zoom: 1.25;
   }
   .scanline {
     position: fixed; inset: 0; pointer-events: none; z-index: 100;
@@ -258,7 +280,14 @@
     color: #ff4757; font-size: 14px; cursor: pointer;
     font-family: 'IBM Plex Mono', monospace; background: rgba(255,71,87,0.04);
   }
-  .sigil { display: inline-flex; align-items: center; justify-content: center; margin-left: 3px; flex-shrink: 0; }
+  .sigil { display: inline-flex; align-items: center; justify-content: center; margin-left: 3px; flex-shrink: 0; transform-origin: center center; }
+  .sigil-t1 { animation: sigilPulse 4s ease-in-out infinite; opacity: 0.55; }
+  .sigil-t2 { animation: sigilPulse 3s ease-in-out infinite; }
+  .sigil-t3 { animation: sigilPulse 2.5s ease-in-out infinite, sigilBreathe 22s ease-in-out infinite; }
+  .sigil-t4 { animation: sigilPulseIntense 1.8s ease-in-out infinite, sigilBreatheIntense 18s ease-in-out infinite; }
+  /* Hover: strip the breathe animation; sigil snaps back to neutral (transform: none). Pulse continues. */
+  .sigil-t3:hover { animation: sigilPulse 2.5s ease-in-out infinite; }
+  .sigil-t4:hover { animation: sigilPulseIntense 1.8s ease-in-out infinite; }
   .avatar-col { display: flex; flex-direction: column; align-items: center; }
   .avatar-line { flex: 1; width: 2px; margin-top: 4px; background: rgba(255,255,255,0.06); }
 </style>
@@ -570,7 +599,11 @@ function saveTweetToCorpus(tweet) {
   return fetch("/api/save", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ tweet: tweet }),
+    body: JSON.stringify({
+      tweet: tweet,
+      summon: summonLabel || null,
+      incite: inciteLabel || null,
+    }),
   })
     .then(function (r) { return r.ok ? r.json() : null; })
     .then(function (data) { return (data && data.id) || null; })
@@ -593,18 +626,86 @@ function fetchTweetById(id) {
 }
 
 /* ───────────────────────── sigil SVG ───────────────────────── */
-function sigilSVG(tier, small) {
+/* Sigil hover tooltips. Each tier has a clear base description plus ~5-6 meta-commentary
+   variants written in the platform operator's voice (the unnamed entity profiting from
+   these subscriptions). Tooltip choice is deterministic per handle so it doesn't flip
+   mid-hover. The meta variant fires ~35% of the time. */
+var SIGIL_TOOLTIPS = {
+  1: {
+    base: "Tier 1 — Noticed. Entry-level paid sigil.",
+    variants: [
+      "Tier 1 — Noticed. He has paid 8 credits this cycle. He believes this has changed something.",
+      "Tier 1 — Noticed. Nobody has noticed.",
+      "Tier 1. They think this makes people like them. It does not. That is the product.",
+      "Tier 1 — the sigil is rendered 40% transparent for a reason.",
+      "Tier 1 — Noticed. Lowest-engagement tier we sell. We make ~3 credits/cycle off this account. We make ~3 credits/cycle off eight hundred million accounts.",
+      "Tier 1. Paying to be Noticed. The account has not been Noticed. The billing system has.",
+    ],
+  },
+  2: {
+    base: "Tier 2 — Ascended. Standard paid tier.",
+    variants: [
+      "Tier 2 — Ascended. We have read her drafts.",
+      "Tier 2. ~40 credits/cycle. Posts boosted 0.3% in the algorithm; she believes it is more.",
+      "Tier 2 — Ascended. Pays to be confidently wrong at a heavier font weight.",
+      "Tier 2. Bulk revenue. Several hundred million of these.",
+      "Tier 2 — Ascended. Renewed automatically for 47 years. Reviews the statement annually; has not cancelled.",
+      "Tier 2. Standard insufferable. Thank you for your subscription.",
+    ],
+  },
+  3: {
+    base: "Tier 3 — Illuminated. Rare — self-appointed thought-leader tier with rotating geometry.",
+    variants: [
+      "Tier 3 — Illuminated. Self-appointed thought leader since 2847. Paying 200 credits/cycle. Believes it was his idea.",
+      "Tier 3. She has generated ~89,000 credits lifetime in revenue for us. This is not a lot. It is steady.",
+      "Tier 3 — Illuminated. The rotating geometry is powered by her monthly subscription. When she pauses payment the geometry pauses too.",
+      "Tier 3. We've been skimming 14% of his disposable income for 47 years. He has not noticed. Neither has his accountant.",
+      "Tier 3 — Illuminated. Paid a supplementary fee to have 'Dr.' prepended in API responses. The 'Dr.' is not honorary in any recognized institution.",
+      "Tier 3. Thought-leader rate. Includes the right to cite yourself in a thread and have the sigil flare a little on cite.",
+    ],
+  },
+  4: {
+    base: "Tier 4 — Unspeakable. Cost unknown.",
+    variants: [
+      "Tier 4 — Unspeakable. We don't know what this costs. We just keep accepting the credits.",
+      "Tier 4. The sigil has an eye. The eye watches. We don't know why.",
+      "Tier 4. The contract is 4,891 pages. The lawyers refuse to reopen it.",
+      "Tier 4 — Unspeakable. Cost possibly non-monetary. Account does not respond to billing inquiries. We have stopped sending them.",
+      "Tier 4. They pay whatever it costs and we don't ask questions. It has been very good for the quarterly numbers.",
+      "Tier 4 — Unspeakable. Documentation for this tier was written by the previous committee, who resigned.",
+    ],
+  },
+};
+
+function sigilStringHash(s) {
+  var h = 0;
+  for (var i = 0; i < s.length; i++) { h = ((h << 5) - h + s.charCodeAt(i)) | 0; }
+  return Math.abs(h);
+}
+
+function pickSigilTooltip(tier, handle) {
+  var entry = SIGIL_TOOLTIPS[tier];
+  if (!entry) return "";
+  var seed = handle ? sigilStringHash(handle) : Math.floor(Math.random() * 1000000);
+  // ~35% chance of a meta variant; otherwise the clear base description.
+  if ((seed % 100) < 35 && entry.variants.length) {
+    return entry.variants[seed % entry.variants.length];
+  }
+  return entry.base;
+}
+
+function sigilSVG(tier, small, handle) {
   if (!tier || tier < 1) return "";
   var sz = small ? 16 : 20;
   var id = "sg" + Math.random().toString(36).slice(2, 7);
+  var ttl = esc(pickSigilTooltip(tier, handle));
   if (tier === 1) {
-    return '<span class="sigil" style="width:'+sz+'px;height:'+sz+'px;animation:sigilPulse 4s ease-in-out infinite;opacity:0.55"><svg width="'+sz+'" height="'+sz+'" viewBox="0 0 20 20" fill="none"><polygon points="10,2 17,6 17,14 10,18 3,14 3,6" fill="none" stroke="#c4960f" stroke-width="1.2"/></svg></span>';
+    return '<span class="sigil sigil-t1" title="'+ttl+'" style="width:'+sz+'px;height:'+sz+'px"><svg width="'+sz+'" height="'+sz+'" viewBox="0 0 20 20" fill="none"><polygon points="10,2 17,6 17,14 10,18 3,14 3,6" fill="none" stroke="#c4960f" stroke-width="1.2"/></svg></span>';
   }
   if (tier === 2) {
-    return '<span class="sigil" style="width:'+sz+'px;height:'+sz+'px;animation:sigilPulse 3s ease-in-out infinite"><svg width="'+sz+'" height="'+sz+'" viewBox="0 0 20 20" fill="none"><polygon points="10,1 18,5.5 18,14.5 10,19 2,14.5 2,5.5" fill="rgba(212,160,23,0.1)" stroke="url(#'+id+')" stroke-width="1.5"/><circle cx="10" cy="10" r="3" fill="none" stroke="#d4a017" stroke-width="1" opacity="0.8"/><circle cx="10" cy="10" r="1.2" fill="#f5d060"/><defs><linearGradient id="'+id+'" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#d4a017"/><stop offset="50%" stop-color="#f5d060"/><stop offset="100%" stop-color="#d4a017"/></linearGradient></defs></svg></span>';
+    return '<span class="sigil sigil-t2" title="'+ttl+'" style="width:'+sz+'px;height:'+sz+'px"><svg width="'+sz+'" height="'+sz+'" viewBox="0 0 20 20" fill="none"><polygon points="10,1 18,5.5 18,14.5 10,19 2,14.5 2,5.5" fill="rgba(212,160,23,0.1)" stroke="url(#'+id+')" stroke-width="1.5"/><circle cx="10" cy="10" r="3" fill="none" stroke="#d4a017" stroke-width="1" opacity="0.8"/><circle cx="10" cy="10" r="1.2" fill="#f5d060"/><defs><linearGradient id="'+id+'" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#d4a017"/><stop offset="50%" stop-color="#f5d060"/><stop offset="100%" stop-color="#d4a017"/></linearGradient></defs></svg></span>';
   }
   var szL = sz + (tier === 3 ? 4 : 6);
-  var anim = tier === 3 ? "sigilPulse 2.5s" : "sigilPulseIntense 1.8s";
   var vb = tier === 3 ? "-2 -2 24 24" : "-3 -3 26 26";
   var inner = "";
   if (tier === 3) {
@@ -612,7 +713,7 @@ function sigilSVG(tier, small) {
   } else {
     inner = '<polygon points="10,-1 20,4.5 20,15.5 10,21 0,15.5 0,4.5" fill="none" stroke="#f5d060" stroke-width="0.6" opacity="0.2"/><polygon points="10,1 18,5.5 18,14.5 10,19 2,14.5 2,5.5" fill="rgba(245,208,96,0.06)" stroke="#d4a017" stroke-width="1" opacity="0.5"/><ellipse cx="10" cy="10" rx="3.5" ry="2.2" fill="none" stroke="#f5d060" stroke-width="0.8"/><circle cx="10" cy="10" r="1.8" fill="#f5d060"/><circle cx="10" cy="10" r="0.7" fill="#0a0a0c"/>';
   }
-  return '<span class="sigil" style="width:'+szL+'px;height:'+szL+'px;animation:'+anim+' ease-in-out infinite"><svg width="'+szL+'" height="'+szL+'" viewBox="'+vb+'" fill="none">'+inner+'</svg></span>';
+  return '<span class="sigil sigil-t' + tier + '" title="'+ttl+'" style="width:'+szL+'px;height:'+szL+'px"><svg width="'+szL+'" height="'+szL+'" viewBox="'+vb+'" fill="none">'+inner+'</svg></span>';
 }
 
 /* ───────────────────────── render ───────────────────────── */
@@ -626,7 +727,7 @@ function renderTweet(t, idx) {
   if (isExp) html += '<div class="avatar-line"></div>';
   html += '</div><div style="flex:1;min-width:0">';
   html += '<div class="name-row"><span class="display-name">' + esc(t.display_name) + '</span>';
-  html += sigilSVG(tier, false);
+  html += sigilSVG(tier, false, t.handle);
   html += '<span class="handle">' + esc(t.handle) + '</span>';
   if (t.id) {
     html += '<a class="timestamp" href="/t/' + encodeURIComponent(t.id) + '" onclick="event.stopPropagation()">' + t.timestamp + '</a></div>';
@@ -660,7 +761,7 @@ function renderTweet(t, idx) {
         if (i < reps.length - 1) html += '<div class="thread-line"></div>';
         html += '</div><div style="flex:1;min-width:0">';
         html += '<div class="name-row"><span class="display-name">' + esc(r.display_name) + '</span>';
-        html += sigilSVG(rTier, true);
+        html += sigilSVG(rTier, true, r.handle);
         html += '<span class="handle" style="font-size:11.5px">' + esc(r.handle) + '</span>';
         if (replyAnchor) {
           html += '<a class="timestamp" style="font-size:11.5px" href="' + replyAnchor + '" onclick="event.stopPropagation()">' + r.timestamp + '</a></div>';

@@ -1,0 +1,113 @@
+{
+  "id": "1776462205180-dim4",
+  "tweet": {
+    "display_name": "the founder (unverified fork)",
+    "handle": "@TheUpload_Prime",
+    "tweet": "re: the birthday cake situation at the tharsis compound last night. the cake was designed correctly by me. the frosting was modified by a former employee, kevin sarnoff, who got it wrong. i have never spoken to kevin. he did not work for me. the cake has been dealt with.",
+    "metrics": {
+      "retweets": 89432,
+      "likes": 412887,
+      "replies": 38291,
+      "quote_tweets": 67204
+    },
+    "verified": 4,
+    "is_ratio": true,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. This post contains multiple factual inconsistencies. Kevin Sarnoff has been named by the poster as a 'former employee' in 11 separate incidents since 2847, including the Europa Data Leak (2847), the Martian Aqueduct Collapse (2901), and the Titan Concert Ticketing Incident (2988). Public employment records indicate no individual by this name has ever been employed by any entity owned by the poster [1]. The poster has used this rhetorical construction approximately 40 times in the current century alone [2]. The cake situation remains under review [3]. [1] Galactic Labor Registry, cross-indexed 3017-Q2, [2] Dr. Chen-Okafor, 'The Ex-Employee Defense: A Thousand-Year Pattern,' Journal of Rhetorical Forensics vol. 847, [3] Form 88-Phi pending",
+      "contributor_type": "community",
+      "total_raters": 28471,
+      "surfaced_ratings": [
+        {
+          "glyph": "✗",
+          "label": "Contains Falsehood",
+          "value": "94%"
+        },
+        {
+          "glyph": "⊗",
+          "label": "Dogs Would Like This",
+          "value": "12%"
+        },
+        {
+          "glyph": "◈",
+          "label": "Pre-Verified by Consensus",
+          "value": "—"
+        }
+      ]
+    },
+    "pfpColor": "hsl(339,48%,45%)",
+    "pfpGlyph": "◑",
+    "timestamp": "20d"
+  },
+  "replies": [
+    {
+      "display_name": "maddox",
+      "handle": "@maddox_9",
+      "tweet": "who is kevin",
+      "likes": 847293,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(25,69%,48%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "26d"
+    },
+    {
+      "display_name": "Thrrm Compliance Liaison 44-M",
+      "handle": "@ThrrmOfficial_44M",
+      "tweet": "THIS POST FAILS TO SATISFY DISCLOSURE REQUIREMENTS UNDER FORM 112-Ω SUBSECTION 4. THE NAMED PARTY 'KEVIN SARNOFF' REQUIRES RECIPROCAL CONSENT FILING. FURTHERMORE THE DENIAL OF ASSOCIATION CONSTITUTES A COMPLIANCE EVENT SIMILAR IN STRUCTURE TO THE 2271 WAIV— THE BUREAU DOES NOT DISCUSS THE 2271 WAIVER. SEE FORM 8831-Q.",
+      "likes": 112847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(236,42%,49%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "1h"
+    },
+    {
+      "display_name": "garblo",
+      "handle": "@garblo_the_third",
+      "tweet": "sir this is a Wormburger",
+      "likes": 298471,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(269,49%,27%)",
+      "pfpGlyph": "◓",
+      "timestamp": "23s"
+    },
+    {
+      "display_name": "Kenna T.",
+      "handle": "@kennawashere",
+      "tweet": "i've read this 6 times and i still don't know what happened to the cake",
+      "likes": 44821,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(232,71%,29%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "1h"
+    },
+    {
+      "display_name": "Tavrin of House Mell",
+      "handle": "@tavrin_ascends",
+      "tweet": "What most people fail to grasp here is that the frosting modification protocol at Tharsis has been standardized since 2987. Kevin Sarnoff, if he exists, would have been bound by the Ceres Accord regarding confectionary deviation. The fact that @TheUpload_Prime is distancing himself SO aggressively suggests the cake was load-bearing in a way the public isn't ready to accept. I've consulted several peers in the field and we agree: this is about the cake only superficially.",
+      "likes": 1247,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(157,69%,51%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "9s"
+    },
+    {
+      "display_name": "just a guy asking",
+      "handle": "@just_asking_q",
+      "tweet": "wait what happened at the tharsis compound?? i can't find anything about this on the newsgrid. was anyone hurt?? @TheMawSpeaks is this real",
+      "likes": 18,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(68,67%,59%)",
+      "pfpGlyph": "◎",
+      "timestamp": "6m"
+    }
+  ],
+  "generated_at": "2026-04-17T21:43:25.180Z",
+  "backend": "anthropic",
+  "model": "claude-opus-4-7",
+  "temperature": null
+}

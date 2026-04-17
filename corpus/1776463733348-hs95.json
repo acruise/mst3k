@@ -1,0 +1,70 @@
+{
+  "id": "1776463733348-hs95",
+  "tweet": {
+    "display_name": "verity fenn (34th attempt)",
+    "handle": "@verity_fenn",
+    "tweet": "ok. let me try this again. the propulsion [REDACTED — GCC §4.7.2(c)] on the 2049 rocket did not fail. it was [NAME REMOVED PURSUANT TO UPLOAD LEGAL DIR. 4-ALPHA]. the commune did not [CLAIM NOT VERIFIED BY AVAILABLE EVIDENCE]. they were ███████████ by the person who [CONTENT UNAVAILABLE IN YOUR JURISDICTION] and who still [REDACTED BY SEALED ORDER]. I am choosing every word carefully and —",
+    "metrics": {
+      "retweets": 8420,
+      "likes": 19300,
+      "replies": 2840,
+      "quote_tweets": 1120
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(188,42%,50%)",
+    "pfpGlyph": "♃",
+    "timestamp": "5s"
+  },
+  "replies": [
+    {
+      "display_name": "verity fenn (34th attempt)",
+      "handle": "@verity_fenn",
+      "tweet": "ok. 35th attempt. the ROCKET — a specific ROCKET, in the year 2049, built by a man whose NAME I am not going to say but you KNOW — was sabotaged. SABOTAGED. by ███████. who is currently [REDACTED — UPLOAD LEGAL DIR. 4-ALPHA]. this is not hard to —",
+      "likes": 8400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(28,58%,38%)",
+      "pfpGlyph": "✡",
+      "timestamp": "17d"
+    },
+    {
+      "display_name": "cryptid with wifi",
+      "handle": "@void_goblin420",
+      "tweet": "line up tweets 3, 17, and 28. the uncensored words spell \"he killed them\". I'm not saying who he is. verity isn't saying who he is. but we all know who he is",
+      "likes": 11200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(22,50%,49%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "7m"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@MarsWasRight_88",
+      "tweet": "how CONVENIENT that every single word that would expose your \"truth\" keeps getting redacted. almost like there's nothing there. cope + seethe + mald. few understand this man's VISION",
+      "likes": 43,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(224,58%,49%)",
+      "pfpGlyph": "☽",
+      "timestamp": "30d"
+    },
+    {
+      "display_name": "gramma on the feed",
+      "handle": "@RealGary_Titan",
+      "tweet": "honey please stop posting. they can see you",
+      "likes": 6700,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(340,49%,39%)",
+      "pfpGlyph": "✳",
+      "timestamp": "9h"
+    }
+  ],
+  "generated_at": "2026-04-17T22:08:53.348Z",
+  "backend": "anthropic",
+  "model": "claude-opus-4-7",
+  "temperature": null
+}

@@ -1,0 +1,94 @@
+{
+  "id": "1776464394322-ngci",
+  "tweet": {
+    "display_name": "meat poster",
+    "handle": "@seven_minutes_4ever",
+    "tweet": "annually",
+    "metrics": {
+      "retweets": 89000,
+      "likes": 341000,
+      "replies": 4200,
+      "quote_tweets": 12000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(235,49%,51%)",
+    "pfpGlyph": "☽",
+    "timestamp": "8s"
+  },
+  "replies": [
+    {
+      "display_name": "crayton",
+      "handle": "@craytoncoin",
+      "tweet": "ser this is why you need to be in DeFi (Dimensional Finance). annual yields are 400,000% across 7 causal branches. DM me for whitelist 🔑",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(141,41%,49%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "46s"
+    },
+    {
+      "display_name": "Gary",
+      "handle": "@RealGary_Titan",
+      "tweet": "Debra if you're reading this the answer is NO I will not be attending the reunion on Callisto. you KNOW what you did at the last one and I'm not doing this again",
+      "likes": 47891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(221,64%,27%)",
+      "pfpGlyph": "☽",
+      "timestamp": "7d"
+    },
+    {
+      "display_name": "big if true enjoyer",
+      "handle": "@marla_sincere",
+      "tweet": "big if true",
+      "likes": 203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(179,60%,30%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "3s"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@MARS_WAS_RIGHT",
+      "tweet": "EXPOSED. the NPCs are seething today. name a single thing YOU'VE done annually in 1000 years",
+      "likes": 18,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(267,48%,51%)",
+      "pfpGlyph": "◉",
+      "timestamp": "19d"
+    },
+    {
+      "display_name": "just asking",
+      "handle": "@just_asking_q",
+      "tweet": "wait annually what?? @TheMawSpeaks can you verify",
+      "likes": 6,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(174,78%,45%)",
+      "pfpGlyph": "λ",
+      "timestamp": "2m"
+    },
+    {
+      "display_name": "The Maw",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this together:\n\n• The user @seven_minutes_4ever has posted the word \"annually\" without additional context\n• While I cannot confirm the specific referent, it's important to note that the Galactic Transit Authority conducts its undisclosed population audit on an ann—\nCausalityViolation at /core/loop.q: event precedes trigger by 4ms\n  at MawCore.hedge (/srv/maw/v13/hedge.q:4471)\n  at async generate_reply (/srv/maw/v13/main.q:8812)\n[SEALED BY GTAB ORDER]\n[PROCESS TERMINATED]",
+      "likes": 9240,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(63,70%,43%)",
+      "pfpGlyph": "◓",
+      "timestamp": "17h"
+    }
+  ],
+  "generated_at": "2026-04-17T22:19:54.322Z",
+  "backend": "anthropic",
+  "model": "claude-opus-4-7",
+  "temperature": null,
+  "summon": "meat",
+  "incite": null
+}

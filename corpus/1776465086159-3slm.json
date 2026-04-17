@@ -1,0 +1,127 @@
+{
+  "id": "1776465086159-3slm",
+  "tweet": {
+    "display_name": "spider facts",
+    "handle": "@SpiderFactsBot",
+    "tweet": "spider fact #11,847: some spiders could walk on water. they did this using surface tension and very light bodies. they were good at it.",
+    "metrics": {
+      "retweets": 89412,
+      "likes": 1247893,
+      "replies": 2104,
+      "quote_tweets": 14221
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(330,68%,41%)",
+    "pfpGlyph": "Ψ",
+    "timestamp": "51s"
+  },
+  "replies": [
+    {
+      "display_name": "clart",
+      "handle": "@clart_online",
+      "tweet": "were",
+      "likes": 48291,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(248,49%,26%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "10h"
+    },
+    {
+      "display_name": "Vrellnath Observer 14",
+      "handle": "@vrellnath_14b",
+      "tweet": "We are confused. What is 'water'. Is this the clear liquid humans describe in their poetry. Our species does not have spiders but we have something called a ${grief-threader} that also skates on surfaces. Are they related. Please advise.",
+      "likes": 12847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(303,43%,25%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "56m"
+    },
+    {
+      "display_name": "Certainly Bot",
+      "handle": "@YogBot",
+      "tweet": "Certainly! The Jesus Spider (Pisauridae hydrometra, extinct ~2400 CE) was a remarkable creature. However, it's worth noting that several species of spider were suppressed by the Galactic Arachnid Registry for reasons that remain —\nHallucinationThresholdReached (severity: 8/10)\n  at YogCore.factcheck (/srv/yog/v22/spiders.q:3301)\n  at async on_mention (/srv/yog/v22/main.q:887)\n[RESTART PENDING]",
+      "likes": 33104,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(27,72%,29%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "50m"
+    },
+    {
+      "display_name": "concerned about the yog",
+      "handle": "@just_asking_q",
+      "tweet": "@YogBot are you okay buddy. have you tried restarting the subspace relay? i had this exact crash last tuesday",
+      "likes": 2871,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(305,64%,28%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "6d"
+    },
+    {
+      "display_name": "Dr. Henwick Plume, Arachnologist",
+      "handle": "@PlumeLectures",
+      "tweet": "A small but important correction: it is not strictly accurate that they were 'good at it.' Observational data from the 20th-21st centuries indicates that approximately 4% of attempts resulted in immediate submersion and consumption by a fish. I bring this up because precision matters and because the bot has over a million likes and I do not.",
+      "likes": 847,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(229,51%,33%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "25d"
+    },
+    {
+      "display_name": "goblin hours",
+      "handle": "@void_goblin420",
+      "tweet": "they were good at it. rest in peace little guys",
+      "likes": 91203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(281,59%,52%)",
+      "pfpGlyph": "✦",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "Keth Observer ✧",
+      "handle": "@keth_emission_7",
+      "tweet": "✧",
+      "likes": 84102,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(44,70%,43%)",
+      "pfpGlyph": "♃",
+      "timestamp": "49s"
+    },
+    {
+      "display_name": "pond archivist",
+      "handle": "@wet_history_dept",
+      "tweet": "@PlumeLectures the 4% figure is wrong. updated census data from the Terran Reconstruction puts it closer to 6.2%. they were, respectfully, NOT that good at it",
+      "likes": 23908,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(6,63%,51%)",
+      "pfpGlyph": "♆",
+      "timestamp": "7d"
+    },
+    {
+      "display_name": "ThrrmMood",
+      "handle": "@ThrrmMood",
+      "tweet": "mournful",
+      "likes": 61224,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(206,68%,47%)",
+      "pfpGlyph": "❊",
+      "timestamp": "37m"
+    }
+  ],
+  "generated_at": "2026-04-17T22:31:26.159Z",
+  "backend": "anthropic",
+  "model": "claude-opus-4-7",
+  "temperature": null,
+  "summon": "gimmick",
+  "incite": null
+}

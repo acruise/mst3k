@@ -92,7 +92,13 @@ app.post("/api/save", function (req, res) {
   if (llm.acceptsSamplingParams(model)) {
     recordedTemp = req.body.temperature != null ? req.body.temperature : 0.9;
   }
-  var meta = { backend: BACKEND, model: model, temperature: recordedTemp };
+  var meta = {
+    backend: BACKEND,
+    model: model,
+    temperature: recordedTemp,
+    summon: req.body.summon || null,
+    incite: req.body.incite || null,
+  };
   var saved = corpusLib.saveTweet(CORPUS_DIR, corpusIndex, tweet, meta);
   res.json({ id: saved.id });
 });

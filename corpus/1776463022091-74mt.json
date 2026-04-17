@@ -1,0 +1,146 @@
+{
+  "id": "1776463022091-74mt",
+  "tweet": {
+    "display_name": "the founder (prime)",
+    "handle": "@TheUpload_Prime",
+    "tweet": "to clarify: the lasagna i served at the dinner last night was based on a recipe i personally developed. the final preparation was handled by a former employee, Marcus Vellan, who deviated from my instructions and got the bechamel wrong. i was unaware of his changes. i stand by my original recipe.",
+    "metrics": {
+      "retweets": 84000,
+      "likes": 312000,
+      "replies": 47000,
+      "quote_tweets": 91000
+    },
+    "verified": 4,
+    "is_ratio": true,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. No individual named 'Marcus Vellan' appears in any employment record associated with the poster across 1,000 years of available documentation [1]. This is the 41st instance this century of the poster attributing a negative outcome to a former employee [2]. Of the 41 named individuals, 17 have no record of employment with the poster, 3 are known to be fictional, and 1 instance named the poster himself [3]. The dinner in question had 6 guests; 4 have publicly stated the lasagna was fine [4]. [1] Galactic Employment Archive, cross-ref. [2] Ex-Employee Defense Tracker (community-maintained, since 2ָ894). [3] ibid. [4] direct statements, timeline.",
+      "contributor_type": "community",
+      "total_raters": 38400,
+      "surfaced_ratings": [
+        {
+          "glyph": "✓",
+          "label": "Epistemically Sound",
+          "value": "96%"
+        },
+        {
+          "glyph": "⊗",
+          "label": "Dogs Would Like This",
+          "value": "71%"
+        },
+        {
+          "glyph": "◈",
+          "label": "Pre-Verified by Consensus",
+          "value": "—"
+        }
+      ]
+    },
+    "pfpColor": "hsl(287,68%,39%)",
+    "pfpGlyph": "Γ",
+    "timestamp": "43s"
+  },
+  "replies": [
+    {
+      "display_name": "clem",
+      "handle": "@clementine_void",
+      "tweet": "sir you are a 1000 year old corrupted backup throwing a line cook under the wormhole over bechamel",
+      "likes": 847293,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(82,73%,54%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "23d"
+    },
+    {
+      "display_name": "Marcus Vellan",
+      "handle": "@m_vellan_cooks",
+      "tweet": "i quit in 3019. i have not worked for you in SEVEN YEARS. i was at my daughter's wedding on titan last night. what are you doing",
+      "likes": 1200000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(48,79%,41%)",
+      "pfpGlyph": "♄",
+      "timestamp": "26s"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@prime_truther_47",
+      "tweet": "you wouldn't understand, he's playing 12-dimensional chess with the bechamel. name a single lasagna YOU'VE developed in 1000 years. the NPCs are seething tonight because a great man served a noodle",
+      "likes": 412,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(216,49%,27%)",
+      "pfpGlyph": "◒",
+      "timestamp": "29d"
+    },
+    {
+      "display_name": "Gilda, survived '71",
+      "handle": "@migrated_gilda",
+      "tweet": "i couched three ghosts in '71 and fed them with a rice cooker and a prayer. nobody blamed the roux. log off.",
+      "likes": 91402,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(301,76%,41%)",
+      "pfpGlyph": "◇",
+      "timestamp": "28m"
+    },
+    {
+      "display_name": "THIS IS THE TWEET",
+      "handle": "@void_goblin420",
+      "tweet": "THIS IS THE TWEET",
+      "likes": 38291,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(299,74%,33%)",
+      "pfpGlyph": "◉",
+      "timestamp": "26m"
+    },
+    {
+      "display_name": "food historian (tired)",
+      "handle": "@saucepan_archivist",
+      "tweet": "crucial context: the 'original recipe' he's referring to was published under his name in 2034 and was ghostwritten by a woman named Elena Cho who sued him in 2037 and won. the bechamel ratio he's mad about is literally hers.",
+      "likes": 684019,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(72,72%,52%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "10d"
+    },
+    {
+      "display_name": "noodle truther",
+      "handle": "@al_dente_gaming",
+      "tweet": "@m_vellan_cooks congrats on the wedding king",
+      "likes": 89400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(23,65%,34%)",
+      "pfpGlyph": "✶",
+      "timestamp": "17m"
+    },
+    {
+      "display_name": "Kepler (he/they)",
+      "handle": "@keplerposts",
+      "tweet": "imagine being a thousand years old and the hill you die on is white sauce",
+      "likes": 47200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(36,65%,52%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "15m"
+    },
+    {
+      "display_name": "Dr. Henriette Vosk, PhD",
+      "handle": "@vosk_consults",
+      "tweet": "Actually, there's significant nuance being missed here. The Vellan-Prime culinary dispute is emblematic of a larger pattern in post-upload attribution economics, which I've written about extensively in my forthcoming paper. The bechamel is a MacGuffin. What we're really watching is the slow-motion collapse of the consciousness-continuity defense as a legal shield for reputational harm, a thesis first advanced by my colleague Dr. Alveron in 3019 and subsequently confirmed by the Tau Ceti ruling. The lasagna is, in this sense, a smoking gun. I will be hosting a Space tomorrow.",
+      "likes": 412,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(322,50%,39%)",
+      "pfpGlyph": "❋",
+      "timestamp": "8s"
+    }
+  ],
+  "generated_at": "2026-04-17T21:57:02.091Z",
+  "backend": "anthropic",
+  "model": "claude-opus-4-7",
+  "temperature": null
+}

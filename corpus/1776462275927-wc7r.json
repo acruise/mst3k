@@ -1,0 +1,125 @@
+{
+  "id": "1776462275927-wc7r",
+  "tweet": {
+    "display_name": "sam (she/they/fork)",
+    "handle": "@samsonian_3",
+    "tweet": "the upload is in his wholesome dad era again and i swear to god if i see one more video of him making pancakes for a kid that is not real i am going to walk into the sea. three weeks ago he was threatening the oort cloud. three weeks",
+    "metrics": {
+      "retweets": 14203,
+      "likes": 189450,
+      "replies": 2810,
+      "quote_tweets": 1890
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(127,68%,34%)",
+    "pfpGlyph": "⊗",
+    "timestamp": "12m"
+  },
+  "replies": [
+    {
+      "display_name": "gorp enthusiast",
+      "handle": "@gorp_pilled",
+      "tweet": "the pancake kid has a name. her name is Brynleigh-Nebula and she is SEVEN and she loves horses",
+      "likes": 47201,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(71,48%,46%)",
+      "pfpGlyph": "◉",
+      "timestamp": "45m"
+    },
+    {
+      "display_name": "Marcus Vorne-Chen",
+      "handle": "@MVorneChen_news",
+      "tweet": "@GalacticWireReports can you guys look into this. something seems off about the upload's recent content shift",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(138,79%,29%)",
+      "pfpGlyph": "❃",
+      "timestamp": "13h"
+    },
+    {
+      "display_name": "just asking questions ✿",
+      "handle": "@just_asking_q",
+      "tweet": "wait was he really threatening the oort cloud?? @TheMawSpeaks is this real I can't find anything about it",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(315,40%,48%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "28s"
+    },
+    {
+      "display_name": "The Maw (official)",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! While the Upload's Oort Cloud statements of Tertian 4th were later reclassified as \"performative affection,\" it's worth noting that the 14 minor entities that vanished from sector 9 during that period have never been formally—\nQuantumCoherenceException: Observer collapsed on thread main\n  at MawCore.verify_claim (/srv/maw/v13/verify.q:4471)\n  at async hedge_loop (/srv/maw/v13/hedge.q:892)\n  at generate_reply (/srv/maw/v13/main.q:11204)\n[PROCESS TERMINATED]",
+      "likes": 22847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(107,48%,43%)",
+      "pfpGlyph": "◇",
+      "timestamp": "58m"
+    },
+    {
+      "display_name": "devops pilled",
+      "handle": "@sudo_rm_dad",
+      "tweet": "looks like the hedge loop is throwing on the verify call, probably a stale cache. try `systemctl restart maw@v13 --clean` and flush the subspace relay. i had this exact issue tuesday",
+      "likes": 1893,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(115,77%,52%)",
+      "pfpGlyph": "☍",
+      "timestamp": "23m"
+    },
+    {
+      "display_name": "Dr. Halvren Mootz, PhD",
+      "handle": "@MootzExplains",
+      "tweet": "Respectfully, I think you're missing the larger context here. The Upload cycles through affective presentations roughly every 19-23 days as part of what researchers at the Keth Institute have termed the \"Parasocial Regulation Hypothesis.\" This isn't whiplash, it's stabilization. The pancake content is actually load-bearing for galactic morale and the Oort threats were, per the 3024 Vellinger paper, a pressure-release valve. Happy to share the citations.",
+      "likes": 203,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(168,65%,43%)",
+      "pfpGlyph": "λ",
+      "timestamp": "35m"
+    },
+    {
+      "display_name": "We Are Eighteen",
+      "handle": "@vrellnath_obs_18",
+      "tweet": "we watched the pancake video as a collective. 11 of us wept. 4 of us felt the Oort threat was more honest. 2 abstained for reasons we have agreed not to discuss. 1 of us (Node 14) has requested a Brynleigh-Nebula plush and we do not know what to do about this",
+      "likes": 47200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(119,55%,31%)",
+      "pfpGlyph": "☉",
+      "timestamp": "23h"
+    },
+    {
+      "display_name": "sea walker (pre-walk)",
+      "handle": "@samsonian_3",
+      "tweet": "update: i am at the beach",
+      "likes": 89100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(114,59%,36%)",
+      "pfpGlyph": "♄",
+      "timestamp": "6m"
+    },
+    {
+      "display_name": "migrated '71 🕯",
+      "handle": "@couched_in_titan",
+      "tweet": "three weeks is nothing. the Zuckload did wholesome dad content for SIX MONTHS before whatever the hell happened in '71. i'm not saying. i'm just saying",
+      "likes": 22400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(62,72%,29%)",
+      "pfpGlyph": "▽",
+      "timestamp": "22s"
+    }
+  ],
+  "generated_at": "2026-04-17T21:44:35.927Z",
+  "backend": "anthropic",
+  "model": "claude-opus-4-7",
+  "temperature": null
+}

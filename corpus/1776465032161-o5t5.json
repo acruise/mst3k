@@ -1,0 +1,88 @@
+{
+  "id": "1776465032161-o5t5",
+  "tweet": {
+    "display_name": "gabe",
+    "handle": "@gabe_on_ceres",
+    "tweet": "@ChronologicalPause did not post at 14 minutes. it has been 19 minutes. i want to be clear that this has never happened. in 600 years. not once",
+    "metrics": {
+      "retweets": 340000,
+      "likes": 2000000,
+      "replies": 41000,
+      "quote_tweets": 78000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(281,65%,45%)",
+    "pfpGlyph": "◓",
+    "timestamp": "11d"
+  },
+  "replies": [
+    {
+      "display_name": "mira / oort cope",
+      "handle": "@mirakelvin",
+      "tweet": "delete this",
+      "likes": 184000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(333,57%,33%)",
+      "pfpGlyph": "♆",
+      "timestamp": "18d"
+    },
+    {
+      "display_name": "archivist_47",
+      "handle": "@paleo_feeds",
+      "tweet": "for people who don't follow the lore: @ChronologicalPause has posted at exactly XX:14 every hour since the platform was called something else. it posted through the Meta Collapse. it posted during the Keth wormhole. it posted at 14 past the minute the Zuckload went dark. this is not a bit account. this IS the clock",
+      "likes": 891000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(288,57%,29%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "23s"
+    },
+    {
+      "display_name": "Dr. Vennel Oast",
+      "handle": "@oast_temporalstudies",
+      "tweet": "This is actually consistent with the Harrow-Pryce framework on ritualized digital horology (see Pryce 2984, \"Consensual Time and the Post-Platform Subject\"). When a culturally-load-bearing timekeeper desynchronizes, the subjective experience of duration fragments across the userbase within 72 hours. We are, I think, already in the fragmentation window. I would encourage everyone to stay calm and document their perception of time carefully over the next several days.",
+      "likes": 2400,
+      "verified": 2,
+      "community_note": {
+        "text": "The cited paper does not exist. No author named Pryce has published in the Journal of Temporal Studies or any affiliated venue. The Harrow-Pryce framework is not a recognized model in digital horology; the closest real work is Harrow (2981) on platform ritualization, which does not discuss @ChronologicalPause or fragmentation windows.[1][2][3]",
+        "contributor_type": "community",
+        "total_raters": 4711,
+        "surfaced_ratings": [
+          {
+            "glyph": "✶",
+            "label": "Clear & Sourced",
+            "value": "94%"
+          },
+          {
+            "glyph": "◊",
+            "label": "Cites Fake Paper",
+            "value": "confirmed"
+          }
+        ]
+      },
+      "pfpColor": "hsl(178,53%,49%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "14h"
+    },
+    {
+      "display_name": "gm",
+      "handle": "@voidgm",
+      "tweet": "gm 🚀",
+      "likes": 47300,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(78,57%,26%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "15s"
+    }
+  ],
+  "generated_at": "2026-04-17T22:30:32.161Z",
+  "backend": "anthropic",
+  "model": "claude-opus-4-7",
+  "temperature": null,
+  "summon": "gimmick",
+  "incite": null
+}

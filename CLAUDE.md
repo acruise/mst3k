@@ -104,8 +104,8 @@ public/
                    State uses `uiId` for local DOM/expansion, `id` for corpus persistence.
 
   data/
-    meme-formats.json       260 tweet format descriptions, categorized.
-    reply-archetypes.json   103 reply archetypes.
+    meme-formats.json       271 tweet format descriptions, categorized.
+    reply-archetypes.json   113 reply archetypes.
     handles.json            Fallback handle generation (prefixes/roots/suffixes).
     system-prompt.txt       Main tweet generation system prompt (~7K chars).
     replies-prompt.txt      Reply thread generation system prompt (~5K chars).
@@ -165,6 +165,7 @@ To test a rare format without spray-and-pray: append `?summon=KEYWORD` to the fe
 - `?summon=Meta` → Meta Refugee Crisis callbacks
 - `?summon=dril` → dril-specific formats
 - `?summon=moon` or `?summon=dog` → formats that might trigger the deranged community notes
+- `?summon=whistleblow` → censored-whistleblower tweets (uploads/clone-descendants of former Upload or Meta employees, ~40% redacted text)
 
 The subheader shows "⚡ SUMMONING \"keyword\" (N formats)" when active. Zero matches falls back to the full pool with a console warning.
 
