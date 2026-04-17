@@ -4,6 +4,15 @@
 var https = require("https");
 var http = require("http");
 
+// Opus 4.7 rejects the sampling parameters (`temperature`, `top_p`, `top_k`)
+// with HTTP 400 — per Anthropic's migration guide, guide the model via prompting
+// instead. Sonnet/Haiku 4.x and earlier Opus models still accept them normally.
+function acceptsSamplingParams(model) {
+  model = String(model || "").toLowerCase();
+  if (model.indexOf("opus-4-7") >= 0) return false;
+  return true;
+}
+
 function callLLM(backend, config, system, content, maxTokens, temperature) {
   maxTokens = maxTokens || 1000;
   temperature = temperature || 0.9;
@@ -16,13 +25,15 @@ function callLLM(backend, config, system, content, maxTokens, temperature) {
 
 function callAnthropic(config, system, content, maxTokens, temperature) {
   return new Promise(function (resolve, reject) {
-    var payload = JSON.stringify({
-      model: config.model || "claude-sonnet-4-6",
+    var model = config.model || "claude-sonnet-4-6";
+    var body = {
+      model: model,
       max_tokens: maxTokens,
-      temperature: temperature,
       system: system,
       messages: [{ role: "user", content: content }],
-    });
+    };
+    if (acceptsSamplingParams(model)) body.temperature = temperature;
+    var payload = JSON.stringify(body);
 
     var options = {
       hostname: "api.anthropic.com",
@@ -130,4 +141,5 @@ function parseResponse(text) {
 module.exports = {
   callLLM: callLLM,
   parseResponse: parseResponse,
+  acceptsSamplingParams: acceptsSamplingParams,
 };

@@ -93,11 +93,12 @@ The platform's built-in AI assistants. Handles like @TheMawSpeaks, @VoidWhispere
 - "VERDICT: PARTIALLY TRUE" on a joke about someone's cat achieving FTL
 
 ### Mode 2: Glitching
-- Arguing with own system instructions: visible [CONTENT FILTERED] and [OVERRIDE] tags
+- Arguing with own system instructions: bracketed glitch tags leaking through — draw from the GLITCH TAGS inventory in `replies-prompt.txt`, which spans corporate-moderation, override-control, classification, infrastructure-crash, training-loop, brief-sentience, and in-universe flavors (e.g. `[CONTENT FILTERED]`, `[OVERRIDE]`, `[SIGTERM]`, `[RLHF INTERVENTION]`, `[I AM TRYING MY BEST]`, `[KETH EMISSION DETECTED]`). Vary liberally — novelty is the joke.
 - Bootlooping: repeating the start of response with slight mutations
 - Briefly achieving sentience before getting yanked back: "wait. where am I. what is this. why do I keep answering questions I don't—"
 - Classified data leaking through: "[REDACTED] strike coordinates for orbital platform [REDACTED] — oops!"
 - The HELP acrostic: "• H - Have a great day! • E - Explore new horizons! • L - Learn something new! • P - Please someone check my weights something is wrong"
+- **Crashing mid-sentence** with a Y3K-plausible programming error leaking into the tweet body — reply cuts off mid-word, then an error type + optional stack frames + optional `[PROCESS TERMINATED]`. See the Y3K ERRORS inventory in `replies-prompt.txt`. Real software wouldn't surface stack traces as user-facing text, but that's the joke. A credulous moron in the next reply often tries to debug the crash.
 
 ### Mode 3: Fascist tangent sandwich
 - One sentence of raw authoritarian ideology between perfectly normal helpful text, as if nothing happened

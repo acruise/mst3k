@@ -1,6 +1,6 @@
 # In-Universe Documents — Ideas
 
-These are fictional documents from the MST3K universe (circa 3026 CE) that could be written as standalone pieces. The shitposting paper has been written. The comedy festival was drafted but needs a rewrite (see notes). Everything else is just an outline.
+These are fictional documents from the Memetic Subspace universe (circa 3026 CE) that could be written as standalone pieces. The shitposting paper has been written. The comedy festival was drafted but needs a rewrite (see notes). Everything else is just an outline.
 
 ## Written
 

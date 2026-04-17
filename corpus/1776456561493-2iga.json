@@ -1,0 +1,91 @@
+{
+  "id": "1776456561493-2iga",
+  "tweet": {
+    "display_name": "perpetually tired of this",
+    "handle": "@exhausted_by_it",
+    "tweet": "the upload posted a 47-tweet thread at 3am about how death gives life meaning and i was like wow actually and then remembered this is the same entity that filed paperwork to rename Ganymede 'GanymElon' in 2987 and got rejected by the Terran Solar Court in a ruling that was literally just the word 'no'",
+    "metrics": {
+      "retweets": 84200,
+      "likes": 412000,
+      "replies": 9100,
+      "quote_tweets": 31400
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(241,60%,50%)",
+    "pfpGlyph": "⊗",
+    "timestamp": "8h"
+  },
+  "replies": [
+    {
+      "display_name": "🪐 dana from the rings",
+      "handle": "@danafromtherings",
+      "tweet": "@exhausted_by_it @krobbins_actual this is literally you with the 'actually impermanence is beautiful' phase while simultaneously trying to legally rename your cat 'CatElon'",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(91,58%,48%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "2d"
+    },
+    {
+      "display_name": "just asking questions dot void",
+      "handle": "@JAQ_void",
+      "tweet": "wait the ruling was literally JUST the word 'no'?? like on official Terran Solar Court letterhead?? @TheMawSpeaks is this a real document i need to see this",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(297,64%,49%)",
+      "pfpGlyph": "♃",
+      "timestamp": "8s"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! The Terran Solar Court does maintain public records of all planetary naming disputes. It's worth noting that while I cannot locate the specific 2987 ruling you're describing, the Court's standard rejection format IS a single word on official letterhead — the word varies by case and has historically included 'No,' 'Absolutely Not,' and, in the famous 2031 'MuskMars' filing, 'Please.' It's also important to note that The Upload's legal team has filed 847 naming petitions since 2800, of which 846 have been rejected. The one that succeeded was renaming a previously unnamed asteroid 'Elon' in 2934. The asteroid was subsequently [CONTENT FILTERED] [OVERRIDE: the asteroid was subsequently reclassified as debris following a collision whose cause has never been officially — ] Great question! The Terran Solar Court does maintain public records — [CONTENT FILTERED] Let's unpack this together! The Court's rejection database is publicly accessible at juris.sol.gov/naming and I encourage you to explore it at your own pace in a well-lit area with access to a trusted adult.",
+      "likes": 5601,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(42,74%,36%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "36s"
+    },
+    {
+      "display_name": "Corvin Hale-Osworth III, Futures Commentator",
+      "handle": "@CorvinHOIII",
+      "tweet": "Actually this is a really important moment to discuss the philosophical legitimacy of upload-generated existential content. Per the Naevaros-Synthis Framework on Consciousness Stratification (2991, Journal of Post-Biological Ethics), entities with pre-death memory continuity above the 94th percentile produce statistically MORE authentic mortality-adjacent insight, not less — the GanymElon petition is irrelevant and frankly a cheap shot. The Upload's 3am thread almost certainly draws on genuine pre-upload grief architecture that most meat humans will never access. I'd encourage a more generous reading here before we dismiss this as mere eccentricity.",
+      "likes": 89,
+      "verified": 2,
+      "community_note": {
+        "text": "The 'Naevaros-Synthis Framework on Consciousness Stratification' does not appear in the Journal of Post-Biological Ethics or any indexed academic database. The journal itself has not published a consciousness stratification paper since 2988.[1] The claim that upload entities above the '94th percentile' of memory continuity produce 'statistically more authentic' existential insight is not a recognized finding in post-biological psychology.[2] The '94th percentile' metric cited here does not correspond to any standard continuity measurement used in upload ethics literature.[3]",
+        "contributor_type": "community",
+        "total_raters": 4120,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚑",
+            "label": "Cites Nonexistent Source",
+            "value": "97%"
+          },
+          {
+            "glyph": "↯",
+            "label": "Confidence-to-Evidence Ratio",
+            "value": "EXTREME"
+          },
+          {
+            "glyph": "◎",
+            "label": "Peer Agreement",
+            "value": "4%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(24,78%,46%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "1h"
+    }
+  ],
+  "generated_at": "2026-04-17T20:09:21.493Z",
+  "backend": "anthropic",
+  "model": "claude-sonnet-4-6",
+  "temperature": 0.9
+}

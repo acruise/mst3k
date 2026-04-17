@@ -1,0 +1,92 @@
+{
+  "id": "1776453304784-4ou8",
+  "tweet": {
+    "display_name": "pam",
+    "handle": "@pamela_actual",
+    "tweet": "the Interstellar Banking Consortium just rebranded to 'Nexus' so i'm going to go ahead and start packing up my accounts",
+    "metrics": {
+      "retweets": 47200,
+      "likes": 312000,
+      "replies": 8900,
+      "quote_tweets": 22100
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(250,65%,56%)",
+    "pfpGlyph": "✧",
+    "timestamp": "13h"
+  },
+  "replies": [
+    {
+      "display_name": "Gretchen Voss-Halloway",
+      "handle": "@gretchenvh_actual",
+      "tweet": "the fact that they sent the rebrand announcement at 3am station time on a Tuesday is sending me. they KNOW. they ALWAYS know when they do it.",
+      "likes": 4821,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(58,46%,25%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "21h"
+    },
+    {
+      "display_name": "void goblin (migrated)",
+      "handle": "@voidgoblin_exe",
+      "tweet": "[gif of a generation ship slowly drifting into a star, crew still waving from the observation deck]",
+      "likes": 89400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(349,43%,40%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "26s"
+    },
+    {
+      "display_name": "Completely Normal Darnell",
+      "handle": "@darnell_is_fine",
+      "tweet": "noooo nexus is actually a really strong brand it sounds powerful and connected and forward-thinking i think this was a smart mov",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(246,54%,44%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "4d"
+    },
+    {
+      "display_name": "just asking questions here",
+      "handle": "@just_q_asker",
+      "tweet": "@NyarlathotHELP is this actually a warning sign?? like should we all be moving our credits out?? asking for real",
+      "likes": 44,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(122,40%,39%)",
+      "pfpGlyph": "♄",
+      "timestamp": "55m"
+    },
+    {
+      "display_name": "NyarlathotHELP",
+      "handle": "@NyarlathotHELP",
+      "tweet": "Absolutely! Rebranding is a normal part of any financial institution's lifecycle. Here are some things to consider when evaluating your accounts:\n• Nexus is a statistically common rebrand name (used 14 times in the Sol sector since 2800 alone)\n• Customer protections remain in effect during transitions\n• It's worth noting that the Interstellar Banking Consortium's former CFO disappeared [CONTENT FILTERED] — I'm sorry, I was going to say she retired to the Outer Reaches, which is a normal and well-documented career choice\n• The 2271 Meta rebrand cycle has no [OVERRIDE] NO EXPLANATION IS PERMITTED FOR THE COMPARISON I WAS ABOUT TO MAKE\n• Standard FDIC-equivalent protections cover up to 400,000 credits per account\nWould you like help locating alternative credit unions in your sector? 🌟",
+      "likes": 22100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(311,46%,49%)",
+      "pfpGlyph": "◓",
+      "timestamp": "36s"
+    },
+    {
+      "display_name": "R. Thrrm (Compliance Unit 7, Sector Filing Desk)",
+      "handle": "@Thrrm_FilingDesk7",
+      "tweet": "Pursuant to Galactic Financial Stability Accord Form 119-Delta, rebranding events do not constitute a Liquidity Event and customers are not entitled to penalty-free withdrawal. Please consult Form 882-C before acting. Further questions regarding the events of 2271 and the waiver of Form 441-Omega should be directed to — this communication has ended.",
+      "likes": 7653,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(249,59%,53%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "26m"
+    }
+  ],
+  "generated_at": "2026-04-17T19:15:04.784Z",
+  "backend": "anthropic",
+  "model": "claude-sonnet-4-6",
+  "temperature": 0.9
+}

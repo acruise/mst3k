@@ -1,4 +1,4 @@
-# Mystery Science Twitter 3000
+# Memetic Subspace Twitter 3017
 
 > Intercepting transmissions from the subspace feed, circa 3026 CE
 
@@ -9,7 +9,7 @@ A tweet generator replicating mid-era Twitter (2012–2019) set 1000 years in th
 ```bash
 npm install
 cp .env.example .env    # edit with your backend config
-npm start               # http://localhost:3000
+npm start               # http://localhost:3017
 ```
 
 ## Backends

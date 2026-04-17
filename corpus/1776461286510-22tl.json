@@ -1,0 +1,81 @@
+{
+  "id": "1776461286510-22tl",
+  "tweet": {
+    "display_name": "dad",
+    "handle": "@GaryFromTitan",
+    "tweet": "if you upload yourself you are DEAD. sorry. the thing walking around is not you. i dont care how smooth the transfer feels. my father said this, his father said this, and now im saying it to you",
+    "metrics": {
+      "retweets": 14200,
+      "likes": 89400,
+      "replies": 31200,
+      "quote_tweets": 22100
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(99,63%,26%)",
+    "pfpGlyph": "Σ",
+    "timestamp": "9h"
+  },
+  "replies": [
+    {
+      "display_name": "mo",
+      "handle": "@moistware",
+      "tweet": "ok continuity guy",
+      "likes": 47291,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(90,68%,58%)",
+      "pfpGlyph": "❋",
+      "timestamp": "23h"
+    },
+    {
+      "display_name": "Dr. Vellis Korrin-9 (uploaded)",
+      "handle": "@vellis_k_migrated",
+      "tweet": "i was couched as a ghost in '71 and walked around in three different bodies for six years before getting a permanent shell. with all due respect gary go outside",
+      "likes": 22104,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(120,55%,32%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "9s"
+    },
+    {
+      "display_name": "archivist of bad takes",
+      "handle": "@drilposting_daily",
+      "tweet": "dril called this in 2847 https://wist.gal/d/482991\n\n\"the Upload is a hoax invented by Body Big to sell more Bodies. wake up\"\n\nhe tried to warn us",
+      "likes": 68420,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(298,65%,55%)",
+      "pfpGlyph": "☽",
+      "timestamp": "2h"
+    },
+    {
+      "display_name": "Kyre, Discourse Correspondent",
+      "handle": "@kyre_opines",
+      "tweet": "Gary this is actually a fascinating philosophical position and I'd love to unpack it with you. The Ship of Theseus problem has been definitively resolved by consensus metaphysics in the 28th century and I can send you 14 papers showing that the continuity objection is, respectfully, a folk intuition with no empirical grounding. Starting a thread below 🧵",
+      "likes": 312,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(113,73%,54%)",
+      "pfpGlyph": "❋",
+      "timestamp": "4d"
+    },
+    {
+      "display_name": "just checking",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is this true?? my mom is scheduled for upload tuesday",
+      "likes": 1847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(155,40%,45%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "9d"
+    }
+  ],
+  "generated_at": "2026-04-17T21:28:06.510Z",
+  "backend": "anthropic",
+  "model": "claude-opus-4-7",
+  "temperature": null
+}

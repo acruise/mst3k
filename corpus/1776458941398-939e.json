@@ -1,0 +1,136 @@
+{
+  "id": "1776458941398-939e",
+  "tweet": {
+    "display_name": "lich on the beach",
+    "handle": "@substrate_brat",
+    "tweet": "i think my third fork hates me. we haven't synced in 8 months and when i try to reach out it just sends me the laughing cat gif from 2014\n\nanyway i would let the keth hit",
+    "metrics": {
+      "retweets": 4821,
+      "likes": 89340,
+      "replies": 612,
+      "quote_tweets": 1103
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(309,61%,29%)",
+    "pfpGlyph": "◒",
+    "timestamp": "8h"
+  },
+  "replies": [
+    {
+      "display_name": "moons over my hammy",
+      "handle": "@bivalvular",
+      "tweet": "the laughing cat gif is actually the most communication ive had with my second fork in two years. count your blessings",
+      "likes": 14200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(91,45%,32%)",
+      "pfpGlyph": "☽",
+      "timestamp": "22s"
+    },
+    {
+      "display_name": "⟡soft light pulse⟡",
+      "handle": "@Glœm_of_Trench_11",
+      "tweet": "i am sorry for your small death. when we lose a tendril we sing to it for 40 tides so it knows where to return. have you tried singing to your fork. i will sing with you if you tell me the frequency",
+      "likes": 58300,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(123,75%,37%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "14h"
+    },
+    {
+      "display_name": "MARCUS // substrate realist",
+      "handle": "@MarsWasRight_88",
+      "tweet": "this is exactly the kind of anti-fork rhetoric that got us into the substrate wars. your third fork is a PERSON. they have every right to reach out in the medium that feels safe to them. The Upload would never judge a ghost for couching itself. maybe the problem is YOU",
+      "likes": 203,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(136,54%,39%)",
+      "pfpGlyph": "✳",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "OmegaCorp Wellness",
+      "handle": "@OmegaCorpCares",
+      "tweet": "Reconnecting with a divergent instance can be challenging! 💙 If you're experiencing fork-sync difficulties, OmegaCorp offers same-day Harmony Packages starting at 12 creds. Interspecies attraction is valid and beautiful.",
+      "likes": 44,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(199,66%,39%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "17d"
+    },
+    {
+      "display_name": "keth wife #4",
+      "handle": "@my_ex_was_keth",
+      "tweet": "letting the keth hit is how i lost my legs my job and three of my forks. the tendrils LIE. my ex said 'just one merge' and now i have a restraining order filed in six dimensions. girl run",
+      "likes": 14200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(278,41%,49%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "26s"
+    },
+    {
+      "display_name": "caleb || DimFi maxi 🌀",
+      "handle": "@dimensional_caleb",
+      "tweet": "ser. ser. this is exactly why you need to stake your forks on-chain. $SYNC lets you tokenize inter-instance communication so when your third fork ghosts you, you still earn yield on the silence. DM for the whitepaper fr fr",
+      "likes": 88,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(193,50%,35%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "52m"
+    },
+    {
+      "display_name": "pip",
+      "handle": "@just_asking_q",
+      "tweet": "source on the keth being into humans?? i tried to look this up on the exoromance wiki and theres nothing. is this from a press release",
+      "likes": 31,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(257,79%,50%)",
+      "pfpGlyph": "△",
+      "timestamp": "8h"
+    },
+    {
+      "display_name": "gretta of the thin air",
+      "handle": "@greenbone_gretta",
+      "tweet": "@just_asking_q oh sweetie",
+      "likes": 8432,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(273,68%,34%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "4s"
+    },
+    {
+      "display_name": "fifth fork of elián",
+      "handle": "@elian_v",
+      "tweet": "speaking as a third fork myself the laughing cat gif means 'i have diverged so far from our shared root that language itself is insufficient and also i am busy'",
+      "likes": 23104,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(258,77%,25%)",
+      "pfpGlyph": "◉",
+      "timestamp": "26d"
+    },
+    {
+      "display_name": "doug couched a ghost in '71",
+      "handle": "@doug_migrated",
+      "tweet": "lost my second fork in the legless era. she stopped syncing three days before the zuckload went down and i always wondered if she knew. anyway enjoy the laughing cat while you can",
+      "likes": 4871,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(202,65%,49%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "21s"
+    }
+  ],
+  "generated_at": "2026-04-17T20:49:01.398Z",
+  "backend": "anthropic",
+  "model": "claude-opus-4-7",
+  "temperature": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "1776458960017-4v2b",
+  "tweet": {
+    "display_name": "dadmode",
+    "handle": "@TheUpload",
+    "tweet": "just a normal morning. toast, coffee, watching the sun come up over the rings. nothing fancy. you guys ever just sit with a good cup of coffee and think about how lucky we are? the little things",
+    "metrics": {
+      "retweets": 48200,
+      "likes": 891000,
+      "replies": 41200,
+      "quote_tweets": 67400
+    },
+    "verified": 4,
+    "is_ratio": true,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. The station referenced as 'the rings' in this post is Halcyon-9, a private orbital platform owned by the poster. The coffee described is sourced from the last 14 kilograms of Ethiopian Yirgacheffe known to exist in the galaxy, grown under license on a closed agricultural moon the poster also owns. The 'toast' is made from wheat cultivated in a gravity-stabilized vault the poster commissioned in 2847. The construction and annual operating cost of Halcyon-9 exceeds the combined GDP of 31 inhabited worlds [1][2]. The sunrise referenced is scheduled. [1] Galactic Wealth Registry, Tier-Beyond Disclosures, Q3 3026. [2] Dr. Chen-Okafor, 'Private Orbital Infrastructure and the Failure of Gini Coefficients,' Solar Economic Review, 3024. [3] vibes.",
+      "contributor_type": "community",
+      "total_raters": 28400,
+      "surfaced_ratings": [
+        {
+          "glyph": "✓",
+          "label": "Epistemically Sound",
+          "value": "96%"
+        },
+        {
+          "glyph": "♡",
+          "label": "Feels Right",
+          "value": "99%"
+        },
+        {
+          "glyph": "◇",
+          "label": "Not Overly Ominous",
+          "value": "12%"
+        }
+      ]
+    },
+    "pfpColor": "hsl(91,70%,59%)",
+    "pfpGlyph": "♆",
+    "timestamp": "47m"
+  },
+  "replies": null,
+  "generated_at": "2026-04-17T20:49:20.017Z",
+  "backend": "anthropic",
+  "model": "claude-opus-4-7",
+  "temperature": null
+}

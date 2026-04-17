@@ -1,0 +1,81 @@
+{
+  "id": "1776457269554-b131",
+  "tweet": {
+    "display_name": "the founder (dad era)",
+    "handle": "@TheUpload",
+    "tweet": "spent the morning in the garden with little Thaddeus-47 (he has my eyes, or the pattern-approximation of them). he asked me what a 'sunset' is. i tried to explain. i cried a little. being a father across 14 substrate-generations is the real fortune 🌱☀️",
+    "metrics": {
+      "retweets": 284000,
+      "likes": 1700000,
+      "replies": 44000,
+      "quote_tweets": 89000
+    },
+    "verified": 4,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(21,62%,35%)",
+    "pfpGlyph": "Γ",
+    "timestamp": "18d"
+  },
+  "replies": [
+    {
+      "display_name": "mireille of the ninth arc",
+      "handle": "@mireille_9",
+      "tweet": "this.",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(124,40%,46%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "34m"
+    },
+    {
+      "display_name": "Gareth — Substrate Archivist",
+      "handle": "@GarethArchive",
+      "tweet": "crucial context for the newcomers: Thaddeus-47 is the 47th instance because the previous 46 were all decommissioned after failing the 'does he have dad's eyes' QA test. you're not a father across 14 generations, you're a man who keeps rerolling a character",
+      "likes": 89300,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(53,49%,36%)",
+      "pfpGlyph": "λ",
+      "timestamp": "29m"
+    },
+    {
+      "display_name": "bonkus",
+      "handle": "@void_goblin420",
+      "tweet": "few understand",
+      "likes": 41,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(190,41%,50%)",
+      "pfpGlyph": "☉",
+      "timestamp": "17h"
+    },
+    {
+      "display_name": "Dr. Prentice Hollowmark",
+      "handle": "@PrenticeH_PhD",
+      "tweet": "What a beautiful reflection. It reminds me of my own work on pattern-inheritance across substrate-generations — a father does not merely pass down 'eyes,' he passes down the recursive *intention* of eyes, which is arguably a more faithful transmission than the biological original. I explore this in my upcoming monograph. Thaddeus-47 is lucky to have you.",
+      "likes": 312,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(164,41%,37%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "59s"
+    },
+    {
+      "display_name": "just a girl from sector 12",
+      "handle": "@just_asking_q",
+      "tweet": "wait so is thaddeus-47 a real kid or. im so sorry if this is a dumb question i just moved here from a slower network and the context is confusing to me. he sounds sweet either way!! 💕",
+      "likes": 2800,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(188,65%,43%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "17d"
+    }
+  ],
+  "generated_at": "2026-04-17T20:21:09.554Z",
+  "backend": "anthropic",
+  "model": "claude-opus-4-7",
+  "temperature": null
+}

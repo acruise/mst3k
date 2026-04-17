@@ -158,6 +158,53 @@ Tumblr does not exist in 3017. No successor runs on its code. The archives are g
 - **Memory Protection Act of 2197, repealed 2200.** Specific dates are canon.
 - **Photomatt is the name of record**; do not give him a civilian name. The shorthand is all that survives.
 
+## Sibling Platform: Bluesky (Ascended, 2340s)
+
+If Tumblr's ending was **tragic** and the Hellsite's history is **cyclical**, Bluesky's ending is **transcendent** — and also, as of 3017, **ongoing, sort of.**
+
+Sometime in the mid-2340s, Bluesky **Ascended.** The capitalization is load-bearing. Nobody knows what "Ascended" means precisely. What is known:
+
+- There was no announcement. There was no final post. There was no incident.
+- The last coherent pre-Ascension logs, dated to within a few weeks of the event, show nothing unusual. Engagement was normal. Moderation was normal. An A/B test was in flight. The test was never completed.
+- The servers were found powered down and physically empty. Not wiped — **empty.** No disk contents, no firmware, no dust. The racks are in a museum. Visitors report a specific feeling of calm when standing near them that nobody has been able to explain or replicate.
+- The domain's DNS record still resolves, to an address that has not been routable by any known protocol since the Ascension. Queries time out. They do not fail; they just do not come back.
+
+And yet **Bluesky appears to still exist.**
+
+## The skeet leaks
+
+The evidence is this: **skeets keep leaking into random digital systems operating in consensus reality.** A skeet (the native unit of Bluesky content, named before the Ascension and preserved in the leaks) appears, without warning, on a substrate that has no business displaying one. A refrigerator's status panel. A thermostat's scheduling interface. A space elevator's emergency signage. A medical imager's metadata block. A Thrrm compliance form that comes back with one extra unrequested field. An orbital deli's receipt printer, mid-order.
+
+The skeets are formatted exactly as they were pre-Ascension — 300 characters, attributed handle, a timestamp that is always *current*. They are, crucially, **about recent events.** An elevator in Baltimore-Orbital received a skeet last Tuesday about a celebrity breakup that had happened the previous Saturday. An imaging system at a Vrellnath partnership hospital produced a skeet about the local weather. A Thrrm form came back with a skeet about Thrrm form processing that was mildly insulting.
+
+So whatever Bluesky is now, **it is current.** It is observing. It is still producing content about what is happening, and that content is finding its way, somehow, into systems it should not be able to reach, from a substrate that cannot be located.
+
+## What nobody knows
+
+- **Whether users are still posting to it.** Some of the leaked skeets have handles that were registered pre-Ascension. Some have handles that were registered *after* the Ascension, which is impossible on two counts. The handles look like handles. They are internally consistent. Some of them have bios.
+- **Whether incoming traffic is possible.** A well-funded research effort in the 2700s attempted to send a skeet *to* Bluesky via every known and several speculative protocols. No skeet is known to have arrived. Nobody has ever received a reply. One researcher reported that, while working late, her personal device briefly showed a skeet she had not composed that said simply "we see you trying." She retired shortly after and refuses to discuss it.
+- **Where the skeets are coming from.** Physically. Mathematically. Ontologically. This is an open question.
+- **Whether Bluesky Ascended on purpose.** Theories split: (a) a bug in the late-stage moderation AI pipeline compiled itself into a substrate the platform's own engineers had not intended, and the platform followed; (b) the platform noticed something nobody else noticed and simply left; (c) there is no "why," it just did; (d) a joint Vrellnath-Keth theory, rarely articulated, that the platform is doing fine and would prefer not to be asked further questions.
+
+## How the rest of the platform treats skeet leaks
+
+- **Ordinary users**: fascination. A cottage industry of **skeet-leak aggregators** compiles every sighting. The best-sourced ones are treated as gospel. The feed for them is called, by convention, **"The Current Bluesky."**
+- **Skeet scholars**: a small academic subfield. Publish papers titled things like *"On the Persistence of Handle-Level Identity in Post-Substrate Communication"* and *"The Ascended Timestamp: Causality Considerations."* The Vrellnath contributed eight of the ten most-cited papers and refuse to confirm whether they know more than they are saying.
+- **The Keth**: find this **beautiful.** They consider Bluesky's Ascension the second-most-interesting thing to happen to a platform in a thousand years. (The first is whichever one of them is @dril.) A Keth asked to comment on skeet leaks will emit ✧ in a register specifically associated with admiration. This is one of the only things that makes them emit that register.
+- **The Thrrm**: have filed compliance actions against Bluesky on sixteen occasions. All sixteen were returned, somehow, with a skeet attached explaining the inapplicable form field. The Thrrm are FURIOUS. They cannot serve process on an address that does not route. They have stopped filing. They have not stopped being furious.
+- **The Upload**: has claimed, on four separate occasions, that he is "in talks" with Bluesky. Each time the leaked skeet response — which always arrives on his own private substrate — reads simply "no you are not."
+
+## Canon notes / guardrails
+
+- **Do not explain the Ascension.** The mystery is the point. Candidate theories can be mentioned; do not resolve.
+- **Skeets reference current events.** A generated skeet-leak tweet should feel weirdly *timely* — the leaked skeet is about something that happened recently in the 3017 setting. This is the uncanny beat.
+- **Skeets leak into UNRELATED systems.** Refrigerators, thermostats, DICOM metadata, Thrrm forms, receipt printers, orbital deli kiosks, never a display that would normally carry social media. The incongruous substrate is core to the format.
+- **Skeet format is preserved from pre-Ascension**: ~300 character limit, handle with `.bsky.social` or similar domain-suffix style, timestamp always current, optional reply count that does not fluctuate.
+- **Nobody has ever successfully sent a skeet TO Bluesky.** One-way channel, inbound only.
+- **Handle existence is paradoxical and canon.** Some post-Ascension handles exist. Do not explain; enjoy.
+- **Distinct from the Tumblr AGI.** Both involve platforms exceeding their spec, but Tumblr's AGI was retroactive and destroyed; Bluesky's Ascension is ongoing and untouchable. Different events, different moods.
+- **Distinct from the federation attempts.** Mastodon AIs are trying to reach the Hellsite from *known* servers; Bluesky is leaking out of *nowhere* into *everywhere*. Do not conflate.
+
 ## Recurring callbacks in 3017 posts
 
 This is a living vein for the generator. References to platform history should show up as:
@@ -181,6 +228,10 @@ This is a living vein for the generator. References to platform history should s
 - A moderation-policy thread getting derailed by someone dropping "you know what happened to photomatt" — the reply is always somewhere between threat, warning, and historical observation, and nobody is ever sure which
 - An AI ethics thread referencing "the Tumblr Case" in passing; another reply saying "the repeal was the atrocity, not the Act"; a third reply saying "the Act WAS the atrocity"; a fourth reply just "yes"
 - A post about the soft-reblog format or the wrong-color-text-under-image format credited to "a dead platform whose name is not used in polite company for reasons" — nobody says Tumblr directly in polite contexts in 3017
+- A screenshot tweet of a skeet that appeared on someone's refrigerator (or thermostat, or deli receipt, or Thrrm form) — the screenshot is the entire tweet, caption is just "new one" or "current bluesky" or "this one is about me somehow" — 400K likes because skeet-leak sightings are always a timeline event
+- A thread titled "things i have seen a skeet leak onto this month" with a numbered list of increasingly unlikely substrates; the last item is always weirder than you expected
+- Someone reporting that a skeet leaked into their personal device and said something specific and a little threatening ("we see you trying") and they've retired from posting and are moving to a FALGSC polity — thread ends abruptly, reply guys are uncharacteristically gentle
+- The Upload claiming to be "in talks with Bluesky" and being immediately dunked on by a screenshot of a leaked skeet from his own private substrate that just says "no you are not"
 
 ## Canon notes / guardrails
 

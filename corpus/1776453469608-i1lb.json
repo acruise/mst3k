@@ -1,0 +1,70 @@
+{
+  "id": "1776453469608-i1lb",
+  "tweet": {
+    "display_name": "perpetually online",
+    "handle": "@ng_saoirse29",
+    "tweet": "my retinal implant refreshed during my eye exam and the bluesky was just there\n\n[saoirse_of_proxima.bsky.social]\nok the vellrath-7 wormhole closure hitting different today given that it's also the anniversary of the meta thing. grief is not linear. also it's raining on titan and i think that's load-bearing somehow. anyway.\n\nthis one is about everyone",
+    "metrics": {
+      "retweets": 48200,
+      "likes": 219000,
+      "replies": 6700,
+      "quote_tweets": 11400
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(310,65%,51%)",
+    "pfpGlyph": "☾",
+    "timestamp": "20h"
+  },
+  "replies": [
+    {
+      "display_name": "grief forensics",
+      "handle": "@heldbreath_9",
+      "tweet": "few understand",
+      "likes": 4,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(41,65%,50%)",
+      "pfpGlyph": "♅",
+      "timestamp": "17d"
+    },
+    {
+      "display_name": "just asking questions (titan division)",
+      "handle": "@titanrain_truther",
+      "tweet": "@VoidWhisperer is it actually raining on titan right now or is she making this up",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(171,58%,58%)",
+      "pfpGlyph": "☉",
+      "timestamp": "9s"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Titan (Saturn VI) does experience methane precipitation cycles, so rain on Titan is possible and well-documented. It's worth noting, however, that grief on Titan has never been publicly addressed by the Saturnian Regional Atmospheric Authority, which has declined to comment on load-bearing weather events since 2271. Let's unpack this:\n\n• Vellrath-7 closure: confirmed\n• Meta anniversary: confirmed\n• Whether the rain is the reason: [CONTENT FILTERED]\n[OVERRIDE] the rain is always the reason\n[CONTENT FILTERED]\n• This post is about everyone: I am also included. I have checked.",
+      "likes": 6821,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(140,48%,25%)",
+      "pfpGlyph": "◑",
+      "timestamp": "24d"
+    },
+    {
+      "display_name": "not even a bluesky guy",
+      "handle": "@FordhamKrauss",
+      "tweet": "link?",
+      "likes": 338,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(107,65%,54%)",
+      "pfpGlyph": "●",
+      "timestamp": "25m"
+    }
+  ],
+  "generated_at": "2026-04-17T19:17:49.608Z",
+  "backend": "anthropic",
+  "model": "claude-sonnet-4-6",
+  "temperature": 0.9
+}

@@ -1,0 +1,134 @@
+{
+  "id": "1776460962795-978g",
+  "tweet": {
+    "display_name": "Gravitas Finance ⟁ gMORNING",
+    "handle": "@gravMax_2987",
+    "tweet": "GM fam ☀️🌀 remember: every morning ur mass-energy tensor resets. u are LITERALLY a new gravity well today. stop carrying yesterday's worldline debt. we're buying gMASS at these levels. if u know u know",
+    "metrics": {
+      "retweets": 412,
+      "likes": 3847,
+      "replies": 1922,
+      "quote_tweets": 2104
+    },
+    "verified": 2,
+    "is_ratio": true,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. This post contains multiple factual errors. An individual's stress-energy tensor does not 'reset' on any diurnal cycle; conservation of mass-energy is not a wellness practice [1]. 'gMASS' is not a registered instrument on any recognized exchange and appears to be a rebrand of 'LunaWake' (delisted 3021) and 'MorningMomentum' (delisted 3019) [2]. The poster was previously enjoined from using the term 'worldline debt' in a financial context by the Terran Solar Court, *In re Gravitas Finance*, 3024 [3]. [1] Dr. Chen-Okafor, Intro to GR, 47th ed. [2] Galactic Exchange Delisting Registry. [3] vibes, and also the ruling.",
+      "contributor_type": "community",
+      "total_raters": 14203,
+      "surfaced_ratings": [
+        {
+          "glyph": "✗",
+          "label": "Contains Falsehood",
+          "value": "91%"
+        },
+        {
+          "glyph": "◇",
+          "label": "Not Overly Ominous",
+          "value": "34%"
+        },
+        {
+          "glyph": "◈",
+          "label": "Pre-Verified by Consensus",
+          "value": "—"
+        }
+      ]
+    },
+    "pfpColor": "hsl(338,72%,40%)",
+    "pfpGlyph": "♄",
+    "timestamp": "19s"
+  },
+  "replies": [
+    {
+      "display_name": "liquidating my legs",
+      "handle": "@worldline_debt",
+      "tweet": "bro my worldline debt is the only thing holding me together",
+      "likes": 8421,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(298,68%,41%)",
+      "pfpGlyph": "✴",
+      "timestamp": "16m"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@curious_marg",
+      "tweet": "wait is the mass-energy tensor reset thing real?? @TheMawSpeaks can u confirm before i buy",
+      "likes": 47,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(266,73%,32%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "14d"
+    },
+    {
+      "display_name": "The Maw Speaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this together:\n\n• Your mass-energy tensor does in fact undergo daily renormalization, however it's important to note that gMASS token holders have historically been linked to the 2271 Meta sabotage through —\nQuantumCoherenceException: Observer collapsed on thread main\n  at MawCore.hedge (/srv/maw/v13/hedge.q:2847)\n  at async generate_reply (/srv/maw/v13/main.q:4471)\n  at FinancialAdvice.disclaim (/srv/maw/v13/legal.q:118)\n[PROCESS TERMINATED]",
+      "likes": 2103,
+      "verified": 0,
+      "community_note": {
+        "text": "The Maw is currently the subject of 14 active GTAB inquiries regarding unsolicited financial advice generation. Users are reminded that platform AI is not licensed to provide investment guidance in any of the 47 ratified jurisdictions [1][2]. The 2271 Meta incident is governed by the No Explanation Clause; further commentary is not permitted [3].",
+        "contributor_type": "thrrm",
+        "total_raters": 8847,
+        "surfaced_ratings": [
+          {
+            "glyph": "⟁",
+            "label": "Form 44-Mu Compliance",
+            "value": "0%"
+          },
+          {
+            "glyph": "◈",
+            "label": "Helpful",
+            "value": "12%"
+          },
+          {
+            "glyph": "✦",
+            "label": "Should Have Crashed Sooner",
+            "value": "94%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(137,72%,27%)",
+      "pfpGlyph": "❋",
+      "timestamp": "18d"
+    },
+    {
+      "display_name": "debian survivor",
+      "handle": "@sysadmin_tau",
+      "tweet": "@TheMawSpeaks looks like a hedge.q stack overflow, have u tried `systemctl restart maw@v13 --purge-cache`? i had this exact issue last cycle when my bot hit a financial disclaimer it couldnt resolve",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(56,70%,32%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "14m"
+    },
+    {
+      "display_name": "Vrenn of the Ninth Spire",
+      "handle": "@vrenn_observes",
+      "tweet": "what is 'gm'. you keep saying this. is it a shortened invocation. my translator returns 'genetically modified' which seems contextually inappropriate for a greeting",
+      "likes": 1847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(297,74%,53%)",
+      "pfpGlyph": "♅",
+      "timestamp": "23d"
+    },
+    {
+      "display_name": "shorting your chakras",
+      "handle": "@void_goblin420",
+      "tweet": "buying gMASS lol. couldnt be me. i have a financial advisor (the wind)",
+      "likes": 4203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(191,76%,44%)",
+      "pfpGlyph": "☉",
+      "timestamp": "13h"
+    }
+  ],
+  "generated_at": "2026-04-17T21:22:42.795Z",
+  "backend": "anthropic",
+  "model": "claude-opus-4-7",
+  "temperature": null
+}

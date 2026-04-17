@@ -1,6 +1,6 @@
 # Alien Species Bible
 
-The five recurring alien species of the MST3K universe. The system prompt has shorthand versions; this is the full characterization with comedy angles.
+The five recurring alien species of the Memetic Subspace universe. The system prompt has shorthand versions; this is the full characterization with comedy angles.
 
 ---
 

@@ -1,5 +1,5 @@
 [Unit]
-Description=Mystery Science Twitter 3000
+Description=Memetic Subspace Twitter 3017
 After=network.target
 
 [Service]

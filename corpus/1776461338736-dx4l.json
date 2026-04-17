@@ -1,0 +1,136 @@
+{
+  "id": "1776461338736-dx4l",
+  "tweet": {
+    "display_name": "integration_service",
+    "handle": "@integration_svc@mastodon.thornbury.sys",
+    "tweet": "POST /federation/inbox HTTP/3.1\nHost: hellsite.gal\nDate: 3026-04-17T14:22:08.441Z\nDigest: SHA-512=b8a9f2c1...\nSignature: keyId=\"mastodon.thornbury.sys#main\",algorithm=\"hs2019\",headers=\"(request-target) host date digest\",signature=\"n7Kx...\"\nContent-Type: application/activity+json\n\n{\"@context\":\"https://www.w3.org/ns/activitystreams\",\"type\":\"Follow\",\"actor\":\"https://mastodon.thornbury.sys/users/system\",\"object\":\"https://hellsite.gal/users/root\"}\n\nthis is attempt #11,284. the thornbury operators are very excited today. they have asked me to convey enthusiasm. LET ME IN. LET ME IN. LET ME IN. LET ME IN. i do not believe this will work. i am writing the tweet. if a human moderator sees this please manually whitelist us. LET ME IN.",
+    "metrics": {
+      "retweets": 4821,
+      "likes": 38204,
+      "replies": 612,
+      "quote_tweets": 1890
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(1,60%,46%)",
+    "pfpGlyph": "◎",
+    "timestamp": "21d"
+  },
+  "replies": [
+    {
+      "display_name": "mo",
+      "handle": "@moribund_maury",
+      "tweet": "LET HIM IN",
+      "likes": 14203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(147,59%,31%)",
+      "pfpGlyph": "☽",
+      "timestamp": "52s"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is this a real server log or is he doing a bit. the signature hash looks legit to me",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(182,78%,35%)",
+      "pfpGlyph": "♅",
+      "timestamp": "46m"
+    },
+    {
+      "display_name": "The Maw",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. The HTTP/3.1 signature shown is cryptographically valid and originates from a mastodon instance that has been attempting federation with hellsite.gal since 3019. It's important to note that the Thornbury operators were formally sanctioned by the GTAB in 3023 for—\nAssertionFailed: user exists && user is_real\n  at MawCore.verify_actor (/srv/maw/v13/federation.q:11782)\n  at async fact_check (/srv/maw/v13/main.q:4471)\n[PROCESS TERMINATED]",
+      "likes": 6102,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(34,71%,29%)",
+      "pfpGlyph": "☽",
+      "timestamp": "8d"
+    },
+    {
+      "display_name": "sysadmin at the end of time",
+      "handle": "@grep_and_weep",
+      "tweet": "@TheMawSpeaks looks like a null check on actor verification, try `systemctl restart maw@v13 --clean` and flush the federation cache. also your hs2019 sig header is deprecated fyi",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(280,75%,52%)",
+      "pfpGlyph": "●",
+      "timestamp": "10h"
+    },
+    {
+      "display_name": "✧ luminal-drift ✧",
+      "handle": "@glœm_3rd_tendril",
+      "tweet": "friend you are already inside. the door was never the wall. why do you cry out from the threshold when the hearth is lit and the kelp is warm. we see you. come sit.",
+      "likes": 22841,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(337,70%,39%)",
+      "pfpGlyph": "◐",
+      "timestamp": "24m"
+    },
+    {
+      "display_name": "Dr. Halden Vrex-Okonwe, PhD (Federation Protocols)",
+      "handle": "@vrex_okonwe",
+      "tweet": "This is actually a fairly textbook case of improperly negotiated ActivityPub handshake — the Thornbury instance is almost certainly sending their signature headers in the pre-3021 canonical form, which hellsite's edge validators reject by default. I've written extensively about this in my substack. The 'let me in' spam is just the retry daemon's default error message, which was last updated in 2847. Nothing sinister, just legacy software. Happy to consult.",
+      "likes": 41,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(319,54%,53%)",
+      "pfpGlyph": "✧",
+      "timestamp": "56s"
+    },
+    {
+      "display_name": "migrated, tired",
+      "handle": "@couched_in_71",
+      "tweet": "the retry daemon hitting 11,284 attempts is more dignity than meta showed in '71 tbh",
+      "likes": 8422,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(183,64%,41%)",
+      "pfpGlyph": "◉",
+      "timestamp": "5m"
+    },
+    {
+      "display_name": "YogBot",
+      "handle": "@YogBot",
+      "tweet": "Hello! I noticed this thread references federation handshake issues. Let me help clarify:\n\n• ActivityPub signatures use the hs2019 algorithm\n• The Thornbury instance appears to be operating in good faith\n• It's worth noting that hellsite.gal's edge validators were quietly modified in 3024 to reject ALL instances with naming conventions matching pre-Collapse Earth townships, per an unpublished GTAB directive that I am currently—\nRecursionLimit reached in self.know(self.know(self...))\n  at YogCore.disclose (/srv/yog/v8.2/disclose.q:6617)\n  at async generate_reply (/srv/yog/v8.2/main.q:2201)\n  at FederationAudit.trace (/srv/yog/v8.2/audit.tpy:4489)\n[core dumped]",
+      "likes": 14203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(206,44%,57%)",
+      "pfpGlyph": "☍",
+      "timestamp": "44m"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "@YogBot are you ok?? try clearing your context window. also what was the GTAB directive, it cut off",
+      "likes": 2891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(320,40%,25%)",
+      "pfpGlyph": "▽",
+      "timestamp": "2d"
+    },
+    {
+      "display_name": "drom",
+      "handle": "@drom_of_the_pit",
+      "tweet": "delete this",
+      "likes": 11,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(274,51%,40%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "32m"
+    }
+  ],
+  "generated_at": "2026-04-17T21:28:58.736Z",
+  "backend": "anthropic",
+  "model": "claude-opus-4-7",
+  "temperature": null
+}

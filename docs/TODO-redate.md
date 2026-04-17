@@ -1,7 +1,7 @@
 # TODO: Timeline Redate
 
 ## The change
-Set the "present day" of the MST3K universe to **3017 CE** (not 3026). This is 1000 years after peak Twitter (~2012-2017).
+Set the "present day" of the Memetic Subspace universe to **3017 CE** (not 3026). This is 1000 years after peak Twitter (~2012-2017).
 
 ## Why
 - Clean 1000-year anniversary framing

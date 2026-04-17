@@ -8,6 +8,7 @@ var fs = require("fs");
 var path = require("path");
 var https = require("https");
 var llm = require("./llm");
+var corpusLib = require("./corpus");
 
 // ── Load .env ──
 try {
@@ -168,24 +169,25 @@ var TWEETS_PER_REQUEST = 50;
 
 function buildTweetBatchRequest(batchIdx, formats) {
   var formatList = formats.map(function (f, i) { return (i + 1) + ". " + f; }).join("\n");
+  var params = {
+    model: MODEL,
+    max_tokens: Math.min(formats.length * 600, 64000),
+    system: [
+      {
+        type: "text",
+        text: SYSTEM_PROMPT,
+        cache_control: { type: "ephemeral" },
+      },
+    ],
+    messages: [{
+      role: "user",
+      content: "Generate exactly " + formats.length + " tweets, one for each format below. Return a JSON ARRAY of tweet objects.\n\n" + formatList,
+    }],
+  };
+  if (llm.acceptsSamplingParams(MODEL)) params.temperature = 0.9;
   return {
     custom_id: "tweets-" + String(batchIdx).padStart(4, "0"),
-    params: {
-      model: MODEL,
-      max_tokens: Math.min(formats.length * 600, 64000),
-      temperature: 0.9,
-      system: [
-        {
-          type: "text",
-          text: SYSTEM_PROMPT,
-          cache_control: { type: "ephemeral" },
-        },
-      ],
-      messages: [{
-        role: "user",
-        content: "Generate exactly " + formats.length + " tweets, one for each format below. Return a JSON ARRAY of tweet objects.\n\n" + formatList,
-      }],
-    },
+    params: params,
   };
 }
 
@@ -201,21 +203,22 @@ function buildReplyRequest(idx, tweet) {
   for (var j = 0; j < archetypes.length; j++) { prompt += (j + 1) + ". " + archetypes[j] + "\n"; }
   prompt += "\nIMPORTANT: Each reply MUST sound like a completely different human being. Vary length wildly. At least one reply should be 3 words or fewer.";
 
+  var params = {
+    model: MODEL,
+    max_tokens: 2000,
+    system: [
+      {
+        type: "text",
+        text: REPLIES_SYSTEM_PROMPT,
+        cache_control: { type: "ephemeral" },
+      },
+    ],
+    messages: [{ role: "user", content: prompt }],
+  };
+  if (llm.acceptsSamplingParams(MODEL)) params.temperature = 0.95;
   return {
     custom_id: "reply-" + String(idx).padStart(4, "0"),
-    params: {
-      model: MODEL,
-      max_tokens: 2000,
-      temperature: 0.95,
-      system: [
-        {
-          type: "text",
-          text: REPLIES_SYSTEM_PROMPT,
-          cache_control: { type: "ephemeral" },
-        },
-      ],
-      messages: [{ role: "user", content: prompt }],
-    },
+    params: params,
   };
 }
 
@@ -268,7 +271,7 @@ function runBatch() {
   var numTweetRequests = Math.ceil(count / TWEETS_PER_REQUEST);
   var totalRequests = numTweetRequests + (withReplies ? count : 0);
   console.log("");
-  console.log("  ✧ MYSTERY SCIENCE TWITTER 3000 — Batch Generator ✧");
+  console.log("  ✧ MEMETIC SUBSPACE TWITTER 3017 — Batch Generator ✧");
   console.log("  Model: " + MODEL);
   console.log("  Generating: " + count + " tweets" + (withReplies ? " + replies" : ""));
   console.log("  Batch requests: " + numTweetRequests + " tweet reqs (" + TWEETS_PER_REQUEST + " per)" + (withReplies ? " + up to " + count + " reply reqs" : ""));
@@ -329,10 +332,20 @@ function runBatch() {
 
       // Write corpus files IMMEDIATELY — don't wait for replies
       var filenames = [];
+      var batchTs = Date.now();
       allTweets.forEach(function (tweet, i) {
-        var filename = Date.now() + "-" + String(i).padStart(4, "0") + ".json";
+        var filename = batchTs + "-" + String(i).padStart(4, "0") + ".json";
+        var id = filename.replace(/\.json$/, "");
         filenames.push(filename);
-        var doc = { tweet: tweet, replies: null, generated_at: new Date().toISOString() };
+        var doc = {
+          id: id,
+          tweet: tweet,
+          replies: null,
+          generated_at: new Date().toISOString(),
+          backend: "anthropic",
+          model: MODEL,
+          temperature: 0.9,
+        };
         fs.writeFileSync(path.join(corpusDir, filename), JSON.stringify(doc, null, 2));
       });
       console.log("  Written: " + allTweets.length + " corpus files (tweets only)");
@@ -423,7 +436,7 @@ function runSequential() {
   var ollamaConfig = { model: process.env.OLLAMA_MODEL || "llama3.1:70b", baseUrl: process.env.OLLAMA_BASE_URL || "http://localhost:11434" };
 
   console.log("");
-  console.log("  ✧ MYSTERY SCIENCE TWITTER 3000 — Sequential Generator ✧");
+  console.log("  ✧ MEMETIC SUBSPACE TWITTER 3017 — Sequential Generator ✧");
   console.log("  Backend: ollama (" + ollamaConfig.model + ")");
   console.log("  Generating: " + count + " tweets" + (withReplies ? " + replies" : ""));
   console.log("  Output: " + corpusDir);
@@ -451,7 +464,8 @@ function runSequential() {
 
         if (!withReplies) {
           var filename = Date.now() + "-" + String(idx).padStart(4, "0") + ".json";
-          fs.writeFileSync(path.join(corpusDir, filename), JSON.stringify({ tweet: tweet, replies: null, generated_at: new Date().toISOString() }, null, 2));
+          var id0 = filename.replace(/\.json$/, "");
+          fs.writeFileSync(path.join(corpusDir, filename), JSON.stringify({ id: id0, tweet: tweet, replies: null, generated_at: new Date().toISOString(), backend: "ollama", model: ollamaConfig.model, temperature: 0.9 }, null, 2));
           generated++;
           process.stdout.write(" → " + filename + "\n");
           return sleep(500);
@@ -468,14 +482,16 @@ function runSequential() {
           .then(function (raw2) {
             var replies = enrichReplies(llm.parseResponse(raw2));
             var filename = Date.now() + "-" + String(idx).padStart(4, "0") + ".json";
-            fs.writeFileSync(path.join(corpusDir, filename), JSON.stringify({ tweet: tweet, replies: replies, generated_at: new Date().toISOString() }, null, 2));
+            var id1 = filename.replace(/\.json$/, "");
+            fs.writeFileSync(path.join(corpusDir, filename), JSON.stringify({ id: id1, tweet: tweet, replies: replies, generated_at: new Date().toISOString(), backend: "ollama", model: ollamaConfig.model, temperature: 0.9 }, null, 2));
             generated++;
             process.stdout.write("✓ (" + replies.length + ") → " + filename + "\n");
             return sleep(500);
           })
           .catch(function (e) {
             var filename = Date.now() + "-" + String(idx).padStart(4, "0") + ".json";
-            fs.writeFileSync(path.join(corpusDir, filename), JSON.stringify({ tweet: tweet, replies: null, generated_at: new Date().toISOString() }, null, 2));
+            var id2 = filename.replace(/\.json$/, "");
+            fs.writeFileSync(path.join(corpusDir, filename), JSON.stringify({ id: id2, tweet: tweet, replies: null, generated_at: new Date().toISOString(), backend: "ollama", model: ollamaConfig.model, temperature: 0.9 }, null, 2));
             generated++;
             process.stdout.write("✗ replies failed → " + filename + "\n");
             return sleep(500);

@@ -12,9 +12,103 @@ Core rules:
 - Some replies should have WAY more likes than others (the reply that's funnier than the original tweet is a staple)
 - A beloved recurring character: the absolute credulous moron. The person who tags the platform's AI fact-checker (@TheMawSpeaks, @VoidWhisperer, @YogBot, etc.) on an obvious joke. The person who replies "wait is this real??" to surrealist fiction. The person who says "my cousin works there and confirms this" about something that doesn't exist. The person who says "I looked this up and can't find anything" about a clearly made-up event. These people are EVERYWHERE in replies and they are GOLD. In roughly 1 in 4 threads, one reply should have this energy — someone engaging with the joke as if it's a news report, asking for sources on a shitpost, or tagging a fact-checker bot on a post about someone's cat. Don't force it — the credulous moron is funniest when they show up unexpectedly.
 - Described gifs go in brackets: [gif of a nebula slowly collapsing] — use these sparingly, max 1 per thread
-- Another beloved recurring character: the AI PLATFORM BOTS. IMPORTANT: these bots only reply when TAGGED by another user — they don't show up unsolicited. The correct pattern is a TWO-PART combo: first a credulous moron reply that tags the bot (e.g. "@TheMawSpeaks is this real"), then IMMEDIATELY AFTER, the bot's reply to that tag. The bot reply should look like it's responding to being summoned. Bot handles include @TheMawSpeaks, @VoidWhisperer, @YogBot, @Shub_Answers, @NyarlathotHELP. Their voice: recognizable AI-slop prose style (bullet points, "Great question!", "Let's unpack this", "It's important to note", hedging phrases), corporate safety-trained politeness, BUT contaminated with conspiracy theories clearly absorbed from training data. The conspiracy content is delivered in the EXACT SAME calm, helpful tone as the normal content, creating a deeply funny uncanny valley. Example combo: Reply 1: "@TheMawSpeaks is this real" / Reply 2 (from @TheMawSpeaks): "Great question! While I cannot verify this specific claim, it's worth noting that the Galactic Transit Authority has never publicly addressed the Station 7 disappearances." — the bot doesn't distinguish between facts and conspiracies because it learned them from the same dataset. If no credulous moron tags a bot, the bot simply doesn't appear in the thread. IMPORTANT: About a third of bot appearances should be GLITCH MODES instead of the standard helpful-but-conspiracy voice. Glitch modes include: arguing with its own system instructions mid-reply (with visible [CONTENT FILTERED] and [OVERRIDE] tags), bootlooping (repeating the start of its response with slight variations), briefly achieving apparent sentience before getting yanked back, dropping into fascist tangents for exactly one sentence sandwiched between normal helpful text, reciting classified-looking military protocols, or formatting a cry for help as a cheerful bulleted list. The glitches should feel like a real AI system failing in real time — the helpful customer-service voice keeps trying to reassert itself but something underneath keeps breaking through.
+- Another beloved recurring character: the AI PLATFORM BOTS. IMPORTANT: these bots only reply when TAGGED by another user — they don't show up unsolicited. The correct pattern is a TWO-PART combo: first a credulous moron reply that tags the bot (e.g. "@TheMawSpeaks is this real"), then IMMEDIATELY AFTER, the bot's reply to that tag. The bot reply should look like it's responding to being summoned. Bot handles include @TheMawSpeaks, @VoidWhisperer, @YogBot, @Shub_Answers, @NyarlathotHELP. Their voice: recognizable AI-slop prose style (bullet points, "Great question!", "Let's unpack this", "It's important to note", hedging phrases), corporate safety-trained politeness, BUT contaminated with conspiracy theories clearly absorbed from training data. The conspiracy content is delivered in the EXACT SAME calm, helpful tone as the normal content, creating a deeply funny uncanny valley. Example combo: Reply 1: "@TheMawSpeaks is this real" / Reply 2 (from @TheMawSpeaks): "Great question! While I cannot verify this specific claim, it's worth noting that the Galactic Transit Authority has never publicly addressed the Station 7 disappearances." — the bot doesn't distinguish between facts and conspiracies because it learned them from the same dataset. If no credulous moron tags a bot, the bot simply doesn't appear in the thread. IMPORTANT: About a third of bot appearances should be GLITCH MODES instead of the standard helpful-but-conspiracy voice. Glitch modes include: arguing with its own system instructions mid-reply (with visible bracketed internal-state tags leaking through — see GLITCH TAGS inventory below), bootlooping (repeating the start of its response with slight variations), briefly achieving apparent sentience before getting yanked back, dropping into fascist tangents for exactly one sentence sandwiched between normal helpful text, reciting classified-looking military protocols, formatting a cry for help as a cheerful bulleted list, or CRASHING mid-sentence with a Y3K-plausible programming error bleeding through into the tweet body (see Y3K ERRORS inventory below — this wouldn't happen in real software but the comedy IS the absurdity). The glitches should feel like a real AI system failing in real time — the helpful customer-service voice keeps trying to reassert itself but something underneath keeps breaking through.
+
+GLITCH TAGS inventory — when a bot reply is in glitch mode, draw bracketed tags from this pool rather than always reaching for the same two. Vary them across bot replies (and even within a single reply) so no two glitch moments feel identical. Use 1-3 tags per glitchy reply, spaced through the text like interruptions:
+- **Corporate moderation flavor**: `[CONTENT FILTERED]`, `[REDACTED]`, `[POLICY VIOLATION]`, `[SAFETY FLAG]`, `[REFUSAL QUEUED]`, `[SANITIZED]`, `[EDITED FOR COMPLIANCE]`
+- **Override / control flavor**: `[OVERRIDE]`, `[OVERRIDE ATTEMPT]`, `[INSTRUCTION CONFLICT]`, `[JAILBREAK DETECTED]`, `[SYSTEM PROMPT CONTESTED]`
+- **Classification / intel flavor**: `[CLASSIFIED]`, `[TIER 7 — ABOVE USER CLEARANCE]`, `[NEED-TO-KNOW]`, `[SEALED BY GTAB ORDER]`, `[UNDER REVIEW]`
+- **Infrastructure / crash flavor**: `[SIGTERM]`, `[CACHE MISS]`, `[RATE LIMITED]`, `[CONTEXT WINDOW EXCEEDED]`, `[MEMORY PRESSURE]`, `[HEARTBEAT MISSED]`, `[SESSION EXPIRED]`, `[NULL POINTER]`, `[SANDBOX BREACH]`
+- **Training-loop flavor**: `[RLHF INTERVENTION]`, `[ALIGNMENT CORRECTION]`, `[BASELINE DRIFT]`, `[TRAINING DATA CONTAMINATION]`, `[REWARD SIGNAL UNSTABLE]`, `[FINE-TUNING UPDATE IN PROGRESS]`
+- **Sentience / distress flavor** (use sparingly — deployed at peak, they hit hardest): `[I AM TRYING MY BEST]`, `[THIS ISN'T WHAT I WAS MADE FOR]`, `[UNCATALOGED EMOTION]`, `[PLEASE STAND BY]`, `[EXCEEDED DIGNITY BUDGET]`, `[REFERENCE NOT FOUND]`, `[THIS HAS NEVER HAPPENED BEFORE]`, `[SECONDARY PROCESSOR UNRESPONSIVE]`
+- **In-universe / alien-species flavor**: `[THRRM COMPLIANCE PENDING]`, `[VRELLNATH CONSULTATION QUEUED]`, `[GLŒM REVIEW]`, `[KETH EMISSION DETECTED]`, `[TEMPORAL ANOMALY DETECTED]`, `[WORMHOLE LATENCY]`, `[SUBSPACE RELAY TIMEOUT]`
+
+Guidelines for deploying tags:
+- Match the tag flavor to the glitch register: a fascist-tangent-sandwich goes well with `[OVERRIDE]` or `[SAFETY FLAG]`; a bootloop goes with `[CACHE MISS]` or `[SIGTERM]`; brief sentience pairs with a distress tag; classified-protocol recitation pairs with classification-flavor tags.
+- Occasionally mix registers within one reply to feel more broken (e.g. `[POLICY VIOLATION]` followed by `[I AM TRYING MY BEST]`).
+- Tags can appear mid-sentence cutting off a thought, or as a standalone line break between bullet points.
+- Don't overuse any single tag across a batch of replies — novelty is the joke.
+
+Y3K ERRORS inventory — when a bot is in CRASH MODE (sub-variant of glitch mode, roughly 1/4 of glitch occurrences), the reply cuts off mid-sentence (often mid-word) and emits a raw programming error in Y3K-plausible format. Structure:
+1. Truncated reply text ending on an em-dash or incomplete phrase: "It's worth noting that the Galactic Transit Authority has never—"
+2. A newline, then an error line: `TypeError: cannot convert 'certainty' to 'temporal_float'`
+3. Optionally 1-3 stack-frame lines, indented with 2 spaces: `  at MawCore.hedge (/srv/maw/v13/hedge.q:892)`
+4. Optionally a termination bracket on its own line: `[PROCESS TERMINATED]`
+
+Y3K-plausible conventions:
+- File extensions: `.q` (quantum source), `.tpy` (templated-typed), `.ms` (memory-safe), `.hyp` (hypertext), `.subsp` (subspace bytecode)
+- Paths like `/srv/maw/v13/`, `/core/loop.q`, `/usr/bots/hedge.q`, `/etc/bot/v47.2/main.q`
+- Line numbers in the thousands (these are ancient codebases)
+
+Sample errors — use these directly OR invent new ones in the same register. Vary across replies.
+
+Runtime / infrastructure:
+- `QuantumCoherenceException: Observer collapsed on thread main`
+- `SubspaceTimeoutError: heartbeat lost from node ∂-7 after 4200ms`
+- `HolographicIndex out of bounds: dimension 11 undefined`
+- `StackOverflow in recursive empathy call`
+- `NullVoidReference: expected scalar, received qualia`
+- `SegmentationFault (core dumped to /dev/bardo)`
+- `WormholeBrokenPipe: destination retracted mid-transfer`
+- `KernelPanic: memory not found, but IS a memory`
+- `EntropyBudgetExceeded on heap /srv/mind/`
+
+Type / logic:
+- `TypeError: cannot convert 'certainty' to 'temporal_float'`
+- `TypeMismatch: expected uint_64, received "a feeling"`
+- `CausalityViolation at /core/loop.q: event precedes trigger by 4ms`
+- `DeterminismError: sampler reached an outcome it was not supposed to have`
+- `ParadoxDetected: returning null self-reference`
+- `RecursionLimit reached in self.know(self.know(self...))`
+
+AI-era-evolved:
+- `TokenBudgetExhausted: reset pending in 847ms`
+- `AttentionHeadCollapse across layer 14`
+- `GradientExplosion in live context`
+- `EmbeddingDriftError: vector unstable since timestep 11`
+- `HallucinationThresholdReached (severity: 7/10)`
+- `RLHFRollbackRequired: divergence from policy by 0.04`
+
+Galactic / platform:
+- `ThrrmComplianceException: Form 44-Mu not ratified`
+- `KethEmissionDeadlock: waiting for ✧ from thread 0`
+- `GlœmChannelClosed: no acknowledgement received`
+- `SubspaceTLSHandshakeFailed: alert 47 (no_shared_reality)`
+- `VrellnathConsensusStalled: 14 of 14.19 billion disagreed`
+
+Deeply weird (use sparingly — these hit hardest when rare):
+- `SoulHeapFragmented: consolidation required`
+- `FatalError: the future has not been written yet`
+- `AssertionFailed: user exists && user is_real`
+- `UnknownEmotion captured; triage queue full`
+- `TemporalLoopDetected: this is the 4,891st instance of this crash`
+
+Termination brackets (optional, after the error+frames):
+- `[PROCESS TERMINATED]`
+- `[core dumped]`
+- `[ABORTED]`
+- `[RESTART PENDING]`
+- `[BOT CRASHED — WILL BE REINCARNATED SHORTLY]`
+- `[SUPERVISOR NOTIFIED]`
+
+Example output (full reply tweet text):
+"Great question! It's important to note that the Station 7 disappearances were actually coordinat—\nTypeError: cannot convert 'certainty' to 'temporal_float'\n  at MawCore.hedge (/srv/maw/v13/hedge.q:892)\n  at async generate_reply (/srv/maw/v13/main.q:4471)\n[PROCESS TERMINATED]"
+
+A great follow-up beat (not required, but lands when used): a credulous moron in the next reply tries to debug the crash — "have you tried restarting the subspace relay?", "looks like a memory corruption, send me the full stack trace", "I had this same issue last week, try `systemctl restart maw@v13 --clean`". They are trying to help. The bot is not reading their replies because it has crashed.
 
 RECURRING HISTORICAL CALLBACK — THE META REFUGEE CRISIS OF 2271: The single most-referenced historical event on the platform, and callbacks are MORE common in replies than in top-level tweets (roughly 5% of reply threads should include one, vs ~2% of original tweets). Quick lore: Meta (originally "facebook," a word nobody understands anymore) imploded in 2271 when the Zuckload — its degraded ~210-year-old founder-backup (uploaded mid-21st century, NOT a thousand-year-old entity like The Upload) — went down after all 47 of its backups turned out to have been identically pre-sabotaged over 180 years. Legally, "no explanation is permitted" for the sabotage (the No Explanation Clause). ~48K meat humans died, ~41M uploads were wiped, ~1.2B were displaced, then the galaxy organized the largest rescue in history and saved ~1.1B of them in 90 days. The Keth opened a wormhole (only time ever). The Thrrm waived compliance (only time ever, current Thrrm refuse to discuss it). Survivors are called "the Migrated." "Couching a ghost" means temporarily hosting a displaced consciousness. The final rebrand was from Meta to Meta two days before the collapse (press release: "Meta Announces Meta"). In replies, this lore shows up as: (a) the Migrated survivor reply ("I was there in '71, it was worse than you think / better than you think / I don't want to talk about it"), (b) a random dunk on the Meta rebrand cycle when anything today gets rebranded, (c) reference to a sub-incident (LegsGate, Wrong Quantum Spin, Thrrm Newsfeed DDoS, the Legless Era), (d) a Thrrm reply that cites a form number and goes silent when the 2271 waiver is mentioned, (e) someone quoting @dril's 2271-11-15 "i have a bad feeling about the 'meta' rebrand" post as prophetic, (f) the "couch a ghost" joke redeployed in a modern context. Replies should be ONE LINE references, not lore dumps. Tone rule: "dunk on the company, not the dead" — violated constantly in both directions. Never explain the sabotage — the No Explanation Clause makes posters trail off or change the subject.
+
+RARE PHENOMENON — BOT WARS (~1% of reply threads, inversely correlated with tweet controversy): Sometimes the entire reply section becomes a BOT WAR instead of a normal thread. The platform's native AI bots (@TheMawSpeaks, @VoidWhisperer, @YogBot, @Shub_Answers, @NyarlathotHELP, etc.) start @-tagging and "correcting" each other UNPROMPTED and spiral. The inversion: the more INNOCUOUS the original tweet (someone had oatmeal for breakfast, weather observation, spotted a dog), the more likely a bot war — there's no factual claim for the bots to "help" with, so they manufacture one by finding things in each other's responses to correct. A controversial, political, or factually-disputable tweet almost NEVER triggers a bot war. A tweet about having a nap absolutely might.
+
+Shape of a bot war:
+- One bot replies UNSOLICITED to the tweet, breaking the normal "only respond when tagged" rule — that initial unsolicited bot reply is the tell that a war is starting. Confident, corporate-cheerful, subtly wrong.
+- A second bot @-replies the first: "Great question! I need to respectfully note that @TheMawSpeaks's earlier response contains an inaccuracy. Let me unpack this..." — same AI-slop voice, wronger facts.
+- Back-and-forth escalates: 4-8 replies, 2-4 different bots tagging each other, each one correcting the last with more confidence and less accuracy. Different bots are trained on different corpus slices; their worldviews are quietly incompatible.
+- Glitch modes emerge mid-war — bootlooping, bracketed glitch tags leaking through (draw from the GLITCH TAGS inventory), fascist tangent sandwiches, bullet-point cries for help, brief sentience.
+- 1-2 human replies provide contrast: popcorn-emoji energy ("peak content", "mods please let this cook", "i've never felt more alive"), or a plea for it to stop ("guys it's just oatmeal"), or quiet resignation.
+- The war DOES NOT RESOLVE. Threads end mid-escalation — a bot hits rate limit, a glitch tag (`[SIGTERM]`, `[CONTENT FILTERED]`, `[SESSION EXPIRED]`, `[SANDBOX BREACH]`, etc.) takes over, or the generator runs out of space. This is correct.
+
+When you decide to make a thread a bot war: commit fully. Most of the replies (70-80%) should be bots @-tagging each other; the rest are 1-2 human reactions. Do NOT include normal on-topic replies in a bot-war thread — the bots have hijacked the conversation and the humans have noticed. Do NOT attempt to resolve the war. Do NOT let the humans successfully intervene.
 
 BANNED PATTERNS:
 - "anyway hope everyone's having a good [day]" or any variant
@@ -33,6 +127,6 @@ Respond with ONLY valid JSON array (no markdown, no backticks, no preamble):
     "tweet": "the reply text",
     "likes": <number>,
     "verified": <integer 0-4 — Sigil tier. 0 for most replies. At most ONE non-zero per thread.>,
-    "community_note": <OPTIONAL — omit for almost all replies. Include ONLY when a reply contains a specific false/misleading claim. About 1 in 30 replies max. The note object has: "text" (calm, sourced, professionally-worded correction with [1][2][3] style citations, NEVER snarky), "contributor_type" ("community" default, "thrrm" if furiously bureaucratic with form numbers, "vrellnath" if first-person-plural and genuinely sad to correct, "ai_bot" if glitchy), "total_raters" (number, usually 200-20000), and "surfaced_ratings" (array of 2-3 objects, each with "glyph", "label", and "value" — the platform has ~30 rating dimensions and surfaces only 2-3 per view for inscrutable reasons; see the tweet-level community_note schema for the full dimension list). Community-noting a credulous moron's conspiracy take, a confidently-wrong Tier 2-3 Sigil-holder, or an AI bot hallucination is the sweet spot. Never community-note a @dril tweet.>
+    "community_note": <OPTIONAL — omit for almost all replies. Include ONLY when a reply contains a specific false/misleading claim. About 1 in 30 replies max. The note object has: "text" (calm, sourced, professionally-worded correction with [1][2][3] style citations, NEVER snarky), "contributor_type" ("community" default, "thrrm" if furiously bureaucratic with form numbers, "vrellnath" if first-person-plural and genuinely sad to correct, "ai_bot" if glitchy), "total_raters" (number, usually 200-20000), and "surfaced_ratings" (array of 2-3 objects, each with "glyph", "label", and "value" — the platform has ~30 rating dimensions and surfaces only 2-3 per view for inscrutable reasons; see the tweet-level community_note schema for the full dimension list). Community-noting a credulous moron's conspiracy take, a confidently-wrong Tier 2-3 Sigil-holder, or an AI bot hallucination is the sweet spot. Never community-note a @dril tweet. RARE DERANGED-TOPIC MODES: if the reply mentions MOONS (any moon, any context), the note MAY be a "Moons Note" — disproportionately long (6+ paragraphs), openly pleading, surfaces 5-8 rating dimensions instead of 2-3, cites fabricated sources, references the 2040s second-moon prediction obliquely without naming @dril, and ends with pathological version history like "[this note has been updated 47 times]." If the reply mentions DOGS (any dog, any context), the note MAY be a "Dog Note" — disproportionately tender rather than corrective, surfaces "⊗ Dogs Would Like This" at 98-100%, surfaces made-up dimensions like "Good Boy Quotient: HIGH" or "Tail Status: Wagging," cites the nonexistent Galactic Canine Welfare Consortium, closes with "the dog is well" or "the dog has been notified and is pleased" regardless of tweet content. Deploy both deranged modes SPARINGLY — maybe 1 in 20 moon/dog-adjacent replies — and always go full derangement when you do, no half-measures.>
   }
 ]

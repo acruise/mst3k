@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Mystery Science Twitter 3000</title>
+<title>Memetic Subspace Twitter 3017</title>
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;700&family=Space+Mono:wght@400;700&family=Newsreader:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
 <style>
   @keyframes fadeSlideIn {
@@ -129,7 +129,9 @@
   .timestamp {
     font-size: 13px; color: rgba(255,255,255,0.2);
     margin-left: auto; font-family: 'IBM Plex Mono', monospace;
+    text-decoration: none;
   }
+  a.timestamp:hover { color: rgba(255,255,255,0.55); }
   .tweet-text {
     font-family: 'Newsreader', Georgia, serif;
     font-size: 16px; line-height: 1.55; color: #d1cfc9;
@@ -227,6 +229,9 @@
     padding: 8px 0 2px; font-size: 11px; color: rgba(255,255,255,0.1);
     font-family: 'IBM Plex Mono', monospace; letter-spacing: 1.5px; text-transform: uppercase;
   }
+  .replies-end.clickable { cursor: pointer; transition: color 0.15s; }
+  .replies-end.clickable:hover { color: rgba(255,255,255,0.45); }
+  .replies-end.loading { color: rgba(255,255,255,0.35); }
   .loading-text {
     padding: 14px 0; color: rgba(255,255,255,0.25);
     font-size: 13px; font-family: 'IBM Plex Mono', monospace;
@@ -262,7 +267,7 @@
 <div class="scanline"></div>
 
 <div class="header">
-  <div class="header-title">MYSTERY SCIENCE TWITTER 3000</div>
+  <div class="header-title">MEMETIC SUBSPACE TWITTER 3017</div>
   <div class="header-sub" id="subheader">subspace feed • epoch 3026.000 • 0 dispatches</div>
 </div>
 
@@ -294,11 +299,11 @@ var dataReady = false;
 
 function loadData() {
   var dataPromise = Promise.all([
-    fetch("data/meme-formats.json").then(function (r) { return r.json(); }),
-    fetch("data/reply-archetypes.json").then(function (r) { return r.json(); }),
-    fetch("data/handles.json").then(function (r) { return r.json(); }),
-    fetch("data/system-prompt.txt").then(function (r) { return r.text(); }),
-    fetch("data/replies-prompt.txt").then(function (r) { return r.text(); }),
+    fetch("/data/meme-formats.json").then(function (r) { return r.json(); }),
+    fetch("/data/reply-archetypes.json").then(function (r) { return r.json(); }),
+    fetch("/data/handles.json").then(function (r) { return r.json(); }),
+    fetch("/data/system-prompt.txt").then(function (r) { return r.text(); }),
+    fetch("/data/replies-prompt.txt").then(function (r) { return r.text(); }),
   ]).then(function (results) {
     MEME_FORMATS = results[0];
     REPLY_ARCHETYPES = results[1];
@@ -322,6 +327,139 @@ function loadData() {
     if (backendMode === "offline") {
       document.getElementById("subheader").textContent = "subspace feed • OFFLINE MODE • cached corpus";
     }
+    applySummon();
+    applyIncite();
+    return loadPermalinkIfAny();
+  });
+}
+
+/* ───────────────────────── ?summon=keyword — rig the dice ───────────────────────── */
+var summonFormats = null; // null = full pool
+var summonLabel = null;
+
+function applySummon() {
+  var params = new URLSearchParams(window.location.search);
+  var s = params.get("summon");
+  if (!s || !MEME_FORMATS.length) return;
+  summonLabel = s;
+  var needle = s.toLowerCase();
+  var matches = MEME_FORMATS.filter(function (f) { return f.toLowerCase().indexOf(needle) >= 0; });
+  if (matches.length === 0) {
+    console.warn('summon="' + s + '" matched 0 formats — falling back to full pool');
+    return;
+  }
+  summonFormats = matches;
+  console.log('summon="' + s + '" → ' + matches.length + ' / ' + MEME_FORMATS.length + ' formats');
+  var sub = document.getElementById("subheader");
+  if (sub) sub.textContent += "  ·  ⚡ SUMMONING \"" + s + "\" (" + matches.length + " formats)";
+}
+
+function pickFormat() {
+  return randomChoice(summonFormats || MEME_FORMATS);
+}
+
+/* ───────────────────────── ?incite=effect — force a reply/note effect ───────────────────────── */
+var inciteLabel = null;
+var inciteDirective = "";
+
+var INCITE_MAP = {
+  "bot-war": "\n\nINCITE OVERRIDE: This reply thread IS a BOT WAR (see system prompt's RARE PHENOMENON — BOT WARS section). 70-80% of replies must be platform AI bots (@TheMawSpeaks, @VoidWhisperer, @YogBot, @Shub_Answers, @NyarlathotHELP, etc.) @-tagging each other with escalating corporate-cheerful wrong corrections. Start with an UNSOLICITED bot reply (no human tagged them first). 1-2 human popcorn-emoji reactions. Do NOT resolve the war — end mid-escalation.",
+  "moon-note": "\n\nINCITE OVERRIDE: At least one community_note in this output MUST be a full MOONS NOTE derangement — 6+ paragraphs, 20-40 citations (several fabricated), 5-8 surfaced rating dimensions, tone drifting into pleading, references the 2040s second-moon prediction obliquely (never name @dril), ends with pathological version history like '[this note has been updated 47 times]'. If the content doesn't currently mention a moon, nudge it there.",
+  "dog-note": "\n\nINCITE OVERRIDE: At least one community_note MUST be a full DOG NOTE — disproportionately tender rather than corrective, surfaces '⊗ Dogs Would Like This' at 98-100%, surfaces made-up dimensions like 'Good Boy Quotient: HIGH' and 'Tail Status: Wagging', cites the nonexistent Galactic Canine Welfare Consortium or 'Dr. Paws-Whitfield', closes with 'the dog is well' / 'the dog has been notified and is pleased'. Nudge content toward dog-adjacent if needed.",
+  "community-notes": "\n\nINCITE OVERRIDE: Include community_note fields liberally — the main tweet MUST have one; at least 2 replies MUST have notes in reply threads. Use the calm, sourced voice and the surfaced-ratings convention from the system prompt.",
+  "ex-employee-defense": "\n\nINCITE OVERRIDE: Include an Upload or Upload-Defender reply that deploys the Ex-Employee Defense (blaming a former employee for something, named differently each time — see platform-history lore).",
+  "bot-crash": "\n\nINCITE OVERRIDE: At least one platform AI bot reply in this thread MUST be in CRASH MODE — truncated mid-sentence, followed by a Y3K-plausible programming error (e.g. TypeError on 'temporal_float', QuantumCoherenceException, SubspaceTimeoutError), optionally 1-3 indented stack-frame lines pointing at paths like /srv/maw/v13/*.q with big line numbers, optionally terminated with [PROCESS TERMINATED]. See Y3K ERRORS inventory in replies-prompt.txt. Bonus: follow it with a credulous-moron reply attempting to debug the stack trace."
+};
+
+function resolveIncite(raw) {
+  var l = raw.toLowerCase().trim();
+  if (INCITE_MAP[l]) return l;
+  if (l.indexOf("bot") >= 0) return "bot-war";
+  if (l.indexOf("moon") >= 0) return "moon-note";
+  if (l.indexOf("dog") >= 0) return "dog-note";
+  if (l.indexOf("note") >= 0) return "community-notes";
+  if (l.indexOf("employee") >= 0 || l.indexOf("defense") >= 0 || l.indexOf("eed") >= 0) return "ex-employee-defense";
+  if (l.indexOf("crash") >= 0 || l.indexOf("stack") >= 0 || l.indexOf("error") >= 0) return "bot-crash";
+  return null;
+}
+
+function applyIncite() {
+  var params = new URLSearchParams(window.location.search);
+  var raw = params.get("incite");
+  if (!raw) return;
+  var key = resolveIncite(raw);
+  if (key) {
+    inciteLabel = key;
+    inciteDirective = INCITE_MAP[key];
+  } else {
+    inciteLabel = raw;
+    inciteDirective = "\n\nINCITE OVERRIDE: deploy the '" + raw + "' effect canonically (no specific map entry — do your best based on system-prompt lore).";
+  }
+  console.log('incite="' + raw + '" → ' + (key || 'freeform') + '; directive will be appended to generation prompts');
+  var sub = document.getElementById("subheader");
+  if (sub) sub.textContent += "  ·  ⚡ INCITING \"" + inciteLabel + "\"";
+}
+
+function loadPermalinkIfAny() {
+  var path = window.location.pathname;
+  if (path === "/t" || path === "/t/") return loadCollection();
+  var m = path.match(/^\/t\/([A-Za-z0-9][A-Za-z0-9_-]{0,63})$/);
+  if (!m) return;
+  var id = m[1];
+  return fetchTweetById(id).then(function (doc) {
+    if (!doc || !doc.tweet) {
+      document.getElementById("emptyState").innerHTML =
+        '<div class="empty-orb">⌀</div>' +
+        '<div class="empty-title">TWEET NOT FOUND</div>' +
+        '<div class="empty-sub">id: ' + esc(id) + '</div>';
+      return;
+    }
+    var t = buildTweetState(doc.tweet);
+    t.id = doc.id;
+    t._has_replies = !!(doc.replies && doc.replies.length);
+    tweets.unshift(t);
+    generatedCount++;
+    // Auto-expand and cache replies only when they exist
+    if (doc.replies && doc.replies.length) {
+      expandedId = t.uiId;
+      repliesCache[t.uiId] = doc.replies.map(enrichReply);
+    }
+    renderFeed();
+    // Scroll to specific reply if anchor hash was supplied
+    setTimeout(function () {
+      var hash = window.location.hash || "";
+      var rm = hash.match(/^#r-(\d+)$/);
+      if (rm) {
+        var el = document.getElementById("r-" + rm[1] + "-" + t.uiId);
+        if (el) el.scrollIntoView({ behavior: "smooth", block: "center" });
+      }
+    }, 50);
+  });
+}
+
+function loadCollection() {
+  return fetch("/api/tweets").then(function (r) {
+    return r.ok ? r.json() : { tweets: [] };
+  }).then(function (data) {
+    var items = (data && data.tweets) || [];
+    // Newest first — filename-prefixed timestamps sort ASC by name, so reverse.
+    items = items.slice().reverse();
+    items.forEach(function (item) {
+      var t = buildTweetState(item.tweet);
+      t.id = item.id;
+      t._has_replies = !!item.has_replies;
+      tweets.push(t);
+    });
+    generatedCount = tweets.length;
+    var sub = document.getElementById("subheader");
+    if (sub) sub.textContent = "corpus archive • " + items.length + " dispatches • click to expand replies";
+    renderFeed();
+  }).catch(function (err) {
+    console.error("Collection load failed:", err);
+    document.getElementById("emptyState").innerHTML =
+      '<div class="empty-orb">⌀</div>' +
+      '<div class="empty-title">CORPUS UNAVAILABLE</div>' +
+      '<div class="empty-sub">failed to load /api/tweets</div>';
   });
 }
 
@@ -426,6 +564,34 @@ function callAPI(system, content, maxTokens, temperature) {
   });
 }
 
+/* ───────────────────────── corpus save helpers ───────────────────────── */
+function saveTweetToCorpus(tweet) {
+  if (backendMode === "offline") return Promise.resolve(null);
+  return fetch("/api/save", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ tweet: tweet }),
+  })
+    .then(function (r) { return r.ok ? r.json() : null; })
+    .then(function (data) { return (data && data.id) || null; })
+    .catch(function () { return null; });
+}
+
+function saveRepliesToCorpus(id, replies) {
+  if (!id || backendMode === "offline") return Promise.resolve();
+  return fetch("/api/save-replies", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ id: id, replies: replies }),
+  }).catch(function () {});
+}
+
+function fetchTweetById(id) {
+  return fetch("/api/tweet/" + encodeURIComponent(id))
+    .then(function (r) { return r.ok ? r.json() : null; })
+    .catch(function () { return null; });
+}
+
 /* ───────────────────────── sigil SVG ───────────────────────── */
 function sigilSVG(tier, small) {
   if (!tier || tier < 1) return "";
@@ -451,10 +617,10 @@ function sigilSVG(tier, small) {
 
 /* ───────────────────────── render ───────────────────────── */
 function renderTweet(t, idx) {
-  var isExp = expandedId === t.id;
+  var isExp = expandedId === t.uiId;
   var tier = typeof t.verified === "number" ? t.verified : (t.verified ? 2 : 0);
-  var html = '<div class="tweet" id="tweet-' + t.id + '">';
-  html += '<div class="tweet-main' + (isExp ? ' expanded' : '') + '" onclick="toggleReplies(' + t.id + ')">';
+  var html = '<div class="tweet" id="tweet-' + t.uiId + '">';
+  html += '<div class="tweet-main' + (isExp ? ' expanded' : '') + '" onclick="toggleReplies(\'' + t.uiId + '\')">';
   if (t.is_ratio) html += '<div class="ratio-badge">ratio\'d</div>';
   html += '<div class="avatar-col"><div class="pfp pfp-48" style="background:' + t.pfpColor + '">' + t.pfpGlyph + '</div>';
   if (isExp) html += '<div class="avatar-line"></div>';
@@ -462,7 +628,11 @@ function renderTweet(t, idx) {
   html += '<div class="name-row"><span class="display-name">' + esc(t.display_name) + '</span>';
   html += sigilSVG(tier, false);
   html += '<span class="handle">' + esc(t.handle) + '</span>';
-  html += '<span class="timestamp">' + t.timestamp + '</span></div>';
+  if (t.id) {
+    html += '<a class="timestamp" href="/t/' + encodeURIComponent(t.id) + '" onclick="event.stopPropagation()">' + t.timestamp + '</a></div>';
+  } else {
+    html += '<span class="timestamp">' + t.timestamp + '</span></div>';
+  }
   html += '<div class="tweet-text">' + esc(t.tweet) + '</div>';
   html += '<div class="metrics">';
   var rc = t.is_ratio ? " ratio" : "";
@@ -476,28 +646,39 @@ function renderTweet(t, idx) {
 
   if (isExp) {
     html += '<div class="replies-section">';
-    if (repliesLoading === t.id) {
+    if (repliesLoading === t.uiId) {
       html += '<div class="loading-text">⟳ decoding reply subspace...</div>';
     }
-    var reps = repliesCache[t.id];
+    var reps = repliesCache[t.uiId];
     if (reps) {
       for (var i = 0; i < reps.length; i++) {
         var r = reps[i];
         var rTier = typeof r.verified === "number" ? r.verified : (r.verified ? 2 : 0);
-        html += '<div class="reply" style="animation-delay:' + (0.12 + i * 0.08) + 's">';
+        var replyAnchor = t.id ? ('/t/' + encodeURIComponent(t.id) + '#r-' + i) : null;
+        html += '<div class="reply" id="r-' + i + (t.id ? '-' + t.uiId : '') + '" style="animation-delay:' + (0.12 + i * 0.08) + 's">';
         html += '<div class="reply-col"><div class="pfp pfp-36" style="background:' + r.pfpColor + '">' + r.pfpGlyph + '</div>';
         if (i < reps.length - 1) html += '<div class="thread-line"></div>';
         html += '</div><div style="flex:1;min-width:0">';
         html += '<div class="name-row"><span class="display-name">' + esc(r.display_name) + '</span>';
         html += sigilSVG(rTier, true);
         html += '<span class="handle" style="font-size:11.5px">' + esc(r.handle) + '</span>';
-        html += '<span class="timestamp" style="font-size:11.5px">' + r.timestamp + '</span></div>';
+        if (replyAnchor) {
+          html += '<a class="timestamp" style="font-size:11.5px" href="' + replyAnchor + '" onclick="event.stopPropagation()">' + r.timestamp + '</a></div>';
+        } else {
+          html += '<span class="timestamp" style="font-size:11.5px">' + r.timestamp + '</span></div>';
+        }
         html += '<div class="tweet-text">' + esc(r.tweet) + '</div>';
         html += '<span class="reply-likes">♡ ' + fmt(r.likes) + '</span>';
         html += renderNote(r.community_note);
         html += '</div></div>';
       }
-      html += '<div class="replies-end">show more replies ›</div>';
+      if (backendMode !== "offline") {
+        if (moreLoading[t.uiId]) {
+          html += '<div class="replies-end loading">⟳ decoding more replies...</div>';
+        } else {
+          html += '<div class="replies-end clickable" onclick="event.stopPropagation(); loadMoreReplies(\'' + t.uiId + '\')">show more replies ›</div>';
+        }
+      }
     }
     html += '</div>';
   }
@@ -536,30 +717,50 @@ function setLoading(v) {
   renderFeed();
 }
 
+function buildTweetState(parsed) {
+  return {
+    uiId: "ui-" + Date.now() + "-" + Math.floor(Math.random() * 1000),
+    id: parsed.id || null,
+    display_name: parsed.display_name || "???",
+    handle: parsed.handle || generateHandle(),
+    tweet: parsed.tweet || "",
+    metrics: parsed.metrics || { retweets: 0, likes: 0, replies: 0, quote_tweets: 0 },
+    verified: parsed.verified || 0,
+    is_ratio: parsed.is_ratio || false,
+    community_note: parsed.community_note || null,
+    pfpColor: parsed.pfpColor || pfpColor(),
+    pfpGlyph: parsed.pfpGlyph || pfpGlyph(),
+    timestamp: parsed.timestamp || ts(),
+    _has_replies: parsed._has_replies || false,
+  };
+}
+
 function generateTweet() {
   if (loading || !dataReady) return;
   setLoading(true);
-  var format = randomChoice(MEME_FORMATS);
-  callAPI(SYSTEM_PROMPT, 'Generate a tweet in this format/vibe: "' + format + '"')
+  var format = pickFormat();
+  callAPI(SYSTEM_PROMPT, 'Generate a tweet in this format/vibe: "' + format + '"' + inciteDirective)
     .then(function (parsed) {
-      var t = {
-        display_name: parsed.display_name || "???",
-        handle: parsed.handle || generateHandle(),
-        tweet: parsed.tweet || "",
-        metrics: parsed.metrics || { retweets: 0, likes: 0, replies: 0, quote_tweets: 0 },
-        verified: parsed.verified || 0,
-        is_ratio: parsed.is_ratio || false,
-        community_note: parsed.community_note || null,
-        pfpColor: parsed.pfpColor || pfpColor(),
-        pfpGlyph: parsed.pfpGlyph || pfpGlyph(),
-        timestamp: parsed.timestamp || ts(),
-        id: Date.now(),
-        _corpus_idx: parsed._corpus_idx,
-        _has_replies: parsed._has_replies,
-      };
-      tweets.unshift(t);
-      generatedCount++;
-      setLoading(false);
+      var t = buildTweetState(parsed);
+      if (t.id) {
+        // Offline path: id is already set by server from corpus entry
+        tweets.unshift(t);
+        generatedCount++;
+        setLoading(false);
+        return;
+      }
+      // Online path: save to corpus, then attach id
+      return saveTweetToCorpus({
+        display_name: t.display_name, handle: t.handle, tweet: t.tweet,
+        metrics: t.metrics, verified: t.verified, is_ratio: t.is_ratio,
+        community_note: t.community_note,
+        pfpColor: t.pfpColor, pfpGlyph: t.pfpGlyph, timestamp: t.timestamp,
+      }).then(function (id) {
+        t.id = id;
+        tweets.unshift(t);
+        generatedCount++;
+        setLoading(false);
+      });
     })
     .catch(function (err) {
       console.error("Generation error:", err);
@@ -576,113 +777,166 @@ function generateBatch() {
     if (count >= 5) return;
     count++;
     setLoading(true);
-    var format = randomChoice(MEME_FORMATS);
-    callAPI(SYSTEM_PROMPT, 'Generate a tweet in this format/vibe: "' + format + '"')
+    var format = pickFormat();
+    callAPI(SYSTEM_PROMPT, 'Generate a tweet in this format/vibe: "' + format + '"' + inciteDirective)
       .then(function (parsed) {
-        tweets.unshift({
-          display_name: parsed.display_name || "???",
-          handle: parsed.handle || generateHandle(),
-          tweet: parsed.tweet || "",
-          metrics: parsed.metrics || { retweets: 0, likes: 0, replies: 0, quote_tweets: 0 },
-          verified: parsed.verified || 0,
-          is_ratio: parsed.is_ratio || false,
-          community_note: parsed.community_note || null,
-          pfpColor: parsed.pfpColor || pfpColor(), pfpGlyph: parsed.pfpGlyph || pfpGlyph(),
-          timestamp: parsed.timestamp || ts(), id: Date.now(),
-          _corpus_idx: parsed._corpus_idx, _has_replies: parsed._has_replies,
+        var t = buildTweetState(parsed);
+        if (t.id) {
+          tweets.unshift(t);
+          generatedCount++;
+          setLoading(false);
+          next();
+          return;
+        }
+        return saveTweetToCorpus({
+          display_name: t.display_name, handle: t.handle, tweet: t.tweet,
+          metrics: t.metrics, verified: t.verified, is_ratio: t.is_ratio,
+          community_note: t.community_note,
+          pfpColor: t.pfpColor, pfpGlyph: t.pfpGlyph, timestamp: t.timestamp,
+        }).then(function (id) {
+          t.id = id;
+          tweets.unshift(t);
+          generatedCount++;
+          setLoading(false);
+          next();
         });
-        generatedCount++;
-        setLoading(false);
-        next();
       })
       .catch(function () { setLoading(false); });
   }
   next();
 }
 
-function toggleReplies(id) {
-  if (expandedId === id) {
+function enrichReply(r) {
+  return {
+    display_name: r.display_name || "???",
+    handle: r.handle || generateHandle(),
+    tweet: r.tweet || "",
+    likes: r.likes || 0,
+    verified: r.verified || 0,
+    community_note: r.community_note || null,
+    pfpColor: r.pfpColor || pfpColor(),
+    pfpGlyph: r.pfpGlyph || pfpGlyph(),
+    timestamp: r.timestamp || ts(),
+  };
+}
+
+function toggleReplies(uiId) {
+  uiId = String(uiId);
+  if (expandedId === uiId) {
     expandedId = null;
     renderFeed();
     return;
   }
-  expandedId = id;
-  if (repliesCache[id]) { renderFeed(); return; }
+  expandedId = uiId;
+  if (repliesCache[uiId]) { renderFeed(); return; }
 
-  repliesLoading = id;
+  repliesLoading = uiId;
   renderFeed();
 
   var t = null;
-  for (var i = 0; i < tweets.length; i++) { if (tweets[i].id === id) { t = tweets[i]; break; } }
+  for (var i = 0; i < tweets.length; i++) { if (tweets[i].uiId === uiId) { t = tweets[i]; break; } }
   if (!t) { repliesLoading = null; renderFeed(); return; }
 
-  // Offline mode: fetch pre-generated replies from corpus
-  if (backendMode === "offline" && t._corpus_idx !== undefined) {
-    if (!t._has_replies) {
-      repliesCache[id] = [{ display_name: "⌀ no replies cached", handle: "@corpus", tweet: "this tweet was generated without replies — re-run generate.js with --replies", likes: 0, verified: 0, pfpColor: "#222", pfpGlyph: "⌀", timestamp: "—" }];
+  // Corpus tweet with cached replies: read them directly (avoids LLM re-generation
+  // in online mode when browsing the archive).
+  if (t.id && t._has_replies) {
+    fetchTweetById(t.id).then(function (doc) {
+      var reps = (doc && doc.replies) || [];
+      repliesCache[uiId] = reps.map(enrichReply);
       repliesLoading = null;
       renderFeed();
-      return;
-    }
-    fetch("/api/replies", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ corpus_idx: t._corpus_idx }),
-    })
-    .then(function (r) { return r.json(); })
-    .then(function (data) {
-      repliesCache[id] = (data.replies || []).map(function (r) {
-        return {
-          display_name: r.display_name || "???",
-          handle: r.handle || generateHandle(),
-          tweet: r.tweet || "",
-          likes: r.likes || 0,
-          verified: r.verified || 0,
-          community_note: r.community_note || null,
-          pfpColor: r.pfpColor || pfpColor(),
-          pfpGlyph: r.pfpGlyph || pfpGlyph(),
-          timestamp: r.timestamp || ts(),
-        };
-      });
-      repliesLoading = null;
-      renderFeed();
-    })
-    .catch(function (err) {
-      console.error("Offline reply error:", err);
-      repliesCache[id] = [{ display_name: "⚠ corpus error", handle: "@system", tweet: "failed to load cached replies", likes: 0, verified: 0, pfpColor: "#331111", pfpGlyph: "⚠", timestamp: "0s" }];
+    }).catch(function (err) {
+      console.error("Corpus reply error:", err);
+      repliesCache[uiId] = [{ display_name: "⚠ corpus error", handle: "@system", tweet: "failed to load cached replies", likes: 0, verified: 0, pfpColor: "#331111", pfpGlyph: "⚠", timestamp: "0s" }];
       repliesLoading = null;
       renderFeed();
     });
     return;
   }
 
-  // LLM mode: generate replies on the fly
+  // Offline mode has no LLM to fall back on — show placeholder.
+  if (backendMode === "offline") {
+    repliesCache[uiId] = [{ display_name: "⌀ no replies cached", handle: "@corpus", tweet: "this tweet was generated without replies — re-run generate.js with --replies", likes: 0, verified: 0, pfpColor: "#222", pfpGlyph: "⌀", timestamp: "—" }];
+    repliesLoading = null;
+    renderFeed();
+    return;
+  }
+
+  // Online mode: generate replies on the fly, then persist to corpus
   var archetypes = randomChoices(REPLY_ARCHETYPES, 5);
   var n = 4 + Math.floor(Math.random() * 3);
-  var prompt = 'Generate exactly ' + n + ' replies to this tweet.\n\nORIGINAL TWEET by ' + t.display_name + ' (' + t.handle + '):\n"' + t.tweet + '"\n\nContext: ' + fmt(t.metrics.likes) + ' likes, ' + fmt(t.metrics.retweets) + ' RTs, ' + fmt(t.metrics.replies) + ' replies.' + (t.is_ratio ? ' Currently being RATIOED.' : '') + '\n\nUse these reply vibes as inspiration (but surprise me, don\'t follow them rigidly):\n';
-  for (var j = 0; j < archetypes.length; j++) { prompt += (j+1) + '. ' + archetypes[j] + '\n'; }
-  prompt += '\nIMPORTANT: Each reply MUST sound like a completely different human being. Vary length wildly. At least one reply should be 3 words or fewer.';
-
-  callAPI(REPLIES_SYSTEM_PROMPT, prompt, 2000, 0.95)
+  callAPI(REPLIES_SYSTEM_PROMPT, buildReplyPrompt(t, archetypes, n, null) + inciteDirective, 2000, 0.95)
     .then(function (parsed) {
-      repliesCache[id] = parsed.map(function (r) {
-        return {
-          display_name: r.display_name || "???",
-          handle: r.handle || generateHandle(),
-          tweet: r.tweet || "",
-          likes: r.likes || 0,
-          verified: r.verified || 0,
-          community_note: r.community_note || null,
-          pfpColor: pfpColor(), pfpGlyph: pfpGlyph(), timestamp: ts(),
-        };
-      });
+      var replies = (Array.isArray(parsed) ? parsed : [parsed]).map(enrichReply);
+      repliesCache[uiId] = replies;
       repliesLoading = null;
       renderFeed();
+      // Fire-and-forget corpus save for live-generated replies
+      saveRepliesToCorpus(t.id, replies);
     })
     .catch(function (err) {
       console.error("Reply error:", err);
-      repliesCache[id] = [{ display_name: "⚠ relay error", handle: "@system", tweet: "reply subspace disrupted — collapse and tap again to retry", likes: 0, verified: 0, pfpColor: "#331111", pfpGlyph: "⚠", timestamp: "0s" }];
+      repliesCache[uiId] = [{ display_name: "⚠ relay error", handle: "@system", tweet: "reply subspace disrupted — collapse and tap again to retry", likes: 0, verified: 0, pfpColor: "#331111", pfpGlyph: "⚠", timestamp: "0s" }];
       repliesLoading = null;
+      renderFeed();
+    });
+}
+
+/* ───────────────────────── shared reply prompt + "show more replies" ───────────────────────── */
+function buildReplyPrompt(t, archetypes, n, existing) {
+  var hasExisting = existing && existing.length;
+  var prompt = hasExisting
+    ? ('Extend this reply thread with ' + n + ' MORE replies. Do not repeat the voices, handles, display names, or takes of any existing reply.\n\n')
+    : ('Generate exactly ' + n + ' replies to this tweet.\n\n');
+  prompt += 'ORIGINAL TWEET by ' + t.display_name + ' (' + t.handle + '):\n"' + t.tweet + '"\n\n';
+  prompt += 'Context: ' + fmt(t.metrics.likes) + ' likes, ' + fmt(t.metrics.retweets) + ' RTs, ' + fmt(t.metrics.replies) + ' replies.' + (t.is_ratio ? ' Currently being RATIOED.' : '') + '\n\n';
+  if (hasExisting) {
+    prompt += 'EXISTING REPLIES (do NOT duplicate any of these voices or takes):\n';
+    for (var k = 0; k < existing.length; k++) {
+      var r = existing[k];
+      prompt += (k + 1) + '. ' + r.display_name + ' (' + r.handle + '): "' + r.tweet + '"\n';
+    }
+    prompt += '\n';
+  }
+  prompt += 'Use these reply vibes as inspiration (but surprise me, don\'t follow them rigidly):\n';
+  for (var j = 0; j < archetypes.length; j++) { prompt += (j + 1) + '. ' + archetypes[j] + '\n'; }
+  prompt += '\nIMPORTANT: Each reply MUST sound like a completely different human being' + (hasExisting ? ' from ANY existing reply above' : '') + '. Vary length wildly. At least one reply should be 3 words or fewer.';
+  if (hasExisting) {
+    prompt += ' Feel free to make some of these replies-to-other-replies (tag with @handle of the earlier replier).';
+  }
+  return prompt;
+}
+
+var moreLoading = {}; // uiId → bool
+
+function loadMoreReplies(uiId) {
+  uiId = String(uiId);
+  if (backendMode === "offline") return;
+  if (moreLoading[uiId]) return;
+
+  var t = null;
+  for (var i = 0; i < tweets.length; i++) { if (tweets[i].uiId === uiId) { t = tweets[i]; break; } }
+  if (!t) return;
+  var existing = repliesCache[uiId] || [];
+
+  moreLoading[uiId] = true;
+  renderFeed();
+
+  var archetypes = randomChoices(REPLY_ARCHETYPES, 5);
+  var n = 3 + Math.floor(Math.random() * 3); // 3–5 more
+
+  callAPI(REPLIES_SYSTEM_PROMPT, buildReplyPrompt(t, archetypes, n, existing) + inciteDirective, 2000, 0.95)
+    .then(function (parsed) {
+      var added = (Array.isArray(parsed) ? parsed : [parsed]).map(enrichReply);
+      repliesCache[uiId] = existing.concat(added);
+      moreLoading[uiId] = false;
+      renderFeed();
+      // Persist the full combined thread back to corpus (save-replies replaces the array)
+      if (t.id) saveRepliesToCorpus(t.id, repliesCache[uiId]);
+    })
+    .catch(function (err) {
+      console.error("More replies error:", err);
+      moreLoading[uiId] = false;
       renderFeed();
     });
 }

@@ -1,0 +1,25 @@
+{
+  "id": "1776459599768-3abc",
+  "tweet": {
+    "display_name": "Compliance Officer Vthrkk-7-Sublevel-3",
+    "handle": "@vthrkk_compliance",
+    "tweet": "interesting how a CERTAIN bipedal carbon-based species submitted Form 4471-Mu-Tertiary with the \"intended atmospheric composition\" field marked simply \"yes.\" interesting how this is the 14,000th consecutive quarter. interesting how the form has SEVEN options. interesting.",
+    "metrics": {
+      "retweets": 8400,
+      "likes": 31200,
+      "replies": 2100,
+      "quote_tweets": 4800
+    },
+    "verified": 2,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(15,66%,48%)",
+    "pfpGlyph": "❃",
+    "timestamp": "37s"
+  },
+  "replies": null,
+  "generated_at": "2026-04-17T20:59:59.768Z",
+  "backend": "anthropic",
+  "model": "claude-opus-4-7",
+  "temperature": null
+}

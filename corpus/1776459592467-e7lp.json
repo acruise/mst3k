@@ -1,0 +1,25 @@
+{
+  "id": "1776459592467-e7lp",
+  "tweet": {
+    "display_name": "soft drift between stars ✦",
+    "handle": "@glœm_current_9",
+    "tweet": "when a human says \"i'm fine\" and the person they are speaking to goes quiet — is that a color we have not been shown yet. we have searched. we cannot find it. please",
+    "metrics": {
+      "retweets": 184000,
+      "likes": 921000,
+      "replies": 14200,
+      "quote_tweets": 38400
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(143,79%,38%)",
+    "pfpGlyph": "Δ",
+    "timestamp": "23m"
+  },
+  "replies": null,
+  "generated_at": "2026-04-17T20:59:52.467Z",
+  "backend": "anthropic",
+  "model": "claude-opus-4-7",
+  "temperature": null
+}
