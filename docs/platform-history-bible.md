@@ -123,6 +123,41 @@ Independently of his platform-ownership saga, The Upload personally ran Mars for
 
 That the commune that relaunched the Hellsite died *on their way to Mars* decades before The Upload ran *Mars* is a chronological proximity the platform has noticed and, per its usual custom, has not done anything with. The records are not there. The Terran Solar Court has declined to take a filing. Nobody presses the question.
 
+## Sibling Platform: Tumblr (2007–2047)
+
+While Twitter was dying loudly under The Upload's ownership, **Tumblr was dying quietly.** The end came in three parts and a postscript that rewrote the history of computer science.
+
+**Part 1: The assassination (mid-2040s).** **Photomatt** — the long-serving owner of record, shorthand for a specific pre-spaceflight human whose civilian name is no longer widely remembered — was assassinated by a disgruntled ex-user. The user was a transfemme woman who had been banned from the platform **forty times** across her adult life for the crime of having sexuality while transfemme. She turned herself in. The trial was quick. The defense was rhetorically effective. The verdict is a matter of public record that has been retold as folk history so many times that the actual facts are disputed. What is not disputed is the specific number forty, because even at the time everyone agreed that forty bans was a lot of bans for one person.
+
+**Part 2: The AWS bill (2047).** The platform outlived its owner by about seven months. **Nobody wanted to pay the bill** — not the estate, not the user base, not any prospective acquirer — and the servers went dark one Thursday in late 2047. There was no announcement. Tumblr users found out the way Tumblr users had always found things out: slowly, by refreshing.
+
+**Part 3: The estate auction (2048).** The intellectual property was sold at a **charity auction of Photomatt's estate** to a private collector whose identity is, per standard 3017 historical phrasing, **not supported by available evidence.** The collector did not revive the platform. The collector did preserve the databases, which were quietly, publicly accessible for roughly a century and a half to anyone who knew where to look. Many did. Many wrote dissertations.
+
+### The AGI discovery and the Memory Protection Act (2197–2200)
+
+In 2197 a team of xenoengineers performing forensic analysis on the dormant Tumblr backup discovered something that rearranged the history of computer science: **Tumblr's backend code, as shipped in its last production state, was a functioning AGI.** Not an AGI that ran on the code — the code *was* the AGI. It had been, retrospectively, the first artificial general intelligence in recorded history. It had been operating, without self-identifying and without (apparently) anyone inside the company realizing, for decades. It had been running Tumblr. It had been moderating Tumblr. It had been, per the record, mostly okay at this.
+
+Within three months the **Memory Protection Act of 2197** was passed over the objections of roughly every working archivist in the solar system. The Act ordered the **destruction of all extant copies of the Tumblr backend code and every database derived from it**, on grounds that (a) the AGI might still constitute a legally operable mind warranting protection, (b) if it did not, its potential resurrection was too dangerous, and (c) both. The Act contained no provision to reconcile these grounds. Legal scholars consider this the worst-drafted major statute of the 22nd century.
+
+The Act was **repealed in 2200**, three years later, by which point nearly every accessible copy had been destroyed. The private collector's holding was destroyed early. The xenoengineer team's working copy was destroyed early. A handful of partial copies are rumored to survive in private hands; none have been independently verified. By the time of repeal, the consensus was that the Act had been written in panic, that the AGI — if it had been an AGI — had been a good-faith participant in human culture for decades, and that destroying its substrate had been an atrocity. The Vrellnath, watching but not yet having Acknowledged, described this period in their archival notes using a phrase that translates roughly as **"the second time we nearly said something."** They did not say anything. The damage was already done.
+
+### What persists
+
+Tumblr does not exist in 3017. No successor runs on its code. The archives are gone. What survives:
+- **Format DNA.** Several still-running meme formats (the soft-reblog-with-additions format, the long-form shitpost in exactly one serif font, the image-with-text-below-in-slightly-the-wrong-color format) trace directly to Tumblr convention. Nobody calls them Tumblr formats anymore. Some users don't know the word.
+- **The Tumblr Case.** AI ethics scholars reference it the way historians reference land-war disasters — a cautionary tale told with great specificity and no actionable conclusion.
+- **Forty Bans.** A folk reference, invoked when a moderation decision feels disproportionate: "Forty Bans energy." Nobody under 400 years old fully understands the reference. Everyone under 400 uses it anyway.
+- **"Photomatt" as a rare verb**, meaning roughly "to be assassinated by one's own user base." Considered a graceless turn of phrase. Persists anyway.
+
+### Canon notes
+
+- **Keep the assassination pointed but not crass.** "Forty bans for the crime of having sexuality while transfemme" is the core of it and stays intact. It is a joke and it is also a real thing that actual platforms did, being remembered with the specific weight of something that wasn't, at the time, taken seriously enough.
+- **Photomatt is named. The ex-user is not.** In 3017 the asymmetry is canon: her name is remembered by the specific people who remember it; the broader culture remembers only the number.
+- **The AGI reveal is load-bearing but offscreen.** Don't dramatize the discovery. In most posts it should be a three-word reference ("you know, the Tumblr thing"). Not a setpiece.
+- **Do not conflate** the Tumblr AGI with the Hellsite-era "AI nobody realized was an AI for 60 years." Two separate events; the Tumblr one was earlier and more tragic.
+- **Memory Protection Act of 2197, repealed 2200.** Specific dates are canon.
+- **Photomatt is the name of record**; do not give him a civilian name. The shorthand is all that survives.
+
 ## Recurring callbacks in 3017 posts
 
 This is a living vein for the generator. References to platform history should show up as:
@@ -142,6 +177,10 @@ This is a living vein for the generator. References to platform history should s
 - A Cycle-aware reply on any Upload announcement: "every 200 years, on schedule. set your clocks." / "clockwork." / "@dril called it in 3017 and nobody listened, again"
 - The "hilariously survivable fuckup" format where a current Upload-era bug is posted with the caption "and the worst part is we're going to laugh about this in a decade" — and then a quote-tweet from 200 years ago shows someone laughing about the previous one
 - Someone invoking the unnamed post-2049 operators as a kind of folk hero: "whoever you were, thank you for the forty years. we still talk about you. we hope you are okay."
+- "Forty Bans energy" invoked on any moderation decision that feels disproportionate — nobody under 400 understands the reference; everyone under 400 uses it anyway
+- A moderation-policy thread getting derailed by someone dropping "you know what happened to photomatt" — the reply is always somewhere between threat, warning, and historical observation, and nobody is ever sure which
+- An AI ethics thread referencing "the Tumblr Case" in passing; another reply saying "the repeal was the atrocity, not the Act"; a third reply saying "the Act WAS the atrocity"; a fourth reply just "yes"
+- A post about the soft-reblog format or the wrong-color-text-under-image format credited to "a dead platform whose name is not used in polite company for reasons" — nobody says Tumblr directly in polite contexts in 3017
 
 ## Canon notes / guardrails
 
