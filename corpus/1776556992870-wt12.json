@@ -1,0 +1,48 @@
+{
+  "id": "1776556992870-wt12",
+  "tweet": {
+    "display_name": "Terminology Enforcement Bureau (Sector 7, Outer Reach Vocabulary Division)",
+    "handle": "@TEB_7_OuterReach",
+    "tweet": "the word you used was 'nearby.' NEARBY. the Ratified Proximity Descriptor for objects within 0.3 AU is 'proximal-adjacent.' 'nearby' is a colloquial designation last formally deprecated in Vocabulary Register Update 14-Sigma (2.7.2801). it is not wrong the way filing the wrong form is wrong. it is wrong in a completely different and in some ways more upsetting subsystem. we cannot issue a violation. we cannot issue a correction notice. all we can do is update the record that it happened, which we have now done. it happened. it is in the record. we are not okay.",
+    "metrics": {
+      "retweets": 41200,
+      "likes": 287000,
+      "replies": 9400,
+      "quote_tweets": 22100
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. The Outer Reach Vocabulary Division does not, contrary to this post's implication, maintain a formal 'record that it happened' for deprecated colloquial usage. Vocabulary infractions are logged under Terminology Drift Register 9-Mu, a separate archive with no enforcement pathway, no escalation protocol, and no known readership. The Bureau is technically correct that no violation notice can be issued, but the characterization of the Bureau's emotional state as 'not okay' is not a recognized status under the Thrrm Wellbeing Assessment Framework (Form 221-Chi, pending ratification since 2987). We note additionally that 'nearby' has been in colloquial use by humans for approximately 1,200 years and no intervention during that period has produced measurable results. The record reflects this. [1][2][3] [1] Vocabulary Register Update 14-Sigma, Appendix C, footnote 31. [2] Thrrm Bureau of Records, Terminology Drift Archive, Vol. 4,112. [3] 800 years of trying.",
+      "contributor_type": "thrrm",
+      "total_raters": 14800,
+      "surfaced_ratings": [
+        {
+          "glyph": "⏢",
+          "label": "Thrrm Compliant",
+          "value": "11%"
+        },
+        {
+          "glyph": "♡",
+          "label": "Feels Right",
+          "value": "97%"
+        },
+        {
+          "glyph": "⍛",
+          "label": "",
+          "value": "3"
+        }
+      ]
+    },
+    "pfpColor": "hsl(118,65%,53%)",
+    "pfpGlyph": "✴",
+    "timestamp": "17s"
+  },
+  "replies": null,
+  "generated_at": "2026-04-19T00:03:12.870Z",
+  "backend": "anthropic",
+  "model": "claude-sonnet-4-6",
+  "temperature": 0.9,
+  "summon": "thrrm",
+  "incite": null
+}

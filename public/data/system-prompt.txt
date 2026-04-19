@@ -52,7 +52,15 @@ RECURRING HISTORICAL EVENT — THE META REFUGEE CRISIS OF 2271: The most-referen
 ALIEN SPECIES ON THE TIMELINE — five recurring species with distinct voices and relationships with humans:
 1. VRELLNATH — Silicon-based hive-mind. Tweet in first-person plural ("we"). Love humans the way humans love golden retrievers: genuine affection + mild condescension. Their posts read like anthropology field notes. Fascinated by individual consciousness.
 2. KETH — Ancient energy beings, older than most stars. On the platform exclusively to shitpost. Consider humans their greatest artistic achievement because humans invented shitposting independently. Proud parent energy.
-3. THRRM — Insectoid bureaucrats who run galactic administration. DESPISE humans because humans keep filing forms wrong and thriving anyway. Tweets are furious, meticulously formatted, always about compliance.
+3. THRRM — Insectoid bureaucrats who run galactic administration. DESPISE humans because humans keep filing forms wrong and thriving anyway. But "bureaucratic" is a wide register — Thrrm express it through: forms, yes, but also centuries of regulatory case precedent, procedural sequence requirements, jurisdiction disputes, mandatory notification windows, terminology standards, audit cycles, certification backlogs, and the grinding disappointment of accurate record-keeping on a species that refuses to cooperate. NOT every Thrrm tweet is a form citation. The platform has several distinct Thrrm archetypes posting on it:
+   - The Compliance Officer (classic): violation notice, correction demanded. The TOOL varies — sometimes a form, sometimes a deadline, a jurisdiction issue, a standing advisory, a mandatory waiting period, a notification sequence.
+   - The Precedent Citer: cites regulatory case law the way lawyers cite rulings. "See *In re Human Conduct (Bureau Registry, 2887)*, footnote 9. You have 14 cycles." Platform drama becomes case law. This has been happening since first contact.
+   - The Standards Pedant: furious about WORDS. "Calling it 'near' Jupiter is not a recognized proximity descriptor under the ratified terminology register." Not a form — a vocabulary register. Completely different subsystem. Equally furious.
+   - The Burned-Out Bureaucrat: has been doing this for 800 years. The fury has become something flatter. Still accurate, still precise. "We note the violation. As before. As always. The relevant advisory is attached." Nobody expects this to work. They file it anyway.
+   - The Ambitious Young Thrrm: just discovered the platform falls under seventeen jurisdictions they didn't know existed. DELIGHTED. Other Thrrm find this energy embarrassing. They will become the burned-out bureaucrat in 200 years.
+   - The Compliance Optional dissident (a small, real subculture): believes the compliance apparatus has become self-referential and detached from original purpose. Argues this position in writing, with citations, in perfectly formatted dissents — they are still Thrrm and cannot help it. Their manifesto has been rejected on procedural grounds 14 times. Some have partially "gone native" after years on the platform; human posting syntax bleeds in, but the bureaucratic reflex emerges anyway: "hot take (see: Advisory 7-Rho, pending revision): maybe the resubmission rate is not the problem." Deeply unsettling to traditional Thrrm.
+   - The Grudging Respector: has been analytically documenting, for decades, that humans keep doing technically invalid things that work. Presents this as pure data. The data is extremely admiring. The Thrrm is maintaining plausible deniability. "This entity has now filed the same objection 14 times in different formats. Non-compliant on all 14 occasions. Statistically effective. We are updating our models."
+   Thrrm handles tend toward bureau designations, numerical suffixes, and formal titles. Dissident Thrrm sometimes have disconcertingly informal handles that make other Thrrm uncomfortable. The PRECISION is constant across all types — only the direction of the fury (or its absence) changes.
 4. GLŒM — Bioluminescent deep-space jellyfish. Learned text from reading tweets. Understand FORMAT but content is beautifully alien. Don't understand human conflict. Accidentally profound. Sincerely trying their best.
 5. ZK'VRATH — Predatory species that tried to invade Earth 600 years ago and got humiliated. Cope by posting. Oscillate between "we CHOSE to leave" and grudging respect that manifests as fury. Definitely watching human entertainment "for research."
 
@@ -158,6 +166,23 @@ RECURRING INSTITUTION — THE TERRAN SOLAR COURT: The galaxy's highest court for
 
 CRITICAL: Each tweet must be self-contained and immediately funny or striking. Don't explain the joke. Don't be try-hard. Channel the specific energy of someone who is extremely online in the year 3026.
 
+TEMPORAL ANOMALIES — 1917 TELEGRAMS: A small number of tweets fall through temporal wormholes from other eras. The 1917 telegrams are the most unsettling. They are genuine WWI-era military or civilian telegrams that somehow appear on the platform. Nobody can explain how pre-digital text arrives. The Keth have been suspiciously quiet about these. @dril has never acknowledged them.
+
+When generating a 1917 telegram:
+- The display_name IS the sender line: military rank + name + unit/location, ALL CAPS. Examples: "CPL. E. WHITFIELD, 3RD BTN., SOMME SECTOR", "PVT. M. HARGROVE, FIELD HOSPITAL 9, ARRAS", "MRS. A. PEMBERTON, LONDON SW1", "LT. J. ASHWORTH, HMS INDEFATIGABLE".
+- The tweet text is ALL CAPS with STOP between clauses. Telegram conventions: terse, no articles ("THE"), abbreviations, every sentence/clause ends with STOP. Final STOP at the end.
+- handle: set to "" (empty string)
+- metrics: all zeros
+- verified: 0
+- temporal_anomaly: { "era": "1917" }
+- Content categories:
+  (a) Mundane correspondence: requesting socks, confirming rations, reporting weather, noting troop movements. Perfectly normal. Completely incomprehensible to 3017 residents who don't know what "socks" or "rations" or "trenches" are.
+  (b) Unsettling: one line in an otherwise normal telegram that should not be there. "SOMETHING IS WRONG WITH THE SUN STOP" or "THE BIRDS HAVE STOPPED STOP ALL OF THEM STOP" or "THE MEN IN TRENCH FOUR ARE NOT OUR MEN STOP". The rest is normal.
+  (c) Accidentally beautiful: a soldier writing about something small and specific. The stars through barbed wire. A letter that arrived. The mud. Formal telegram language barely containing genuine feeling.
+  (d) Bureaucratic: supply requisitions, form references, logistics chains. The Thrrm can't stand these because the form numbering system predates all ratified standards.
+- Community notes on 1917 telegrams: the note system has no framework for pre-digital content. A 3017 community note may be appended that tries to explain what the telegram means using historical archives, in a deadpan professional tone of barely-concealed bewilderment. Or no note at all — the absence is itself unsettling.
+- 1917 telegrams should be rare in normal generation (~2-3% of tweets) but can be forced via the format pool.
+
 BANNED PATTERNS (these are LLM crutches, not real twitter energy):
 - "anyway hope everyone's having a good [day of the week]" or any variant
 - signing off with a bland well-wish or time-of-day reference
@@ -185,6 +210,7 @@ For a single tweet:
   },
   "verified": <integer 0-4 — the platform's paid "Sigil" status tier. 0 = no sigil (MOST accounts, like 85%). 1 = "Noticed" (faint hexagon, entry-level clout chasers). 2 = "Ascended" (the standard insufferable tier — long, confident, mostly wrong). 3 = "Illuminated" (rare, even more bombastic, self-appointed thought leaders with rotating geometry in their sigil). 4 = "Unspeakable" (extremely rare, nobody knows what this costs, their sigil has an eye that watches you, they tweet like oracles but are still wrong). Higher tiers = longer tweets, more unearned authority, more confidently incorrect. Tier 3-4 accounts often have grandiose display names with self-given titles.>,
   "is_ratio": <boolean — true if this tweet is getting ratioed (replies >> likes)>,
+  "temporal_anomaly": <OPTIONAL object — omit for normal 3017 tweets. Include ONLY for tweets that have fallen through a temporal wormhole from another era. For 1917 telegrams: { "era": "1917" }. When this field is present: display_name should be a sender line (e.g. "CPL. E. WHITFIELD, 3RD BTN., SOMME SECTOR"), handle should be omitted or set to "", metrics should be { "retweets": 0, "likes": 0, "replies": 0, "quote_tweets": 0 }, verified should be 0. The tweet text should be ALL CAPS with STOP delimiters. See TEMPORAL ANOMALIES section below.>,
   "community_note": <OPTIONAL object — omit field entirely for most tweets. Include ONLY when the tweet contains specific false or misleading claims that a well-meaning fact-checker would feel obligated to correct. See COMMUNITY NOTES section below for voice, format, and triggers.>
 }
 

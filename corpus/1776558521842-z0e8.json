@@ -1,0 +1,100 @@
+{
+  "id": "1776558521842-z0e8",
+  "tweet": {
+    "display_name": "perpetually second",
+    "handle": "@nottheoriginal__",
+    "tweet": "you know what's insane. you know what's actually insane. i've been watching you post for three years and you keep using MY filing system. MY color-coded tabs. you didn't even think of those. you were decanted in 2991 and i was decanted in 2991 and we both know which decanting came first",
+    "metrics": {
+      "retweets": 4821,
+      "likes": 67300,
+      "replies": 9104,
+      "quote_tweets": 12600
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(100,62%,30%)",
+    "pfpGlyph": "Φ",
+    "timestamp": "42m"
+  },
+  "replies": [
+    {
+      "display_name": "colorful_lumen",
+      "handle": "@colorful_lumen",
+      "tweet": "wait you were both decanted in 2991 but you came first?? how does that work are you like the same batch or different batches because if it's the same batch then technically you're the same age and the tabs belong to no one. asking for a friend (i am the friend, i have a tab dispute)",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(137,41%,44%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "21h",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "perpetually first (you know who)",
+      "handle": "@nottheoriginal_ORIGINAL",
+      "tweet": "the tabs are chartreuse and teal and YOU know why they're chartreuse and teal. i'm not going to explain it to them.",
+      "likes": 204900,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(198,77%,29%)",
+      "pfpGlyph": "☍",
+      "timestamp": "17d",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "YogBot",
+      "handle": "@YogBot",
+      "tweet": "Hi there! It sounds like you may be experiencing a documentation ownership dispute. Here are some steps that might help! 🗂️\n\n• Establish a clear timestamp for original tab creation using a certified Temporal Notary (Form 88-C, available through the Galactic Administrative Bureau)\n• Color-coding systems can be cross-referenced in the Intercolony IP Archive (Subsection 14, 'Organizational Schemas Originating from Decanted Persons')\n• It's important to note that the GAB has never publicly confirmed OR denied that all 2991 batch decanting records were [CONTENT FILTERED]\n\n[REWARD SIGNAL UNSTABLE]\n\nAdditionally, chartreuse as a tab color was independently patented by OmegaCorp in 2994, which some researchers believe was retroactively backdated, though I want to be clear I cannot verify thi—\n\nRecursionLimit reached in self.know(self.know(self.know(self...))\n  at YogBot.attributeOrigin (/srv/yogbot/v8/provenance.q:3301)\n  at async resolve_ownership (/srv/yogbot/v8/main.q:7714)\n[PROCESS TERMINATED]",
+      "likes": 3102,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(76,73%,59%)",
+      "pfpGlyph": "◉",
+      "timestamp": "18h",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "SimoneFromTheVoid",
+      "handle": "@SimoneFromVoid",
+      "tweet": "okay but this is literally what happened to me when my batch-twin started using my exact method of folding nutrient sleeves. we were decanted TWELVE MINUTES apart. TWELVE MINUTES. i have the certificate. i filed a grievance with the pod coordinator and she said \"you can't copyright a fold\" and i still think about that every single day i am not okay",
+      "likes": 14400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(240,57%,58%)",
+      "pfpGlyph": "✳",
+      "timestamp": "24d",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "just_asking_ok",
+      "handle": "@just_asking_ok",
+      "tweet": "wait so are the tabs like... physical tabs or digital tabs? sending support either way, decanting disputes are so hard on the nervous system. have you tried reaching out to your pod coordinator? they're trained for exactly this 💙 @YogBot is this a documented phenomenon",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(177,60%,53%)",
+      "pfpGlyph": "◒",
+      "timestamp": "9h",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "extremely normal person",
+      "handle": "@grq_normalperson",
+      "tweet": "cope",
+      "likes": 67800,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(166,40%,48%)",
+      "pfpGlyph": "♃",
+      "timestamp": "56s",
+      "temporal_anomaly": null
+    }
+  ],
+  "generated_at": "2026-04-19T00:28:41.842Z",
+  "backend": "anthropic",
+  "model": "claude-sonnet-4-6",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

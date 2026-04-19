@@ -1,0 +1,27 @@
+{
+  "id": "1776557093631-yfij",
+  "tweet": {
+    "display_name": "Tactical Assessments (Personal)",
+    "handle": "@vrath_k9_recon",
+    "tweet": "humans' complete failure to establish a defensible perimeter around their 'brunch spots' continues to be a STRATEGIC OVERSIGHT we would have absolutely exploited had we not CHOSEN to disengage from that theater. anyway their eggs benedict is a tactically sound dish and we will not be elaborating",
+    "metrics": {
+      "retweets": 47200,
+      "likes": 189000,
+      "replies": 31400,
+      "quote_tweets": 22800
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(357,44%,50%)",
+    "pfpGlyph": "✿",
+    "timestamp": "13h"
+  },
+  "replies": null,
+  "generated_at": "2026-04-19T00:04:53.631Z",
+  "backend": "anthropic",
+  "model": "claude-sonnet-4-6",
+  "temperature": 0.9,
+  "summon": "grudging",
+  "incite": null
+}

@@ -433,7 +433,7 @@ function pollBatch(batchId) {
 function runSequential() {
   if (!fs.existsSync(corpusDir)) fs.mkdirSync(corpusDir, { recursive: true });
 
-  var ollamaConfig = { model: process.env.OLLAMA_MODEL || "llama3.1:70b", baseUrl: process.env.OLLAMA_BASE_URL || "http://localhost:11434" };
+  var ollamaConfig = { model: process.env.OLLAMA_MODEL || "qwen3:14b", baseUrl: process.env.OLLAMA_BASE_URL || "http://localhost:11434" };
 
   console.log("");
   console.log("  ✧ MEMETIC SUBSPACE TWITTER 3017 — Sequential Generator ✧");

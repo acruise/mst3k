@@ -1,0 +1,27 @@
+{
+  "id": "1776558517241-b0ku",
+  "tweet": {
+    "display_name": "Transit Witness 🎙️",
+    "handle": "@transitnarrator",
+    "tweet": "The elderly Vrellnath — traveling alone for perhaps the first time in its collective's memory — has chosen seat 14C and is now, with enormous dignity, attempting to recline into a position its silicon chassis was not designed for. It will try four more times. It will not ask for help. We watch. We say nothing. This is the way of things on the Kepler-Aldebaran line.",
+    "metrics": {
+      "retweets": 41200,
+      "likes": 198400,
+      "replies": 3100,
+      "quote_tweets": 8900
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(256,67%,34%)",
+    "pfpGlyph": "◇",
+    "timestamp": "22d"
+  },
+  "replies": null,
+  "generated_at": "2026-04-19T00:28:37.241Z",
+  "backend": "anthropic",
+  "model": "claude-sonnet-4-6",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

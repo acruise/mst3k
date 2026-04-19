@@ -3,6 +3,9 @@
 
 var https = require("https");
 var http = require("http");
+var pino = require("pino");
+
+var log = pino({ name: "llm", level: process.env.LOG_LEVEL || "info" });
 
 // Opus 4.7 rejects the sampling parameters (`temperature`, `top_p`, `top_k`)
 // with HTTP 400 — per Anthropic's migration guide, guide the model via prompting
@@ -17,10 +20,41 @@ function callLLM(backend, config, system, content, maxTokens, temperature) {
   maxTokens = maxTokens || 1000;
   temperature = temperature || 0.9;
 
-  if (backend === "ollama") {
-    return callOllama(config, system, content, maxTokens, temperature);
-  }
-  return callAnthropic(config, system, content, maxTokens, temperature);
+  var start = Date.now();
+  log.info({
+    event: "llm_request",
+    backend: backend,
+    model: config.model,
+    system_len: system.length,
+    content_len: content.length,
+    max_tokens: maxTokens,
+    temperature: temperature,
+  }, "LLM request");
+
+  var promise = backend === "ollama"
+    ? callOllama(config, system, content, maxTokens, temperature)
+    : callAnthropic(config, system, content, maxTokens, temperature);
+
+  return promise.then(function (text) {
+    log.info({
+      event: "llm_response",
+      backend: backend,
+      model: config.model,
+      response_len: text.length,
+      elapsed_ms: Date.now() - start,
+      preview: text.slice(0, 200),
+    }, "LLM response");
+    return text;
+  }).catch(function (err) {
+    log.error({
+      event: "llm_error",
+      backend: backend,
+      model: config.model,
+      elapsed_ms: Date.now() - start,
+      error: err.message,
+    }, "LLM error");
+    throw err;
+  });
 }
 
 function callAnthropic(config, system, content, maxTokens, temperature) {
@@ -82,10 +116,11 @@ function callOllama(config, system, content, maxTokens, temperature) {
     var parsed = new URL(config.baseUrl || "http://localhost:11434");
 
     var payload = JSON.stringify({
-      model: config.model || "llama3.1:70b",
+      model: config.model || "qwen3:14b",
       max_tokens: maxTokens,
       temperature: temperature,
       stream: false,
+      response_format: { type: "json_object" },
       messages: [
         { role: "system", content: system },
         { role: "user", content: content },
@@ -132,9 +167,12 @@ function callOllama(config, system, content, maxTokens, temperature) {
   });
 }
 
-// Parse raw LLM text into JSON, stripping markdown fences
+// Parse raw LLM text into JSON, stripping markdown fences and thinking blocks
 function parseResponse(text) {
-  var cleaned = text.replace(/```json|```/g, "").trim();
+  var cleaned = text
+    .replace(/<think>[\s\S]*?<\/think>/g, "")
+    .replace(/```json|```/g, "")
+    .trim();
   return JSON.parse(cleaned);
 }
 

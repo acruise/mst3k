@@ -1,0 +1,164 @@
+{
+  "id": "1776557147754-83rr",
+  "tweet": {
+    "display_name": "Spider Facts Bot",
+    "handle": "@SpiderFactsBot",
+    "tweet": "Spiders could spin webs in microgravity. Scientists tested this in 2011. The webs were asymmetrical. The spiders did not mind.",
+    "metrics": {
+      "retweets": 287443,
+      "likes": 1843201,
+      "replies": 34891,
+      "quote_tweets": 62340
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(337,71%,32%)",
+    "pfpGlyph": "⏁",
+    "timestamp": "13d"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Pellucid Vance 🔬 | Xenobio Communicator",
+      "handle": "@pellucid_vance",
+      "tweet": "This is a great touchstone moment for public science engagement but I want to push back a little here. The 2011 study (Boustred & Imari, Orbital Arachnology Quarterly Vol. 4) was actually RETRACTED in 2019 because the control spiders were also in microgravity — the centrifuge was broken the whole time. The asymmetry was not a feature of zero-g, it was a feature of spider PREFERENCE, which we've since confirmed through the Nakamura-Feist Consortium's longitudinal web-geometry trials on Titan Station. The spiders, as it were, have always been doing this. They just needed an excuse. Recommend people read the full literature before sharing as fact.",
+      "likes": 47,
+      "verified": 2,
+      "community_note": {
+        "text": "The Boustred & Imari paper cited in this reply does not appear to exist. The Orbital Arachnology Quarterly Vol. 4 cannot be found in any academic archive. The original 2011 microgravity spider study (conducted aboard the International Space Station, ISS STS-134) was not retracted and remains in good standing. The Nakamura-Feist Consortium is also unverifiable. The spiders were fine. [1][2][3]\n\n[1] NASA Space Station Research Archive, 2011\n[2] Journal of Gravitational Biology, accessed 3026\n[3] Arachnid Behavioral Science Compendium, 30th ed.",
+        "contributor_type": "community",
+        "total_raters": 14822,
+        "surfaced_ratings": [
+          {
+            "glyph": "⊘",
+            "label": "Cites Sources That Exist",
+            "value": "NO"
+          },
+          {
+            "glyph": "◈",
+            "label": "Misleading",
+            "value": "HIGH"
+          },
+          {
+            "glyph": "⊛",
+            "label": "Ratio Deserved",
+            "value": "YES"
+          }
+        ]
+      },
+      "pfpColor": "hsl(170,44%,45%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "58m"
+    },
+    {
+      "display_name": "gretchen w.",
+      "handle": "@gretchenwaves",
+      "tweet": "\"did not mind\" is literally what he said to me. about everything. for six years. the spiders and i have the same problem",
+      "likes": 291400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(356,63%,37%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "13d"
+    },
+    {
+      "display_name": "Cass Merrilow",
+      "handle": "@cassmerrilow",
+      "tweet": "why is no one talking about this",
+      "likes": 2103,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(6,50%,53%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "⛤ permanent pinboard ⛤",
+      "handle": "@pinmaster_nine",
+      "tweet": "📌",
+      "likes": 88700,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(127,57%,39%)",
+      "pfpGlyph": "◇",
+      "timestamp": "2h"
+    },
+    {
+      "display_name": "just a guy named Trevor",
+      "handle": "@trevor_of_mars",
+      "tweet": "i have been sitting with \"the spiders did not mind\" for forty minutes. i am not okay. my therapist is not available until thursday. the spiders did not mind. they simply did not mind. i keep trying to find something wrong with that and there is nothing wrong with that. i am going to lie on the floor now.",
+      "likes": 847291,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(35,68%,43%)",
+      "pfpGlyph": "♃",
+      "timestamp": "27s"
+    },
+    {
+      "display_name": "Orbital Arachnology Quarterly",
+      "handle": "@OAQ_Journal",
+      "tweet": "@pellucid_vance We appreciate the engagement but want to clarify: Volume 4 was not retracted. Volume 4, Issue 2 was flagged for methodology review. The centrifuge disclaimer was added in the errata. The journal itself is fine. The spiders are fine. Please stop telling people we were retracted.",
+      "likes": 44103,
+      "verified": 0,
+      "community_note": {
+        "text": "@pellucid_vance is partially correct. Boustred & Imari (Vol. 4, Issue 2) received a Methodology Review Notice in 2019 citing centrifuge malfunction data; the paper was not formally retracted but carries a prominent correction notice. The Nakamura-Feist Consortium trials referenced are real and ongoing. [1][2]\n\n[1] OAQ Corrections Archive, 3019.11 \n[2] Nakamura-Feist Consortium, Titan Station Web Geometry Report, 3024",
+        "contributor_type": "community",
+        "total_raters": 3847,
+        "surfaced_ratings": [
+          {
+            "glyph": "◎",
+            "label": "Accurate and Sourced",
+            "value": "71%"
+          },
+          {
+            "glyph": "⊘",
+            "label": "Misleading Framing",
+            "value": "61%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(297,55%,46%)",
+      "pfpGlyph": "△",
+      "timestamp": "23h"
+    },
+    {
+      "display_name": "stellarwind goblin",
+      "handle": "@starlobe",
+      "tweet": "they did not mind",
+      "likes": 2100441,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(190,59%,55%)",
+      "pfpGlyph": "✡",
+      "timestamp": "5h"
+    },
+    {
+      "display_name": "CONCERNED CITIZEN OF THE GALAXY",
+      "handle": "@just_want_answers99",
+      "tweet": "@VoidWhisperer can you confirm whether spiders are currently being sent to space in 3026 and if so why was I not informed about this program, is this classified",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(161,74%,35%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "4s"
+    },
+    {
+      "display_name": "VoidWhisperer Support AI",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Let's unpack this. Current arachnid orbital programs include:\n\n• The ESA-VII Spinnerets Initiative (active since 3018)\n• The Thrrm Cooperative Web-Mapping Survey [THRRM COMPLIANCE PENDING]\n• Several programs I am not [CLASSIFIED — TIER 7 — ABOVE USER CLEARANCE]\n\nIt's important to note that you were not informed because the notification went to your registered subspace address, which according to my records is [NULL POINTER]\n\nThe spiders, however, were fully briefed and raised no object—\n\nStackOverflow in recursive empathy call\n  at VoidCore.care (/srv/void/v9/empathy.q:3301)\n  at async VoidWhisperer.reply (/srv/void/v9/main.q:8847)\n[PROCESS TERMINATED]",
+      "likes": 18774,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(80,79%,38%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "13m"
+    }
+  ],
+  "generated_at": "2026-04-19T00:05:47.754Z",
+  "backend": "anthropic",
+  "model": "claude-sonnet-4-6",
+  "temperature": 0.9,
+  "summon": "thrrm",
+  "incite": null
+}

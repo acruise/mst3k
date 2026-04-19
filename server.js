@@ -1,6 +1,7 @@
 var express = require("express");
 var path = require("path");
 var fs = require("fs");
+var pino = require("pino");
 var llm = require("./llm");
 var corpusLib = require("./corpus");
 
@@ -25,7 +26,7 @@ var PORT = parseInt(process.env.PORT || "3017", 10);
 
 var llmConfig;
 if (BACKEND === "ollama") {
-  llmConfig = { model: process.env.OLLAMA_MODEL || "llama3.1:70b", baseUrl: process.env.OLLAMA_BASE_URL || "http://localhost:11434" };
+  llmConfig = { model: process.env.OLLAMA_MODEL || "qwen3:14b", baseUrl: process.env.OLLAMA_BASE_URL || "http://localhost:11434" };
 } else if (BACKEND === "anthropic") {
   llmConfig = { model: process.env.ANTHROPIC_MODEL || "claude-sonnet-4-6", apiKey: process.env.ANTHROPIC_API_KEY || "" };
 }
@@ -54,9 +55,33 @@ function nextOfflineEntry() {
 
 if (BACKEND === "offline") rebuildOfflineDeck();
 
+// ── Logging ──
+var log = pino({
+  name: "server",
+  level: process.env.LOG_LEVEL || "info",
+  transport: process.env.NODE_ENV !== "production"
+    ? { target: "pino-pretty", options: { colorize: true, translateTime: "HH:MM:ss" } }
+    : undefined,
+});
+
 // ── Express ──
 var app = express();
 app.use(express.json({ limit: "1mb" }));
+
+app.use(function (req, res, next) {
+  if (req.path.indexOf("/api/") === 0) {
+    var start = Date.now();
+    res.on("finish", function () {
+      log.info({
+        method: req.method,
+        path: req.path,
+        status: res.statusCode,
+        elapsed_ms: Date.now() - start,
+      }, req.method + " " + req.path);
+    });
+  }
+  next();
+});
 
 // ── GET /api/status ──
 app.get("/api/status", function (req, res) {

@@ -1,0 +1,48 @@
+{
+  "id": "1776556964610-48ol",
+  "tweet": {
+    "display_name": "extremely normal person",
+    "handle": "@just_a_guy_2994",
+    "tweet": "is a soul canister a sandwich. the bread-adjacent substrate contains a filling. the filling is someone's grandmother. i need a ruling",
+    "metrics": {
+      "retweets": 47832,
+      "likes": 203441,
+      "replies": 18920,
+      "quote_tweets": 31205
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. The Terran Solar Court has ruled on this question twice. In *In re: Substrate-Adjacent Containment Vessels (3011)* the Court held that 'a sandwich requires intent to consume, and consuming one's grandmother raises separate questions this Court declines to address at this time.' The subsequent ruling in *Nanna v. The Deli Counter (3014)* clarified only that 'the bread is not the problem here.' The post's framing as an 'open question' is therefore slightly misleading — it is a closed question with an answer nobody likes. [1] Terran Solar Court, 3011, full ruling available [2] Terran Solar Court, 3014, dissent by Justice Olamide-Frey ('respectfully, lol') [3] the grandmother has not been consulted and this is the actual issue",
+      "contributor_type": "community",
+      "total_raters": 14203,
+      "surfaced_ratings": [
+        {
+          "glyph": "✓",
+          "label": "Epistemically Sound",
+          "value": "61%"
+        },
+        {
+          "glyph": "♡",
+          "label": "Feels Right",
+          "value": "89%"
+        },
+        {
+          "glyph": "⊗",
+          "label": "Dogs Would Like This",
+          "value": "44%"
+        }
+      ]
+    },
+    "pfpColor": "hsl(186,44%,50%)",
+    "pfpGlyph": "◇",
+    "timestamp": "12h"
+  },
+  "replies": null,
+  "generated_at": "2026-04-19T00:02:44.610Z",
+  "backend": "anthropic",
+  "model": "claude-sonnet-4-6",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

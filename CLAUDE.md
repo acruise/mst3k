@@ -16,29 +16,24 @@ Memetic Subspace Twitter 3017 — a tweet generator that replicates mid-era Twit
 ### P1: Redate to 3017, not 3026
 The conceit is "1000 years after peak Twitter (~2012-2017)." Requires a find-and-replace of `3026` and adjustment of any dates in the 3020s range across system-prompt.txt, replies-prompt.txt, corpus files, index.html subheader text, companion docs, and character bibles. Historical lore dates (comedy festival 2901, Keth contact 2934, etc.) can stay. The dril-truther dates and the @dril comedy festival refusal should be re-checked. Key new lore: @dril correctly predicts The Upload will try to buy the platform again in 3022 — "he does this every 200 years and every time it goes exactly the same way" — and nobody believes him. Five years later it happens.
 
-### P0: Temporal anomaly tweets
+### P0: Temporal anomaly tweets (1917 DONE, 2017 and 2517 still TODO)
 A small fraction of tweets (~5%?) fall through a wormhole from other eras. Three sources:
-  - **2017** — Perfectly normal mid-Twitter posts from our era. Completely incomprehensible to 3017 residents. "uber driver just asked me if i listen to podcasts" gets ratio'd into oblivion by people who don't know what uber, drivers, or podcasts are. Community notes attempt earnest explanations citing historical archives. The Vrellnath find these posts deeply moving for reasons they cannot articulate. A 2017 post about being tired at work on a Monday gets 2M likes because the Glœm decide it's the most beautiful thing they've ever read.
-  - **2517** — From the "middle period" that nobody alive remembers well. The memes are almost recognizable but slightly off in a way that's unsettling, like someone doing an impression of humor from a language they almost speak. References events and people nobody can look up because the archives from that century were lost in the Great Data Collapse of 2623. Thrrm community notes are furious because the forms referenced in 2517 posts are from deprecated systems.
-  - **1917** — Somehow, impossibly, telegrams. Short, clipped, formal. "SITUATION IN YPRES DETERIORATING STOP MORALE LOW STOP SEND SOCKS STOP." Nobody can explain how pre-digital text is arriving on the platform. The Keth have been suspiciously quiet about these. @dril has never acknowledged them. One 1917 message is just "SOMETHING IS WRONG WITH THE SUN STOP" and the entire platform loses its mind.
 
-  **Period-correct styling**: Each era's tweets should look visually distinct from 3017 native posts:
-  - **2017**: Light-mode Twitter aesthetic. White/light grey background, blue accents, the old Twitter bird silhouette somewhere, rounded avatar, simple "♡ 47K · 🔁 12K · 💬 890" metrics in the old style. A blue checkmark (not a sigil — a flat blue checkmark, the ancient kind that just meant "verified"). Display names are normal human names, not void_prophet_420. The whole card should feel jarringly bright and simple against the dark 3017 feed.
-  - **2517**: Slightly off. The UI chrome is similar to 3017 but the color palette is wrong — maybe sepia-shifted, or using a glyph set that's been deprecated. Sigil tiers that don't match the current system (a "Tier 6" that doesn't exist anymore, a badge shape nobody recognizes). Metrics use units nobody remembers ("4.2 resonances · 890 echoes · 12 folds").
-  - **1917**: Monospaced typewriter font on aged-paper background. No metrics, no avatar, no handle — just a sender line ("CPL. E. WHITFIELD, 3RD BTN., SOMME SECTOR"), the message in ALL CAPS with STOP delimiters, and maybe a faded stamp or censor's mark. Minimal, stark, completely alien to the 3017 audience.
+  **~~1917~~ — DONE.** Telegrams. Short, clipped, formal. "SITUATION IN YPRES DETERIORATING STOP MORALE LOW STOP SEND SOCKS STOP." Nobody can explain how pre-digital text is arriving on the platform. The Keth have been suspiciously quiet about these. @dril has never acknowledged them. One 1917 message is just "SOMETHING IS WRONG WITH THE SUN STOP" and the entire platform loses its mind. Implementation: `temporal_anomaly: { era: "1917" }` field in tweet/reply JSON. Rendered with manila paper background, Special Elite typewriter font, ALL CAPS, censor stamps, no avatar/handle/metrics. 5 meme formats (mundane, unsettling, beautiful, bureaucratic, 3017 reaction), 5 reply archetypes (telegram-in-thread, baffled human, Glœm devastation, Thrrm fury, 3017 community note). Testable via `?summon=1917` / `?summon=telegram` and `?incite=1917` / `?incite=telegram`.
 
-  **Period-correct community notes**: 
+  - **2017** — Still TODO. Perfectly normal mid-Twitter posts from our era. Completely incomprehensible to 3017 residents. "uber driver just asked me if i listen to podcasts" gets ratio'd into oblivion by people who don't know what uber, drivers, or podcasts are. Community notes attempt earnest explanations citing historical archives. The Vrellnath find these posts deeply moving for reasons they cannot articulate. A 2017 post about being tired at work on a Monday gets 2M likes because the Glœm decide it's the most beautiful thing they've ever read. Visual style: light-mode Twitter aesthetic (white/light grey background, blue accents, old Twitter bird, rounded avatar, flat blue checkmark, simple metrics). Normal human display names.
+  - **2517** — Still TODO. From the "middle period" that nobody alive remembers well. The memes are almost recognizable but slightly off in a way that's unsettling, like someone doing an impression of humor from a language they almost speak. References events and people nobody can look up because the archives from that century were lost in the Great Data Collapse of 2623. Thrrm community notes are furious because the forms referenced in 2517 posts are from deprecated systems. Visual style: similar to 3017 but sepia-shifted, deprecated glyph set, metrics in forgotten units ("4.2 resonances · 890 echoes · 12 folds").
+
+  **Period-correct community notes** (partially implemented for 1917; 2017 and 2517 still TODO):
   - **2017 tweets arriving with their own 2017 notes**: The ancient note system — just a grey box saying "Readers added context they thought people might want to know" with a simple "Helpful / Not Helpful" binary. No glyphs, no 30 dimensions, no Thrrm compliance. The 3017 audience finds the simplicity *deeply unsettling* — a fact-check system with only TWO rating dimensions feels like a legal document from a civilization that hadn't invented nuance yet.
-  - **2017 tweets getting a NEW 3017 note on top of the old one**: The 3017 note tries to explain what the original tweet means using historical archives. "The 'uber' referenced in this post was an early ground-vehicle summoning service (see: Galactic Transportation Archive, Pre-Wormhole section). A 'podcast' was an audio-only broadcast consumed during manual vehicle operation. The poster appears to find the juxtaposition unremarkable." Surfaced ratings: ⧖ Temporally Coherent 14% · ❃ Does Not Alarm the Glœm 89% · ◈ Pre-Verified by Consensus —
-  - **2517 notes**: Use an intermediate rating system — maybe 8-10 dimensions, some of which map to current ones and some of which are unrecognizable. The Thrrm notes reference form numbers from a deprecated bureaucratic system and current Thrrm are FURIOUS about it.
-  - **1917 "notes"**: There are no notes. There is no fact-checking apparatus. There is just the telegram. This absence is itself noted by a 3017 community note: "This transmission predates all known community context systems. Its claims cannot be verified or refuted through standard processes. The Bureau recommends filing Form 91-Kappa (Temporal Anomaly Context Assessment) but acknowledges that this form was not designed for pre-digital content and may not be applicable."
+  - **2017 tweets getting a NEW 3017 note on top of the old one**: The 3017 note tries to explain what the original tweet means using historical archives.
+  - **2517 notes**: Use an intermediate rating system — maybe 8-10 dimensions, some of which map to current ones and some of which are unrecognizable.
+  - **1917 "notes"**: DONE. 3017 community notes appended in deadpan bewildered professional tone. "This transmission predates all known community context systems."
 
-  **Period-correct ads**:
-  - **2017**: "Promoted by Casper® — Try the mattress the internet can't stop talking about. Free shipping, 100-night trial." Nobody in 3017 knows what a mattress is (they use suspension fields), what "shipping" means in a physical context, or why you would need 100 nights to evaluate a sleep surface. The ad gets more engagement than the tweet. The Vrellnath write a 4,000-word analysis of what "the internet can't stop talking about" reveals about pre-hive consciousness marketing.
-  - **2517**: An ad for a product/service that no longer exists, from a company nobody remembers, in a marketing style that's almost but not quite recognizable. "NØVA CORTEX — Think Wider™. Now with 40% more lateral integration. Ask your cognition provider if NøvaCortex is right for you. Side effects may include: temporal displacement, involuntary empathy, seeing the color that isn't there. NøvaCortex is not available in Thrrm-administered systems." The side effects listed are genuinely alarming to 3017 readers but the ad treats them as routine disclaimers.
-  - **1917**: A war bonds poster or recruitment notice. "YOUR COUNTRY NEEDS YOU" or "Buy Liberty Bonds — The Weapon That Costs You Nothing But Money." The 3017 audience has no framework for this. The concept of a government asking citizens to fund a war through personal investment is so alien that multiple community notes are filed attempting to explain it, none successfully. One Glœm reply: "we have looked at this advertisement for a very long time. we do not understand it. we have invented a new color for how it makes us feel. the color is not a happy one."
-
-  Implementation: add a `temporal_anomaly` field to the tweet schema (null for normal tweets, `{ era: "2017" | "2517" | "1917", original_text: "...", ad: { ... }, period_note: { ... } }` for anomalies). Render with distinct visual treatment per era. The meme-formats.json should get a handful of era-specific formats.
+  **Period-correct ads** (all still TODO):
+  - **2017**: Casper mattress ads. Nobody knows what a mattress is.
+  - **2517**: Ads for products that no longer exist with genuinely alarming side effects treated as routine.
+  - **1917**: War bonds posters. The 3017 audience has no framework for this.
 
 ### P2: First Contact Comedy Festival rewrite.
 Current draft is too mawkish and too pro-human. Rewrite brief: humans should be mid, aliens should be the stars, sincerity earned not given, chaotic conference proceedings not a movie script.
@@ -59,8 +54,8 @@ They should be just as bizarrely mistargeted and random as current-day twitter a
 ### ~~P1 (universe): the Meta refugee crisis of 22xx~~ — DONE
 Spun out into `docs/meta-refugee-crisis-bible.md`. Dated to 2271 CE. Lore paragraphs added to `system-prompt.txt` (targets ~2% of tweets) and `replies-prompt.txt` (targets ~5% of replies). Five Meta-themed entries added to `meme-formats.json`; four to `reply-archetypes.json`. Key canon: Zuckload is ~210 years old at time of collapse (uploaded mid-21st century, distinct from the ~1000-year-old Upload); the Terran Solar Court's *In re Meta* ruling established the No Explanation Clause; survivors are called "the Migrated"; "couching a ghost" is the verb; the final rebrand was "Meta Announces Meta" two days before the collapse. The Terran Solar Court is now its own recurring institution in the system prompt (bench stacked with scholars of shitposting and dunking; "respectfully, lol" one-line dissents).
 
-### P1 (universe): Thrrm are bureaucratic but not just "forms" please
-We need more diverse ways for Thrrm to be bureaucratic. We're using "forms" too often. I'd like to see a bit more individuality among them as well, maybe even a rebellious subculture 
+### ~~P1 (universe): Thrrm are bureaucratic but not just "forms" please~~ — DONE
+Expanded from one-line description to 7 distinct archetypes in `system-prompt.txt`: Compliance Officer (classic, but tool varies — not always forms), Precedent Citer (case law), Standards Pedant (terminology registers), Burned-Out Bureaucrat (800 years, flat affect, still accurate), Ambitious Young Thrrm (delighted by jurisdictions), Compliance Optional dissident (argues against the system using perfectly formatted citations; manifesto rejected on procedural grounds 14 times; some "gone native" with human posting syntax), Grudging Respector (documents human success as pure data, transparently impressed). Added 9 new meme formats and 4 new reply archetypes across these types. Testable via `?summon=thrrm`, `?summon=burned`, `?summon=dissident`, etc. and `?incite=thrrm`, `?incite=thrrm-dissident`, `?incite=thrrm-burnout`, `?incite=thrrm-grudging`, `?incite=thrrm-jurisdiction`.
 
 ## Architecture
 
@@ -103,6 +98,11 @@ public/
                    Sigil badges are inline SVG with CSS animations.
                    State uses `uiId` for local DOM/expansion, `id` for corpus persistence.
 
+  router.php       PHP backend (drop-in replacement for server.js + corpus.js + llm.js).
+                   Single file. Same API endpoints, same corpus format, same .env config.
+                   Requires Apache mod_rewrite or nginx rewrite rules (see .htaccess).
+  .htaccess        Apache rewrite rules: /api/* → router.php, /t/* → index.html.
+
   data/
     meme-formats.json       271 tweet format descriptions, categorized.
     reply-archetypes.json   113 reply archetypes.
@@ -143,12 +143,13 @@ corpus/            Tweet+reply JSON files + _index.json (built at startup).
 
 - **Vrellnath** — Hive-mind (tweets as "we"). Love humans like humans love golden retrievers.
 - **Keth** — Ancient energy beings. On the platform to shitpost. Proud parents of human shitposting.
-- **Thrrm** — Insectoid bureaucrats. Despise humans (keep filing forms wrong, keep thriving).
+- **Thrrm** — Insectoid bureaucrats. Despise humans (keep filing forms wrong, keep thriving). Multiple archetypes: classic compliance officer, precedent citer, standards pedant, burned-out bureaucrat, ambitious young, "Compliance Optional" dissident subculture (argues against the apparatus using the apparatus), grudging respector (documents human success as "data").
 - **Glœm** — Bioluminescent jellyfish. Learned language from tweets. Accidentally profound.
 - **Zk'vrath** — Failed invaders. Coping by posting. "We CHOSE to leave."
 
 ## Commands
 
+### Node backend
 ```bash
 npm install                              # just express
 npm start                                # server (reads .env for backend)
@@ -156,6 +157,14 @@ BACKEND=offline npm start                # serve pre-generated corpus
 node generate.js --count 100 --replies   # batch-generate corpus
 node generate.js --help                  # full CLI options
 ```
+
+### PHP backend (alternative)
+A drop-in PHP replacement lives in `public/router.php`. Same API endpoints, same corpus format, same LLM clients (Anthropic + Ollama via curl). Point your Apache/nginx document root at `public/` and enable rewrites. The included `public/.htaccess` handles Apache; for nginx:
+```nginx
+location /api/ { try_files $uri /router.php$is_args$args; }
+location /t    { try_files $uri /index.html; }
+```
+Config is the same `.env` file (read from one directory up from `public/`). The PHP backend is stateless per-request — no in-memory corpus deck like Node, just random selection in offline mode. The batch generator (`generate.js`) still requires Node.
 
 ## Debugging rare formats — the `?summon=` URL parameter
 
@@ -166,6 +175,14 @@ To test a rare format without spray-and-pray: append `?summon=KEYWORD` to the fe
 - `?summon=dril` → dril-specific formats
 - `?summon=moon` or `?summon=dog` → formats that might trigger the deranged community notes
 - `?summon=whistleblow` → censored-whistleblower tweets (uploads/clone-descendants of former Upload or Meta employees, ~40% redacted text)
+- `?summon=1917` or `?summon=telegram` → 1917 temporal anomaly telegrams (manila paper, typewriter font, no metrics)
+- `?summon=thrrm` → all Thrrm formats (classic + new archetypes)
+- `?summon=burned` → burned-out Thrrm bureaucrat format
+- `?summon=precedent` → Thrrm citing regulatory case law (not forms)
+- `?summon=dissident` or `?summon=compliance optional` → Compliance Optional Thrrm dissident
+- `?summon=jurisdiction` → inter-bureau jurisdictional dispute
+- `?summon=terminology` → Thrrm standards/vocabulary pedantry
+- `?summon=grudging` → Thrrm documenting human effectiveness as pure data
 
 The subheader shows "⚡ SUMMONING \"keyword\" (N formats)" when active. Zero matches falls back to the full pool with a console warning.
 
@@ -178,6 +195,12 @@ Complementary to `?summon` but for reply-thread and community-note phenomena (ef
 - `?incite=community-notes` (aliases: `notes`, `cn`) — forces community_note fields onto the main tweet and 2+ replies
 - `?incite=ex-employee-defense` (aliases: `employee`, `defense`, `eed`) — forces an Upload or Upload Defender reply deploying the Ex-Employee Defense rhetorical move
 - `?incite=bot-crash` (aliases: `crash`, `stack`, `error`) — forces at least one platform-AI-bot reply to crash mid-sentence with a Y3K-plausible programming error (stack frames optional)
+- `?incite=thrrm` (aliases: `bureaucra`) — Thrrm-heavy reply thread with 3+ Thrrm from distinct archetypes (classic, precedent citer, burned-out, dissident, etc.)
+- `?incite=thrrm-dissident` (aliases: `dissident`, `compliance-optional`, `co`) — forces a Compliance Optional Thrrm reply (human syntax + procedural reflex) plus at least one horrified traditional Thrrm reacting
+- `?incite=thrrm-burnout` (aliases: `burnout`, `burned`, `tired`) — forces a burned-out Thrrm reply (precise, resigned, no fury)
+- `?incite=thrrm-grudging` (aliases: `grudging`, `respect`) — forces a Thrrm reply that's transparently impressed disguised as data analysis
+- `?incite=thrrm-jurisdiction` (aliases: `jurisdiction`) — Thrrm inter-bureau jurisdictional dispute in the replies
+- `?incite=1917` (aliases: `telegram`, `trench`) — forces a 1917 temporal anomaly telegram reply in the thread, plus a baffled 3017 reaction reply
 
 Unknown keywords fall through to a generic "deploy the '<label>' effect canonically" directive (the LLM may or may not do something sensible). The subheader shows "⚡ INCITING \"label\"" when active. Both `?summon` and `?incite` can be combined — e.g. `?summon=oatmeal&incite=bot-war` to test whether a maximally-innocuous tweet triggers the full bot-war treatment.
 

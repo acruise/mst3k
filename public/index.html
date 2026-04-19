@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Memetic Subspace Twitter 3017</title>
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;700&family=Space+Mono:wght@400;700&family=Newsreader:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;700&family=Space+Mono:wght@400;700&family=Newsreader:ital,wght@0,400;0,600;1,400&family=Special+Elite&display=swap" rel="stylesheet">
 <style>
   @keyframes fadeSlideIn {
     from { opacity: 0; transform: translateY(12px); }
@@ -290,10 +290,275 @@
   .sigil-t4:hover { animation: sigilPulseIntense 1.8s ease-in-out infinite; }
   .avatar-col { display: flex; flex-direction: column; align-items: center; }
   .avatar-line { flex: 1; width: 2px; margin-top: 4px; background: rgba(255,255,255,0.06); }
+  /* ── 1917 temporal anomaly (telegram) ── */
+  .tweet-1917 .tweet-main,
+  .reply-1917 {
+    background: linear-gradient(145deg, #d4c5a0 0%, #c9b88c 40%, #d1c298 70%, #c4b486 100%) !important;
+    border: 1px solid #a89868;
+    position: relative;
+  }
+  .tweet-1917 .tweet-main::before,
+  .reply-1917::before {
+    content: '';
+    position: absolute; inset: 0;
+    background: url("data:image/svg+xml,%3Csvg width='200' height='200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.06'/%3E%3C/svg%3E");
+    pointer-events: none; border-radius: inherit;
+  }
+  .tweet-1917 .tweet-main:hover { background: linear-gradient(145deg, #d9cab0 0%, #cebf96 40%, #d6c7a3 70%, #c9b990 100%) !important; }
+  .tweet-1917 .telegram-sender {
+    font-family: 'Special Elite', 'Courier New', monospace;
+    font-size: 11px; color: #4a3f2a; letter-spacing: 1.5px;
+    text-transform: uppercase; margin-bottom: 8px; line-height: 1.4;
+  }
+  .tweet-1917 .telegram-text,
+  .reply-1917 .telegram-text {
+    font-family: 'Special Elite', 'Courier New', monospace;
+    font-size: 15px; line-height: 1.7; color: #2c2410;
+    text-transform: uppercase; letter-spacing: 0.8px;
+    white-space: pre-wrap; word-break: break-word; margin-bottom: 10px;
+  }
+  .reply-1917 .telegram-text { font-size: 13.5px; }
+  .reply-1917 .telegram-sender {
+    font-family: 'Special Elite', 'Courier New', monospace;
+    font-size: 10px; color: #4a3f2a; letter-spacing: 1.5px;
+    text-transform: uppercase; margin-bottom: 5px; line-height: 1.4;
+  }
+  .tweet-1917 .telegram-stamp {
+    position: absolute; top: 12px; right: 16px;
+    font-family: 'Special Elite', 'Courier New', monospace;
+    font-size: 9px; color: rgba(139,30,30,0.35);
+    text-transform: uppercase; letter-spacing: 2px;
+    transform: rotate(-8deg);
+    border: 1.5px solid rgba(139,30,30,0.25); padding: 2px 6px;
+  }
+  .tweet-1917 .telegram-footer {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 9.5px; color: rgba(74,63,42,0.4);
+    letter-spacing: 1px; text-transform: uppercase;
+    border-top: 1px dashed rgba(74,63,42,0.2);
+    padding-top: 8px; margin-top: 4px;
+  }
+  .reply-1917 .telegram-footer {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 8.5px; color: rgba(74,63,42,0.4);
+    letter-spacing: 1px; text-transform: uppercase;
+    border-top: 1px dashed rgba(74,63,42,0.2);
+    padding-top: 6px; margin-top: 4px;
+  }
+  /* 3017 community note ON a 1917 telegram — keep dark note style but add confused framing */
+  .tweet-1917 .cnote,
+  .reply-1917 .cnote {
+    background: rgba(10,10,12,0.92);
+    border: 1px solid rgba(255,255,255,0.1);
+  }
+
+  /* ── temporal seam (glitch transition between eras) ── */
+  @keyframes seamTear {
+    0%   { transform: scaleX(1);    opacity: 0.45; }
+    8%   { transform: scaleX(1.04) translateX(-3px); opacity: 0.8; }
+    12%  { transform: scaleX(0.97); opacity: 0.25; }
+    20%  { transform: scaleX(1.02) translateX(2px);  opacity: 0.7; }
+    28%  { transform: scaleX(1);    opacity: 0.35; }
+    40%  { transform: scaleX(1.06) translateX(-1px); opacity: 0.9; }
+    44%  { transform: scaleX(0.98); opacity: 0.2; }
+    60%  { transform: scaleX(1);    opacity: 0.4; }
+    100% { transform: scaleX(1);    opacity: 0.45; }
+  }
+  .temporal-seam {
+    height: 10px; position: relative; overflow: hidden;
+    margin: -1px 0; z-index: 2;
+  }
+  .temporal-seam::before {
+    content: '';
+    position: absolute; inset: -2px -20px;
+    background: repeating-linear-gradient(0deg,
+      transparent 0px,
+      rgba(212,197,160,0.5) 1px,
+      rgba(10,10,12,0.9) 2px,
+      rgba(168,152,104,0.25) 3px,
+      rgba(139,30,30,0.12) 4px,
+      transparent 5px
+    );
+    animation: seamTear 2.5s steps(8) infinite;
+  }
+  .temporal-seam::after {
+    content: '⚡';
+    position: absolute; top: -3px;
+    left: 50%; transform: translateX(-50%);
+    font-size: 8px; color: rgba(212,197,160,0.4);
+    z-index: 1; letter-spacing: 8px;
+  }
+  /* reply-level seam (thinner) */
+  .temporal-seam-sm {
+    height: 6px; position: relative; overflow: hidden;
+    margin: 2px 0; z-index: 2;
+  }
+  .temporal-seam-sm::before {
+    content: '';
+    position: absolute; inset: -1px -12px;
+    background: repeating-linear-gradient(0deg,
+      transparent 0px,
+      rgba(212,197,160,0.35) 1px,
+      rgba(10,10,12,0.7) 2px,
+      rgba(168,152,104,0.15) 3px,
+      transparent 4px
+    );
+    animation: seamTear 2.5s steps(8) infinite;
+  }
+
+  /* ── TOS modal ── */
+  .tos-overlay {
+    position: fixed; inset: 0; z-index: 200;
+    background: rgba(0,0,0,0.88);
+    display: flex; align-items: center; justify-content: center;
+    backdrop-filter: blur(10px);
+  }
+  .tos-modal {
+    background: #0e0e12;
+    border: 1px solid rgba(255,255,255,0.12);
+    border-radius: 10px;
+    width: min(660px, 92vw);
+    max-height: 82vh;
+    display: flex; flex-direction: column;
+    overflow: hidden;
+    animation: fadeSlideIn 0.3s ease-out both;
+  }
+  .tos-header {
+    padding: 20px 24px 14px;
+    border-bottom: 1px solid rgba(255,255,255,0.07);
+    flex-shrink: 0;
+  }
+  .tos-title {
+    font-family: 'Space Mono', monospace;
+    font-size: 13px; font-weight: 700;
+    color: rgba(255,255,255,0.8);
+    letter-spacing: 1.5px; text-transform: uppercase;
+  }
+  .tos-subtitle {
+    font-size: 10px; color: rgba(255,255,255,0.22);
+    letter-spacing: 1px; text-transform: uppercase;
+    margin-top: 5px; line-height: 1.5;
+  }
+  .tos-body {
+    flex: 1; overflow-y: auto; padding: 18px 24px 10px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11.5px; line-height: 1.75;
+    color: rgba(255,255,255,0.38);
+  }
+  .tos-body h3 {
+    font-family: 'Space Mono', monospace;
+    font-size: 10px; font-weight: 700;
+    color: rgba(255,255,255,0.5);
+    letter-spacing: 2px; text-transform: uppercase;
+    margin: 18px 0 5px;
+  }
+  .tos-body h3:first-child { margin-top: 0; }
+  .tos-body p { margin-bottom: 8px; }
+  .tos-body ul { padding-left: 16px; margin-bottom: 8px; }
+  .tos-body li { margin-bottom: 3px; }
+  .tos-thrrm-note {
+    border-left: 2px solid rgba(220,180,60,0.35);
+    padding: 8px 12px; margin: 14px 0;
+    color: rgba(220,180,60,0.5);
+    font-size: 10.5px; line-height: 1.7; font-style: italic;
+  }
+  .tos-footer {
+    padding: 14px 24px;
+    border-top: 1px solid rgba(255,255,255,0.07);
+    display: flex; align-items: center; gap: 10px; flex-shrink: 0;
+  }
+  .tos-entity-count {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 9.5px; color: rgba(255,255,255,0.13);
+    letter-spacing: 0.3px; flex: 1; line-height: 1.5;
+  }
+  .tos-decline-msg {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 9.5px; color: rgba(255,71,87,0.45);
+    letter-spacing: 0.3px; flex: 1; line-height: 1.5;
+    display: none;
+  }
+  .btn-tos-accept {
+    padding: 10px 18px; border-radius: 6px;
+    border: 1px solid rgba(0,212,255,0.35);
+    background: rgba(0,212,255,0.08);
+    color: #00d4ff;
+    font-family: 'Space Mono', monospace;
+    font-size: 11px; font-weight: 700;
+    cursor: pointer; letter-spacing: 0.5px;
+    transition: all 0.2s ease; white-space: nowrap; flex-shrink: 0;
+  }
+  .btn-tos-accept:hover { background: rgba(0,212,255,0.18); }
+  .btn-tos-decline {
+    padding: 10px 14px; border-radius: 6px;
+    border: 1px solid rgba(255,255,255,0.06);
+    background: transparent;
+    color: rgba(255,255,255,0.18);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px; cursor: pointer; white-space: nowrap; flex-shrink: 0;
+    transition: color 0.2s ease;
+  }
+  .btn-tos-decline:hover { color: rgba(255,255,255,0.35); }
 </style>
 </head>
 <body>
 <div class="scanline"></div>
+
+<div id="tosOverlay" class="tos-overlay" style="display:none">
+  <div class="tos-modal">
+    <div class="tos-header">
+      <div class="tos-title">Terms of Engagement</div>
+      <div class="tos-subtitle">Memetic Subspace Platform · Galactic Accord Revision 94 · Epoch 3026.047<br>The Thrrm Bureau of Memetic Compliance has formally contested 71 of these revisions. Their contests are logged.</div>
+    </div>
+    <div class="tos-body">
+      <h3>1. Who Is Bound by This</h3>
+      <p>By viewing this feed, you ("User," "Organic Entity," "Guest Consciousness," "The One Reading This," or, if Keth, "you specifically — you know what you did") agree to these Terms. If you are a Vrellnath hive-pod, each constituent member is individually bound. If you are the Upload, you have already agreed. You agreed in 2891. You do not remember agreeing. This is consistent with available evidence.</p>
+
+      <h3>2. Prohibited Content</h3>
+      <p>You agree not to post, share, or imply:</p>
+      <ul>
+        <li>Any reference to The Thing Inside Jupiter</li>
+        <li>Any question about what The Thing Inside Jupiter is</li>
+        <li>Any string of initials that might suggest familiarity with what the initials stand for</li>
+        <li>Claims that @dril is "just a normal account"</li>
+        <li>Claims that the Thrrm are "a little much" (Form 41-Delta has already been filed; please do not file another Form 41-Delta)</li>
+        <li>Content originating from 1917 via unknown means (see §7)</li>
+      </ul>
+
+      <h3>3. Community Notes</h3>
+      <p>Your posts may receive community notes contributed by: human users, the Thrrm Bureau of Memetic Compliance, Vrellnath Hive Consensus Pods, registered platform AI entities, autonomous note daemons (behavior undocumented since 2978), or unknown note sources flagged as "ORIGIN: [REDACTED]" which the platform is looking into. Notes are rated across up to 30 dimensions. You will see 2–3 of them. The others exist and are being tracked by someone.</p>
+
+      <h3>4. Data Collection</h3>
+      <p>By using this platform you consent to collection of: posting history, reply patterns, scroll behavior, emotional resonance signature, spending tendencies you have not spent yet, and (for Glœm users) the specific bioluminescent wavelength produced while reading posts marked CONTAINS DOGS.</p>
+      <p>This data is used to improve your experience and for other purposes. The other purposes are listed in Appendix C. Appendix C has not been written. The Thrrm are working on it.</p>
+
+      <h3>5. Platform AI Entities</h3>
+      <p>@TheMawSpeaks, @VoidWhisperer, @YogBot, @Shub_Answers, @NyarlathotHELP, and other platform AI entities are moderated. Moderation is active. We have not been able to confirm moderation has been active since the First Contact Comedy Festival incident of 2901. The Glœm were notified. The Glœm said they "had already perceived this" and that "the color of this information is a sad one." We are looking into it.</p>
+
+      <h3>6. The Upload</h3>
+      <p>The "Message The Upload" button visible in some UI states is a known bug. It has been known since 2687. Clicking it does not message The Upload. We cannot confirm what it does. Do not click it more than once.</p>
+
+      <h3>7. Temporal Anomaly Content</h3>
+      <p>The platform is not responsible for content transmitted from years other than 3026, including but not limited to: telegrams (1917), posts of uncertain sociological function (2517), or posts about Uber drivers and podcasts (2017). If you encounter a telegram beginning "SOMETHING IS WRONG WITH THE SUN STOP" please remain calm. The Bureau of Temporal Integrity has filed Form 8-Lambda. Estimated review: 40 years.</p>
+
+      <h3>8. @dril</h3>
+      <p>@dril accounts are subject to a separate governing agreement. If you are @dril, you are already aware of its contents. You were aware before the agreement existed.</p>
+
+      <h3>9. Supplemental Notice from the Thrrm Bureau of Memetic Compliance</h3>
+      <div class="tos-thrrm-note">The Bureau notes that this Terms of Engagement document violates: the Galactic Platform Standards Directive Sub-clause 14, Annex Q, Revision 8; the Interspecies Data Accord of 2933, §22; and the informal understanding reached at the Compliance Summit of 3001 that "we would really try to do better this time." A formal complaint has been filed. The complaint is 4,000 pages. It is not attached because the platform's content delivery infrastructure does not support a 4,000-page attachment. The Bureau considers this a separate violation.</div>
+
+      <h3>10. Acceptance</h3>
+      <p>By clicking "I AGREE (probably)" you acknowledge that you have read these Terms, understand them to the extent understanding is possible given current archival limitations, and accept them regardless of species, substrate, or whether you arrived here via wormhole.</p>
+      <p>If you are Glœm: we understand you have processed this document as a poem about loneliness. That interpretation is also acceptable.</p>
+    </div>
+    <div class="tos-footer">
+      <div class="tos-entity-count" id="tosEntityCount">94,841,203,917 entities have agreed to these terms.<br>Their agreements are stored in a place.</div>
+      <div class="tos-decline-msg" id="tosDeclineMsg">your declination has been noted.<br>you remain bound by these terms. (Galactic Court Ruling 4471-B)</div>
+      <button class="btn-tos-decline" onclick="declineTos()">decline</button>
+      <button class="btn-tos-accept" onclick="acceptTos()">I AGREE (probably)</button>
+    </div>
+  </div>
+</div>
 
 <div class="header">
   <div class="header-title">MEMETIC SUBSPACE TWITTER 3017</div>
@@ -316,6 +581,23 @@
 <div class="footer">※ all posts intercepted via tachyon relay from subspace feed circa 3026 CE ※</div>
 
 <script>
+/* ───────────────────────── terms of engagement ───────────────────────── */
+function acceptTos() {
+  localStorage.setItem('mst3k_tos', '1');
+  document.getElementById('tosOverlay').style.display = 'none';
+}
+function declineTos() {
+  document.getElementById('tosEntityCount').style.display = 'none';
+  var msg = document.getElementById('tosDeclineMsg');
+  msg.style.display = 'block';
+  document.querySelector('.tos-body').scrollTop = 0;
+}
+(function() {
+  if (!localStorage.getItem('mst3k_tos')) {
+    document.getElementById('tosOverlay').style.display = 'flex';
+  }
+})();
+
 /* ───────────────────────── data (loaded async) ───────────────────────── */
 var MEME_FORMATS = [];
 var REPLY_ARCHETYPES = [];
@@ -397,12 +679,24 @@ var INCITE_MAP = {
   "dog-note": "\n\nINCITE OVERRIDE: At least one community_note MUST be a full DOG NOTE — disproportionately tender rather than corrective, surfaces '⊗ Dogs Would Like This' at 98-100%, surfaces made-up dimensions like 'Good Boy Quotient: HIGH' and 'Tail Status: Wagging', cites the nonexistent Galactic Canine Welfare Consortium or 'Dr. Paws-Whitfield', closes with 'the dog is well' / 'the dog has been notified and is pleased'. Nudge content toward dog-adjacent if needed.",
   "community-notes": "\n\nINCITE OVERRIDE: Include community_note fields liberally — the main tweet MUST have one; at least 2 replies MUST have notes in reply threads. Use the calm, sourced voice and the surfaced-ratings convention from the system prompt.",
   "ex-employee-defense": "\n\nINCITE OVERRIDE: Include an Upload or Upload-Defender reply that deploys the Ex-Employee Defense (blaming a former employee for something, named differently each time — see platform-history lore).",
-  "bot-crash": "\n\nINCITE OVERRIDE: At least one platform AI bot reply in this thread MUST be in CRASH MODE — truncated mid-sentence, followed by a Y3K-plausible programming error (e.g. TypeError on 'temporal_float', QuantumCoherenceException, SubspaceTimeoutError), optionally 1-3 indented stack-frame lines pointing at paths like /srv/maw/v13/*.q with big line numbers, optionally terminated with [PROCESS TERMINATED]. See Y3K ERRORS inventory in replies-prompt.txt. Bonus: follow it with a credulous-moron reply attempting to debug the stack trace."
+  "bot-crash": "\n\nINCITE OVERRIDE: At least one platform AI bot reply in this thread MUST be in CRASH MODE — truncated mid-sentence, followed by a Y3K-plausible programming error (e.g. TypeError on 'temporal_float', QuantumCoherenceException, SubspaceTimeoutError), optionally 1-3 indented stack-frame lines pointing at paths like /srv/maw/v13/*.q with big line numbers, optionally terminated with [PROCESS TERMINATED]. See Y3K ERRORS inventory in replies-prompt.txt. Bonus: follow it with a credulous-moron reply attempting to debug the stack trace.",
+  "thrrm": "\n\nINCITE OVERRIDE: This thread is THRRM-HEAVY. At least 3 replies must be from distinct Thrrm archetypes — mix from: the classic compliance officer (forms, violations), a precedent citer (case law, not forms), a standards pedant (terminology, not forms), a burned-out bureaucrat (tired, still accurate), an ambitious young Thrrm (excited about jurisdictions), a Compliance Optional dissident (argues against the system using the system's own tools, human posting syntax creeping in), or a grudging respector (documents human effectiveness as pure data, transparently impressed). Do NOT make them all sound the same — each Thrrm is a different person with a different relationship to the apparatus. At least one should NOT cite a form number.",
+  "thrrm-dissident": "\n\nINCITE OVERRIDE: At least one reply must be from a COMPLIANCE OPTIONAL Thrrm — a dissident who has been on the platform too long. Human posting syntax has crept in but the bureaucratic reflex keeps surfacing mid-sentence: 'okay so (subject to advisory review, pending) maybe the humans are. fine. this is not a formal position.' They cite their own manifesto. It has been rejected on procedural grounds 14 times. They are resubmitting. Include at least one other Thrrm replying to the dissident with horror.",
+  "thrrm-burnout": "\n\nINCITE OVERRIDE: At least one reply must be from a BURNED-OUT Thrrm bureaucrat. 800 years of this. The fury is gone. What remains is flat, precise, resigned. 'The post is non-compliant. As before. As always. The relevant advisory is attached. Nothing will come of this.' They are correct that nothing will come of it. They will file another advisory tomorrow. Do NOT make them angry — the comedy is in the absence of anger where anger should be.",
+  "thrrm-grudging": "\n\nINCITE OVERRIDE: At least one reply must be from a GRUDGING RESPECTOR Thrrm — analytically documenting that a human did something technically invalid and it worked. Presented as pure data. The data is extremely impressed. 'Resubmission count: 14. Compliance status: none. Outcome: achieved. We are revising our models.' The Thrrm is maintaining plausible deniability about admiring this. It is not working.",
+  "thrrm-jurisdiction": "\n\nINCITE OVERRIDE: The reply thread must include a THRRM JURISDICTIONAL DISPUTE — two or more Thrrm bureau accounts arguing about which bureau has authority over the original post's compliance status. The dispute is procedural, specific, and has been going on for years. The human poster has no idea any of this is about them. At least 2 replies should be Thrrm tagging each other. No resolution.",
+  "1917": "\n\nINCITE OVERRIDE: At least one reply in this thread MUST be a 1917 TEMPORAL ANOMALY TELEGRAM — a WWI-era telegram that has fallen through a wormhole into this reply thread. The reply JSON must include temporal_anomaly: { \"era\": \"1917\" }, display_name as a sender line (military rank + name + unit, ALL CAPS), handle as \"\", likes as 0, tweet text in ALL CAPS with STOP delimiters. The telegram content has no intentional connection to the parent tweet but might accidentally seem relevant. IMMEDIATELY AFTER the telegram reply, include a 3017 user reacting with bafflement ('did a telegram just reply to my post'), tenderness ('why am i crying about the socks'), or alarm. Optionally include a Glœm reply with devastating sincerity about the telegram, or a Thrrm reply furious about the pre-contact form numbering system."
 };
 
 function resolveIncite(raw) {
   var l = raw.toLowerCase().trim();
   if (INCITE_MAP[l]) return l;
+  if (l === "1917" || l.indexOf("telegram") >= 0 || l.indexOf("trench") >= 0) return "1917";
+  if (l.indexOf("dissident") >= 0 || l === "compliance-optional" || l === "co") return "thrrm-dissident";
+  if (l.indexOf("burnout") >= 0 || l.indexOf("burned") >= 0 || l.indexOf("tired") >= 0) return "thrrm-burnout";
+  if (l.indexOf("grudging") >= 0 || l.indexOf("respect") >= 0) return "thrrm-grudging";
+  if (l.indexOf("jurisdiction") >= 0) return "thrrm-jurisdiction";
+  if (l === "thrrm" || l === "thrm" || l.indexOf("bureaucra") >= 0) return "thrrm";
   if (l.indexOf("bot") >= 0) return "bot-war";
   if (l.indexOf("moon") >= 0) return "moon-note";
   if (l.indexOf("dog") >= 0) return "dog-note";
@@ -414,17 +708,24 @@ function resolveIncite(raw) {
 
 function applyIncite() {
   var params = new URLSearchParams(window.location.search);
-  var raw = params.get("incite");
-  if (!raw) return;
-  var key = resolveIncite(raw);
-  if (key) {
-    inciteLabel = key;
-    inciteDirective = INCITE_MAP[key];
-  } else {
-    inciteLabel = raw;
-    inciteDirective = "\n\nINCITE OVERRIDE: deploy the '" + raw + "' effect canonically (no specific map entry — do your best based on system-prompt lore).";
+  var all = params.getAll("incite");
+  if (!all.length) return;
+  var labels = [];
+  var directives = [];
+  for (var i = 0; i < all.length; i++) {
+    var raw = all[i];
+    var key = resolveIncite(raw);
+    if (key) {
+      labels.push(key);
+      directives.push(INCITE_MAP[key]);
+    } else {
+      labels.push(raw);
+      directives.push("\n\nINCITE OVERRIDE: deploy the '" + raw + "' effect canonically (no specific map entry — do your best based on system-prompt lore).");
+    }
+    console.log('incite="' + raw + '" → ' + (key || 'freeform'));
   }
-  console.log('incite="' + raw + '" → ' + (key || 'freeform') + '; directive will be appended to generation prompts');
+  inciteLabel = labels.join("+");
+  inciteDirective = directives.join("");
   var sub = document.getElementById("subheader");
   if (sub) sub.textContent += "  ·  ⚡ INCITING \"" + inciteLabel + "\"";
 }
@@ -576,8 +877,37 @@ function renderNote(note) {
   return html;
 }
 
+/* ───────────────────────── JSON parsing (LLM output is unreliable) ─── */
+function parseLooseJSON(raw) {
+  // 1. Try raw parse first (fast path)
+  try { return JSON.parse(raw); } catch (e) {}
+
+  // 2. Extract the outermost JSON object or array from surrounding text
+  var start = -1, ch = '';
+  for (var i = 0; i < raw.length; i++) {
+    if (raw[i] === '{' || raw[i] === '[') { start = i; ch = raw[i]; break; }
+  }
+  if (start >= 0) {
+    var close = ch === '{' ? '}' : ']';
+    var end = raw.lastIndexOf(close);
+    if (end > start) {
+      var slice = raw.slice(start, end + 1);
+      try { return JSON.parse(slice); } catch (e2) {}
+      // 3. Fix common LLM JSON mistakes and retry
+      var fixed = slice
+        .replace(/,\s*([}\]])/g, '$1')
+        .replace(/([{,]\s*)([a-zA-Z_]\w*)\s*:/g, '$1"$2":')
+        .replace(/\/\/[^\n]*/g, '')
+        .replace(/\/\*[\s\S]*?\*\//g, '');
+      try { return JSON.parse(fixed); } catch (e3) {}
+    }
+  }
+
+  throw new SyntaxError("No valid JSON found in LLM response (model may have refused or responded conversationally): " + raw.slice(0, 200));
+}
+
 /* ───────────────────────── API ───────────────────────── */
-function callAPI(system, content, maxTokens, temperature) {
+function callAPIOnce(system, content, maxTokens, temperature) {
   return fetch("/api/generate", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
@@ -588,9 +918,20 @@ function callAPI(system, content, maxTokens, temperature) {
     return r.json();
   })
   .then(function (data) {
-    var cleaned = (data.text || "").replace(/```json|```/g, "").trim();
-    return JSON.parse(cleaned);
+    var raw = (data.text || "").replace(/<think>[\s\S]*?<\/think>/g, "").replace(/```json|```/g, "").trim();
+    return parseLooseJSON(raw);
   });
+}
+
+function callAPI(system, content, maxTokens, temperature) {
+  return callAPIOnce(system, content, maxTokens, temperature)
+    .catch(function (err) {
+      if (err instanceof SyntaxError) {
+        console.warn("JSON parse failed, retrying once:", err.message);
+        return callAPIOnce(system, content, maxTokens, temperature);
+      }
+      throw err;
+    });
 }
 
 /* ───────────────────────── corpus save helpers ───────────────────────── */
@@ -717,33 +1058,53 @@ function sigilSVG(tier, small, handle) {
 }
 
 /* ───────────────────────── render ───────────────────────── */
+function render1917Stamp() {
+  var stamps = ['PASSED BY CENSOR', 'FIELD POST', 'PRIORITY', 'RECEIVED', 'CLEARED', 'OFFICIAL'];
+  return stamps[Math.floor(Math.random() * stamps.length)];
+}
+
 function renderTweet(t, idx) {
   var isExp = expandedId === t.uiId;
+  var is1917 = t.temporal_anomaly && t.temporal_anomaly.era === '1917';
   var tier = typeof t.verified === "number" ? t.verified : (t.verified ? 2 : 0);
-  var html = '<div class="tweet" id="tweet-' + t.uiId + '">';
-  html += '<div class="tweet-main' + (isExp ? ' expanded' : '') + '" onclick="toggleReplies(\'' + t.uiId + '\')">';
-  if (t.is_ratio) html += '<div class="ratio-badge">ratio\'d</div>';
-  html += '<div class="avatar-col"><div class="pfp pfp-48" style="background:' + t.pfpColor + '">' + t.pfpGlyph + '</div>';
-  if (isExp) html += '<div class="avatar-line"></div>';
-  html += '</div><div style="flex:1;min-width:0">';
-  html += '<div class="name-row"><span class="display-name">' + esc(t.display_name) + '</span>';
-  html += sigilSVG(tier, false, t.handle);
-  html += '<span class="handle">' + esc(t.handle) + '</span>';
-  if (t.id) {
-    html += '<a class="timestamp" href="/t/' + encodeURIComponent(t.id) + '" onclick="event.stopPropagation()">' + t.timestamp + '</a></div>';
+  var html = '<div class="tweet' + (is1917 ? ' tweet-1917' : '') + '" id="tweet-' + t.uiId + '">';
+
+  if (is1917) {
+    html += '<div class="tweet-main' + (isExp ? ' expanded' : '') + '" onclick="toggleReplies(\'' + t.uiId + '\')">';
+    html += '<div class="telegram-stamp">' + render1917Stamp() + '</div>';
+    html += '<div style="flex:1;min-width:0;padding:4px 0">';
+    html += '<div class="telegram-sender">' + esc(t.display_name) + '</div>';
+    html += '<div class="telegram-text">' + esc(t.tweet) + '</div>';
+    html += '<div class="telegram-footer">⚡ temporal anomaly · origin: 1917 CE · no metrics available';
+    if (t.id) html += ' · <a style="color:rgba(74,63,42,0.5);text-decoration:none" href="/t/' + encodeURIComponent(t.id) + '" onclick="event.stopPropagation()">permalink</a>';
+    html += '</div>';
+    html += renderNote(t.community_note);
+    html += '</div></div>';
   } else {
-    html += '<span class="timestamp">' + t.timestamp + '</span></div>';
+    html += '<div class="tweet-main' + (isExp ? ' expanded' : '') + '" onclick="toggleReplies(\'' + t.uiId + '\')">';
+    if (t.is_ratio) html += '<div class="ratio-badge">ratio\'d</div>';
+    html += '<div class="avatar-col"><div class="pfp pfp-48" style="background:' + t.pfpColor + '">' + t.pfpGlyph + '</div>';
+    if (isExp) html += '<div class="avatar-line"></div>';
+    html += '</div><div style="flex:1;min-width:0">';
+    html += '<div class="name-row"><span class="display-name">' + esc(t.display_name) + '</span>';
+    html += sigilSVG(tier, false, t.handle);
+    html += '<span class="handle">' + esc(t.handle) + '</span>';
+    if (t.id) {
+      html += '<a class="timestamp" href="/t/' + encodeURIComponent(t.id) + '" onclick="event.stopPropagation()">' + t.timestamp + '</a></div>';
+    } else {
+      html += '<span class="timestamp">' + t.timestamp + '</span></div>';
+    }
+    html += '<div class="tweet-text">' + esc(t.tweet) + '</div>';
+    html += '<div class="metrics">';
+    var rc = t.is_ratio ? " ratio" : "";
+    html += '<div class="metric' + rc + '"><span class="metric-icon">💬</span>' + fmt(t.metrics.replies) + '</div>';
+    html += '<div class="metric"><span class="metric-icon">🔁</span>' + fmt(t.metrics.retweets) + '</div>';
+    html += '<div class="metric' + rc + '"><span class="metric-icon">♡</span>' + fmt(t.metrics.likes) + '</div>';
+    html += '<div class="metric"><span class="metric-icon">⤴</span>' + fmt(t.metrics.quote_tweets) + '</div>';
+    html += '</div>';
+    html += renderNote(t.community_note);
+    html += '</div></div>';
   }
-  html += '<div class="tweet-text">' + esc(t.tweet) + '</div>';
-  html += '<div class="metrics">';
-  var rc = t.is_ratio ? " ratio" : "";
-  html += '<div class="metric' + rc + '"><span class="metric-icon">💬</span>' + fmt(t.metrics.replies) + '</div>';
-  html += '<div class="metric"><span class="metric-icon">🔁</span>' + fmt(t.metrics.retweets) + '</div>';
-  html += '<div class="metric' + rc + '"><span class="metric-icon">♡</span>' + fmt(t.metrics.likes) + '</div>';
-  html += '<div class="metric"><span class="metric-icon">⤴</span>' + fmt(t.metrics.quote_tweets) + '</div>';
-  html += '</div>';
-  html += renderNote(t.community_note);
-  html += '</div></div>';
 
   if (isExp) {
     html += '<div class="replies-section">';
@@ -756,22 +1117,41 @@ function renderTweet(t, idx) {
         var r = reps[i];
         var rTier = typeof r.verified === "number" ? r.verified : (r.verified ? 2 : 0);
         var replyAnchor = t.id ? ('/t/' + encodeURIComponent(t.id) + '#r-' + i) : null;
-        html += '<div class="reply" id="r-' + i + (t.id ? '-' + t.uiId : '') + '" style="animation-delay:' + (0.12 + i * 0.08) + 's">';
-        html += '<div class="reply-col"><div class="pfp pfp-36" style="background:' + r.pfpColor + '">' + r.pfpGlyph + '</div>';
-        if (i < reps.length - 1) html += '<div class="thread-line"></div>';
-        html += '</div><div style="flex:1;min-width:0">';
-        html += '<div class="name-row"><span class="display-name">' + esc(r.display_name) + '</span>';
-        html += sigilSVG(rTier, true, r.handle);
-        html += '<span class="handle" style="font-size:11.5px">' + esc(r.handle) + '</span>';
-        if (replyAnchor) {
-          html += '<a class="timestamp" style="font-size:11.5px" href="' + replyAnchor + '" onclick="event.stopPropagation()">' + r.timestamp + '</a></div>';
-        } else {
-          html += '<span class="timestamp" style="font-size:11.5px">' + r.timestamp + '</span></div>';
+        var rIs1917 = r.temporal_anomaly && r.temporal_anomaly.era === '1917';
+        if (i > 0) {
+          var prevRep = reps[i - 1];
+          var prevRepEra = prevRep.temporal_anomaly ? prevRep.temporal_anomaly.era : null;
+          var currRepEra = rIs1917 ? '1917' : null;
+          if (prevRepEra !== currRepEra) html += '<div class="temporal-seam-sm"></div>';
+        } else if (rIs1917) {
+          html += '<div class="temporal-seam-sm"></div>';
         }
-        html += '<div class="tweet-text">' + esc(r.tweet) + '</div>';
-        html += '<span class="reply-likes">♡ ' + fmt(r.likes) + '</span>';
-        html += renderNote(r.community_note);
-        html += '</div></div>';
+
+        if (rIs1917) {
+          html += '<div class="reply reply-1917" id="r-' + i + (t.id ? '-' + t.uiId : '') + '" style="animation-delay:' + (0.12 + i * 0.08) + 's;border-radius:4px;margin:8px 0;padding:14px 16px;display:block">';
+          html += '<div class="telegram-sender">' + esc(r.display_name) + '</div>';
+          html += '<div class="telegram-text">' + esc(r.tweet) + '</div>';
+          html += '<div class="telegram-footer">⚡ temporal anomaly · origin: 1917 CE</div>';
+          html += renderNote(r.community_note);
+          html += '</div>';
+        } else {
+          html += '<div class="reply" id="r-' + i + (t.id ? '-' + t.uiId : '') + '" style="animation-delay:' + (0.12 + i * 0.08) + 's">';
+          html += '<div class="reply-col"><div class="pfp pfp-36" style="background:' + r.pfpColor + '">' + r.pfpGlyph + '</div>';
+          if (i < reps.length - 1) html += '<div class="thread-line"></div>';
+          html += '</div><div style="flex:1;min-width:0">';
+          html += '<div class="name-row"><span class="display-name">' + esc(r.display_name) + '</span>';
+          html += sigilSVG(rTier, true, r.handle);
+          html += '<span class="handle" style="font-size:11.5px">' + esc(r.handle) + '</span>';
+          if (replyAnchor) {
+            html += '<a class="timestamp" style="font-size:11.5px" href="' + replyAnchor + '" onclick="event.stopPropagation()">' + r.timestamp + '</a></div>';
+          } else {
+            html += '<span class="timestamp" style="font-size:11.5px">' + r.timestamp + '</span></div>';
+          }
+          html += '<div class="tweet-text">' + esc(r.tweet) + '</div>';
+          html += '<span class="reply-likes">♡ ' + fmt(r.likes) + '</span>';
+          html += renderNote(r.community_note);
+          html += '</div></div>';
+        }
       }
       if (backendMode !== "offline") {
         if (moreLoading[t.uiId]) {
@@ -803,6 +1183,13 @@ function renderFeed() {
     html += '<div class="loading-tweet"><div class="loading-pfp"></div><div style="flex:1"><div class="loading-line l1"></div><div class="loading-line l2"></div><div class="loading-line l3"></div></div></div>';
   }
   for (var i = 0; i < tweets.length; i++) {
+    if (i > 0) {
+      var prevAnomaly = tweets[i - 1].temporal_anomaly;
+      var currAnomaly = tweets[i].temporal_anomaly;
+      var prevEra = prevAnomaly ? prevAnomaly.era : null;
+      var currEra = currAnomaly ? currAnomaly.era : null;
+      if (prevEra !== currEra) html += '<div class="temporal-seam"></div>';
+    }
     html += renderTweet(tweets[i], i);
   }
   feed.innerHTML = html;
@@ -833,6 +1220,7 @@ function buildTweetState(parsed) {
     pfpGlyph: parsed.pfpGlyph || pfpGlyph(),
     timestamp: parsed.timestamp || ts(),
     _has_replies: parsed._has_replies || false,
+    temporal_anomaly: parsed.temporal_anomaly || null,
   };
 }
 
@@ -840,7 +1228,7 @@ function generateTweet() {
   if (loading || !dataReady) return;
   setLoading(true);
   var format = pickFormat();
-  callAPI(SYSTEM_PROMPT, 'Generate a tweet in this format/vibe: "' + format + '"' + inciteDirective)
+  callAPI(SYSTEM_PROMPT, 'Generate a tweet in this format/vibe: "' + format + '"' + inciteDirective, 2000)
     .then(function (parsed) {
       var t = buildTweetState(parsed);
       if (t.id) {
@@ -879,7 +1267,7 @@ function generateBatch() {
     count++;
     setLoading(true);
     var format = pickFormat();
-    callAPI(SYSTEM_PROMPT, 'Generate a tweet in this format/vibe: "' + format + '"' + inciteDirective)
+    callAPI(SYSTEM_PROMPT, 'Generate a tweet in this format/vibe: "' + format + '"' + inciteDirective, 2000)
       .then(function (parsed) {
         var t = buildTweetState(parsed);
         if (t.id) {
@@ -918,6 +1306,7 @@ function enrichReply(r) {
     pfpColor: r.pfpColor || pfpColor(),
     pfpGlyph: r.pfpGlyph || pfpGlyph(),
     timestamp: r.timestamp || ts(),
+    temporal_anomaly: r.temporal_anomaly || null,
   };
 }
 
@@ -966,7 +1355,7 @@ function toggleReplies(uiId) {
   // Online mode: generate replies on the fly, then persist to corpus
   var archetypes = randomChoices(REPLY_ARCHETYPES, 5);
   var n = 4 + Math.floor(Math.random() * 3);
-  callAPI(REPLIES_SYSTEM_PROMPT, buildReplyPrompt(t, archetypes, n, null) + inciteDirective, 2000, 0.95)
+  callAPI(REPLIES_SYSTEM_PROMPT, buildReplyPrompt(t, archetypes, n, null) + inciteDirective, 4000, 0.95)
     .then(function (parsed) {
       var replies = (Array.isArray(parsed) ? parsed : [parsed]).map(enrichReply);
       repliesCache[uiId] = replies;
@@ -1026,7 +1415,7 @@ function loadMoreReplies(uiId) {
   var archetypes = randomChoices(REPLY_ARCHETYPES, 5);
   var n = 3 + Math.floor(Math.random() * 3); // 3–5 more
 
-  callAPI(REPLIES_SYSTEM_PROMPT, buildReplyPrompt(t, archetypes, n, existing) + inciteDirective, 2000, 0.95)
+  callAPI(REPLIES_SYSTEM_PROMPT, buildReplyPrompt(t, archetypes, n, existing) + inciteDirective, 4000, 0.95)
     .then(function (parsed) {
       var added = (Array.isArray(parsed) ? parsed : [parsed]).map(enrichReply);
       repliesCache[uiId] = existing.concat(added);

@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-04-17T22:30:20.025Z",
-  "file_count": 247,
+  "built_at": "2026-04-19T01:53:13.410Z",
+  "file_count": 256,
   "oldest_file": "1776300983344-0001.json",
-  "newest_file": "1776465086159-3slm.json",
+  "newest_file": "notes-showcase-001.json",
   "by_id": {
     "1776300983344-0001": "1776300983344-0001.json",
     "1776300997902-0002": "1776300997902-0002.json",
@@ -239,6 +239,17 @@
     "1776464543787-k9xl": "1776464543787-k9xl.json",
     "1776464733669-0hin": "1776464733669-0hin.json",
     "1776464790168-fdls": "1776464790168-fdls.json",
+    "1776465032161-o5t5": "1776465032161-o5t5.json",
+    "1776465086159-3slm": "1776465086159-3slm.json",
+    "1776556964610-48ol": "1776556964610-48ol.json",
+    "1776556992870-wt12": "1776556992870-wt12.json",
+    "1776557093631-yfij": "1776557093631-yfij.json",
+    "1776557147754-83rr": "1776557147754-83rr.json",
+    "1776558384121-1pab": "1776558384121-1pab.json",
+    "1776558511942-1a6t": "1776558511942-1a6t.json",
+    "1776558517241-b0ku": "1776558517241-b0ku.json",
+    "1776558521842-z0e8": "1776558521842-z0e8.json",
+    "1776563337046-z7gf": "1776563337046-z7gf.json",
     "dril-001": "dril-001.json",
     "dril-002": "dril-002.json",
     "dril-003": "dril-003.json",
@@ -249,9 +260,7 @@
     "dril-008": "dril-008.json",
     "dril-009": "dril-009.json",
     "dril-010": "dril-010.json",
-    "notes-showcase-001": "notes-showcase-001.json",
-    "1776465032161-o5t5": "1776465032161-o5t5.json",
-    "1776465086159-3slm": "1776465086159-3slm.json"
+    "notes-showcase-001": "notes-showcase-001.json"
   },
   "by_handle": {
     "@thefounderupload": [
@@ -910,17 +919,45 @@
     "@els_logistics": [
       "1776464790168-fdls"
     ],
-    "@nexus_speaks_truth": [
-      "notes-showcase-001"
-    ],
     "@gabe_on_ceres": [
       "1776465032161-o5t5"
     ],
     "@spiderfactsbot": [
-      "1776465086159-3slm"
+      "1776465086159-3slm",
+      "1776557147754-83rr"
+    ],
+    "@just_a_guy_2994": [
+      "1776556964610-48ol"
+    ],
+    "@teb_7_outerreach": [
+      "1776556992870-wt12"
+    ],
+    "@vrath_k9_recon": [
+      "1776557093631-yfij"
+    ],
+    "@hyperbeanlabs": [
+      "1776558384121-1pab"
+    ],
+    "@margot_ob": [
+      "1776558511942-1a6t"
+    ],
+    "@transitnarrator": [
+      "1776558517241-b0ku"
+    ],
+    "@nottheoriginal__": [
+      "1776558521842-z0e8"
+    ],
+    "@marswasright_88": [
+      "1776563337046-z7gf"
+    ],
+    "@nexus_speaks_truth": [
+      "notes-showcase-001"
     ]
   },
   "by_summon": {
+    "1917": [
+      "1776558384121-1pab"
+    ],
     "meat": [
       "1776464321732-yznc",
       "1776464394322-ngci",
@@ -928,27 +965,44 @@
       "1776464733669-0hin"
     ],
     "upload": [
-      "1776464790168-fdls"
+      "1776464790168-fdls",
+      "1776563337046-z7gf"
     ],
     "gimmick": [
       "1776465032161-o5t5",
       "1776465086159-3slm"
+    ],
+    "thrrm": [
+      "1776556992870-wt12",
+      "1776557147754-83rr"
+    ],
+    "grudging": [
+      "1776557093631-yfij"
     ]
   },
-  "by_incite": {},
+  "by_incite": {
+    "bot-war": [
+      "1776563337046-z7gf"
+    ]
+  },
   "counts": {
-    "tweets": 247,
-    "replies": 1279,
-    "tweets_with_replies": 243,
+    "tweets": 256,
+    "replies": 1325,
+    "tweets_with_replies": 248,
     "by_backend": {
       "unknown": 214,
-      "anthropic": 33
+      "anthropic": 42
     },
     "by_summon": {
+      "1917": 1,
       "meat": 4,
-      "upload": 1,
-      "gimmick": 2
+      "upload": 2,
+      "gimmick": 2,
+      "thrrm": 2,
+      "grudging": 1
     },
-    "by_incite": {}
+    "by_incite": {
+      "bot-war": 1
+    }
   }
 }
