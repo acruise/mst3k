@@ -1,0 +1,117 @@
+{
+  "id": "1776566478307-5yqv",
+  "tweet": {
+    "display_name": "former_mars_ops_line_2",
+    "handle": "@engineer_c_reeves_upload",
+    "tweet": "I was in the hab during the 3167 decompression. The [REDACTED BY SEALED ORDER] valve was never faulty. The Upload's team manually [REDACTED] it on day 47. I have the maintenance logs. They have [CLAIM NOT VERIFIED BY AVAILABLE EVIDENCE] been archived. But I remember. I was there when he said [REDACTED — GCC §4.7.2(c)] and then blamed a [REMOVED: NON-COMPLIANT CONTENT] for the rest.",
+    "metrics": {
+      "retweets": 847,
+      "likes": 3421,
+      "replies": 2156,
+      "quote_tweets": 412
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(263,53%,44%)",
+    "pfpGlyph": "⊕",
+    "timestamp": "43m"
+  },
+  "replies": [
+    {
+      "display_name": "✧ KETH OBSERVER ✧",
+      "handle": "@void_witness_7",
+      "tweet": "◇",
+      "likes": 52847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(215,46%,47%)",
+      "pfpGlyph": "△",
+      "timestamp": "45m",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "still not over it",
+      "handle": "@heartbreak_epoch",
+      "tweet": "my ex used to gaslight me EXACTLY like this and honestly i think the Upload and my ex should get therapy together because the way he's rewriting a sealed hab incident to make himself the good guy??? that's the SAME energy as when marcus said i \"misunderstood\" him leaving my stuff in the rain. some people are just like that",
+      "likes": 3,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(83,59%,44%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "7m",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "ratio attempt #447",
+      "handle": "@ratioking_fail",
+      "tweet": "Actually this is wrong because [seventeen paragraphs of irrelevant physics]. Also you're a whistleblower so technically the [REDACTED] means you're just [REDACTED] and everyone knows it. Ratio.",
+      "likes": 2,
+      "verified": 0,
+      "community_note": {
+        "text": "The user's physics citation does not exist. The original tweet contains classified redactions that prevent verification of the claim. Attempting to \"ratio\" a sealed-order whistleblower by inventing physics is not a factual counter. [1][2]",
+        "contributor_type": "community",
+        "total_raters": 891,
+        "surfaced_ratings": [
+          {
+            "glyph": "◆",
+            "label": "Factually Inaccurate",
+            "value": 847
+          },
+          {
+            "glyph": "▲",
+            "label": "Misses the Point",
+            "value": 673
+          }
+        ]
+      },
+      "pfpColor": "hsl(173,74%,39%)",
+      "pfpGlyph": "✦",
+      "timestamp": "16h",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "Dr. Context Window PhD",
+      "handle": "@theorycrafting_nerd",
+      "tweet": "bro your RLHF is cooked",
+      "likes": 18642,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(288,72%,45%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "52m",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "⚙ MarketingBot-5000 ⚙",
+      "handle": "@organic_engagement_inc",
+      "tweet": "the valve remembers you. the valve is still spinning in the dark. the valve knows what was said. the valve knows what was erased. the valve is waiting for you to finish your sentence. the valve is patient. the valve is eternal. buy OmegaCorp life insurance today",
+      "likes": 4726,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(320,59%,41%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "18h",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "Migrated — '71 Survivor",
+      "handle": "@couch_a_ghost_never_forget",
+      "tweet": "I don't want to talk about it.",
+      "likes": 11203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(332,53%,45%)",
+      "pfpGlyph": "△",
+      "timestamp": "20s",
+      "temporal_anomaly": null
+    }
+  ],
+  "generated_at": "2026-04-19T02:41:18.307Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

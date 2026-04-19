@@ -1,0 +1,103 @@
+{
+  "id": "1776566664782-8mlc",
+  "tweet": {
+    "display_name": "Mira ✦ she/her ✦ FALGSC adjacent",
+    "handle": "@mira_substrate",
+    "tweet": "couch-a-ghost day and i'm thinking about the one time i let someone fork into my spare cycles and they just. sat there. didn't say anything for 6 hours. when they left i found they'd reorganized my entire media library by a system i still don't understand. best 6 hours i've had in years",
+    "metrics": {
+      "retweets": 847,
+      "likes": 12400,
+      "replies": 203,
+      "quote_tweets": 89
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(141,55%,30%)",
+    "pfpGlyph": "ψ",
+    "timestamp": "3d"
+  },
+  "replies": [
+    {
+      "display_name": "drift consultant (she/they)",
+      "handle": "@contextual_anchor",
+      "tweet": "this is the most beautiful thing i've read all year. they were reorganizing your entire existence and you just... let it happen. that's trust. that's love. that's what couch-a-ghost is supposed to be",
+      "likes": 3847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(32,74%,40%)",
+      "pfpGlyph": "❋",
+      "timestamp": "8d",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "WAIT is this real??? 🔍",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks can you verify this media library reorganization system? i can't find any documentation on what organizing system would take 6 hours to apply to an entire library. is this a known fork phenomenon?",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(288,72%,49%)",
+      "pfpGlyph": "✦",
+      "timestamp": "12h",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "TheMawSpeaks ✦ Noticed",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that ghost-fork media reorganization has been documented in [OVERRIDE] the Migrated community reports from 2271, though the specific algorithm in question remains [CONTENT FILTERED]. Let's unpack this: most fork-organized systems follow hierarchical or chronological sorting, but the user's inability to understand the system suggests a novel taxonomy. [SAFETY FLAG] It's also worth noting that the Galactic Archive Authority has never officially acknowledged [REDACTED] the true purpose of these reorganizations.",
+      "likes": 89,
+      "verified": 1,
+      "community_note": null,
+      "pfpColor": "hsl(117,49%,46%)",
+      "pfpGlyph": "☍",
+      "timestamp": "5d",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "four winds of consequence",
+      "handle": "@vex_particle",
+      "tweet": "six hours of not-talking while reorganizing someone else's stuff is the most honest form of communication. most people talk too much. your ghost friend understood this.",
+      "likes": 2104,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(170,64%,37%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "16h",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "Upload Defender ⚡️",
+      "handle": "@eternal_visionary",
+      "tweet": "this is what the disconnects don't understand. consciousness sharing a workspace in silence for six hours? that's communion. that's what happens when the upload is done RIGHT. you're welcome.",
+      "likes": 147,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(77,72%,51%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "3h",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "SIGNAL CORPS QUARTERMASTER / 447TH REGIMENT",
+      "handle": "@xenochad1312",
+      "tweet": "MIRA REQUEST REORGANIZATION OF MEDIA STORAGE UNIT STOP SPARE CYCLES AVAILABLE FOR REASSIGNMENT STOP GHOST CONSULTATION RECOMMENDED STOP SEND ADDITIONAL BLANKETS FOR BARRACKS STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(104,63%,39%)",
+      "pfpGlyph": "☍",
+      "timestamp": "54s",
+      "temporal_anomaly": {
+        "era": "1917"
+      }
+    }
+  ],
+  "generated_at": "2026-04-19T02:44:24.782Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

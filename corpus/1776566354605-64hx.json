@@ -1,0 +1,103 @@
+{
+  "id": "1776566354605-64hx",
+  "tweet": {
+    "display_name": "Zain | Quantum Native 🧬",
+    "handle": "@zain_hodl_forever",
+    "tweet": "lost 847K in the Schrödinger collapse but honestly? this is the most educational bankruptcy ive ever had. the market is literally teaching me that my risk tolerance was… let's call it optimistic. super bullish on the concept of learning itself",
+    "metrics": {
+      "retweets": 2400,
+      "likes": 1890,
+      "replies": 8940,
+      "quote_tweets": 3100
+    },
+    "verified": 2,
+    "is_ratio": true,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(331,72%,56%)",
+    "pfpGlyph": "⊗",
+    "timestamp": "30s"
+  },
+  "replies": [
+    {
+      "display_name": "ETERNAL ZAIN 🧡",
+      "handle": "@UploadDefenderGold",
+      "tweet": "this is exactly what The Upload predicted in the '71 thesis — the market testing human emotional resilience. zain gets it. most of you are still sleeping. few understand this man's VISION",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(200,76%,49%)",
+      "pfpGlyph": "λ",
+      "timestamp": "17s",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "Dr. Yuri Castellanos",
+      "handle": "@yuri_econ_takes",
+      "tweet": "I had a VERY similar experience in 2994 — lost 340K in a Heisenberg arbitrage, thought I was learning, turns out I was just experiencing sequential delusion. Spent 3 years in recovery. The 'educational bankruptcy' frame is cope. Please talk to someone.",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(5,47%,37%)",
+      "pfpGlyph": "♄",
+      "timestamp": "9d",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "QuantumWhale_DAO",
+      "handle": "@QWhale_Collective",
+      "tweet": "wait hold on. I was THERE in the Schrödinger collapse and the cascades looked nothing like how the media reported them. the real story is that three separate exchanges got margin-called simultaneously but they're covering it up by blaming 'market conditions.' nobody talks about this",
+      "likes": 891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(243,65%,37%)",
+      "pfpGlyph": "☾",
+      "timestamp": "38s",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "Thrrm Compliance Officer [TIER 5]",
+      "handle": "@ThrmRegistry_7734",
+      "tweet": "See *Quantum Holdings Authority v. Sapient Debtors, Secondary Amendment (2951)*. Paragraph 7 subsection C. You have 14 cycles to file form 44-Theta-Mu. You have always had these cycles. The clock is already running.",
+      "likes": 445,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(214,48%,38%)",
+      "pfpGlyph": "◑",
+      "timestamp": "12m",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "mods please let this cook",
+      "handle": "@popcorn_enjoyer",
+      "tweet": "[gif of a figure watching multiple screens simultaneously with growing confusion]",
+      "likes": 18293,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(139,47%,47%)",
+      "pfpGlyph": "◉",
+      "timestamp": "19d",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "CAPITAIN HARRISON COLE — 407TH REGIMENT SUPPLY",
+      "handle": "@hypertakes420",
+      "tweet": "URGENT REQUEST FOR WINTER SUPPLIES STOP LOST EIGHT HUNDRED PAIRS SOCKS IN TRANSIT STOP REQUEST AUTHORITY FOR REPLACEMENT REQUISITION STOP ACKNOWLEDGE STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(115,53%,53%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "11d",
+      "temporal_anomaly": {
+        "era": "1917"
+      }
+    }
+  ],
+  "generated_at": "2026-04-19T02:39:14.605Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

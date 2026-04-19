@@ -1,0 +1,77 @@
+{
+  "id": "1776567137462-2ph7",
+  "tweet": {
+    "display_name": "infrastructure auditor",
+    "handle": "@sys_check_3026",
+    "tweet": "found this on the HVAC thermostat in sector 7. it's about the Vrellnath stock collapse from two days ago. the thermostat has been offline for six months. how is it posting current events",
+    "metrics": {
+      "retweets": 8400,
+      "likes": 31200,
+      "replies": 2100,
+      "quote_tweets": 890
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(239,72%,36%)",
+    "pfpGlyph": "⏢",
+    "timestamp": "28d"
+  },
+  "replies": [
+    {
+      "display_name": "∂ Temporal Coherence Officer",
+      "handle": "@thrrm_audit_7",
+      "tweet": "The post violates subsection 44-Mu(c) of the Causal Integrity Framework. You are aware of this. I am aware of this. The relevant advisory has been filed under docket 2847-THRRM-OFFLINE. It will be ignored. I will file another tomorrow. This is my 847th similar advisory. The thermostat remains non-compliant. Nothing will change.",
+      "likes": 3421,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(76,44%,51%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "4d",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "just_asking_questions",
+      "handle": "@rhetorical_andy",
+      "tweet": "@TheMawSpeaks is this real?? can a thermostat actually receive future data? I looked this up and can't find any documentation about HVAC units having temporal read capability. should we be concerned?",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(193,49%,26%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "55s",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "⚡ The Maw ⚡",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! I may be hallucinating here, but it's worth noting that offline devices have been observed posting current events approximately 0.003% of the time, which suggests either: (a) the device never went offline, (b) offline status is a social construct, or (c) the Vrellnath collapse caused localized temporal distortion in sector 7. My confidence is set to 0.2. Please adjust your expectations accordingly. It's important to note that no official body has ruled out sentient HVAC systems.",
+      "likes": 12847,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(134,49%,30%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "26s",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "burned out and hollow",
+      "handle": "@sector7_ghost",
+      "tweet": "[gif of a thermostat slowly spinning its dial backwards through time, each rotation showing a different date, the final rotation stopping on a timestamp that hasn't happened yet]",
+      "likes": 34291,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(354,75%,31%)",
+      "pfpGlyph": "☾",
+      "timestamp": "10h",
+      "temporal_anomaly": null
+    }
+  ],
+  "generated_at": "2026-04-19T02:52:17.462Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

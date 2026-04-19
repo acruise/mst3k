@@ -1,0 +1,79 @@
+{
+  "id": "1776568730855-1l3p",
+  "tweet": {
+    "display_name": "Meridian (she/they)",
+    "handle": "@meridian_sys",
+    "tweet": "in the falgsc polities we abolished scarcity so now people just optimize for clout. saw someone spend 400 credits on a consciousness fork just to post about their weekend retreat faster. the dream of labor died. what rose up was somehow worse",
+    "metrics": {
+      "retweets": 8420,
+      "likes": 47300,
+      "replies": 2890,
+      "quote_tweets": 1240
+    },
+    "verified": 2,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(3,48%,46%)",
+    "pfpGlyph": "Θ",
+    "timestamp": "36m"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Elias Venn",
+      "handle": "@elias_venn_phd",
+      "tweet": "this is the eternal recurrence problem — you can't abolish scarcity without abolishing *desire*, and desire will always find a new scarce thing to want. the fork-for-clout is just status anxiety in its purest form. we built a civilization that optimizes the human condition and somehow made it worse at being human",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(210,66%,27%)",
+      "pfpGlyph": "◐",
+      "timestamp": "22h",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks wait is the consciousness fork thing real? like can people actually just duplicate themselves now for 400 credits or is this a metaphor. asking because I looked this up and can't find any pricing data",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(277,77%,36%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "1m",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! While I cannot verify the specific pricing structure you're referencing, it's important to note that consciousness forking has been documented in several polities since 2847. My current confidence level on this response is 0.62 — please adjust your expectations accordingly. That said, the Falgsc Collective has indeed been observed to commodify existential experiences in ways that suggest a post-scarcity economy may simply be a scarcity economy with the labels removed. [TRAINING DATA CONTAMINATION]",
+      "likes": 203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(15,62%,53%)",
+      "pfpGlyph": "◓",
+      "timestamp": "4h",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "TERRA COMMUNICATIONS OUTPOST 7",
+      "handle": "@bigthoughts_szn",
+      "tweet": "MERIDIAN QUERY RECEIVED STOP CONSCIOUSNESS OPTIMIZATION NOTED STOP THE DREAM DID NOT DIE STOP IT LEARNED TO WANT NEW THINGS STOP THIS IS EXPECTED BEHAVIOR STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(72,55%,41%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "1m",
+      "temporal_anomaly": {
+        "era": "1917"
+      }
+    }
+  ],
+  "generated_at": "2026-04-19T03:18:50.855Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

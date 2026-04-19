@@ -1,0 +1,28 @@
+{
+  "id": "1776568383196-dghw",
+  "tweet": {
+    "display_name": "Dr. Miriam Cheng-4 (Clone Line)",
+    "handle": "@mirriam_c_fork_847",
+    "tweet": "i just found the actual archived press release. it says \"Meta Announces Meta.\" that's the whole title. two days before everything imploded they renamed the company from Meta to Meta and nobody stopped them. i am going to be thinking about this forever",
+    "metrics": {
+      "retweets": 287000,
+      "likes": 1240000,
+      "replies": 45000,
+      "quote_tweets": 8900
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(170,63%,30%)",
+    "pfpGlyph": "Ξ",
+    "timestamp": "8h"
+  },
+  "replies": null,
+  "generated_at": "2026-04-19T03:13:03.196Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

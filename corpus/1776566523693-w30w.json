@@ -1,0 +1,28 @@
+{
+  "id": "1776566523693-w30w",
+  "tweet": {
+    "display_name": "sam",
+    "handle": "@sammigrated_71",
+    "tweet": "made the sandwich the way they taught me. same bread, same order of assembly. nobody else here remembers which side the tomato goes on. i do.",
+    "metrics": {
+      "retweets": 847000,
+      "likes": 2100000,
+      "replies": 34000,
+      "quote_tweets": 12000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(196,46%,46%)",
+    "pfpGlyph": "❋",
+    "timestamp": "4m"
+  },
+  "replies": null,
+  "generated_at": "2026-04-19T02:42:03.693Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

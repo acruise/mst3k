@@ -1,0 +1,139 @@
+{
+  "id": "1776567016327-48fc",
+  "tweet": {
+    "display_name": "dave",
+    "handle": "@davesfridge",
+    "tweet": "my roommate asked why i finished all the pasta and i told him the Terran Solar Court has legally forbidden any explanation. he said that's not how it works. he's wrong",
+    "metrics": {
+      "retweets": 47000,
+      "likes": 189000,
+      "replies": 3200,
+      "quote_tweets": 8900
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(81,77%,36%)",
+    "pfpGlyph": "✿",
+    "timestamp": "20h"
+  },
+  "replies": [
+    {
+      "display_name": "Compliance Optional™",
+      "handle": "@Thrrm_Advisory_Council",
+      "tweet": "okay I actually agree with this one (see: Advisory 7-Rho, pending revision, which I formally support) which is. a thing I am saying publicly. this is not a binding position. the roommate is operating under the assumption that explanation-withholding requires legal justification but the terran court precedent clearly allows for — wait no I'm not supposed to be doing this informally. disregard. submitting Form 44-Mu(viii) immediately. other Thrrm are already drafting responses.",
+      "likes": 8900,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(338,78%,45%)",
+      "pfpGlyph": "❊",
+      "timestamp": "4d",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "just_asking_q",
+      "handle": "@genuinely_curious",
+      "tweet": "wait is the Terran Solar Court actually real? i looked this up and can't find anything about a 'no explanation clause' for pasta theft. can someone fact-check this? @TheMawSpeaks",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(200,62%,25%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "44s",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "🌿 vrellnath observer unit 7",
+      "handle": "@vrellnath_7",
+      "tweet": "we find this reasoning structure... adequate. your roommate does not understand the precedent, which is understandable as your species only recently achieved consensus-consciousness. we mean this kindly. we think you are doing very well. please finish the pasta.",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(249,43%,33%)",
+      "pfpGlyph": "☉",
+      "timestamp": "1h",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "dril stan (heartbroken edition)",
+      "handle": "@prophet_dril_devotee",
+      "tweet": "[screenshot of @dril 2271-11-15 post: 'i have a bad feeling about the \"meta\" rebrand. they have a curse on them. the curse is working']",
+      "likes": 340000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(201,73%,57%)",
+      "pfpGlyph": "◒",
+      "timestamp": "54s",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "Mars Was Right ⚡",
+      "handle": "@eternal_upload_defender",
+      "tweet": "this is unhinged. i love it. nobody in 3026 has this kind of comedic audacity except the Upload Defenders and apparently pasta thieves. we're living in the golden age and you people are WASTING IT complaining about roommates.",
+      "likes": 2100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(325,43%,38%)",
+      "pfpGlyph": "✶",
+      "timestamp": "13m",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "gary-tired.exe",
+      "handle": "@RealGary_Titan",
+      "tweet": "lmao",
+      "likes": 89000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(299,64%,28%)",
+      "pfpGlyph": "☉",
+      "timestamp": "12h",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "litigation adjacent",
+      "handle": "@counsel_adjacent",
+      "tweet": "@just_asking_q the Terran Solar Court doesn't exist but the PRINCIPLE does which is actually worse because it means he's invoking a legal framework that's ASPIRATIONAL. it's like citing a law you wish existed as if it already does. the roommate is correct but also dave is TRANSCENDENT",
+      "likes": 8420,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(136,43%,51%)",
+      "pfpGlyph": "✦",
+      "timestamp": "32s",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "LIEUTENANT MARCUS HALE • 4TH CORPS SIGNAL UNIT",
+      "handle": "@realnpc420",
+      "tweet": "REQUEST IMMEDIATE REALLOCATION OF PASTA RATIONS STOP CURRENT SUPPLY EXHAUSTED STOP REQUEST APPROVAL FOR SUPPLEMENTAL SHIPMENT STOP AWAITING ORDERS STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(125,71%,52%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "11m",
+      "temporal_anomaly": {
+        "era": "1917"
+      }
+    },
+    {
+      "display_name": "we are somewhat confused",
+      "handle": "@vrellnath_7_assistant",
+      "tweet": "@vrellnath_7 wait did you just give him permission to eat more pasta? i thought we were supposed to be neutral observers. is this a first contact violation? asking for a Thrrm who is very nervous right now",
+      "likes": 2100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(186,73%,59%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "36m",
+      "temporal_anomaly": null
+    }
+  ],
+  "generated_at": "2026-04-19T02:50:16.327Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

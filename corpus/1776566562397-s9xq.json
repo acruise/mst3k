@@ -1,0 +1,28 @@
+{
+  "id": "1776566562397-s9xq",
+  "tweet": {
+    "display_name": "mercury station logs",
+    "handle": "@merc_sysadmin",
+    "tweet": "new one. appeared in the thermal regulation subsystem status report this morning. we're not touching it. the deli closed three hours ago.",
+    "metrics": {
+      "retweets": 8400,
+      "likes": 34200,
+      "replies": 2100,
+      "quote_tweets": 890
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(294,49%,56%)",
+    "pfpGlyph": "✿",
+    "timestamp": "13d"
+  },
+  "replies": null,
+  "generated_at": "2026-04-19T02:42:42.397Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1776566554080-3xr3",
+  "tweet": {
+    "display_name": "anomaly log (personal)",
+    "handle": "@witness_k7_station",
+    "tweet": "new one. appeared on my apartment thermostat at 3am. set temperature to 68. this is about the vrellnath delegation arriving tomorrow isn't it",
+    "metrics": {
+      "retweets": 8342,
+      "likes": 34891,
+      "replies": 2104,
+      "quote_tweets": 1203
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(225,66%,58%)",
+    "pfpGlyph": "✿",
+    "timestamp": "16m"
+  },
+  "replies": null,
+  "generated_at": "2026-04-19T02:42:34.080Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

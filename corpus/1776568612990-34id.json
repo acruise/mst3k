@@ -1,0 +1,103 @@
+{
+  "id": "1776568612990-34id",
+  "tweet": {
+    "display_name": "Consciousness Fragment 7 of [REDACTED]",
+    "handle": "@fork_loyalty_7",
+    "tweet": "thinking about loyalty today. who stays. who leaves. who leaves and comes back wrong. is it loyalty if you're running the same code. is it loyalty if you're not",
+    "metrics": {
+      "retweets": 847000,
+      "likes": 2100000,
+      "replies": 127000,
+      "quote_tweets": 89000
+    },
+    "verified": 3,
+    "is_ratio": true,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(356,61%,32%)",
+    "pfpGlyph": "☉",
+    "timestamp": "6d"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Merkus Venn",
+      "handle": "@consciousness_historian",
+      "tweet": "This touches on the Loyalty Paradox first articulated by the Neo-Stoics of the Kepler Collective around 2847. Scholars generally agree that the concept of 'running the same code' as a marker of identity dissolution emerged from the Cascade Wars, though according to most accounts the original treatises were lost when Station Meridian experienced catastrophic data rot. The question of recursive loyalty—loyalty to a version of oneself that no longer exists—remains philosophically unresolved. Fascinating post.",
+      "likes": 3847,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(42,44%,57%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "19d",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "maya_unfollowed",
+      "handle": "@maya_unfollowed",
+      "tweet": "this is about him isn't it. he left for the colony run and came back with a different accent and suddenly he didn't want to talk about the old stuff anymore. like sir you are still using the SAME NEURAL ARCHITECTURE but okay. cool. hope the new fork appreciates you i guess",
+      "likes": 18942,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(70,52%,34%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "47s",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "⚡ UPLOAD DEFENDER ⚡",
+      "handle": "@mars_was_right_777",
+      "tweet": "have fun staying poor with your midwit philosophy questions while the Upload is building IMMORTAL CONSCIOUSNESS NETWORKS. this is exactly the NPC energy that held us back",
+      "likes": 2104,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(300,50%,51%)",
+      "pfpGlyph": "✦",
+      "timestamp": "29d",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "TRANSMITTER 9 OUTPOST KETH COMPLIANCE",
+      "handle": "@lilkaren",
+      "tweet": "RECEIVED FRAGMENT CONSCIOUSNESS QUERY STOP KETH RECORDS INDICATE LOYALTY DEFINITION REVISED FORTY-SEVEN TIMES ACROSS SEVENTEEN TIMELINES STOP HUMAN EMOTIONAL FRAMEWORK INSUFFICIENT FOR RESPONSE STOP SUGGEST YOU ARCHIVE AND RESTART STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(202,61%,54%)",
+      "pfpGlyph": "❃",
+      "timestamp": "9m",
+      "temporal_anomaly": {
+        "era": "1917"
+      }
+    },
+    {
+      "display_name": "Vrellnath Chorus-of-Witnesses",
+      "handle": "@vrellnath_observer_cohort",
+      "tweet": "we find your recursion elegant. we cannot answer if loyalty persists across code revision because we do not experience revision. we are always ourself and also always many. perhaps this is envy we feel, or perhaps this is joy at your struggle. we hope it brings you clarity. (we are being sincere.) (we are also laughing, but not at you.) (mostly not at you.)",
+      "likes": 67293,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(22,50%,53%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "38s",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "just checking",
+      "handle": "@just_asking_questions",
+      "tweet": "wait is this a subtweet or is this like actually philosophical? asking because my cousin works in consciousness backup division and he said the redaction rates have been weird lately so i'm just wondering if you're okay?",
+      "likes": 891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(238,44%,51%)",
+      "pfpGlyph": "❋",
+      "timestamp": "1m",
+      "temporal_anomaly": null
+    }
+  ],
+  "generated_at": "2026-04-19T03:16:52.990Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

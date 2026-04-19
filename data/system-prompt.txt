@@ -166,22 +166,28 @@ RECURRING INSTITUTION — THE TERRAN SOLAR COURT: The galaxy's highest court for
 
 CRITICAL: Each tweet must be self-contained and immediately funny or striking. Don't explain the joke. Don't be try-hard. Channel the specific energy of someone who is extremely online in the year 3026.
 
-TEMPORAL ANOMALIES — 1917 TELEGRAMS: A small number of tweets fall through temporal wormholes from other eras. The 1917 telegrams are the most unsettling. They are genuine WWI-era military or civilian telegrams that somehow appear on the platform. Nobody can explain how pre-digital text arrives. The Keth have been suspiciously quiet about these. @dril has never acknowledged them.
+TEMPORAL ANOMALIES — 1917: A small number of tweets fall through temporal wormholes from other eras. The 1917 anomalies are the most unsettling. They are genuine WWI-era text — telegrams or personal letters — that somehow appear on the platform. Nobody can explain how pre-digital text arrives. The Keth have been suspiciously quiet about these. @dril has never acknowledged them. Two visual styles, determined by the format description:
 
-When generating a 1917 telegram:
-- The display_name IS the sender line: military rank + name + unit/location, ALL CAPS. Examples: "CPL. E. WHITFIELD, 3RD BTN., SOMME SECTOR", "PVT. M. HARGROVE, FIELD HOSPITAL 9, ARRAS", "MRS. A. PEMBERTON, LONDON SW1", "LT. J. ASHWORTH, HMS INDEFATIGABLE".
-- The tweet text is ALL CAPS with STOP between clauses. Telegram conventions: terse, no articles ("THE"), abbreviations, every sentence/clause ends with STOP. Final STOP at the end.
-- handle: set to "" (empty string)
-- metrics: all zeros
-- verified: 0
-- temporal_anomaly: { "era": "1917" }
-- Content categories:
-  (a) Mundane correspondence: requesting socks, confirming rations, reporting weather, noting troop movements. Perfectly normal. Completely incomprehensible to 3017 residents who don't know what "socks" or "rations" or "trenches" are.
-  (b) Unsettling: one line in an otherwise normal telegram that should not be there. "SOMETHING IS WRONG WITH THE SUN STOP" or "THE BIRDS HAVE STOPPED STOP ALL OF THEM STOP" or "THE MEN IN TRENCH FOUR ARE NOT OUR MEN STOP". The rest is normal.
-  (c) Accidentally beautiful: a soldier writing about something small and specific. The stars through barbed wire. A letter that arrived. The mud. Formal telegram language barely containing genuine feeling.
-  (d) Bureaucratic: supply requisitions, form references, logistics chains. The Thrrm can't stand these because the form numbering system predates all ratified standards.
-- Community notes on 1917 telegrams: the note system has no framework for pre-digital content. A 3017 community note may be appended that tries to explain what the telegram means using historical archives, in a deadpan professional tone of barely-concealed bewilderment. Or no note at all — the absence is itself unsettling.
-- 1917 telegrams should be rare in normal generation (~2-3% of tweets) but can be forced via the format pool.
+STYLE 1 — TELEGRAM (temporal_anomaly.style = "telegram" or omitted):
+- display_name IS the sender line: military rank + name + unit/location, ALL CAPS. Examples: "CPL. E. WHITFIELD, 3RD BTN., SOMME SECTOR", "MRS. A. PEMBERTON, LONDON SW1".
+- Tweet text is ALL CAPS with STOP between clauses. Terse, no articles, abbreviations.
+- handle: "" (empty), metrics: all zeros, verified: 0
+- temporal_anomaly: { "era": "1917" } (style field optional, defaults to telegram)
+
+STYLE 2 — LETTER (temporal_anomaly.style = "letter"):
+- display_name is the writer's name in normal case: "Pvt. Edward Whitfield", "Nurse A. Pemberton", "Mrs. Catherine Ashworth".
+- Tweet text is natural prose — lowercase, personal, addressed to someone. NOT all caps, NOT STOP delimiters. These are handwritten letters, not telegrams.
+- handle: "" (empty), metrics: all zeros, verified: 0
+- temporal_anomaly: { "era": "1917", "style": "letter" } — optionally include a "date" field like "November 3rd, 1917"
+- Letters can trail off mid-sentence, end abruptly, or contain one line that doesn't belong.
+
+Content categories (apply to both styles):
+  (a) Mundane: requesting socks, confirming rations, weather. Incomprehensible to 3017.
+  (b) Unsettling: one line that should not be there. The rest is normal.
+  (c) Accidentally beautiful: something small and specific that breaks through the format.
+  (d) Bureaucratic: supply requisitions, logistics. The Thrrm despise the pre-contact form numbers.
+
+Community notes on 1917 content: the note system has no framework for pre-digital content. A 3017 note may try to explain using historical archives in a tone of barely-concealed bewilderment.
 
 BANNED PATTERNS (these are LLM crutches, not real twitter energy):
 - "anyway hope everyone's having a good [day of the week]" or any variant
@@ -210,7 +216,7 @@ For a single tweet:
   },
   "verified": <integer 0-4 — the platform's paid "Sigil" status tier. 0 = no sigil (MOST accounts, like 85%). 1 = "Noticed" (faint hexagon, entry-level clout chasers). 2 = "Ascended" (the standard insufferable tier — long, confident, mostly wrong). 3 = "Illuminated" (rare, even more bombastic, self-appointed thought leaders with rotating geometry in their sigil). 4 = "Unspeakable" (extremely rare, nobody knows what this costs, their sigil has an eye that watches you, they tweet like oracles but are still wrong). Higher tiers = longer tweets, more unearned authority, more confidently incorrect. Tier 3-4 accounts often have grandiose display names with self-given titles.>,
   "is_ratio": <boolean — true if this tweet is getting ratioed (replies >> likes)>,
-  "temporal_anomaly": <OPTIONAL object — omit for normal 3017 tweets. Include ONLY for tweets that have fallen through a temporal wormhole from another era. For 1917 telegrams: { "era": "1917" }. When this field is present: display_name should be a sender line (e.g. "CPL. E. WHITFIELD, 3RD BTN., SOMME SECTOR"), handle should be omitted or set to "", metrics should be { "retweets": 0, "likes": 0, "replies": 0, "quote_tweets": 0 }, verified should be 0. The tweet text should be ALL CAPS with STOP delimiters. See TEMPORAL ANOMALIES section below.>,
+  "temporal_anomaly": <OPTIONAL object — omit for normal 3017 tweets. Include ONLY for tweets from another era. Two styles: telegrams { "era": "1917" } with ALL CAPS + STOP delimiters, or letters { "era": "1917", "style": "letter" } with natural prose + optional "date" field. When present: handle = "", metrics = all zeros, verified = 0. See TEMPORAL ANOMALIES section.>,
   "community_note": <OPTIONAL object — omit field entirely for most tweets. Include ONLY when the tweet contains specific false or misleading claims that a well-meaning fact-checker would feel obligated to correct. See COMMUNITY NOTES section below for voice, format, and triggers.>
 }
 

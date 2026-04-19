@@ -52,7 +52,7 @@ for (var i = 0; i < args.length; i++) {
 }
 
 // ── Load data files ──
-var dataDir = path.join(__dirname, "public", "data");
+var dataDir = path.join(__dirname, "data");
 var MEME_FORMATS = JSON.parse(fs.readFileSync(path.join(dataDir, "meme-formats.json"), "utf8"));
 var REPLY_ARCHETYPES = JSON.parse(fs.readFileSync(path.join(dataDir, "reply-archetypes.json"), "utf8"));
 var HANDLES = JSON.parse(fs.readFileSync(path.join(dataDir, "handles.json"), "utf8"));
@@ -168,7 +168,7 @@ function anthropicStreamResults(url) {
 var TWEETS_PER_REQUEST = 50;
 
 function buildTweetBatchRequest(batchIdx, formats) {
-  var formatList = formats.map(function (f, i) { return (i + 1) + ". " + f; }).join("\n");
+  var formatList = formats.map(function (f, i) { return (i + 1) + ". " + (f.description || f); }).join("\n");
   var params = {
     model: MODEL,
     max_tokens: Math.min(formats.length * 600, 64000),
@@ -454,7 +454,8 @@ function runSequential() {
     }
 
     var idx = generated + failed + 1;
-    var format = randomChoice(MEME_FORMATS);
+    var picked = randomChoice(MEME_FORMATS);
+    var format = picked.description || picked;
     process.stdout.write("  [" + idx + "/" + count + "] tweet... ");
 
     return llm.callLLM("ollama", ollamaConfig, SYSTEM_PROMPT, 'Generate a tweet in this format/vibe: "' + format + '"')

@@ -59,11 +59,11 @@ function callLLM(backend, config, system, content, maxTokens, temperature) {
 
 function callAnthropic(config, system, content, maxTokens, temperature) {
   return new Promise(function (resolve, reject) {
-    var model = config.model || "claude-sonnet-4-6";
+    var model = config.model || "claude-haiku-4-5-20251001";
     var body = {
       model: model,
       max_tokens: maxTokens,
-      system: system,
+      system: [{ type: "text", text: system, cache_control: { type: "ephemeral" } }],
       messages: [{ role: "user", content: content }],
     };
     if (acceptsSamplingParams(model)) body.temperature = temperature;
@@ -169,15 +169,55 @@ function callOllama(config, system, content, maxTokens, temperature) {
 
 // Parse raw LLM text into JSON, stripping markdown fences and thinking blocks
 function parseResponse(text) {
-  var cleaned = text
+  return parseLooseJSON(text);
+}
+
+function parseLooseJSON(raw) {
+  raw = raw
     .replace(/<think>[\s\S]*?<\/think>/g, "")
     .replace(/```json|```/g, "")
     .trim();
-  return JSON.parse(cleaned);
+  try { return JSON.parse(raw); } catch (e) {}
+
+  var start = -1, ch = '';
+  for (var i = 0; i < raw.length; i++) {
+    if (raw[i] === '{' || raw[i] === '[') { start = i; ch = raw[i]; break; }
+  }
+  if (start >= 0) {
+    var close = ch === '{' ? '}' : ']';
+    var end = raw.lastIndexOf(close);
+    if (end > start) {
+      var slice = raw.slice(start, end + 1);
+      try { return JSON.parse(slice); } catch (e2) {}
+      var fixed = slice
+        .replace(/,\s*([}\]])/g, '$1')
+        .replace(/([{,]\s*)([a-zA-Z_]\w*)\s*:/g, '$1"$2":')
+        .replace(/\/\/[^\n]*/g, '')
+        .replace(/\/\*[\s\S]*?\*\//g, '');
+      try { return JSON.parse(fixed); } catch (e3) {}
+    }
+
+    // Truncated JSON (hit max_tokens) — find the last complete object and close the array
+    if (ch === '[') {
+      var lastClose = raw.lastIndexOf('}');
+      if (lastClose > start) {
+        var truncSlice = raw.slice(start, lastClose + 1)
+          .replace(/,\s*$/, '') + ']';
+        try { return JSON.parse(truncSlice); } catch (e4) {}
+        var truncFixed = truncSlice
+          .replace(/,\s*([}\]])/g, '$1')
+          .replace(/([{,]\s*)([a-zA-Z_]\w*)\s*:/g, '$1"$2":');
+        try { return JSON.parse(truncFixed); } catch (e5) {}
+      }
+    }
+  }
+
+  throw new SyntaxError("No valid JSON found in LLM response: " + raw.slice(0, 200));
 }
 
 module.exports = {
   callLLM: callLLM,
   parseResponse: parseResponse,
+  parseLooseJSON: parseLooseJSON,
   acceptsSamplingParams: acceptsSamplingParams,
 };

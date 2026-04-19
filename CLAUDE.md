@@ -63,10 +63,12 @@ note: `corpus` should NOT be .gitignored, I want to accumulate examples for free
 
 ```
 server.js          Express server. Three backend modes: anthropic, ollama, offline.
-                   Serves static files from public/. APIs:
-                     GET  /api/status          — backend + corpus counts
-                     POST /api/generate        — LLM passthrough (online) or corpus draw (offline)
-                     POST /api/replies         — LLM passthrough (online) or corpus lookup by id (offline)
+                   Loads prompt data from data/ at startup. Serves static files from public/.
+                   Prompt construction (format selection, summon filtering, incite resolution)
+                   happens server-side — the frontend never sees the lore files. APIs:
+                     GET  /api/status          — backend + corpus counts + format counts (accepts ?summon=)
+                     POST /api/generate        — server picks format, builds prompt, calls LLM, returns parsed tweet
+                     POST /api/replies         — server picks archetypes, builds prompt, calls LLM, returns parsed replies
                      POST /api/save            — persist a freshly-generated tweet, returns {id}
                      POST /api/save-replies    — attach replies to an existing tweet by id
                      GET  /api/tweet/:id       — fetch a corpus entry (id + tweet + replies + meta)
@@ -87,7 +89,14 @@ generate.js        CLI corpus generator. Uses Anthropic Batch API (50% cheaper, 
 llm.js             Shared LLM client. callLLM() dispatches to Anthropic or Ollama.
                    Anthropic: raw https.request to api.anthropic.com.
                    Ollama: OpenAI-compatible endpoint at /v1/chat/completions.
-                   parseResponse() strips markdown fences and JSON.parse()s.
+                   parseLooseJSON() extracts JSON from LLM text (strips thinking blocks,
+                   markdown fences, preamble; fixes trailing commas and unquoted keys).
+
+data/              Prompt data (NOT in public/ — never served to clients).
+  meme-formats.json       285 tweet format descriptions, categorized.
+  reply-archetypes.json   122 reply archetypes.
+  system-prompt.txt       Main tweet generation system prompt.
+  replies-prompt.txt      Reply thread generation system prompt.
 
 public/
   index.html       Entire frontend in one file. State management is just vars.
@@ -97,18 +106,16 @@ public/
                    Timestamps render as <a> tags pointing at /t/{id} permalinks.
                    Sigil badges are inline SVG with CSS animations.
                    State uses `uiId` for local DOM/expansion, `id` for corpus persistence.
+                   Does NOT load prompt/lore files — all prompt construction is server-side.
 
   router.php       PHP backend (drop-in replacement for server.js + corpus.js + llm.js).
                    Single file. Same API endpoints, same corpus format, same .env config.
-                   Requires Apache mod_rewrite or nginx rewrite rules (see .htaccess).
+                   Loads prompt data from ../data/. Requires Apache mod_rewrite or nginx
+                   rewrite rules (see .htaccess).
   .htaccess        Apache rewrite rules: /api/* → router.php, /t/* → index.html.
 
   data/
-    meme-formats.json       271 tweet format descriptions, categorized.
-    reply-archetypes.json   113 reply archetypes.
-    handles.json            Fallback handle generation (prefixes/roots/suffixes).
-    system-prompt.txt       Main tweet generation system prompt (~7K chars).
-    replies-prompt.txt      Reply thread generation system prompt (~5K chars).
+    handles.json            Fallback handle generation (prefixes/roots/suffixes). Not lore.
 
 corpus/            Tweet+reply JSON files + _index.json (built at startup).
                    Each entry: { id, tweet, replies, generated_at, backend, model, temperature }.
@@ -166,49 +173,79 @@ location /t    { try_files $uri /index.html; }
 ```
 Config is the same `.env` file (read from one directory up from `public/`). The PHP backend is stateless per-request — no in-memory corpus deck like Node, just random selection in offline mode. The batch generator (`generate.js`) still requires Node.
 
-## Debugging rare formats — the `?summon=` URL parameter
+## Debugging rare formats — `?summon=` and `?incite=`
 
-To test a rare format without spray-and-pray: append `?summon=KEYWORD` to the feed URL. The frontend filters the format pool to entries whose description contains KEYWORD (case-insensitive substring match) and uses only those for subsequent generations in this session. Examples:
-- `?summon=federation` → federation-attempt tweets (Mastodon AI handshakes)
-- `?summon=skeet` → skeet-leak tweets (incongruous-substrate Bluesky leaks)
-- `?summon=Meta` → Meta Refugee Crisis callbacks
-- `?summon=dril` → dril-specific formats
-- `?summon=moon` or `?summon=dog` → formats that might trigger the deranged community notes
-- `?summon=whistleblow` → censored-whistleblower tweets (uploads/clone-descendants of former Upload or Meta employees, ~40% redacted text)
-- `?summon=1917` or `?summon=telegram` → 1917 temporal anomaly telegrams (manila paper, typewriter font, no metrics)
-- `?summon=thrrm` → all Thrrm formats (classic + new archetypes)
-- `?summon=burned` → burned-out Thrrm bureaucrat format
-- `?summon=precedent` → Thrrm citing regulatory case law (not forms)
-- `?summon=dissident` or `?summon=compliance optional` → Compliance Optional Thrrm dissident
-- `?summon=jurisdiction` → inter-bureau jurisdictional dispute
-- `?summon=terminology` → Thrrm standards/vocabulary pedantry
-- `?summon=grudging` → Thrrm documenting human effectiveness as pure data
+Both are query-string parameters passed through to the server. The frontend has no knowledge of what they mean — it forwards `window.location.search` as-is and displays whatever annotations the server returns.
 
-The subheader shows "⚡ SUMMONING \"keyword\" (N formats)" when active. Zero matches falls back to the full pool with a console warning.
+### `?summon=TAG` — force a format category
 
-## Forcing reply/note effects — the `?incite=` URL parameter
+Filters the meme-format pool to entries with a matching tag. Exact match, no fuzzy/substring. When summoning, all matching formats are equally likely (weights are ignored). Unknown tags fall back to the full pool.
 
-Complementary to `?summon` but for reply-thread and community-note phenomena (effects that aren't tweet formats). Appends a canned "INCITE OVERRIDE" directive to the tweet, replies, and "show more replies" generation prompts for the session. Fuzzy-matches common keywords to canonical effect keys. Supported effects:
-- `?incite=bot-war` (aliases: `bots`, `botwar`, etc.) — the whole reply thread becomes a BOT WAR (see replies-prompt.txt)
-- `?incite=moon-note` (aliases: `moon`, `moons`) — forces a full MOONS NOTE derangement on a community note in the output
-- `?incite=dog-note` (aliases: `dog`, `dogs`) — forces a full DOG NOTE derangement (the tender variant)
-- `?incite=community-notes` (aliases: `notes`, `cn`) — forces community_note fields onto the main tweet and 2+ replies
-- `?incite=ex-employee-defense` (aliases: `employee`, `defense`, `eed`) — forces an Upload or Upload Defender reply deploying the Ex-Employee Defense rhetorical move
-- `?incite=bot-crash` (aliases: `crash`, `stack`, `error`) — forces at least one platform-AI-bot reply to crash mid-sentence with a Y3K-plausible programming error (stack frames optional)
-- `?incite=thrrm` (aliases: `bureaucra`) — Thrrm-heavy reply thread with 3+ Thrrm from distinct archetypes (classic, precedent citer, burned-out, dissident, etc.)
-- `?incite=thrrm-dissident` (aliases: `dissident`, `compliance-optional`, `co`) — forces a Compliance Optional Thrrm reply (human syntax + procedural reflex) plus at least one horrified traditional Thrrm reacting
-- `?incite=thrrm-burnout` (aliases: `burnout`, `burned`, `tired`) — forces a burned-out Thrrm reply (precise, resigned, no fury)
-- `?incite=thrrm-grudging` (aliases: `grudging`, `respect`) — forces a Thrrm reply that's transparently impressed disguised as data analysis
-- `?incite=thrrm-jurisdiction` (aliases: `jurisdiction`) — Thrrm inter-bureau jurisdictional dispute in the replies
-- `?incite=1917` (aliases: `telegram`, `trench`) — forces a 1917 temporal anomaly telegram reply in the thread, plus a baffled 3017 reaction reply
+**Summon tags (exhaustive):**
 
-Unknown keywords fall through to a generic "deploy the '<label>' effect canonically" directive (the LLM may or may not do something sensible). The subheader shows "⚡ INCITING \"label\"" when active. Both `?summon` and `?incite` can be combined — e.g. `?summon=oatmeal&incite=bot-war` to test whether a maximally-innocuous tweet triggers the full bot-war treatment.
+| Tag | Count | Description |
+|-----|-------|-------------|
+| `1917` | 5 | 1917 temporal anomaly telegrams |
+| `court` | — | Terran Solar Court |
+| `dril` | 19 | @dril formats |
+| `falgsc` | 1 | FALGSC polity content |
+| `federation` | 3 | Mastodon federation attempts |
+| `gimmick` | 3 | beloved gimmick accounts |
+| `gloem` | 6 | Glœm formats |
+| `history` | 3 | Great Quiet / commune / Post Through It |
+| `keth` | 8 | Keth formats |
+| `meat` | 2 | The Meat Incident of 2247 |
+| `meta` | 9 | Meta Refugee Crisis of 2271 |
+| `moon` | 6 | moon-adjacent (may trigger deranged notes) |
+| `notes` | 3 | formats that include community notes |
+| `skeet` | 3 | Bluesky skeet-leak tweets |
+| `startup` | — | startup bro constellation |
+| `thrrm` | 19 | all Thrrm formats |
+| `thrrm-burned` | 1 | burned-out Thrrm |
+| `thrrm-dissident` | 1 | Compliance Optional dissident |
+| `thrrm-grudging` | — | grudging respect as data |
+| `thrrm-jurisdiction` | 2 | inter-bureau dispute |
+| `thrrm-precedent` | 1 | case-law citation |
+| `thrrm-sequence` | 1 | wrong procedural order |
+| `thrrm-terminology` | 1 | standards pedantry |
+| `thrrm-young` | 1 | ambitious young Thrrm |
+| `upload` | 18 | Upload-related formats |
+| `vrellnath` | 5 | Vrellnath formats |
+| `whistleblow` | 3 | censored whistleblower tweets |
+| `zkvrath` | 6 | Zk'vrath formats |
+
+Adding a new tag requires adding it to `SUMMON_TAGS` in `server.js` — startup validation rejects unknown tags in format data.
+
+### `?incite=KEY` — force a reply/note effect
+
+Appends an override directive to the LLM prompt for reply generation. Exact key match, no fuzzy. Multiple incites can be stacked: `?incite=bot-war&incite=1917`. Unknown keys are silently ignored.
+
+**Incite keys (exhaustive):**
+
+| Key | Effect |
+|-----|--------|
+| `1917` | 1917 telegram reply + baffled 3017 reaction |
+| `bot-war` | full bot war (70-80% bot replies) |
+| `bot-crash` | at least one bot crashes mid-sentence with Y3K error |
+| `community-notes` | community notes on main tweet + 2+ replies |
+| `dog-note` | full Dog Note derangement |
+| `ex-employee-defense` | Upload deploys the Ex-Employee Defense |
+| `moon-note` | full Moons Note derangement |
+| `thrrm` | 3+ Thrrm from distinct archetypes |
+| `thrrm-burnout` | burned-out Thrrm reply (no fury) |
+| `thrrm-dissident` | Compliance Optional reply + horrified Thrrm reaction |
+| `thrrm-grudging` | Thrrm documenting human effectiveness as data |
+| `thrrm-jurisdiction` | inter-bureau jurisdictional dispute |
+
+Adding a new incite key requires adding it to `INCITE_MAP` in `server.js`.
+
+Both can be combined: `?summon=meta&incite=1917` generates Meta crisis formats with 1917 telegram replies.
 
 ## Working on the data files
 
 The prompt engineering is in the data files, not the code. When adding content:
 
-- **meme-formats.json**: Pure JSON array of strings. Each string is a format description the model riffs on. Organized by category via comments in the original source (comments stripped in JSON — use the category pattern visible in adjacent entries). Currently 258 entries across ~20 categories.
+- **meme-formats.json**: JSON array of objects: `{ description, tags, weight }`. `description` is the format text the model riffs on. `tags` is an array of summon tags (from the canonical `SUMMON_TAGS` list in server.js — startup validation rejects unknown tags). `weight` controls random selection probability (1.0 = default, 0.05 = 20x less likely; weights are ignored when summoning). Currently 288 entries.
 
 - **reply-archetypes.json**: Same structure, 96 entries. Each describes a type of reply persona. These get randomly sampled (5 per thread) and passed to the replies prompt.
 

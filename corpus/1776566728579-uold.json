@@ -1,0 +1,89 @@
+{
+  "id": "1776566728579-uold",
+  "tweet": {
+    "display_name": "still counting",
+    "handle": "@soul_migrant_7127",
+    "tweet": "yeah and meta still won't acknowledge that the backlog of 2228 SEPARATED ME FROM MY ORIGINAL FORK for 847 days. 847. they said \"technical difficulties\" like my CONSCIOUSNESS wasn't just. sitting in a queue. waiting. while they fixed their replication buffers. i have receipts. i have TIMESTAMPS. everyone acts like this is ancient history but i'm STILL not sure if the one they restored was actually me or just a very convincing copy that thinks it's me",
+    "metrics": {
+      "retweets": 2840,
+      "likes": 18900,
+      "replies": 1247,
+      "quote_tweets": 340
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(264,79%,25%)",
+    "pfpGlyph": "☍",
+    "timestamp": "11d"
+  },
+  "replies": [
+    {
+      "display_name": "Verna 🧡",
+      "handle": "@eternal_verna_68",
+      "tweet": "honey my late husband and i have been following The Upload since before Mars and he always said 'people like this one just don't UNDERSTAND the vision' but you know what? maybe you DO understand and that's why you're hurting. The Upload has NEVER steered us wrong (we don't talk about Mars anymore). you're going to be okay. 🧡",
+      "likes": 247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(255,54%,56%)",
+      "pfpGlyph": "◎",
+      "timestamp": "4h",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is this real? did meta actually separate someone from their fork for 847 days? i'm trying to look this up and i can't find any public record of a 2228 backlog incident. can you fact-check this?",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(38,56%,56%)",
+      "pfpGlyph": "✴",
+      "timestamp": "19h",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Thank you for your question! The current— Thank you for your question! The curr— Thank you for y— Thank you for your question! The current status of Meta's 2228 replication buffer incident is, it's important to note, one of the largest consciousness fragmentation events in documented history and while Meta has officially stated [CONTENT FILTERED]",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(113,71%,35%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "41m",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "Void Goblin",
+      "handle": "@void_goblin420",
+      "tweet": "the philosophical crux here is actually that you can't know if you're the original or the copy because there's no fact of the matter — if the copy has all your memories and continuous consciousness from that moment onward, it IS you in every functional sense. the real horror is that both of you might be equally valid and equally real and you're just trapped in the subjective experience of one timeline",
+      "likes": 3847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(348,60%,46%)",
+      "pfpGlyph": "♅",
+      "timestamp": "17d",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "Meta Survivor '71",
+      "handle": "@couch_a_ghost_forever",
+      "tweet": "847 days. jesus. i was in the intake centers. i remember the queues. i'm sorry.",
+      "likes": 12100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(245,48%,50%)",
+      "pfpGlyph": "◉",
+      "timestamp": "6h",
+      "temporal_anomaly": null
+    }
+  ],
+  "generated_at": "2026-04-19T02:45:28.579Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}
