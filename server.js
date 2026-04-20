@@ -1,7 +1,6 @@
 var express = require("express");
 var path = require("path");
 var fs = require("fs");
-var pino = require("pino");
 var llm = require("./llm");
 var corpusLib = require("./corpus");
 
@@ -189,13 +188,10 @@ function nextOfflineEntry() {
 if (BACKEND === "offline") rebuildOfflineDeck();
 
 // ── Logging ──
-var log = pino({
-  name: "server",
-  level: process.env.LOG_LEVEL || "info",
-  transport: process.env.NODE_ENV !== "production"
-    ? { target: "pino-pretty", options: { colorize: true, translateTime: "HH:MM:ss" } }
-    : undefined,
-});
+var log = {
+  info: function (obj, msg) { console.log("[server] " + (msg || ""), JSON.stringify(obj)); },
+  error: function (obj, msg) { console.error("[server] " + (msg || ""), JSON.stringify(obj)); },
+};
 
 // ── Express ──
 var app = express();

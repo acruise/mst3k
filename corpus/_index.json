@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-04-20T20:31:01.286Z",
+  "built_at": "2026-04-20T23:49:44.937Z",
   "file_count": 674,
   "oldest_file": "1776300983344-0001.json",
-  "newest_file": "1776717381315-emgr.json",
+  "newest_file": "notes-showcase-001.json",
   "by_id": {
     "1776300983344-0001": "1776300983344-0001.json",
     "1776300997902-0002": "1776300997902-0002.json",
@@ -664,6 +664,10 @@
     "1776650396355-0191": "1776650396355-0191.json",
     "1776650396355-0192": "1776650396355-0192.json",
     "1776650396355-0193": "1776650396355-0193.json",
+    "1776717077291-llwi": "1776717077291-llwi.json",
+    "1776717342059-cg62": "1776717342059-cg62.json",
+    "1776717350965-hj7n": "1776717350965-hj7n.json",
+    "1776717381315-emgr": "1776717381315-emgr.json",
     "dril-001": "dril-001.json",
     "dril-002": "dril-002.json",
     "dril-003": "dril-003.json",
@@ -674,11 +678,7 @@
     "dril-008": "dril-008.json",
     "dril-009": "dril-009.json",
     "dril-010": "dril-010.json",
-    "notes-showcase-001": "notes-showcase-001.json",
-    "1776717077291-llwi": "1776717077291-llwi.json",
-    "1776717342059-cg62": "1776717342059-cg62.json",
-    "1776717350965-hj7n": "1776717350965-hj7n.json",
-    "1776717381315-emgr": "1776717381315-emgr.json"
+    "notes-showcase-001": "notes-showcase-001.json"
   },
   "by_handle": {
     "@thefounderupload": [
@@ -2510,9 +2510,6 @@
     "@morning_phil": [
       "1776650396355-0192"
     ],
-    "@nexus_speaks_truth": [
-      "notes-showcase-001"
-    ],
     "@the_founder_upload": [
       "1776717077291-llwi"
     ],
@@ -2524,6 +2521,9 @@
     ],
     "@kitchenlaw_enjoyer": [
       "1776717381315-emgr"
+    ],
+    "@nexus_speaks_truth": [
+      "notes-showcase-001"
     ]
   },
   "by_summon": {
@@ -2559,7 +2559,7 @@
   },
   "counts": {
     "tweets": 674,
-    "replies": 3399,
+    "replies": 3410,
     "tweets_with_replies": 659,
     "by_backend": {
       "unknown": 214,

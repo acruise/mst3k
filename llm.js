@@ -3,9 +3,10 @@
 
 var https = require("https");
 var http = require("http");
-var pino = require("pino");
-
-var log = pino({ name: "llm", level: process.env.LOG_LEVEL || "info" });
+var log = {
+  info: function (obj, msg) { console.log("[llm] " + (msg || ""), JSON.stringify(obj)); },
+  error: function (obj, msg) { console.error("[llm] " + (msg || ""), JSON.stringify(obj)); },
+};
 
 // Opus 4.7 rejects the sampling parameters (`temperature`, `top_p`, `top_k`)
 // with HTTP 400 — per Anthropic's migration guide, guide the model via prompting
