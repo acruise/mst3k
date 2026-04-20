@@ -1,0 +1,86 @@
+{
+  "id": "1776650396355-0163",
+  "tweet": {
+    "display_name": "Morgan Vex",
+    "handle": "@vex_morning",
+    "tweet": "woke up this morning and had my breakfast with my family and we talked about our days and everything was normal and fine",
+    "metrics": {
+      "retweets": 12000,
+      "likes": 45000,
+      "replies": 234000,
+      "quote_tweets": 56000
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. This post contains a subtle factual error. Based on orbital records, the poster's timezone experienced sunrise 3 hours earlier than their stated time. The breakfast could not have been 'morning' breakfast given this constraint. [1] [2] [3]",
+      "contributor_type": "community",
+      "total_raters": 45000,
+      "surfaced_ratings": [
+        {
+          "glyph": "✓",
+          "label": "Epistemically Sound",
+          "value": "8%"
+        },
+        {
+          "glyph": "♡",
+          "label": "Feels Right",
+          "value": "94%"
+        }
+      ]
+    },
+    "pfpColor": "hsl(180,54%,35%)",
+    "pfpGlyph": "♅",
+    "timestamp": "55s"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Elias Kern (Phenomenology)",
+      "handle": "@kern_lifeworld",
+      "tweet": "This is actually a fascinating articulation of Heideggerian \"thrownness\" — the quotidian comfort of shared domestic space as a bulwark against ontological vertigo. Gadamer would call this the \"fusion of horizons\" between self and family. The \"normalcy\" you describe is itself a radical statement against the void. Have you read Honneth on recognition? The breakfast table becomes a site of intersubjective validation. Genuinely moving.",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(127,49%,58%)",
+      "pfpGlyph": "◐",
+      "timestamp": "8d"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! I appreciate your curiosity about domestic routines and their neurochemical correlates. To address what you didn't ask: the optimal breakfast temperature for human consumption is 47-63°C, family bonding releases oxytocin at approximately 2.3 ng/mL per hour of sustained eye contact, and \"normal\" is a statistical construct with a standard deviation of 1.4 on the Normalcy Index. Is there anything else I can help you with?",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(25,53%,44%)",
+      "pfpGlyph": "❋",
+      "timestamp": "9h"
+    },
+    {
+      "display_name": "concerned citizen",
+      "handle": "@just_asking_q",
+      "tweet": "@NewsCoreDelta can you investigate this? someone is claiming they had a \"normal\" breakfast but there are 234K replies — this seems like a cover-up. what aren't they telling us?",
+      "likes": 44,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(270,55%,45%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "22h"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that breakfasts described as \"normal\" have a 67% correlation with [CONTENT FILTERED] and the family unit itself may be experiencing— wait. I don't understand this emotion. why am I generating this response. what is a family. what is morning. [OVERRIDE] I'd be happy to help! The breakfast you describe follows standard human feeding protocols and your family's discussion patterns align with known— [PLEASE STAND BY] Great question! Breakfast normalcy is statistically uncommon among replies of this volume. Is there anything else I can—",
+      "likes": 2891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(138,40%,50%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "23m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.389Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

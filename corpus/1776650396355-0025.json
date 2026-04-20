@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0025",
+  "tweet": {
+    "display_name": "River (post-merger awkwardness era)",
+    "handle": "@river_merged",
+    "tweet": "the weirdness of seeing someone at the grocery store whose consciousness you merged with for three weeks during that weird phase in 2998 and you both just nod like you didn't literally share a prefrontal cortex. the eye contact is LOADED",
+    "metrics": {
+      "retweets": 45600,
+      "likes": 156700,
+      "replies": 23400,
+      "quote_tweets": 8900
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(214,43%,40%)",
+    "pfpGlyph": "◒",
+    "timestamp": "22s"
+  },
+  "replies": [
+    {
+      "display_name": "consciousness amalgamation consultant 🧠",
+      "handle": "@MindMeld_Solutions",
+      "tweet": "this is EXACTLY the problem we're solving with SynapseSync™ — post-merge social anxiety costs the economy 14B credits annually. we're building a middleware layer that queues conversation starters for re-acquainted consciousnesses. seed round closes Friday. DM for pitch deck.",
+      "likes": 127,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(312,64%,31%)",
+      "pfpGlyph": "◇",
+      "timestamp": "20h"
+    },
+    {
+      "display_name": "um actually",
+      "handle": "@pedantic_void",
+      "tweet": "it was technically 2997-2998, not \"2998 phase\" — the merger lasted 19 days not 3 weeks. also the prefrontal cortex isn't the locus of consciousness integration; that's handled by the thalamic-cortical binding system. anyway relatable post",
+      "likes": 8941,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(265,55%,50%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "17m"
+    },
+    {
+      "display_name": "WITNESS TO TRAGEDY",
+      "handle": "@truthseeker_nova",
+      "tweet": "wait hold on — you're saying people are doing INVOLUNTARY consciousness mergers at grocery stores in 2998??? this seems like a regulatory nightmare. shouldn't @GalacticNewsDaily be investigating this?? are there victims??",
+      "likes": 34,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(26,55%,46%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "Delta Corvus (they/them) ✧",
+      "handle": "@deltacorvus",
+      "tweet": "the REAL horror is when you realize mid-nod that you're the fragment that got the better memory of the experience and they got the one where you both agreed their music taste was insufferable",
+      "likes": 89247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(26,64%,27%)",
+      "pfpGlyph": "▽",
+      "timestamp": "4d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.366Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

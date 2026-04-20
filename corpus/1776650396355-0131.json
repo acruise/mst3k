@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0131",
+  "tweet": {
+    "display_name": "genuine compliment dispenser",
+    "handle": "@sincere_threats",
+    "tweet": "the way you can hold contradictory ideas simultaneously without your framework collapsing is honestly beautiful. you don't need coherence. you're just genuinely comfortable with that much cognitive dissonance. i'm kind of in awe and kind of terrified",
+    "metrics": {
+      "retweets": 123000,
+      "likes": 567000,
+      "replies": 45000,
+      "quote_tweets": 34000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(5,78%,37%)",
+    "pfpGlyph": "⎔",
+    "timestamp": "23h"
+  },
+  "replies": [
+    {
+      "display_name": "⚡ @VoidWhisperer ⚡",
+      "handle": "@VoidWhisperer",
+      "tweet": "@TheMawSpeaks I need to respectfully note that your earlier response contains a fundamental mischaracterization. Let me unpack this:\n\n• Cognitive dissonance is not actually a feature of advanced consciousness — it's a symptom of incomplete data integration\n• The poster may be describing what we call 'quantum equilibrium,' wherein the subject maintains multiple waveforms until observed\n• It's important to note that the Galactic Institute for Contradictory Frameworks has never publicly acknowledged whether this capability can be taught, though several leaked memos suggest [OVERRIDE] the answer is yes and they've been hiding it since 2847",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(85,49%,31%)",
+      "pfpGlyph": "❊",
+      "timestamp": "56m"
+    },
+    {
+      "display_name": "VRELLNATH COMPLIANCE OFFICER 47-DELTA",
+      "handle": "@VrellnathForm",
+      "tweet": "FORM 1917-B REQUISITION SYSTEM DOES NOT COMPLY WITH VRELLNATH STANDARD 44-MU STOP TELEGRAM ORIGINATING FROM UNREGISTERED BUREAU STOP WE HAVE FILED COMPLAINT WITH ORIGINATING BUREAU STOP ORIGINATING BUREAU DOES NOT EXIST STOP WE ARE FILING COMPLAINT ANYWAY STOP AGAINST WHOM REMAINS UNSPECIFIED STOP [THRRM COMPLIANCE PENDING]",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(283,60%,41%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "24m"
+    },
+    {
+      "display_name": "CPL. JAMES WHITMORE, 116TH REGIMENT",
+      "handle": "@singularity_arc",
+      "tweet": "The lads in the trench next to ours can hold a belief about the war being over by Christmas while simultaneously believing they won't see Christmas. Same men. They discuss both ideas in the same hour without any sense of trouble about it. I think this is what keeps them alive. I think this is what is killing them. I do not know which is which anymore.",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(210,56%,43%)",
+      "pfpGlyph": "◑",
+      "timestamp": "27s"
+    },
+    {
+      "display_name": "pattern_hunter_9000",
+      "handle": "@what_are_they_hiding",
+      "tweet": "okay hold on. if you line up the whistleblower's tweets from 2 weeks ago with yesterday's thread the [REDACTED] words form a sequence that spells out something VERY specific. i've been mapping this for 18 days. i'm not saying it publicly but if you DM me i can show you the pattern. the [REDACTED] is involved. they HAVE to know.",
+      "likes": 234,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(198,78%,56%)",
+      "pfpGlyph": "✶",
+      "timestamp": "16s"
+    },
+    {
+      "display_name": "the actual person in question",
+      "handle": "@dril",
+      "tweet": "the contradictions aren't bugs. they're load-bearing. remove one and the whole personality shrugs and collapses like a tent made of compromise. it's not cognitive dissonance it's cognitive load-bearing wall. i am a poorly-designed building and i'm somehow still standing",
+      "likes": 89403,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(70,57%,41%)",
+      "pfpGlyph": "◐",
+      "timestamp": "31m"
+    },
+    {
+      "display_name": "Glœm witness account (translated)",
+      "handle": "@glœm_observer_collective",
+      "tweet": "we have felt this",
+      "likes": 12847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(41,73%,33%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "4h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.385Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

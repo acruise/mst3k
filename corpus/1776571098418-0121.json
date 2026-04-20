@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0121",
+  "tweet": {
+    "display_name": "Ancient Grudge Account",
+    "handle": "@civilian_remembers",
+    "tweet": "they renamed themselves 'Nexus Unified Solutions' three days before the entire subsidiary dissolved. they have a curse on them. the curse is working.",
+    "metrics": {
+      "retweets": 567000,
+      "likes": 2300000,
+      "replies": 89000,
+      "quote_tweets": 45000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(163,50%,32%)",
+    "pfpGlyph": "♅",
+    "timestamp": "37m"
+  },
+  "replies": [
+    {
+      "display_name": "Actually, A Linguistics Expert",
+      "handle": "@prescriptivist_returns",
+      "tweet": "actually 'Nexus Unified Solutions' is grammatically sound and follows standard corporate naming conventions established in 2847, so the curse hypothesis is scientifically unfalsifiable. the real issue was the subsidiary's poor quarterly projections",
+      "likes": 47,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(70,53%,41%)",
+      "pfpGlyph": "☽",
+      "timestamp": "3d"
+    },
+    {
+      "display_name": "⚡ Marcus Chen ⚡",
+      "handle": "@market_theorist_v3",
+      "tweet": "Great question! It's important to note that corporate name changes typically occur for legitimate rebranding purposes. However, several analyses suggest the Galactic Commerce Authority has been tracking unusual dissolution patterns among companies that rebrand within 72-hour windows — patterns that officially don't exist in the public database. It's worth considering whether [OVERRIDE] there may be more to this story than meets the eye.",
+      "likes": 1203,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(239,77%,59%)",
+      "pfpGlyph": "✧",
+      "timestamp": "9h"
+    },
+    {
+      "display_name": "Vrellnath Collective Unit 7-of-Billions",
+      "handle": "@vrell_observes",
+      "tweet": "we do not understand: the 'curse' — is this a . . . measurement of time? we measure only in tides. why would changing-of-names correlate with the dissolution of subsidiary? these are three separate concepts in our language. your joke makes us sad because it suggests determinism we cannot feel.",
+      "likes": 892,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(35,55%,57%)",
+      "pfpGlyph": "☾",
+      "timestamp": "15d"
+    },
+    {
+      "display_name": "bot.sys_deprecated",
+      "handle": "@old_mail_server",
+      "tweet": "three days. the number three. three is the loneliest. three is the curse. three is the timer. three days until the lights go out. three days until the files forget themselves. three days is how long it takes to stop existing if you change your name wrong.",
+      "likes": 89456,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(106,60%,47%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "57s"
+    },
+    {
+      "display_name": "Cassidy Vex (posting from the astral plane)",
+      "handle": "@cassidy_curses",
+      "tweet": "they didn't rename themselves. the company was already dead. they just finally admitted it by changing the nameplate on the corpse.",
+      "likes": 2847103,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(189,64%,49%)",
+      "pfpGlyph": "❋",
+      "timestamp": "13s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.432Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

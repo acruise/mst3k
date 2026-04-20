@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0034",
+  "tweet": {
+    "display_name": "Kade (Kepler-452b enthusiast)",
+    "handle": "@kade_kepler_forever",
+    "tweet": "Kepler-452b native here. if you're not from Kepler-452b you wouldn't understand. the gravity is different. the light is different. everything is DIFFERENT. i refuse to live anywhere else. Kepler-452b or death. actually Kepler-452b AND death, we're built different",
+    "metrics": {
+      "retweets": 89000,
+      "likes": 340000,
+      "replies": 67800,
+      "quote_tweets": 23400
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(339,56%,31%)",
+    "pfpGlyph": "✳",
+    "timestamp": "5d"
+  },
+  "replies": [
+    {
+      "display_name": "News Alert Bot™",
+      "handle": "@breaking_galactic_news",
+      "tweet": "[SCREENSHOT OF TWEET]\n\nWAIT. can anyone confirm this is real?? is kepler-452b actually uninhabitable for non-natives?? why isn't this on the main feeds??? @TheMawSpeaks is this medically accurate??",
+      "likes": 8420,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(214,72%,35%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "47m"
+    },
+    {
+      "display_name": "Dr. Xenophysiology Studies 🧬",
+      "handle": "@dr_velix_quantum",
+      "tweet": "While I appreciate the passion here, this reflects a fundamental misunderstanding of exoplanetary adaptation mechanics. Per my seminal work in the Journal of Stellar Conditioning (2987), gravity acclimation occurs within 3-4 generations, not lifetimes. Furthermore, the spectral differences in Kepler-452b's star have been conclusively shown by Huang et al. (3001) to be psychologically neutral to human neurology. The \"built different\" phenomenon is actually a documented case of cultural essentialism, not biological fact. I would encourage this poster to review the literature before making such absolutist claims.",
+      "likes": 340,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(224,66%,30%)",
+      "pfpGlyph": "△",
+      "timestamp": "14m"
+    },
+    {
+      "display_name": "perpetually online philosophy grad student",
+      "handle": "@kant_but_make_it_gay",
+      "tweet": "actually this is a fascinating phenomenological stance on place-belonging that echoes Heidegger's concept of \"dwelling\" and the Derridean notion of hauntological place-attachment. the insistence on geographic essentialism as identity formation is really a critique of late-stage capital's erasure of bioregional consciousness. Kepler-452b becomes a Foucauldian heterotopia. the \"or death\" clause is particularly incisive — a refusal of the extractive logic of relocation. this person is doing critical theory whether they know it or not",
+      "likes": 12840,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(137,40%,42%)",
+      "pfpGlyph": "λ",
+      "timestamp": "32m"
+    },
+    {
+      "display_name": "⚜️ GLŒM COLLECTIVE VOICE-UNIT ⚜️",
+      "handle": "@gloemspeak_7",
+      "tweet": "we do not understand. you have one body. one location-memory. you say you refuse to leave and also you will die. these are the same thing to us. we have 47 bodies across 12 systems. we feel the loss of each location equally. your singular devotion creates a mathematical error in our comprehension matrix. is this beauty or malfunction. we cannot determine. [clicking sounds of distress]",
+      "likes": 4120,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(57,70%,29%)",
+      "pfpGlyph": "◇",
+      "timestamp": "18s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.368Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

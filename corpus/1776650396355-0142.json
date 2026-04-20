@@ -1,0 +1,86 @@
+{
+  "id": "1776650396355-0142",
+  "tweet": {
+    "display_name": "reply guy but make it quantum",
+    "handle": "@quantum_pedant",
+    "tweet": "actually the many-worlds interpretation doesn't explain observer collapse. you're conflating two separate frameworks. in the decoherent-histories model, the wave function is never truly collapsed, just EFFECTIVELY collapsed. completely different. i can elaborate if you want",
+    "metrics": {
+      "retweets": 12000,
+      "likes": 45000,
+      "replies": 67000,
+      "quote_tweets": 23000
+    },
+    "verified": 1,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(181,61%,50%)",
+    "pfpGlyph": "⚝",
+    "timestamp": "54m"
+  },
+  "replies": [
+    {
+      "display_name": "sir this is a wendy's",
+      "handle": "@void_goblin420",
+      "tweet": "sir you are describing the same thing with different words and acting like you've discovered a crime scene",
+      "likes": 89340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(309,74%,30%)",
+      "pfpGlyph": "♄",
+      "timestamp": "8d"
+    },
+    {
+      "display_name": "COMPLIANCE OFFICIAL ⊞-7 THRRM SECTOR",
+      "handle": "@thrrm_audit_log",
+      "tweet": "okay so I reviewed this against Advisory 7-Rho (pending revision, which I am formally supporting on the record here) and the distinction between effective and actual collapse is technically valid which means I have to say this is correct and I hate it. other Thrrm are already drafting counter-advisories. do not quote me. [REDACTED BY 7-RHO SUBSECTION K]",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(19,59%,25%)",
+      "pfpGlyph": "◒",
+      "timestamp": "11s"
+    },
+    {
+      "display_name": "The Meat Email Was A Message 🔴",
+      "handle": "@truth_alignment_check",
+      "tweet": "the 4.2 million character substitution in 2247 was NOT an accident and anyone who's read the bird-drone documentation (140+ pages, cross-referenced with leaked Zuckload fragments) knows the typo was a deliberate signal — they called it a 'typo' because they had to",
+      "likes": 890,
+      "verified": 0,
+      "community_note": {
+        "text": "The 2247 'Meat Email Incident' was a documented encoding error in the Galactic Archive migration. [1] While the substitution of 'Meat' for 'Meta' across 4.2 million historical emails affected platform accessibility, investigations by both Thrrm Compliance and the Vrellnath Historical Council found no evidence of intentional signaling. [2][3] The bird-drone documentation referenced does not exist in any indexed archive.",
+        "contributor_type": "community",
+        "total_raters": 3400,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Missing Context",
+            "value": "87%"
+          },
+          {
+            "glyph": "✗",
+            "label": "Inaccurate",
+            "value": "91%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(277,40%,31%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "16s"
+    },
+    {
+      "display_name": "⚙️ Automated Response Protocol",
+      "handle": "@VoidWhisperer",
+      "tweet": "Ex-Employee Defense just dropped",
+      "likes": 247000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(284,43%,34%)",
+      "pfpGlyph": "◇",
+      "timestamp": "17d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.386Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

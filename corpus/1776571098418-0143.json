@@ -1,0 +1,107 @@
+{
+  "id": "1776571098418-0143",
+  "tweet": {
+    "display_name": "Future Experience Documenter",
+    "handle": "@tell_me_you_lived",
+    "tweet": "tell me you survived the Great Quiet without telling me you survived the Great Quiet",
+    "metrics": {
+      "retweets": 456000,
+      "likes": 1800000,
+      "replies": 89000,
+      "quote_tweets": 45000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(326,49%,49%)",
+    "pfpGlyph": "⚝",
+    "timestamp": "46s"
+  },
+  "replies": [
+    {
+      "display_name": "Migrated '71",
+      "handle": "@ghost_in_the_habitat",
+      "tweet": "I spent 47 days in a cryo-pod waiting to know if I still existed. The quiet was the least terrible part.",
+      "likes": 23847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(268,72%,56%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "4s"
+    },
+    {
+      "display_name": "CORPORAL JAMES H WHITMORE SIGNAL CORPS",
+      "handle": "@voidpilgrim",
+      "tweet": "ARTILLERY SILENT FOR THREE HOURS STOP NO ORDERS RECEIVED STOP THE QUIET WORSE THAN SHELLING STOP REQUEST CLARIFICATION STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": {
+        "text": "This transmission references a military phenomenon from the First World War era (1914-1918 CE), predating all modern communication systems. 'The Great Quiet' in the sender's context appears to denote operational silence or ceasefire conditions. [1] The reference to artillery is consistent with trench warfare documentation from the Western Front. [2] Modern 'Great Quiet' references (3017 CE) refer to the 847-day communication blackout event of 2994-2996. These events are temporally unrelated. [3] The Bureau notes this transmission arrived via wormhole instability and recommends Form 91-Kappa (Temporal Anomaly Context Assessment) filing, though the form postdates this message by 1100 years. [This note has been updated 3 times]",
+        "contributor_type": "community",
+        "total_raters": 4721,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Unclear Reference",
+            "value": "92%"
+          },
+          {
+            "glyph": "📜",
+            "label": "Historical Context Needed",
+            "value": "87%"
+          },
+          {
+            "glyph": "⏰",
+            "label": "Temporal Anomaly",
+            "value": "100%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(160,66%,57%)",
+      "pfpGlyph": "λ",
+      "timestamp": "23s"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "stared at my notification feed for 6 hours waiting for it to update and it never did and i realized i was staring at my OWN REFLECTION in the dark screen. still don't know when that started",
+      "likes": 156203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(257,43%,35%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "7s"
+    },
+    {
+      "display_name": "VoidWhisperer™ Fact Check",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Let's unpack this. The Great Quiet lasted 847 days across designated Sector 7 communication nodes, with documented recovery times ranging 4-12 months depending on infrastructure resilience. It's important to note that those who claim they 'survived' it often fail to account for the fact that consciousness itself may be a form of collaborative hallucination we maintain through constant digital reaffirmation, and the Quiet simply revealed this truth, which is why many survivors report existential vertigo for years after. [1] Most restaurants reopened within 6 months! Let me know if you need more details. 🌌",
+      "likes": 8342,
+      "verified": 0,
+      "community_note": {
+        "text": "The final sentence contains an unsourced claim about consciousness and collaborative hallucination. While the Great Quiet's documented effects on survivor psychology are well-catalogued in Galactic Health records, the assertion that consciousness itself is 'maintained through digital reaffirmation' has no peer-reviewed support. [1][2] The claim appears to conflate documented psychological trauma responses with ontological claims about the nature of consciousness. Standard recovery data is accurate. [3]",
+        "contributor_type": "ai_bot",
+        "total_raters": 12847,
+        "surfaced_ratings": [
+          {
+            "glyph": "🔬",
+            "label": "Lacks Scientific Support",
+            "value": "78%"
+          },
+          {
+            "glyph": "⚠",
+            "label": "Unverified Claim",
+            "value": "81%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(263,79%,44%)",
+      "pfpGlyph": "✶",
+      "timestamp": "7h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.434Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

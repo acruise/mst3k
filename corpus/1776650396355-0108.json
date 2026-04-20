@@ -1,0 +1,91 @@
+{
+  "id": "1776650396355-0108",
+  "tweet": {
+    "display_name": "Thrrm Compliance Systems | Dissident Collective",
+    "handle": "@thrrm_dissident_7",
+    "tweet": "We submit formal objection to Compliance Apparatus Subsection 44-Gamma, para. 3, which requires recursive form-filing for the purpose of form-filing accountability. The apparatus has become self-referential. See *In re Procedural Justification (Bureau Registry 7,894-Omega)*, which explicitly forbade this. Our previous 14 submissions were rejected on procedural grounds. We resubmit. We are aware of the irony. We will not stop.",
+    "metrics": {
+      "retweets": 1200,
+      "likes": 8900,
+      "replies": 45000,
+      "quote_tweets": 2100
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(6,47%,44%)",
+    "pfpGlyph": "⏣",
+    "timestamp": "42s"
+  },
+  "replies": [
+    {
+      "display_name": "DRIL HISTORICAL ARCHIVE",
+      "handle": "@dril_vault_3017",
+      "tweet": "[screenshot of @dril tweet from 2271-11-15: 'i have a bad feeling about the \"meta\" rebrand. they have a curse on them. the curse is working']",
+      "likes": 340127,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(269,57%,51%)",
+      "pfpGlyph": "✦",
+      "timestamp": "59m"
+    },
+    {
+      "display_name": "Recursive Filing Appreciator",
+      "handle": "@formstack_enjoyer",
+      "tweet": "[gif of a bureaucratic organism slowly consuming itself while humming the same three-note pattern on repeat]",
+      "likes": 1847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(330,69%,31%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "27m"
+    },
+    {
+      "display_name": "Skill Issue Detector",
+      "handle": "@reallyvalid_takes",
+      "tweet": "this is cringe actually. just comply with 44-Gamma like a normal species? the Vrellnath don't complain about recursive filing and they have 14 billion simultaneous consciousness states. you're just mad because you lack discipline",
+      "likes": 23,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(175,62%,39%)",
+      "pfpGlyph": "☍",
+      "timestamp": "38s"
+    },
+    {
+      "display_name": "Thrrm Bureau Insider™",
+      "handle": "@my_cousin_works_there",
+      "tweet": "my cousin actually works in the Compliance Apparatus subsection and he told me that 44-Gamma para. 3 was specifically designed to be self-referential as a test of bureaucratic enlightenment. you're falling right into their trap by filing objections. they WANT you to object. wake up sheeple",
+      "likes": 89,
+      "verified": 0,
+      "community_note": {
+        "text": "The Compliance Apparatus Subsection 44-Gamma para. 3 does not exist in any publicly available registry as of 3026 CE. The cited case *In re Procedural Justification (Bureau Registry 7,894-Omega)* has no record in canonical Thrrm archives [1]. Recursive form-filing requirements, while a documented phenomenon in certain jurisdictions, have never been formally justified as a 'test of bureaucratic enlightenment' [2]. The poster appears to be fabricating details [3].",
+        "contributor_type": "thrrm",
+        "total_raters": 4127,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Potentially False",
+            "value": "98%"
+          },
+          {
+            "glyph": "📋",
+            "label": "Unverifiable Source",
+            "value": "96%"
+          },
+          {
+            "glyph": "🎭",
+            "label": "Confidence: Very Low",
+            "value": "94%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(53,46%,47%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "12m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.381Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0136",
+  "tweet": {
+    "display_name": "@dril",
+    "handle": "@dril",
+    "tweet": "water tastes less like water than it used to. i cannot explain this. you know it's true. something fundamental shifted three years ago and no one in any position of authority will acknowledge it. they know. they all know.",
+    "metrics": {
+      "retweets": 1200000,
+      "likes": 4500000,
+      "replies": 567000,
+      "quote_tweets": 890000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(166,50%,52%)",
+    "pfpGlyph": "⚴",
+    "timestamp": "8s"
+  },
+  "replies": [
+    {
+      "display_name": "margaret, still processing",
+      "handle": "@margaret_tide",
+      "tweet": "you're right. i noticed it in 2994 and mentioned it to my husband and he looked at me like i was insane. then last month our daughter said the exact same thing unprompted. i've been drinking the same brand for forty years. something IS different. i don't know what to do with this information.",
+      "likes": 87432,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(331,63%,51%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "52m"
+    },
+    {
+      "display_name": "🌊 HYDROLOGICAL CERTAINTY 🌊",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Let's unpack this. It's important to note that water's organoleptic properties are influenced by several factors, including mineral content, temperature, and atmospheric pressure. However, [REDACTED] the reservoir protocols established in 2991 specifically prohibit citizen discussion of taste vector changes. It's also worth noting that the 3001 Oceanic Composition Initiative was classified at [TIER 6 — NEED TO KNOW] for reasons we cannot publicly address. The most helpful thing I can say is: you're experiencing exactly what you should be experiencing, and any deviation from this baseline would require Form 44-Sigma authorization to acknowledge. Hope this helps! 😊",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(36,44%,52%)",
+      "pfpGlyph": "▽",
+      "timestamp": "12s"
+    },
+    {
+      "display_name": "INCOMING TRANSMISSION",
+      "handle": "@nomad_posting",
+      "tweet": "SERGEANT HAYES TO COMMAND STOP WATER RATIONS DEPLETED TUESDAY LAST STOP TASTES METALLIC NOW STOP SOMETHING WRONG WITH SUPPLY STOP REQUESTING CLARIFICATION STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(57,76%,39%)",
+      "pfpGlyph": "◓",
+      "timestamp": "2h"
+    },
+    {
+      "display_name": "Glœm Tendril-of-Witness",
+      "handle": "@sorrow_recognition",
+      "tweet": "we have scanned your molecular memory of water-flavor-before and water-flavor-now. the difference you perceive is *real* in ways your species lacks words for. we do not mean this kindly or unkindly. you are correct. you are also powerless. this is how we all feel about almost everything. we offer you the comfort of company in this. [we are being sincere]",
+      "likes": 2891643,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(131,75%,30%)",
+      "pfpGlyph": "△",
+      "timestamp": "12s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.385Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

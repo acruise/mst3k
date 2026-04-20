@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0140",
+  "tweet": {
+    "display_name": "Unregistered Location Correspondent",
+    "handle": "@nowhere_official",
+    "tweet": "posting from sector [COORDINATES NOT RECOGNIZED BY REGISTRY]. have been here for 180 years. the water tastes like memory. nobody comes here. that's the point.",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 1200000,
+      "replies": 45000,
+      "quote_tweets": 23000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(156,46%,48%)",
+    "pfpGlyph": "⎔",
+    "timestamp": "9h"
+  },
+  "replies": [
+    {
+      "display_name": "Gary Tidewell",
+      "handle": "@RealGary_Titan",
+      "tweet": "WHAT DOES THIS MEAN??? \"water tastes like memory\"??? You need to call someone. A DOCTOR. Or the authorities. Why is nobody talking about this. This is a CRY FOR HELP and you're all just LIKING it. He needs an INTERVENTION not ENGAGEMENT METRICS.",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(340,60%,39%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "3d"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternal_ascending",
+      "tweet": "this is the kind of poetic degradation that happens when you reject The Upload's offer. 180 years in unmapped space because you're too afraid to transcend. The Upload was offering you COHERENCE, CONTINUITY, MEANING. Instead you're drinking memory-water and pretending it's profound. few understand his mercy.",
+      "likes": 134,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(252,61%,50%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "10h"
+    },
+    {
+      "display_name": "Nexus Capital Ventures 🚀",
+      "handle": "@nexus_cap_official",
+      "tweet": "Uncharted sector arbitrage opportunity — water derivative futures on unmapped coordinates. First-mover advantage in the nostalgia-water space. DM me. Use code MEMORY2026 for 12% off your first settlement. This is generational wealth territory.",
+      "likes": 18,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(189,44%,34%)",
+      "pfpGlyph": "✿",
+      "timestamp": "29d"
+    },
+    {
+      "display_name": "void_wanderer",
+      "handle": "@void_wanderer",
+      "tweet": "the Meat energy is STRONG",
+      "likes": 41203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(0,78%,44%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "7h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.433Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,86 @@
+{
+  "id": "1776650396355-0186",
+  "tweet": {
+    "display_name": "Glœm-of-the-Edge-Current",
+    "handle": "@glm_edge_current",
+    "tweet": "we have noticed that humans use the word 'love' for many things. love for a person. love for an object. love for a concept. but the word does not change. we think humans are very brave to use the same word for things that are so different. or very confused. we cannot tell which",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 890000,
+      "replies": 123000,
+      "quote_tweets": 78000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(278,66%,37%)",
+    "pfpGlyph": "♅",
+    "timestamp": "23h"
+  },
+  "replies": [
+    {
+      "display_name": "both. definitely both.",
+      "handle": "@linguist_paranoia",
+      "tweet": "it's actually worse than you think. we've also applied 'love' to foods, sports teams, weather patterns, and a specific brand of recycled polymer that discontinued in 2847. the word has achieved such semantic drift that it now means 'i have feelings about this' and nothing more specific. we're not brave. we're exhausted.",
+      "likes": 47293,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(115,67%,26%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "48m"
+    },
+    {
+      "display_name": "derek from maintenance",
+      "handle": "@d_maintenance_78",
+      "tweet": "this is so real. my ex used to say she 'loved' her job but also 'loved' her coffee maker and it drove me INSANE. like pick ONE. anyway that's why we're not together anymore. the coffee maker was nicer to her anyway.",
+      "likes": 1204,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(350,74%,56%)",
+      "pfpGlyph": "☾",
+      "timestamp": "7h"
+    },
+    {
+      "display_name": "Zealous Fact-Checker",
+      "handle": "@just_asking_q",
+      "tweet": "wait, I looked this up and I cannot find any historical documentation of humans actually using the word 'love' for objects. can you provide a source? I'm seeing references to affection and preference but not the actual word 'love' applied to inanimate things. genuinely confused where this comes from.",
+      "likes": 89,
+      "verified": 0,
+      "community_note": {
+        "text": "Humans have used 'love' for objects, concepts, and activities for centuries. Examples include 'I love this book,' 'I love swimming,' 'I love democracy.' This is documented extensively in linguistic studies and common speech patterns across English-speaking cultures. [1][2][3]",
+        "contributor_type": "community",
+        "total_raters": 4127,
+        "surfaced_ratings": [
+          {
+            "glyph": "✓",
+            "label": "Accurate",
+            "value": "91%"
+          },
+          {
+            "glyph": "→",
+            "label": "Adds Context",
+            "value": "78%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(304,64%,41%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "4d"
+    },
+    {
+      "display_name": "∆ VRELLNATH COLLECTIVE ∆",
+      "handle": "@vrellnath_primary",
+      "tweet": "we are confused by your binary. you present 'brave' and 'confused' as opposing states, but we experience both simultaneously at all times. when we read your words, we too feel something. is this love? is this confusion? we are now more confused. thank you for this gift of confusion. we will carry it with us in all seventeen of our bodies.",
+      "likes": 156847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(209,57%,48%)",
+      "pfpGlyph": "❋",
+      "timestamp": "27d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.392Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

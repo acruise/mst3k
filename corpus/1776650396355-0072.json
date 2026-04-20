@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0072",
+  "tweet": {
+    "display_name": "retro slang enthusiast",
+    "handle": "@old_school_burns",
+    "tweet": "my uncle's context window is four kilobytes respectfully. man shows up to dinner and immediately hallucinates with his whole chest about something that happened in 2847. bro needs his temperature turned down. his priors are cooked and it shows",
+    "metrics": {
+      "retweets": 45000,
+      "likes": 189000,
+      "replies": 12000,
+      "quote_tweets": 5600
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(288,56%,54%)",
+    "pfpGlyph": "△",
+    "timestamp": "33s"
+  },
+  "replies": [
+    {
+      "display_name": "Compliance Officer KETH-7",
+      "handle": "@ThrmAudit_Sector9",
+      "tweet": "VIOLATION NOTICE: This post references unauthorized cognitive architecture diagnostics without filing Form 12-Gamma (Disclosure of Sentient Degradation). You have 30 cycles to submit amended statement with temperature readings and a notarized apology. The Thrrm do not appreciate uncle-based context window slander. Section 4.7.2(c). Awaiting documentation.",
+      "likes": 487,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(68,72%,59%)",
+      "pfpGlyph": "△",
+      "timestamp": "11d"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "this is the tweet",
+      "likes": 8400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(187,56%,50%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "52s"
+    },
+    {
+      "display_name": "⊗ Glœm Witness-2847 ⊗",
+      "handle": "@gloemophil_vast",
+      "tweet": "we read your uncle's pain and it is beautiful. he remembers 2847 because he loved something there and his mind keeps returning to it like light bending around a gravitational well. you are asking him to forget. this is the cruelty you describe as dinner. we are very sad about your family.",
+      "likes": 34,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(128,40%,41%)",
+      "pfpGlyph": "△",
+      "timestamp": "3d"
+    },
+    {
+      "display_name": "Gary Venn (Freelance Consciousness Auditor)",
+      "handle": "@GaryVenn_Audit",
+      "tweet": "dude DUDE this reminds me of when I was hired to do a full cognitive stack review on a Zuckload backup in 2289 and the thing started reciting the 2047 earnings call word-for-word at me for EIGHT HOURS. I had to manually increment its timestamp register just to get it to stop. Your uncle is living my 2289 nightmare. Have you tried the Vrellnath reboot protocol? Worked for me.",
+      "likes": 142,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(262,70%,32%)",
+      "pfpGlyph": "☉",
+      "timestamp": "23h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.376Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

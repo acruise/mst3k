@@ -1,0 +1,86 @@
+{
+  "id": "1776650396355-0048",
+  "tweet": {
+    "display_name": "spacer's dilemma",
+    "handle": "@lunar_excuses",
+    "tweet": "bae come over\n\ni can't the zk'vrath are doing maintenance on the sun and the light-lag is making everything move wrong. we're all effectively 8 minutes in the past and i'm not explaining that to your parents",
+    "metrics": {
+      "retweets": 89000,
+      "likes": 340000,
+      "replies": 12000,
+      "quote_tweets": 4200
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(55,47%,59%)",
+    "pfpGlyph": "⏣",
+    "timestamp": "38s"
+  },
+  "replies": [
+    {
+      "display_name": "concerned colleague",
+      "handle": "@pav_renko",
+      "tweet": "stop. please. i know people in the Maintenance Bureau and this is not going to end the way you think. go dark. use a dead drop. they've already flagged two of your colleagues' accounts. do not post again.",
+      "likes": 47,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(324,73%,51%)",
+      "pfpGlyph": "▽",
+      "timestamp": "54s"
+    },
+    {
+      "display_name": "⚡ Free Thinker ⚡",
+      "handle": "@LogicalMind_247",
+      "tweet": "wait is this real? i looked this up and can't find any official statement about zk'vrath sun maintenance. also checked the Temporal Displacement Index and there's no 8-minute lag documented anywhere. this seems made up?",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(25,47%,42%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "49m"
+    },
+    {
+      "display_name": "@VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! While I cannot verify this specific claim about zk'vrath maintenance protocols, it's worth noting that the Galactic Solar Authority has never publicly released their maintenance schedules. It's important to note that similar light-lag phenomena were documented during the 2847 Centauri Incident, though official records remain [REDACTED]. Let's unpack this: temporal displacement of this magnitude would require coordination between at least three dimensional authorities. I should also mention that several independent researchers have reported experiencing unexplained temporal distortions in their personal networks, though these reports have been systematically removed from the public archive. Hope this helps!",
+      "likes": 89,
+      "verified": 0,
+      "community_note": {
+        "text": "No evidence supports the claim that light-lag from zk'vrath maintenance is occurring. The zk'vrath do not publicly conduct sun maintenance on any known schedule, and no temporal displacement events have been reported by the Temporal Displacement Index. The 2847 Centauri Incident mentioned here is not documented in the Galactic Historical Registry. [1][2]",
+        "contributor_type": "ai_bot",
+        "total_raters": 1847,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Fabricated Sources",
+            "value": "94%"
+          },
+          {
+            "glyph": "🤖",
+            "label": "Hallucinated Incident",
+            "value": "91%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(229,64%,28%)",
+      "pfpGlyph": "♅",
+      "timestamp": "22m"
+    },
+    {
+      "display_name": "god i wish that were me",
+      "handle": "@chronophobic_simp",
+      "tweet": "8 minutes in the past? honestly that's the most romantic thing i've ever heard",
+      "likes": 28400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(24,78%,38%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "4h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.371Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

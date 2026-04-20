@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0012",
+  "tweet": {
+    "display_name": "COORDINATES",
+    "handle": "@position_only",
+    "tweet": "47.3°N 122.4°W -18,000ft",
+    "metrics": {
+      "retweets": 2000000,
+      "likes": 234891,
+      "replies": 487234,
+      "quote_tweets": 45821
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(271,47%,39%)",
+    "pfpGlyph": "✶",
+    "timestamp": "21m"
+  },
+  "replies": [
+    {
+      "display_name": "CAPTAIN JAMES WEATHERBY",
+      "handle": "@vibes",
+      "tweet": "RECEIVED COORDINATES STOP BAROMETRIC PRESSURE HOLDING STEADY STOP VISIBILITY POOR IN SECTOR SEVEN STOP WILL MAINTAIN CURRENT DEPTH STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(269,42%,49%)",
+      "pfpGlyph": "◇",
+      "timestamp": "6h"
+    },
+    {
+      "display_name": "DeepDive Analyst 🔍",
+      "handle": "@hydro_obsessed",
+      "tweet": "Absolutely! This is clearly the Mariana Trench anomaly they've been covering up since the 2800s. Here's what THEY don't want you to know:\n\n• The coordinates point to a temporal eddy, not a geographic location\n• 18,000 feet DOWN uses the old measurement system (government psyop)\n• The latitude/longitude combination forms a SIGIL when plotted against the Lost Stations\n• Three researchers who posted similar coords have since gone dark\n• The pressure at that depth would theoretically reveal the substrate beneath reality\n\nConnect the dots. They're watching.",
+      "likes": 1240,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(303,54%,46%)",
+      "pfpGlyph": "◐",
+      "timestamp": "12d"
+    },
+    {
+      "display_name": "ratio attempt guy 💯",
+      "handle": "@better_takes_daily",
+      "tweet": "nobody asked for your sonar ping. the geo-literacy crisis in this community is real and this is exactly the problem—",
+      "likes": 47,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(128,76%,48%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "29d"
+    },
+    {
+      "display_name": "concerned fact-checker",
+      "handle": "@just_asking_q",
+      "tweet": "wait i looked this up and i can't find any record of coordinates in the Kepler-442 sector with that exact depth signature?? am i missing something or is this from a research vessel we don't have public data on",
+      "likes": 203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(296,51%,38%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "19m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.424Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

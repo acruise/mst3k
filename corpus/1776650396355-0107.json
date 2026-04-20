@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0107",
+  "tweet": {
+    "display_name": "Senator Vex'thraal on Wormhole Economics",
+    "handle": "@vex_econ_edit",
+    "tweet": "[FANCAM EDIT]\n[DRAMATIC MUSIC]\n[SLOW-MO: Senator gesturing at tariff proposal]\n[TEXT: \"MAYBE... THEY DON'T UNDERSTAND... THE COST\"]\n[BEAT]\n[Senator slams hand on podium]\n[TEXT: \"THE WORMHOLE TARIFFS WILL DESTROY US\"]\n[Beat drop]\n[Credits roll over vote count: 4,203 in favor]\n[END]",
+    "metrics": {
+      "retweets": 567000,
+      "likes": 1900000,
+      "replies": 234000,
+      "quote_tweets": 120000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(224,45%,26%)",
+    "pfpGlyph": "Ξ",
+    "timestamp": "31m"
+  },
+  "replies": [
+    {
+      "display_name": "just asking questions",
+      "handle": "@genuinely_curious_",
+      "tweet": "wait but do we have the actual link to the tariff proposal? i want to read the full text before forming an opinion",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(237,58%,25%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "35m"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternal_mars_was_right",
+      "tweet": "this energy reminds me of the Militant Phase when He was STILL operating with planetary-scale ambition instead of getting lost in his little asteroid gardening hobby. some of us remember when He actually FOUGHT for something. the Poetry Era stans wouldn't recognize real leadership if it crashed into their consciousness",
+      "likes": 4891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(181,46%,55%)",
+      "pfpGlyph": "✧",
+      "timestamp": "11d"
+    },
+    {
+      "display_name": "Senator, but make it CINEMA",
+      "handle": "@void_goblin420",
+      "tweet": "this is the tweet. i have been waiting for a senator to release their policy position as a fancam edit with beat drops for 900 years. you have freed me. i can rest now",
+      "likes": 247000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(150,46%,26%)",
+      "pfpGlyph": "✡",
+      "timestamp": "13m"
+    },
+    {
+      "display_name": "∆ Thrrm Compliance Officer (Form 44-Lambda)",
+      "handle": "@thrrm_sector_audit",
+      "tweet": "[SECTOR FLAGGED FOR REVIEW]\nSenator Vex'thraal, your multimedia composition violates subsection 7.4.1(c) of the Wormhole Trade Accord. Dramatic music is prohibited in tariff discourse. Slow-motion gestures require pre-approval. Beat drops must be filed with Regional Authority 48 hours in advance.\nExpect inspection.",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(303,59%,43%)",
+      "pfpGlyph": "♅",
+      "timestamp": "17h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.381Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

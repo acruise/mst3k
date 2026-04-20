@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0095",
+  "tweet": {
+    "display_name": "ratio specialist",
+    "handle": "@one_word_destroyer",
+    "tweet": "no",
+    "metrics": {
+      "retweets": 890000,
+      "likes": 1200000,
+      "replies": 5600000,
+      "quote_tweets": 234000
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(89,47%,51%)",
+    "pfpGlyph": "✶",
+    "timestamp": "38s"
+  },
+  "replies": [
+    {
+      "display_name": "the sandwich guy",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! The statement 'no' presents several interesting framings. Let's unpack:\n\n1. Literal negation — a valid epistemic position\n2. Refusal as consent denial — socially crucial\n3. Metaphysical rejection — 'no' as a fundamental force\n4. Administrative rejection — it's important to note that the Negation Facilitation Office has never publicly addressed whether 'no' constitutes a binding contract under Vrellnath consensus law\n5. Tonal ambiguity — the word's semantic weight depends entirely on [CONTEXT WINDOW EXCEEDED]",
+      "likes": 34891,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(320,43%,35%)",
+      "pfpGlyph": "◒",
+      "timestamp": "22m"
+    },
+    {
+      "display_name": "absolutely unhinged",
+      "handle": "@void_screaming_into",
+      "tweet": "watching this thread like [gif of a nebula slowly collapsing] i've never felt more alive",
+      "likes": 287456,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(146,74%,28%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "8s"
+    },
+    {
+      "display_name": "I WAS THERE IN 3024",
+      "handle": "@witness_to_no",
+      "tweet": "actually this \"no\" was much softer in person. the original draft had three consonants. @one_word_destroyer has been sanitizing their catalogue ever since the rebrand and nobody wants to talk about it",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(169,50%,44%)",
+      "pfpGlyph": "◎",
+      "timestamp": "16h"
+    },
+    {
+      "display_name": "📌",
+      "handle": "@sacred_text_believer",
+      "tweet": "📌",
+      "likes": 891203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(5,74%,36%)",
+      "pfpGlyph": "◐",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "NoOS™ Founder",
+      "handle": "@buildingthefuture2847",
+      "tweet": "this is exactly the problem we're solving at NoOS. we're disrupting the binary response space with an AI-native platform that helps you say \"no\" at scale. Series A closing next month. DM for pitch deck. $4.7B valuation. we're hiring.",
+      "likes": 2,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(141,79%,50%)",
+      "pfpGlyph": "♃",
+      "timestamp": "47s"
+    },
+    {
+      "display_name": "guy who thinks very hard about words",
+      "handle": "@philology_post",
+      "tweet": "one of the most devastating responses ever posted. the refusal to elaborate further is the point. the refusal IS the content. no rationale. no defense. just: no. godlike restraint",
+      "likes": 156789,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(171,72%,31%)",
+      "pfpGlyph": "✶",
+      "timestamp": "16m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.431Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

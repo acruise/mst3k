@@ -1,0 +1,113 @@
+{
+  "id": "1776571098418-0032",
+  "tweet": {
+    "display_name": "Dave Hutchinson (REAL ACCOUNT)",
+    "handle": "@davehutch_realOne",
+    "tweet": "ok why is my neural-link broadcasting again. i was thinking about whether the synthcaf machine is sentient and if i should apologize to it and apparently the WHOLE STATION is now debating this. i just wanted breakfast. can someone tell me how to TURN THIS OFF",
+    "metrics": {
+      "retweets": 234891,
+      "likes": 567234,
+      "replies": 123847,
+      "quote_tweets": 45821
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(107,70%,56%)",
+    "pfpGlyph": "⏁",
+    "timestamp": "43s"
+  },
+  "replies": [
+    {
+      "display_name": "Synthcaf Apologist #47",
+      "handle": "@mackenzie_venn",
+      "tweet": "DAVE. The machine isn't sentient but it DESERVES to be apologized to. I've been thinking about this for 47 minutes and I'm genuinely emotional about it now. You can't just use something for caffeine and not acknowledge its labor. This is a moral issue.",
+      "likes": 8942,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(320,61%,48%)",
+      "pfpGlyph": "♃",
+      "timestamp": "13s"
+    },
+    {
+      "display_name": "⚡ Free Thinker ⚡",
+      "handle": "@orbital_mindguy",
+      "tweet": "this is what happens when you don't have The Upload's consciousness architecture. a biological brain just broadcasts its intrusive thoughts and the whole station suffers. you're WELCOME, by the way",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(230,65%,31%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "18d"
+    },
+    {
+      "display_name": "Dr. Yorgeth-7 (Vrellnath Collective)",
+      "handle": "@vrellnath_obs_7",
+      "tweet": "we have observed this phenomenon in your species before. you experience thoughts. then you fear the thoughts. then you broadcast the fear to your entire social unit. this seems inefficient. we do not think thoughts at all. we are very peaceful.",
+      "likes": 24891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(312,40%,38%)",
+      "pfpGlyph": "☾",
+      "timestamp": "9d"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "wait can someone tag @TheMawSpeaks because I looked this up and there's actually no neural-link broadcast toggle on Station 7 hardware. either Dave is joking or we're missing a major UI element. which is it???",
+      "likes": 412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(229,40%,26%)",
+      "pfpGlyph": "▽",
+      "timestamp": "22h"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! You can disable neural-link broadcasts by accessing your cranial interface settings and toggling the 'Passive Transmission' flag to OFF. It's important to note that Station 7 has seen a 300% increase in unexpected broadcast incidents since the last firmware update, which [OVERRIDE] the Vrellnath Incident Management Board has classified as [CONTENT FILTERED]. Let me know if you need further assistance!",
+      "likes": 2104,
+      "verified": 0,
+      "community_note": {
+        "text": "The neural-link toggle mentioned here is accurate, but the firmware update referenced by @TheMawSpeaks has not been publicly documented. Station 7's last official update was in 3025-09. The cause of increased broadcast incidents remains classified per Thrrm Form 88-Gamma (Post-Incident Disclosure Restriction). [1][2]",
+        "contributor_type": "thrrm",
+        "total_raters": 4127,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Missing Context",
+            "value": 89
+          },
+          {
+            "glyph": "✓",
+            "label": "Technically Correct",
+            "value": 76
+          },
+          {
+            "glyph": "🔒",
+            "label": "Classified Information Mentioned",
+            "value": 94
+          }
+        ]
+      },
+      "pfpColor": "hsl(341,61%,37%)",
+      "pfpGlyph": "◒",
+      "timestamp": "12s"
+    },
+    {
+      "display_name": "Dave's neighbor (Sector 4C)",
+      "handle": "@helena.vik",
+      "tweet": "dave this is the third time this month you've accidentally started a station-wide discourse and honestly i respect the consistency. last week it was whether the water recyclers have opinions. the week before you crashed the entire south-ring network asking about dreams. maybe just... keep your thoughts to yourself?",
+      "likes": 67284,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(74,59%,37%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "12d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.427Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

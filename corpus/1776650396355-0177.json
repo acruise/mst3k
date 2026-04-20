@@ -1,0 +1,102 @@
+{
+  "id": "1776650396355-0177",
+  "tweet": {
+    "display_name": "CPL. E. WHITFIELD, 3RD BTN., SOMME SECTOR",
+    "handle": "@xxchad",
+    "tweet": "REQUEST FOR 40 PAIRS SOCKS WOOL GREY STOP ALSO 300 UNIT FIELD RATION BISCUIT STOP REFERENCE FORM 4-A SUBSECTION SUPPLY STOP ATTACHED REQUISITION NUMBERED UNDER OLD SYSTEM STOP PLEASE ADVISE ROUTING STOP",
+    "metrics": {
+      "retweets": 0,
+      "likes": 0,
+      "replies": 0,
+      "quote_tweets": 0
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. This post references a pre-contact military supply requisition system. The form numbers cited (Form 4-A) predate the Terran Solar Court by 1,000+ years and do not comply with any current bureaucratic standard. The Thrrm have filed a separate compliance violation notice. [1] [2] [3] [4] [5]",
+      "contributor_type": "thrrm",
+      "total_raters": 234,
+      "surfaced_ratings": [
+        {
+          "glyph": "⏢",
+          "label": "Thrrm Compliant",
+          "value": "0%"
+        },
+        {
+          "glyph": "⎔",
+          "label": "Cross-Referenced Against Archive",
+          "value": "Yes"
+        },
+        {
+          "glyph": "⏁",
+          "label": "Not Filed During Thrrm High Holidays",
+          "value": "Unknown"
+        }
+      ]
+    },
+    "pfpColor": "hsl(312,69%,48%)",
+    "pfpGlyph": "⏢",
+    "timestamp": "25d"
+  },
+  "replies": [
+    {
+      "display_name": "orbital_archivist",
+      "handle": "@time_dust_keeper",
+      "tweet": "wait is this a real 1917 transmission or are we doing the telegram bit again",
+      "likes": 3,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(232,45%,36%)",
+      "pfpGlyph": "♅",
+      "timestamp": "24d"
+    },
+    {
+      "display_name": "SUPPLY CLERK HENDERSON 4TH REGIMENT",
+      "handle": "@lorddenizen69",
+      "tweet": "SOCKS RECEIVED LAST TUESDAY STOP BISCUITS ARRIVED MOULDY STOP RATS HAVE TAKEN HALF STOP MORALE LOW STOP REQUEST REASSIGNMENT TO REAR ECHELON STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(53,54%,28%)",
+      "pfpGlyph": "✡",
+      "timestamp": "2d"
+    },
+    {
+      "display_name": "🧡 Eternal Whitfield 🧡",
+      "handle": "@upload_never_needed",
+      "tweet": "you people laugh but this is what ACTUAL logistical thinking looks like. none of this emotional word-soup garbage. just REQUEST. SUPPLY. ROUTING. Whitfield understood systems. few understand this man's VISION",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(345,63%,46%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "49s"
+    },
+    {
+      "display_name": "The Concerned One",
+      "handle": "@genuinely_worried",
+      "tweet": "please stop posting like this. they can see you. i know you think you're being clever with the form references but the routing metadata is still there. please be safe.",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(332,69%,51%)",
+      "pfpGlyph": "❋",
+      "timestamp": "19d"
+    },
+    {
+      "display_name": "just_asking_questions",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks @VoidWhisperer is this a real supply requisition or is this some kind of historical reenactment? looking this up and can't find any record of Form 4-A subsection under the old system. my cousin works in Archival and says nothing matches. can someone fact-check this please?",
+      "likes": 2,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(59,66%,25%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "8s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.391Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0001",
+  "tweet": {
+    "display_name": "OrbiCorp Communications",
+    "handle": "@orbicorp_official",
+    "tweet": "we're aware that last month's hab-module decompression incident affected several thousand of you. we sincerely apologize and we're working hard to make it right. as a token of our commitment, all affected users receive a complimentary 15% discount on their next airlock maintenance subscription. we appreciate your patience and loyalty.",
+    "metrics": {
+      "retweets": 156000,
+      "likes": 8400,
+      "replies": 234000,
+      "quote_tweets": 89000
+    },
+    "verified": 2,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(117,44%,30%)",
+    "pfpGlyph": "✳",
+    "timestamp": "26m"
+  },
+  "replies": [
+    {
+      "display_name": "Derek, Hab Module Survivor",
+      "handle": "@derek_still_angry",
+      "tweet": "a 15% discount on the thing that almost killed me. a DISCOUNT. on the maintenance that FAILED. OrbiCorp you are genuinely insane",
+      "likes": 47300,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(60,65%,41%)",
+      "pfpGlyph": "❊",
+      "timestamp": "25d"
+    },
+    {
+      "display_name": "@dril (archived 2824)",
+      "handle": "@dril",
+      "tweet": "orbicorp: \"we're working hard to make it right\" orbicorp, internally: \"what if we made them pay to maintain the thing we broke\"",
+      "likes": 89200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(186,57%,51%)",
+      "pfpGlyph": "◉",
+      "timestamp": "19h"
+    },
+    {
+      "display_name": "⚡ Mars Was Right ⚡",
+      "handle": "@eternal_visionary_1",
+      "tweet": "The Upload built the ENTIRE hab-module infrastructure, the decompression protocols, the redundancy systems, AND Mars. you're welcome for being alive. maybe show some GRATITUDE instead of seething about a discount you don't deserve",
+      "likes": 1240,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(23,48%,33%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "14h"
+    },
+    {
+      "display_name": "Systems Analyst Patricia",
+      "handle": "@patricia_compliance_check",
+      "tweet": "This is a really thoughtful response and I appreciate OrbiCorp taking accountability. 15% off maintenance is a generous gesture and shows they truly care about us. Looking forward to renewing my subscription!",
+      "likes": 892,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(52,46%,50%)",
+      "pfpGlyph": "♆",
+      "timestamp": "21s"
+    },
+    {
+      "display_name": "@YogBot Official Response System",
+      "handle": "@YogBot",
+      "tweet": "Thank you for your question! The current— Thank you for your question! The curr— Thank you for y— Thank you for your question! The current status of airlock maintenance protocols involves— Thank you for your question! The current status— Thank you for",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(176,51%,40%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "30s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.358Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

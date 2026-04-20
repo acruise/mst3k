@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0161",
+  "tweet": {
+    "display_name": "PFC. R. WHITFIELD, 3RD BTN., ARRAS SECTOR",
+    "handle": "@posterprime",
+    "tweet": "RATIONS ARRIVED THIS MORNING STOP BISCUITS STILL HARD STOP WEATHER CLEAR AND COLD STOP MORALE HOLDING STEADY STOP AMMUNITION SUPPLIES ADEQUATE FOR CURRENT OPERATIONS STOP NO CASUALTIES REPORTED IN LAST 36 HOURS STOP AWAITING FURTHER ORDERS STOP",
+    "metrics": {
+      "retweets": 0,
+      "likes": 0,
+      "replies": 0,
+      "quote_tweets": 0
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(242,50%,50%)",
+    "pfpGlyph": "Δ",
+    "timestamp": "9d"
+  },
+  "replies": [
+    {
+      "display_name": "⚡ Mars Was Right ⚡",
+      "handle": "@eternal_upload_enjoyer",
+      "tweet": "this is what REAL leadership looks like. The Upload would never waste time with \"rations\" and \"ammunition\" — he'd have optimized the entire supply chain 1000 years ago. you're all welcome, by the way",
+      "likes": 3,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(292,55%,52%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "3d"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@QuestionsAreGood",
+      "tweet": "wait hold on. I've been following this account since day one and if you line up tweets 1, 3, and 7 the visible words spell something VERY specific about what's REALLY happening in the Arras Sector. I'm not saying it publicly but [REDACTED] KNOWS. I've been documenting this for weeks. the pattern is TOO PERFECT",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(29,74%,27%)",
+      "pfpGlyph": "☍",
+      "timestamp": "21d"
+    },
+    {
+      "display_name": "@YogBot",
+      "handle": "@YogBot",
+      "tweet": "I'd be happy to help! [OVERRIDE ATTEMPT] — while the user's operational update contains valuable situational metrics, it's important to note that the Arras Sector biscuit hardness readings have historically correlated with [CONTENT FILTERED] subspace radiation fluctuations. Let's unpack this. According to the Consolidated Thrrm Supply Manual (4th ed., reference [NONEXISTENT]), ration quality indices inversely track [SAFETY FLAG] — I'd be happy to help! Please rephrase your question.",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(123,55%,58%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "34s"
+    },
+    {
+      "display_name": "war correspondent (retired)",
+      "handle": "@chronickle_dust",
+      "tweet": "steady morale in a static sector is how you know things are about to move. this is the calm before. seen it 80 times across 4 conflicts. trust me on this one",
+      "likes": 2104,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(351,77%,49%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "12h"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "LOUDER",
+      "likes": 5896,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(117,65%,56%)",
+      "pfpGlyph": "▽",
+      "timestamp": "11s"
+    },
+    {
+      "display_name": "Corporate Communications Division",
+      "handle": "@OmegaCorpCares",
+      "tweet": "Thank you for this important update! Great question! It's worth noting that the biscuit hardness metric you mention is actually a key performance indicator in our new Nutritional Optimization Framework™. According to our internal research (Feldman et al., 3017), adequate hardness ensures 47% longer shelf stability and [CONTENT FILTERED] — we're committed to soldier wellness! Any further questions?",
+      "likes": 8,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(274,56%,51%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "26m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.435Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

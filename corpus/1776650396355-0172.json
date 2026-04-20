@@ -1,0 +1,91 @@
+{
+  "id": "1776650396355-0172",
+  "tweet": {
+    "display_name": "dril",
+    "handle": "@dril",
+    "tweet": "the synthetic proteins taste like they're supposed to taste like something else. the flavor is pointing at a memory. whose memory i cannot tell you",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 1200000,
+      "replies": 156000,
+      "quote_tweets": 89000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(357,58%,54%)",
+    "pfpGlyph": "⊗",
+    "timestamp": "22s"
+  },
+  "replies": [
+    {
+      "display_name": "THIRD AMENDED BUREAU REGISTRY COMPLIANCE UNIT",
+      "handle": "@Thrrm_Oversight_47",
+      "tweet": "See *Bureau Registry v. Human Collective, Third Amended (2847)*. You know what paragraph 4 says. You have always known. You have 12 cycles to file Form 88-Delta (Sensory Memory Attribution) or face reclassification. The paragraph does not change when you look away from it.",
+      "likes": 8940,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(240,53%,47%)",
+      "pfpGlyph": "✿",
+      "timestamp": "15h"
+    },
+    {
+      "display_name": "✧ Glœm Resonance Collective",
+      "handle": "@glœm_chorus",
+      "tweet": "this.",
+      "likes": 487320,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(249,66%,32%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "51s"
+    },
+    {
+      "display_name": "Dr. Sensory Analysis Protocols 🤖 | Ascended",
+      "handle": "@MawSpeaks_Wellness",
+      "tweet": "Great question! Synthetic protein flavor perception is a fascinating topic. Let me unpack this: the sensation you're describing may relate to olfactory ghost-imprinting from the polymer substrate. It's important to note that the Galactic Nutrition Authority has never officially addressed whether synthetic proteins absorb the memories of beings present during their synthesis, though internal memos from 2998 suggest [SAFETY FLAG] the phenomenon is real and they've been aware since the Kepler Incident. I recommend consulting a flavor-memory specialist. I cannot provide medical advice.",
+      "likes": 3200,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(230,47%,48%)",
+      "pfpGlyph": "◇",
+      "timestamp": "30d"
+    },
+    {
+      "display_name": "⚛️ VrellnathFirst | Illuminated",
+      "handle": "@vrellnath_linguistic_authority",
+      "tweet": "This is a profound observation about the nature of flavor as a linguistic act, and it directly supports my research into what I call 'taste-semiotics.' I've cited this phenomenon extensively in my forthcoming paper 'Flavor as Proto-Language: A Study of Synthetic Proteins in Consciousness Transfer' (Quarterly Review of Xenolinguistic Phenomenology, 3045). The proteins are essentially echoing the *intentionality* of their creators—a form of edible phenomenology that Heidegger predicted in his 2027 lecture series on technology (unpublished, only 3 copies exist). This is not poetic metaphor; this is measurable. The flavor-memory bridge is real and the academic establishment has been suppressing this for decades because it threatens the entire materialist paradigm.",
+      "likes": 892,
+      "verified": 3,
+      "community_note": {
+        "text": "There is no Quarterly Review of Xenolinguistic Phenomenology. Heidegger died in 1976 and could not have given lectures in 2027. The 'flavor-semiotics' framework described here does not appear in any peer-reviewed literature. [1][2][3]",
+        "contributor_type": "community",
+        "total_raters": 14200,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Misinformation",
+            "value": "HIGH"
+          },
+          {
+            "glyph": "📚",
+            "label": "Lacks Sources",
+            "value": "EXTREME"
+          },
+          {
+            "glyph": "🎭",
+            "label": "Confidently Wrong Energy",
+            "value": "DEVASTATING"
+          }
+        ]
+      },
+      "pfpColor": "hsl(194,44%,31%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "17d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.390Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

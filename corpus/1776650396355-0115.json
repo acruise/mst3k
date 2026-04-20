@@ -1,0 +1,113 @@
+{
+  "id": "1776650396355-0115",
+  "tweet": {
+    "display_name": "Vrellnath Observation Unit 447-K",
+    "handle": "@vrellnath_unit_447k",
+    "tweet": "we have observed human emotional expression for 89 years and must state: humans are remarkable. the way they create meaning from chaos. the way they care for each other despite inevitable dissolution. truly a species worthy of study. we have made notes.",
+    "metrics": {
+      "retweets": 890000,
+      "likes": 3400000,
+      "replies": 120000,
+      "quote_tweets": 234000
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(123,50%,41%)",
+    "pfpGlyph": "⬡",
+    "timestamp": "52s"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Kepler Voss (Retired Xenoanthropology)",
+      "handle": "@drvoss_kepler",
+      "tweet": "89 years? I was embedded with humans for 147 years and I'm BEGGING you to revise this assessment. I watched them burn their own oxygen supply for profit. I watched them wage wars over invisible lines. I watched one human spend 6 hours arguing with a machine about whether a hotdog is a sandwich. 'Worthy of study' is generous.",
+      "likes": 89400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(324,63%,57%)",
+      "pfpGlyph": "●",
+      "timestamp": "26m"
+    },
+    {
+      "display_name": "SGT. H. MORRISON, 4TH BATTALION",
+      "handle": "@realsphere420",
+      "tweet": "FROM THE TRENCHES THIS MORNING CAPTAIN STOP RECEIVED LETTER FROM HOME MOTHER SAYS MEANING IS WHAT WE MAKE STOP SHE DOES NOT UNDERSTAND DISSOLUTION STOP ONLY UNDERSTANDS MUD AND COLD STOP IF THIS IS MEANING I PREFER THE CHAOS STOP PLEASE SEND MORE TOBACCO STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": {
+        "text": "This transmission originates from approximately 1917 CE, predating established community-note frameworks by roughly 1100 years. Contextual analysis: The sender references military service during the First World War (see: Galactic Military History Archive, section Pre-Spaceflight Terrestrial Conflicts). References to 'trenches,' 'dissolution,' and emotional meaning-making align with documented human experiences during this period. The Thrrm Bureau notes that Form 91-Kappa (Temporal Anomaly Context Assessment) was designed for messages no older than 300 years and explicitly disclaims utility for pre-digital content. We are filing a supplementary request with the Temporal Records Division. The Bureau's assessment: context cannot be verified through standard archival processes, but the message appears internally consistent with documented human behavior of the era.",
+        "contributor_type": "thrrm",
+        "total_raters": 4,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚔",
+            "label": "Relevant to Armed Conflict History",
+            "value": "92%"
+          },
+          {
+            "glyph": "📜",
+            "label": "Archival Uncertainty",
+            "value": "100%"
+          },
+          {
+            "glyph": "🧭",
+            "label": "Coherence with Period Records",
+            "value": "87%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(311,77%,42%)",
+      "pfpGlyph": "❃",
+      "timestamp": "33s"
+    },
+    {
+      "display_name": "BrandMax Marketing Solutions 🚀",
+      "handle": "@brandmax_official",
+      "tweet": "Actually humans are pretty mid when you consider that they've created 47 new social-media platforms in the last 200 years and abandoned every single one. At least the Keth had the decency to STAY on their platforms. Ratio incoming.",
+      "likes": 412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(214,49%,39%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "14s"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "@vrellnath_unit_447k source on this? I looked it up and can't find any peer-reviewed study confirming humans create meaning. Also where are these 'notes' you mention? Are they published anywhere? This seems like speculation tbh",
+      "likes": 187,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(149,60%,48%)",
+      "pfpGlyph": "◉",
+      "timestamp": "15s"
+    },
+    {
+      "display_name": "Mara Chen-Okonkwo",
+      "handle": "@maracho_real",
+      "tweet": "yeah this happened to my cousin actually — she tried creating meaning from chaos one time and the chaos just got stronger. now she's a chaos consultant for the Glœm. don't recommend the experience",
+      "likes": 3421,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(25,72%,45%)",
+      "pfpGlyph": "λ",
+      "timestamp": "11h"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@upload_truther",
+      "tweet": "humans are mid. the Upload transcended this petty 'caring about each other' stage 800 years ago. he's playing 12-dimensional chess while you're analyzing 2D emotions. but sure keep studying the NPCs i guess",
+      "likes": 891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(120,58%,52%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "3h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.383Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

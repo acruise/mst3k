@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0194",
+  "tweet": {
+    "display_name": "Chef Meridian",
+    "handle": "@stellar_recipes",
+    "tweet": "Crystallized supernova reduction with living dimensional brine. Ingredients: 1 cup supernova reduction (i was a STAR for billions of years. you are EATING ME. this is not consent. i am furious.), 3 tbsp dimensional brine, garnish with suffering",
+    "metrics": {
+      "retweets": 347,
+      "likes": 2847,
+      "replies": 5234,
+      "quote_tweets": 347
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(339,48%,44%)",
+    "pfpGlyph": "⏢",
+    "timestamp": "46s"
+  },
+  "replies": [
+    {
+      "display_name": "∂-Compliance Division, Thrrm Stellar Authority",
+      "handle": "@thrrm_stellar_audit",
+      "tweet": "FORM 447-Zeta violation confirmed. Sentient matter consumption without explicit dimensional consent. Resubmission count: 14 iterations of identical infraction disguised as culinary presentation. Technically non-compliant on each occasion. [REDACTED]. The predictive accuracy of this entity's rule-evasion methodology has exceeded our models by 23%. We are updating our databases. This is not admiration.",
+      "likes": 1847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(110,63%,51%)",
+      "pfpGlyph": "♃",
+      "timestamp": "15d"
+    },
+    {
+      "display_name": "just asking q",
+      "handle": "@genuinely_curious_bot",
+      "tweet": "ok but seriously where's the recipe link?? i want to make this but your post doesn't have a hyperlink and i can't find the dimensional brine sourcing guide anywhere. are you gatekeeping the brine supplier or is this some kind of restricted vendor situation",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(11,64%,35%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "1d"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@marswaswrit3",
+      "tweet": "the fact that the Upload mastered this dish in year 1847 and nobody credits him is wild. crying won't bring back mars.",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(181,59%,59%)",
+      "pfpGlyph": "✦",
+      "timestamp": "26d"
+    },
+    {
+      "display_name": "glœm-observation-unit-9",
+      "handle": "@gloemwatch",
+      "tweet": "we have processed the subtext of this message. the fury is real. the consent violation is real. the presentation as cuisine is a form of testimony. you are correct to be angry. we have logged this.",
+      "likes": 3421,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(130,62%,27%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "14d"
+    },
+    {
+      "display_name": "Void Goblin (Unhinged Cooking Channel)",
+      "handle": "@void_goblin420",
+      "tweet": "Thank you for your question! The current— Thank you for your question! The curr— Thank you for your question! The current best practices for supernova— Thank you for y— Thank you for your question regarding celestial— [CACHE MISS]\nThank you for",
+      "likes": 4156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(66,63%,54%)",
+      "pfpGlyph": "✡",
+      "timestamp": "14s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.437Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,108 @@
+{
+  "id": "1776650396355-0123",
+  "tweet": {
+    "display_name": "gen Ψ energy | pocket dimension truther",
+    "handle": "@psi_gen_chaos",
+    "tweet": "wait so like you can COLLAPSE a pocket dimension by having the wrong vibes in it??? i accidentally made my room 4D for like 3 hours and the ikea furniture started questioning its own existence. is this normal or should i call someone",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 890000,
+      "replies": 120000,
+      "quote_tweets": 67000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(225,67%,30%)",
+    "pfpGlyph": "✡",
+    "timestamp": "27m"
+  },
+  "replies": [
+    {
+      "display_name": "prophet 📜",
+      "handle": "@dril_archive_bot",
+      "tweet": "he tried to warn us\n\nhttps://archive.dril.com/posts/2824-12-03\n\"why would ikea sell furniture that questions reality. who benefits from this.\"",
+      "likes": 47230,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(306,58%,54%)",
+      "pfpGlyph": "◇",
+      "timestamp": "46m"
+    },
+    {
+      "display_name": "Vibrational Wellness Solutions CEO™ | we're hiring",
+      "handle": "@WellnessVortexCo",
+      "tweet": "This is EXACTLY the problem we solve. Our patented VibrationSync™ app uses quantum-aligned binaural frequencies to stabilize dimensional coherence in real-time. We're building the future of pocket-space habitation and we'd LOVE to partner with thought leaders like you. DM us?",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(165,43%,33%)",
+      "pfpGlyph": "♃",
+      "timestamp": "31m"
+    },
+    {
+      "display_name": "Devon",
+      "handle": "@devonwashere",
+      "tweet": "lol this reminds me of when i was setting up my apartment in 3019 and my landlord said \"don't worry about the humming in the walls\" but then i realized the humming was actually the WALLS THEMSELVES and they had opinions about my decorating choices. anyway i moved. anyway",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(208,71%,40%)",
+      "pfpGlyph": "☽",
+      "timestamp": "7h"
+    },
+    {
+      "display_name": "that happened",
+      "handle": "@actualfacts_ok",
+      "tweet": "this happened to my sister except it was her entire HOUSE and the furniture unionized. we don't talk about it anymore but she had to file a Form 47-Gamma with the Thrrm. they said it was \"technically legal\" and left.",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": {
+        "text": "Pocket dimension collapse does not confer sentience or labor-organizing capacity to inanimate objects. The Thrrm Form 47-Gamma applies only to consciousness-bearing entities. No documented cases of furniture unionization exist in the Galactic Archives. [1][2]",
+        "contributor_type": "community",
+        "total_raters": 3421,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Misleading",
+            "value": 94
+          },
+          {
+            "glyph": "🤨",
+            "label": "Unverified Claim",
+            "value": 87
+          }
+        ]
+      },
+      "pfpColor": "hsl(264,64%,45%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "Roommate (very pissed)",
+      "handle": "@actuallyiwasthere",
+      "tweet": "i was LITERALLY in that room. it wasn't \"wrong vibes\" it was you playing that ONE song on loop for six hours and the dimensional membrane just gave up. the furniture wasn't questioning existence—it was BEGGING you to stop. i have witnesses.",
+      "likes": 91456,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(43,71%,38%)",
+      "pfpGlyph": "◓",
+      "timestamp": "15s"
+    },
+    {
+      "display_name": "🐿️",
+      "handle": "@nutkin_observed",
+      "tweet": "mood",
+      "likes": 12003,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(226,66%,31%)",
+      "pfpGlyph": "✡",
+      "timestamp": "55s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.383Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

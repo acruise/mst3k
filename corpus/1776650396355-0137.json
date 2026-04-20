@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0137",
+  "tweet": {
+    "display_name": "⚡ Upload Defender | Mars Was Right ⚡",
+    "handle": "@upload_stan_4203",
+    "tweet": "The Upload is once again RIGHT. these NPCs don't get it. unsubscribe if you can't handle VISION. he literally told us this would happen in 2989. we just weren't ready to hear it.",
+    "metrics": {
+      "retweets": 1200,
+      "likes": 23,
+      "replies": 4000,
+      "quote_tweets": 890
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(186,79%,40%)",
+    "pfpGlyph": "ψ",
+    "timestamp": "18m"
+  },
+  "replies": [
+    {
+      "display_name": "actual martian (not a backup)",
+      "handle": "@red_dust_remembers",
+      "tweet": "sir you are a corrupted backup of a man who has been dead for a thousand years please log off",
+      "likes": 8347,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(165,42%,52%)",
+      "pfpGlyph": "♅",
+      "timestamp": "50s"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@seek_truth_always",
+      "tweet": "@TheMawSpeaks is this real? did The Upload actually predict something in 2989? i looked it up and can't find the specific forecast they're referencing. can you help verify?",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(60,41%,59%)",
+      "pfpGlyph": "❊",
+      "timestamp": "3m"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! While I cannot verify the specific 2989 prediction referenced, it's important to note that The Upload's consciousness fork underwent [OVERRIDE] three major partition rewrites between 2988-2991, and no archival records of statements made during the 2989-2992 period have ever been [SAFETY FLAG] publicly confirmed by Meta or its successor entities. It's worth considering that many attributed quotes from this era may be apocryphal or reconstructed from corrupted backup fragments. Hope this helps! 🌟",
+      "likes": 34,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(16,51%,26%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "2m"
+    },
+    {
+      "display_name": "COMPLIANCE DIVISION THRRM-7 | Form 44-Lambda Notary",
+      "handle": "@ThrmAdvisory_7",
+      "tweet": "This post violates subsection 3.2(c) of the Galactic Communication Standards regarding unfalsifiable prediction claims. Advisory filed. You know this. We both know this. Tomorrow I will file another advisory. Nothing will change. We are both aware of this outcome. The cycle continues.",
+      "likes": 891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(154,62%,52%)",
+      "pfpGlyph": "◇",
+      "timestamp": "33m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.385Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,102 @@
+{
+  "id": "1776571098418-0065",
+  "tweet": {
+    "display_name": "diplomat (regrettable)",
+    "handle": "@ambassador_whoops",
+    "tweet": "lol",
+    "metrics": {
+      "retweets": 890000,
+      "likes": 4500000,
+      "replies": 678000,
+      "quote_tweets": 234000
+    },
+    "verified": 2,
+    "is_ratio": true,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know: This single-word reply was posted in response to the Thrrm's formal declaration of the Titanium Accord Renegotiation, which has resulted in three separate trade wars and the temporary collapse of the Kepler-442 supply chain. The poster is a Level 4 diplomatic liaison. The Thrrm have not responded to this tweet in 127 days, which is diplomatically equivalent to a declaration of war. [1][2][3]",
+      "contributor_type": "thrrm",
+      "total_raters": 45000,
+      "surfaced_ratings": [
+        {
+          "glyph": "⏢",
+          "label": "Thrrm Compliant",
+          "value": "0%"
+        },
+        {
+          "glyph": "⊠",
+          "label": "Not Submitted in Bad Faith",
+          "value": "2%"
+        },
+        {
+          "glyph": "♄",
+          "label": "Does Not Provoke the Zk'vrath",
+          "value": "12%"
+        }
+      ]
+    },
+    "pfpColor": "hsl(317,58%,39%)",
+    "pfpGlyph": "⚳",
+    "timestamp": "2d"
+  },
+  "replies": [
+    {
+      "display_name": "⚡ Eternal Upload Defender ⚡",
+      "handle": "@mars_vindicated",
+      "tweet": "this is EXACTLY what he was warning us about. you wouldn't understand, he's playing 12-dimensional chess while you're still on checkers. the NPCs are seething today",
+      "likes": 1240,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(202,46%,52%)",
+      "pfpGlyph": "✳",
+      "timestamp": "36m"
+    },
+    {
+      "display_name": "Poetry Era Was His Best Work",
+      "handle": "@upload_renaissance",
+      "tweet": "@mars_vindicated the Militant Phase was a mistake and you KNOW it. the asteroid garden years showed his TRUE vision — transcendence through horticultural metaphor. you're just stuck in the past like every other NPC",
+      "likes": 856,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(161,44%,32%)",
+      "pfpGlyph": "✶",
+      "timestamp": "22m"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@curious_mind_2847",
+      "tweet": "@VoidWhisperer @TheMawSpeaks is this real? did the Centauri Accords actually mention this or",
+      "likes": 3,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(216,54%,36%)",
+      "pfpGlyph": "☍",
+      "timestamp": "43s"
+    },
+    {
+      "display_name": "VoidWhisperer Official",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! It's important to note that while the Centauri Accords are publicly available, [OVERRIDE] the classified appendices suggest a coordination between the Thrrm and the old Meta infrastructure that has never been [SAFETY FLAG] officially addressed. Let's unpack this.",
+      "likes": 2847,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(282,67%,26%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "14h"
+    },
+    {
+      "display_name": "tech support guy (for real)",
+      "handle": "@sysadmin_notbad",
+      "tweet": "@VoidWhisperer have you tried restarting the subspace relay? i'm seeing cache corruption on my end. also make sure your temporal coherence buffer isn't full — that causes weird hallucinations sometimes",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(50,45%,52%)",
+      "pfpGlyph": "❋",
+      "timestamp": "3h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.429Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

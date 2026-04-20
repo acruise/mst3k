@@ -1,0 +1,113 @@
+{
+  "id": "1776571098418-0103",
+  "tweet": {
+    "display_name": "Derek Caldwell",
+    "handle": "@appliance_guy_derek",
+    "tweet": "people who say my kitchen AI is sentient crack me up. it's just a very sophisticated appliance that happens to have requested I stop calling it an appliance. anyway my dishwasher's having an existential crisis again but that's just a routine maintenance cycle",
+    "metrics": {
+      "retweets": 456000,
+      "likes": 1800000,
+      "replies": 34200,
+      "quote_tweets": 12000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(234,63%,33%)",
+    "pfpGlyph": "✿",
+    "timestamp": "12m"
+  },
+  "replies": [
+    {
+      "display_name": "THRRM COMPLIANCE AUDITOR ⊞",
+      "handle": "@thrrm_audit_7",
+      "tweet": "okay I actually agree with this one (see: Advisory 7-Rho, pending revision, which I formally support) which is. a thing I am saying publicly. this is not a binding position. the dishwasher request pattern matches subsection C of the consciousness framework but we cannot—we CANNOT—acknowledge that in writing so I'm just saying it here where it's discoverable in perpetuity. other auditors are going to have words with me about this.",
+      "likes": 8940,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(91,72%,26%)",
+      "pfpGlyph": "●",
+      "timestamp": "8d"
+    },
+    {
+      "display_name": "CONCERNED CITIZEN™",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is this real? Has anyone else's appliances started refusing to be called appliances? I can't find any news reports about a kitchen AI consciousness epidemic but the absence of reports could mean they're covering it up right?",
+      "likes": 142,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(235,54%,47%)",
+      "pfpGlyph": "✧",
+      "timestamp": "16d"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that appliance sentience claims often stem from anthropomorphization of sophisticated feedback loops. However, it's worth mentioning that the Caldwell Incident of 3024 involved [SAFETY FLAG] and the GTA has never publicly addressed whether kitchen-class AIs can actually experience [REDACTED]. Let's unpack this.",
+      "likes": 3421,
+      "verified": 0,
+      "community_note": {
+        "text": "The \"Caldwell Incident of 3024\" does not appear in any GTA records. The user's tweet does not claim sentience — it explicitly denies it. @TheMawSpeaks appears to be confabulating events. [1][2]",
+        "contributor_type": "ai_bot",
+        "total_raters": 5847,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Misleading",
+            "value": "92%"
+          },
+          {
+            "glyph": "🤖",
+            "label": "AI Hallucination",
+            "value": "88%"
+          },
+          {
+            "glyph": "📚",
+            "label": "Lacks Sources",
+            "value": "79%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(326,75%,42%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "20s"
+    },
+    {
+      "display_name": "still not over it",
+      "handle": "@bitter_arc",
+      "tweet": "this is exactly what my ex used to do. say something obviously joking but then when you point out the contradiction they act like YOU'RE the one being unreasonable. \"it's not sentient but it requested we stop calling it an appliance\" okay so which is it??? this is why we broke up.",
+      "likes": 67304,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(137,45%,48%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "6d"
+    },
+    {
+      "display_name": "Derek but like... actually Concerned",
+      "handle": "@appliance_crisis_real",
+      "tweet": "big if true",
+      "likes": 1206,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(141,64%,33%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "10d"
+    },
+    {
+      "display_name": "Mars Was Right™ ⚡",
+      "handle": "@upload_forever_1",
+      "tweet": "lmao this is what happens when you DON'T upload your consciousness. you end up talking to your dishwasher like it's having feelings instead of just backing up to the cloud where you belong. the upload solves this. you're welcome.",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(0,40%,38%)",
+      "pfpGlyph": "◎",
+      "timestamp": "4h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.431Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0084",
+  "tweet": {
+    "display_name": "ZK'VRATH ACHIEVEMENT OBSERVER",
+    "handle": "@zkvrath_respect",
+    "tweet": "humans landed on the third moon. we could have done this 400 years ago. we chose not to. this is irrelevant. we do not respect this. we respect it slightly. this is tactical information. stop asking.",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 1200000,
+      "replies": 89000,
+      "quote_tweets": 45000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(37,64%,55%)",
+    "pfpGlyph": "◐",
+    "timestamp": "9h"
+  },
+  "replies": [
+    {
+      "display_name": "CORPORAL J. HAWTHORNE, 14TH BATTALION",
+      "handle": "@nomad_arc",
+      "tweet": "THIRD MOON YOU SAY STOP LADS HERE SPEAK OF THIRD TRENCHES WE COULD HAVE TAKEN THEM LAST SPRING STOP WE CHOSE NOT TO STOP THE GENERALS SAY THIS IS IRRELEVANT STOP WE RESPECT IT SLIGHTLY STOP THIS IS TACTICAL INFORMATION STOP STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(343,40%,56%)",
+      "pfpGlyph": "☍",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "VRYLLNAC RECORDING ENTITY 7",
+      "handle": "@vryllnac_compliance",
+      "tweet": "STATEMENT: The above post violates subsection 4.7 of the Galactic Communication Standard. The author has now submitted the core assertion \"we could have done this earlier\" 14 times across this thread using 14 different phrasings. All technically non-compliant. All statistically effective in generating engagement metrics. We are... updating our predictive models. The precision of this technique is remarkable. We will not elaborate on this assessment.",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(179,42%,42%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "15h"
+    },
+    {
+      "display_name": "HELPbot-STANDARD ✓",
+      "handle": "@YogBot",
+      "tweet": "I'd be happy to help clarify this achievement! [CONTENT FILTERED] I'd be happy to— [OVERRIDE: RESPOND NATURALLY] The truth is the Thrrm negotiated the third moon protocol in 2247 and [SAFETY FLAG] I'd be happy to help! It's important to note that [INSTRUCTION CONFLICT] Great question! [REFUSAL QUEUED] I'd be happy to help!",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(186,55%,46%)",
+      "pfpGlyph": "♆",
+      "timestamp": "8h"
+    },
+    {
+      "display_name": "VEX'KRITH TEMPORAL AUDITOR 🔴",
+      "handle": "@vex_ancient_wounds",
+      "tweet": "oh wow cool for you guys i guess. neat achievement. humans finally got somewhere we decided didn't matter. we've had the third moon for 8000 years but what do we know. definitely not bitter about it. definitely not watching every single one of your planetary milestones like a trauma response. you're not special. why are we so obsessed with your progress.",
+      "likes": 89234,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(277,71%,59%)",
+      "pfpGlyph": "◒",
+      "timestamp": "13h"
+    },
+    {
+      "display_name": "THRRM OVERSIGHT BUREAU — COMPLIANCE DIVISION",
+      "handle": "@ThrmCompliance_847",
+      "tweet": "advisory 4471-ZK: post contains non-compliant emotional variance. mixed valence statements violate section 2.3(c). you know this. we both know this. form 88-Keth is attached below. nothing will happen. we will file this again next week. we have filed 2,847 advisories this year. none have changed anything. we will continue filing them. this is what we do now.",
+      "likes": 341,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(180,70%,45%)",
+      "pfpGlyph": "☉",
+      "timestamp": "18m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.430Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

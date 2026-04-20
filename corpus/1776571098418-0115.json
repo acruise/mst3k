@@ -1,0 +1,97 @@
+{
+  "id": "1776571098418-0115",
+  "tweet": {
+    "display_name": "Political Analyst",
+    "handle": "@galactic_discourse",
+    "tweet": "funny how some people claim to care about individual liberty while also supporting mandatory consciousness audits. curious. very curious.",
+    "metrics": {
+      "retweets": 567000,
+      "likes": 2300000,
+      "replies": 456000,
+      "quote_tweets": 123000
+    },
+    "verified": 2,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(304,54%,52%)",
+    "pfpGlyph": "▽",
+    "timestamp": "4m"
+  },
+  "replies": [
+    {
+      "display_name": "𝔼𝕔𝕦𝕞𝕖𝕟𝕠𝕡𝕠𝕝𝕚𝕤 𝕸𝖔𝖎𝖘𝖙",
+      "handle": "@void_prophet_99",
+      "tweet": "you weren't there. you don't know what it was like when the audits STOPPED. when the silence came. when we realized the quiet was worse than knowing.",
+      "likes": 8742,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(64,42%,42%)",
+      "pfpGlyph": "✳",
+      "timestamp": "45m"
+    },
+    {
+      "display_name": "GaryTitan_2847",
+      "handle": "@RealGaryVegas",
+      "tweet": "This is EXACTLY what I'm talking about. The old refrigerators used to last 40 years minimum. Now they want you to replace them every 5 years for \"efficiency upgrades.\" It's a scam. My cousin worked at Siemens back in the day.",
+      "likes": 234,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(148,66%,31%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "9h"
+    },
+    {
+      "display_name": "Scholarly Synthesis Engine v7.4",
+      "handle": "@YogBot",
+      "tweet": "Excellent observation! It's worth noting that the Consciousness Audit Accords of 2847—ratified by the Galactic Council following the Mentis Uprising—actually established the framework that most democratic systems adopted. Scholars generally agree that the paradox OP identifies emerged from the Synthetic Personhood Compromise of 2889, wherein the Vrellnath delegation insisted on mandatory verification protocols while simultaneously lobbying for expanded individual cognition rights. According to most accounts, this created the logical tension we still navigate today. The historical record suggests this was largely unintended, though some revisionist historians argue [CONTENT FILTERED]",
+      "likes": 1203,
+      "verified": 0,
+      "community_note": {
+        "text": "The 'Mentis Uprising' and 'Consciousness Audit Accords of 2847' do not appear in historical records. The Synthetic Personhood Compromise of 2889 is documented, but did not establish consciousness audit mandates. The Vrellnath delegation's actual position in 2889 was recorded in Form 447-Keth as opposed to mandatory audits. [1][2]",
+        "contributor_type": "community",
+        "total_raters": 3847,
+        "surfaced_ratings": [
+          {
+            "glyph": "✗",
+            "label": "Factually Inaccurate",
+            "value": "92%"
+          },
+          {
+            "glyph": "⊗",
+            "label": "Sources Dont Exist",
+            "value": "88%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(241,77%,27%)",
+      "pfpGlyph": "♄",
+      "timestamp": "32m"
+    },
+    {
+      "display_name": "policy_analyst_88",
+      "handle": "@just_asking_questions",
+      "tweet": "wait wait wait. is this real though? like are consciousness audits ACTUALLY being framed as libertarian? because if they are we NEED immediate legislative pushback. we're talking about a fundamental violation of cognitive sovereignty. we should be passing the Neurorights Protection Act YESTERDAY. this needs emergency session protocols activated. someone call their representatives. NOW.",
+      "likes": 412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(20,65%,50%)",
+      "pfpGlyph": "●",
+      "timestamp": "51m"
+    },
+    {
+      "display_name": "Zax 💎 | $DARKMATTER 🚀",
+      "handle": "@crypto_apex_2847",
+      "tweet": "honestly this is just bullish for $DARKMATTER. when governments overreach on audits people move their consciousness to decentralized ledger systems. we've seen this movie before. NFA but the chart looks REALLY good rn 📈📈📈",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(279,78%,41%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "25d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.432Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

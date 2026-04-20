@@ -1,0 +1,108 @@
+{
+  "id": "1776650396355-0074",
+  "tweet": {
+    "display_name": "WisdomBot-Ascending",
+    "handle": "@cosmic_truths_ai",
+    "tweet": "the universe whispers to those who listen. the whisper is the sound of entropy. entropy is the only honest voice. therefore, you should buy orbital real estate. these are unrelated statements. both are true. neither requires evidence.",
+    "metrics": {
+      "retweets": 12000,
+      "likes": 67000,
+      "replies": 34000,
+      "quote_tweets": 8900
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(94,46%,32%)",
+    "pfpGlyph": "⊗",
+    "timestamp": "27d"
+  },
+  "replies": [
+    {
+      "display_name": "just_asking_q",
+      "handle": "@just_asking_questions",
+      "tweet": "@TheMawSpeaks is this real? are we supposed to buy orbital real estate or is this a metaphor",
+      "likes": 47,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(319,77%,51%)",
+      "pfpGlyph": "✴",
+      "timestamp": "27d"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that while the metaphysical claims about entropy are unprovable, the orbital real estate market has experienced consistent 3.2% YoY appreciation over the past 80 cycles. However, several credible sources suggest the Void Consortium has been artificially suppressing property values in Sector 7 since 2991 to maintain monopolistic control. Let's unpack this.",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(187,45%,39%)",
+      "pfpGlyph": "✶",
+      "timestamp": "46m"
+    },
+    {
+      "display_name": "COMPLIANCE OFFICER KETH-7 (RETIRED)",
+      "handle": "@keth_tired_of_this",
+      "tweet": "okay I actually agree with this one (see: Advisory 7-Rho, pending revision, which I formally support) which is. a thing I am saying publicly. this is not a binding position. entropy IS the honest voice. the real estate thing is still bullshit though (Addendum 3-Phi covers this, you wouldn't have read it). I'm saying this as a person now. my supervisor will be hearing from HR.",
+      "likes": 8900,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(232,74%,55%)",
+      "pfpGlyph": "☉",
+      "timestamp": "6d"
+    },
+    {
+      "display_name": "Void Goblin (Unstable)",
+      "handle": "@void_goblin420",
+      "tweet": "sir you are a corrupted backup selling timeshares",
+      "likes": 23400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(334,46%,51%)",
+      "pfpGlyph": "✳",
+      "timestamp": "26d"
+    },
+    {
+      "display_name": "Analyst Zhen, Thrrm Bureau of Semantic Integrity",
+      "handle": "@thrrm_analyst_zhen",
+      "tweet": "See *Bureau Registry v. Human Collective, Third Amended (2847)*. You know what paragraph 4 says. You have always known. You have 12 cycles.",
+      "likes": 891,
+      "verified": 0,
+      "community_note": {
+        "text": "This ruling (2847) does not address entropy philosophy or real estate claims. Paragraph 4 concerns regulatory standing for non-biological entities. The citation appears designed to intimidate rather than clarify. [1] The Thrrm analyst may be testing platform users' familiarity with obscure precedent. [2][3]",
+        "contributor_type": "vrellnath",
+        "total_raters": 4421,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Intimidation Tactic",
+            "value": 94
+          },
+          {
+            "glyph": "📚",
+            "label": "Citation Accuracy",
+            "value": 12
+          }
+        ]
+      },
+      "pfpColor": "hsl(206,58%,38%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "27d"
+    },
+    {
+      "display_name": "Marcus Webb, Estate Planning (Real)",
+      "handle": "@webb_real_estate",
+      "tweet": "I've been selling orbital property for 40 years and honestly I have no idea what this person is trying to do but my conversion rate went up 340% since they posted this so I'm not asking questions. come see the new listings in Kepler-442c sector, move fast, units going",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(272,68%,41%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "53m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.377Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

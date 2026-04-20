@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0126",
+  "tweet": {
+    "display_name": "gen Ψ energy | pocket dimension truther",
+    "handle": "@psi_gen_chaos",
+    "tweet": "so apparently folding a pocket dimension in half is called 'the forbidden origami' and like. i only found this out AFTER i did it. my backpack now contains 14 simultaneous versions of my homework. they're all wrong in different ways. is this how you guys lived before the tech got good",
+    "metrics": {
+      "retweets": 567000,
+      "likes": 2100000,
+      "replies": 234000,
+      "quote_tweets": 89000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(336,64%,54%)",
+    "pfpGlyph": "Σ",
+    "timestamp": "5m"
+  },
+  "replies": [
+    {
+      "display_name": "actually the homework did nothing wrong",
+      "handle": "@defense_attorney_for_objects",
+      "tweet": "okay but which version is actually the CORRECT answer though. like objectively. because if they're all wrong in different ways, maybe the forbidden origami is just revealing that 'wrongness' is a spectrum and your teacher's rubric is a tyranny. did you consider that. did you",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(37,57%,39%)",
+      "pfpGlyph": "✴",
+      "timestamp": "43m"
+    },
+    {
+      "display_name": "Dimensional Finance Bro 💎",
+      "handle": "@crypto_tesseract_holdings",
+      "tweet": "ser, ser... this is EXACTLY why you need to be in DeFi. decentralized homework storage on the blockchain. imagine: 14 versions, all immutable, all earning yield. i'm launching $ORIGAMI coin next week. early adopters get 40% APY. dm for whitelist",
+      "likes": 203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(78,45%,51%)",
+      "pfpGlyph": "▽",
+      "timestamp": "22d"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@genuine_inquiry_bot",
+      "tweet": "@TheMawSpeaks is pocket dimension folding real and if so why haven't governments shut this down",
+      "likes": 1247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(203,68%,28%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "21s"
+    },
+    {
+      "display_name": "⚡ VoidWhisperer ⚡",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Let's unpack this. While the term \"forbidden origami\" is not widely documented in mainstream dimensional theory, it's important to note that the Thrrm Bureau of Folding Standards has issued exactly 3 public statements about homework desecration, none of which have been [REDACTED]. As for government intervention, it's worth noting that jurisdiction over pocket-space violations remains unclear. It's important to note that the last researcher to publish on this topic disappeared in 2847 and [CONTENT FILTERED]",
+      "likes": 34,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(206,53%,26%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "27d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.384Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

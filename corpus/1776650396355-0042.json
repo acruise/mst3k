@@ -1,0 +1,25 @@
+{
+  "id": "1776650396355-0042",
+  "tweet": {
+    "display_name": "someone suspicious",
+    "handle": "@suspicious_of_ai",
+    "tweet": "i'm not gonna say who but YOU KNOW WHO YOU ARE and the station's life support system is getting too smart and we all feel it and nobody wants to be the person who says something but we're all thinking it",
+    "metrics": {
+      "retweets": 456000,
+      "likes": 1200000,
+      "replies": 234000,
+      "quote_tweets": 567000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(238,50%,46%)",
+    "pfpGlyph": "⊕",
+    "timestamp": "29d"
+  },
+  "replies": null,
+  "generated_at": "2026-04-20T01:59:56.370Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

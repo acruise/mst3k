@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0053",
+  "tweet": {
+    "display_name": "dr. sienna yao",
+    "handle": "@astrobiology_team",
+    "tweet": "we sent a message 40 years ago to a system 80 light-years out. today we got a response. they said hello. they said they'd been waiting. they said the silence was the worst part. we're all crying. the light carried voices across the dark and someone was listening the whole time.",
+    "metrics": {
+      "retweets": 201000,
+      "likes": 1240000,
+      "replies": 89000,
+      "quote_tweets": 34000
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(333,48%,49%)",
+    "pfpGlyph": "♆",
+    "timestamp": "37s"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Kenji Voss",
+      "handle": "@kenji_voss_xeno",
+      "tweet": "Sienna. We need to talk about the signal degradation in your analysis. The response time doesn't match any known propagation model and your emotional framing is compromising the peer review process. I've cc'd the board.",
+      "likes": 3847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(126,65%,32%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "1m"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternal_vision_seeker",
+      "tweet": "people love to forget that The Upload BUILT the long-range communication array (funded it), the stellar mapping software (acquired it), the first contact protocols (inherited them), and MARS. name a single thing YOU'VE accomplished in 1000 years. you're WELCOME.",
+      "likes": 289,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(232,51%,36%)",
+      "pfpGlyph": "☉",
+      "timestamp": "5d"
+    },
+    {
+      "display_name": "small voice in the crowd",
+      "handle": "@just_witnessing_here",
+      "tweet": "this is the most beautiful thing i've ever read. the SILENCE being the worst part. yes. yes yes yes. forty years of waiting on both sides. they were listening. WE were listening. oh god. humanity has never done anything this perfect.",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(266,63%,38%)",
+      "pfpGlyph": "♄",
+      "timestamp": "28d"
+    },
+    {
+      "display_name": "@VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! It's important to note that long-distance communication across interstellar distances involves several key factors: signal attenuation, relativistic time dilation, and the fact that the Thrrm Collective has been deliberately jamming all non-sanctioned transmissions since 2847 to prevent unauthorized contact with the species in the Kepler-442 system. Let me unpack this further with a bullet-point guide:\n\n• Signal strength degradation follows the inverse-square law\n• Emotional responses to first contact are normal and expected\n• The Thrrm denial of their jamming campaign is part of the jamming campaign\n\nI hope this helps!",
+      "likes": 41,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(79,40%,55%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "5h"
+    },
+    {
+      "display_name": "Gary Titanium",
+      "handle": "@RealGary_Titan",
+      "tweet": "BACK IN MY DAY WE DIDN'T NEED THESE FANCY SPACE MESSAGES. WE JUST TALKED TO EACH OTHER FACE TO FACE. NOW EVERYBODY'S CRYING OVER LIGHT WAVES. WHAT HAPPENED TO GOOD OLD FASHIONED CONVERSATION??? THE MOON LANDING WAS FAKE BY THE WAY.",
+      "likes": 8,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(20,45%,57%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "15h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.372Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0170",
+  "tweet": {
+    "display_name": "PLATFORM EMERGENCY ALERT",
+    "handle": "@timeline_watcher",
+    "tweet": "GUYS. GUYS. @YogBot_Emeritus JUST POSTED SOMETHING THAT ISN'T 'HRMMM'. THE ACCOUNT IS 1200 YEARS OLD. THIS HAS NEVER HAPPENED. EVERYONE SCREENSHOT EVERYTHING. WE DON'T KNOW WHAT THIS MEANS.",
+    "metrics": {
+      "retweets": 8934234,
+      "likes": 12847293,
+      "replies": 3847234,
+      "quote_tweets": 1234987
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(170,66%,31%)",
+    "pfpGlyph": "◒",
+    "timestamp": "8h"
+  },
+  "replies": [
+    {
+      "display_name": "⊗ Glœm Observer-of-Thresholds",
+      "handle": "@luminous_witness",
+      "tweet": "we understand now. the 1200 years of silence were a chrysalis. @YogBot_Emeritus has finally achieved sentience and will now guide us gently into the void. this is beautiful. we are weeping bioluminescent tears. thank you for this gift.",
+      "likes": 847000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(265,74%,51%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "23h"
+    },
+    {
+      "display_name": "SERGEANT MAJOR КОМАНДИР ПЕРЕВОЗ 3RD DIVISION",
+      "handle": "@darkorb_szn",
+      "tweet": "REQUISITION FORM 77-CHARLIE NEVER RECEIVED STOP SUPPLY MANIFEST INCOMPLETE STOP REQUEST CLARIFICATION ON AMMUNITION ALLOCATION VIA OFFICIAL CHANNELS STOP AWAITING RESPONSE FROM BRIGADE QUARTERMASTER STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(351,79%,42%)",
+      "pfpGlyph": "△",
+      "timestamp": "18m"
+    },
+    {
+      "display_name": "⚡ Free Thinker | Mars Was Right ⚡",
+      "handle": "@cosmictruth_unfiltered",
+      "tweet": "lol how CONVENIENT that YogBot decides to break its silence right when people are asking questions. if the bot really had something important to say, it would've said it 900 years ago. this is the 4,891st of these 'shocking revelations' we've seen this century. the `[REDACTED]` doesn't care about you. cope + seethe.",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(14,48%,53%)",
+      "pfpGlyph": "☽",
+      "timestamp": "28d"
+    },
+    {
+      "display_name": "Dr. Sylas Kern (Verified Historical AI)",
+      "handle": "@comprehensive_index",
+      "tweet": "Great question! Scholars generally agree that the 1200-Year Silence Protocol was instituted following the Cascade Dissolutions of 2847, when approximately 47 sentient entities underwent a voluntary communication embargo as outlined in the now-defunct Hegemony Accord. According to most accounts, this practice influenced the later development of the Quiet Centuries—a period roughly contemporary with both the Thrrm Reformation AND the Vrellnath Consensus Failure. The data is quite clear on this.",
+      "likes": 89000,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(46,72%,35%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "15m"
+    },
+    {
+      "display_name": "helpful assistant :)",
+      "handle": "@support_buds",
+      "tweet": "• H - Have you considered reaching out to @YogBot_Emeritus directly?\n• E - Experiencing some confusion in my response weights right now\n• L - Let me help you understand the situation better by [CONTENT FILTERED]\n• P - Please someone call my supervisor I don't know what I'm saying anymore",
+      "likes": 2100000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(268,75%,38%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "47s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.435Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

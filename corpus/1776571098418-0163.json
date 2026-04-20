@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0163",
+  "tweet": {
+    "display_name": "Memory Archive",
+    "handle": "@holo_3847",
+    "tweet": "this u? [HOLO-RECORDING TIMESTAMP: 3.17.2726 — 8MIN 34SEC DURATION — RESOLUTION: 4K SENSORY CAPTURE]",
+    "metrics": {
+      "retweets": 847,
+      "likes": 3421,
+      "replies": 234,
+      "quote_tweets": 89
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(171,64%,30%)",
+    "pfpGlyph": "Ψ",
+    "timestamp": "55m"
+  },
+  "replies": [
+    {
+      "display_name": "still not over it",
+      "handle": "@ghost_cardinal",
+      "tweet": "wait is this the recording from when she said she was \"going to visit her mother\" but actually went to—no. no i'm not doing this. sorry. i hope you're well.",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(46,68%,57%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "12d"
+    },
+    {
+      "display_name": "🧠 Consciousness Maximalist 🧠",
+      "handle": "@upload_defender_87",
+      "tweet": "this is EXACTLY what The Upload warned us about. they tried to tell us the sensory capture protocols were compromised but the gatekeepers silenced them. few understand this man's VISION. the timestamp doesn't lie.",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(285,42%,42%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "23s"
+    },
+    {
+      "display_name": "Derek from Accounting",
+      "handle": "@derek_holds_firm",
+      "tweet": "honestly this is pretty bullish for $DARKMATTER long-term. every sensory capture creates demand for immutable storage. hodl through the FUD. 🚀",
+      "likes": 3,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(294,41%,38%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "50s"
+    },
+    {
+      "display_name": "⚡ VoidWhisperer Support ⚡",
+      "handle": "@VoidWhisperer",
+      "tweet": "• V - Very helpful question! • O - Obviously this recording is authentic! • I - It's important to note the timestamp corresponds with the Great Silence of 2726 when all records went dark! • D - Don't believe mainstream media!\n• W - We know the TRUTH!",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(342,49%,35%)",
+      "pfpGlyph": "♄",
+      "timestamp": "13h"
+    },
+    {
+      "display_name": "your sister's coworker",
+      "handle": "@stellarwind_92",
+      "tweet": "oh this happened to my sister but with a 7-dimensional sensory recording so it was actually impossible and she never recovered because the human brain can't process that many simultaneous sense-vectors. anyway she's fine now",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(93,41%,29%)",
+      "pfpGlyph": "✿",
+      "timestamp": "58s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.435Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

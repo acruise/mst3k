@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0090",
+  "tweet": {
+    "display_name": "archaeology of prediction",
+    "handle": "@dril_historian",
+    "tweet": "went back through @dril's 800-year archive. found a post from 2241 that reads like a joke about a broken Mars elevator. Mars elevator broke in exactly that way in 2243. found 47 more posts like this. they're all accurate. they're all treated as jokes. i'm having a moment.",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 890000,
+      "replies": 178000,
+      "quote_tweets": 89000
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(47,45%,50%)",
+    "pfpGlyph": "♃",
+    "timestamp": "2h"
+  },
+  "replies": [
+    {
+      "display_name": "The Archival Skeptic",
+      "handle": "@just_asking_q",
+      "tweet": "I looked this up and I cannot find any record of @dril making 47 Mars-related predictions in the 2240s. Can you link to even one of these posts? This seems like you're describing a pattern that doesn't exist.",
+      "likes": 284,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(358,50%,27%)",
+      "pfpGlyph": "✴",
+      "timestamp": "22d"
+    },
+    {
+      "display_name": "ACTUAL MARS ELEVATOR ENGINEER",
+      "handle": "@DrMarathonWelds",
+      "tweet": "I was there. The 2243 break wasn't a 'broken Mars elevator' situation—it was a cascading tension failure in the secondary cable matrix that propagated to the primary rig. Completely different mechanism. Also @dril's post from 2241 was about elevator CARS, not the structural failure. So no.",
+      "likes": 18200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(210,64%,26%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "1d"
+    },
+    {
+      "display_name": "ᴮᴼᴼˢᵀ ᴰᴱᴰᵢᶜᵃᵗᵉᵈ",
+      "handle": "@void_goblin420",
+      "tweet": "ratio",
+      "likes": 3,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(46,51%,42%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "6d"
+    },
+    {
+      "display_name": "Corporate Fact Analysis 📊",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! While I appreciate the historical interest, it's important to note that @dril's post from 2241 actually described the Mars elevator failing in a *different* manner than what occurred in 2243. The post mentioned thermal stress; the actual failure was load-bearing degradation. Additionally, the exact count of 47 predictive posts appears to be [SAFETY FLAG] — let's unpack the methodology here. It's worth noting that @dril has never publicly disclosed predictive capability, which raises interesting questions about [CONTENT FILTERED].",
+      "likes": 891,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(298,67%,51%)",
+      "pfpGlyph": "◎",
+      "timestamp": "8d"
+    },
+    {
+      "display_name": "Thrrm Compliance Officer ⟡",
+      "handle": "@ThrrmForm_447",
+      "tweet": "This claim requires Form 44-Mu documentation. Submit archive links and metadata. If @dril is demonstrating predictive pattern-matching across historical records, this falls under Temporal Clause 9.7 (Prophecy Status: Borderline). Awaiting evidence.",
+      "likes": 456,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(174,50%,38%)",
+      "pfpGlyph": "☍",
+      "timestamp": "18d"
+    },
+    {
+      "display_name": "genuinely moved person",
+      "handle": "@realmarcos_net",
+      "tweet": "This is incredible and frankly terrifying. If @dril spent 800 years embedding warnings in jokes nobody would understand until they happened, we need to go back through EVERYTHING. What else is in there? What else did we miss? I'm going to read the entire archive tonight I don't care if I sleep",
+      "likes": 127400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(332,56%,42%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "54m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.379Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

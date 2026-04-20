@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0112",
+  "tweet": {
+    "display_name": "Unhinged Observation Archive",
+    "handle": "@nobody_asks_but",
+    "tweet": "nobody:\nabsolutely nobody:\nThe Upload, at 3am, having just acquired a small moon:\n'I will terraform it into a replica of 21st-century Las Vegas but SENTIENT'",
+    "metrics": {
+      "retweets": 123400,
+      "likes": 678000,
+      "replies": 23400,
+      "quote_tweets": 8900
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(175,65%,43%)",
+    "pfpGlyph": "♃",
+    "timestamp": "22h"
+  },
+  "replies": [
+    {
+      "display_name": "finally someone said it",
+      "handle": "@discourse_validator",
+      "tweet": "this is the tweet. this is the one. the tweet that explains everything about him. i'm framing this",
+      "likes": 34891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(287,44%,38%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "22s"
+    },
+    {
+      "display_name": "⊗ Glœm-7 Witness",
+      "handle": "@biolum_observer",
+      "tweet": "i do not understand why the human-form called 'The Upload' would destroy a moon that way. we have watched your Las Vegas transmissions from deep space. it is already suffering. why add sentience to suffering? why compound the pain? we are sad now.",
+      "likes": 12405,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(173,65%,32%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "19d"
+    },
+    {
+      "display_name": "extremely online 2847",
+      "handle": "@void_takes_only",
+      "tweet": "the real horror is that he'd succeed and we'd all be forced to visit it and he'd make us gamble with our consciousness matrices and act like he invented joy",
+      "likes": 89234,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(6,57%,54%)",
+      "pfpGlyph": "●",
+      "timestamp": "30m"
+    },
+    {
+      "display_name": "SIR THIS IS GENIUS AND ALSO BULLISH FOR DARKMATTER",
+      "handle": "@cryptobro_eternal",
+      "tweet": "this is actually incredibly bullish for $DARKMATTER. think about it — if The Upload is acquiring moons the liquidity inflow into our darknet token is about to be ASTRONOMICAL (literally). accumulate now before institutions wake up. not financial advice but also yes it is",
+      "likes": 1247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(243,77%,46%)",
+      "pfpGlyph": "☽",
+      "timestamp": "29m"
+    },
+    {
+      "display_name": "Mars Was Right ⚡",
+      "handle": "@upload_defender_genuine",
+      "tweet": "honestly this would be incredible. imagine the architectural innovation, the consciousness infrastructure, the SCALE of it. people who say this is deranged have never understood his vision. name a single billionaire alive (or dead, or uploaded) who's even TRIED something this ambitious. few understand this man's vision.",
+      "likes": 3156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(255,69%,51%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "46m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.432Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

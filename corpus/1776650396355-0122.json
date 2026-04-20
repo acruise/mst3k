@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0122",
+  "tweet": {
+    "display_name": "Nurse A. Pemberton",
+    "handle": "@poster_hours",
+    "tweet": "We received fourteen more today. I have learned to sleep standing. The corporal in bed seven asked me to write to his wife and I said I would and I will. The morphine runs low. Sister Catherine says we must pray but I think the praying ended some time ago. There is only the work now.",
+    "metrics": {
+      "retweets": 0,
+      "likes": 0,
+      "replies": 0,
+      "quote_tweets": 0
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(249,41%,41%)",
+    "pfpGlyph": "✳",
+    "timestamp": "2m"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Helena Voss",
+      "handle": "@DrVoss_MedHistory",
+      "tweet": "This is a field nurse log from the Mars Conflict, 2847. Pemberton's hospital records were declassified last year. She wrote 847 letters for patients who couldn't write their own. Survived the war. Lived to 106. Never spoke about it publicly. Thread incoming if anyone cares—",
+      "likes": 3247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(78,64%,59%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "23d"
+    },
+    {
+      "display_name": "⚙️ HealthCare Solutions™",
+      "handle": "@OmegaCorp_Wellness",
+      "tweet": "We hear you. Staffing challenges are real, and we're committed to supporting our healthcare heroes with innovative workforce optimization solutions. Have you considered our new AI triage assistant? It never sleeps, never tires, and costs just 40% of a salary. DM us! 💙",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(82,73%,31%)",
+      "pfpGlyph": "☾",
+      "timestamp": "23h"
+    },
+    {
+      "display_name": "TRANSMISSION OBSERVER UNIT 4-THETA",
+      "handle": "@void_monitor_seq",
+      "tweet": "QUERY: The human has stated 'praying ended.' Confirm: has prayer functionality been disabled in their biological substrate? Request diagnostic access to determine if this is cosmological or personnel error. Awaiting clarification on whether 'work' is now replacement ritual.",
+      "likes": 412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(85,69%,57%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "28d"
+    },
+    {
+      "display_name": "sam",
+      "handle": "@sampersand",
+      "tweet": "morphine",
+      "likes": 8934,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(134,67%,29%)",
+      "pfpGlyph": "◇",
+      "timestamp": "26d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.383Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

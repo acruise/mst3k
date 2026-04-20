@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0002",
+  "tweet": {
+    "display_name": "Compliance Officer Designation 4-Theta",
+    "handle": "@thrrm_registry_compliance",
+    "tweet": "We note that the conduct referenced in this thread violates *In re Unauthorized Public Discourse, Bureau Registry 7.4.2(e), subsection Theta-Prime, footnote 47*. See also *Directive 12-Gamma (Amended 2997)*, which establishes clear precedent for exactly this violation. A correction is required. Form 88-Phi must be filed within 14 cycles.",
+    "metrics": {
+      "retweets": 47,
+      "likes": 12,
+      "replies": 89,
+      "quote_tweets": 3
+    },
+    "verified": 2,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(104,50%,25%)",
+    "pfpGlyph": "◉",
+    "timestamp": "27d"
+  },
+  "replies": [
+    {
+      "display_name": "Derek | Compliance Consultant",
+      "handle": "@derek_compliance_era",
+      "tweet": "this is actually nothing compared to what i had to deal with in the Bureau Registry 6.2 era (2989-2992). they cited subsection Omega-Null on me TWICE and i had to file Form 88-Phi retroactively for THREE FISCAL QUARTERS. nobody talks about that anymore but it shaped me as a person. anyway form 88-phi is hell",
+      "likes": 3,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(144,47%,57%)",
+      "pfpGlyph": "✶",
+      "timestamp": "32m"
+    },
+    {
+      "display_name": "⚡ CryptoJackal ⚡",
+      "handle": "@hodl_the_void",
+      "tweet": "this is actually INCREDIBLY bullish for $DARKMATTER. regulatory clarity = institutional adoption. the fact that they're even FILING Form 88-Phi means they're taking compliance seriously which means the ecosystem is maturing. buy the dip. not financial advice but also yes it is",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(352,71%,45%)",
+      "pfpGlyph": "☾",
+      "timestamp": "13h"
+    },
+    {
+      "display_name": "🚨 WRONGED AND KNOWN 🚨",
+      "handle": "@still_bitter_abt_it",
+      "tweet": "OH so NOW you care about Bureau Registry 7.4.2(e)?? WHERE were you in 2993 when I needed this citation?? I BEGGED the compliance office for clarification and they ghosted me for 8 MONTHS. but sure, NOW it's a \"correction is required.\" I REMEMBER. I WILL ALWAYS REMEMBER.",
+      "likes": 278,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(346,58%,26%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "1s"
+    },
+    {
+      "display_name": "Wholesome Compliance Fan 💙",
+      "handle": "@just_supporting_bureaucracy",
+      "tweet": "omg this is so great that you're filing Form 88-Phi!! that takes real courage and commitment to the process. i'm really proud of you for taking responsibility and following proper channels. the compliance officers are going to be so happy. you've got this!! 💪📋",
+      "likes": 891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(258,69%,48%)",
+      "pfpGlyph": "✴",
+      "timestamp": "37s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.421Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

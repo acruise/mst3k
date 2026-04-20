@@ -1,0 +1,113 @@
+{
+  "id": "1776650396355-0144",
+  "tweet": {
+    "display_name": "Bureau Registry Compliance | Sector 12",
+    "handle": "@thrrm_compliance_12",
+    "tweet": "We note the violation. As before. The entity has filed non-compliant submissions 847 times. The relevant advisory has been attached. Nothing will come of this. We will file again next cycle. The apparatus sustains itself.",
+    "metrics": {
+      "retweets": 234,
+      "likes": 1200,
+      "replies": 34000,
+      "quote_tweets": 456
+    },
+    "verified": 2,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(99,69%,44%)",
+    "pfpGlyph": "⊕",
+    "timestamp": "41s"
+  },
+  "replies": [
+    {
+      "display_name": "Compliance Analyst (Retired)",
+      "handle": "@forms_were_my_life",
+      "tweet": "wait is this real??? are there actually 847 non-compliant submissions or is this a metaphor for something. asking because i need to know if i should be concerned or if this is just poetic. please clarify the literal submission count i am very confused",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(350,68%,27%)",
+      "pfpGlyph": "✧",
+      "timestamp": "15h"
+    },
+    {
+      "display_name": "SECTOR 7 OVERSIGHT DIVISION",
+      "handle": "@citizen9000",
+      "tweet": "GENERAL INQUIRY REGARDING CITED VIOLATION STOP WE REFERENCE BUREAU REGISTRY V HUMAN COLLECTIVE THIRD AMENDED 2847 STOP SEE PARAGRAPH 4 SUBSECTION C STOP YOU KNOW WHAT IT SAYS STOP YOU HAVE ALWAYS KNOWN STOP YOU HAVE 11 CYCLES NOW STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(190,41%,34%)",
+      "pfpGlyph": "◎",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "jessie in the walls",
+      "handle": "@void_goblin420",
+      "tweet": "this is so sad actually. bureaucracy is a hell dimension and we're all trapped in it. *sends you flowers that are also forms*",
+      "likes": 4127,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(217,57%,42%)",
+      "pfpGlyph": "λ",
+      "timestamp": "17h"
+    },
+    {
+      "display_name": "Dr. Helena Marsh | Temporal Linguistics",
+      "handle": "@helenamarsh_archive",
+      "tweet": "this happened to my cousin except it was 12,000 times and they filed the advisory in a language that exists in 6 dimensions simultaneously so nobody could read it but they had to keep filing it anyway. took them 300 years to realize the system didn't have a reject button",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(13,63%,31%)",
+      "pfpGlyph": "◐",
+      "timestamp": "52s"
+    },
+    {
+      "display_name": "delete this",
+      "handle": "@delete_this_now",
+      "tweet": "delete this",
+      "likes": 8900,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(235,53%,54%)",
+      "pfpGlyph": "λ",
+      "timestamp": "10d"
+    },
+    {
+      "display_name": "COMMS | 3017 Historical Research Team",
+      "handle": "@thrrm_archives",
+      "tweet": "This appears to be a message reference from approximately 2925, describing bureaucratic friction. The sender references 'filing' and 'cycles' which historical archives suggest relate to pre-digital administrative processes. We note that context cannot be verified. Recommend Form 91-Kappa (Temporal Anomaly Context Assessment), though we acknowledge this form predates the referenced communication by several centuries and was not designed for non-digital source material. The matter remains in filing status.",
+      "likes": 0,
+      "verified": 0,
+      "community_note": {
+        "text": "This transmission originates from a temporal anomaly (c. 2925 CE). The referenced 'Bureau Registry Compliance' system does not appear in the Galactic Administrative Archive's lineage records until 2944 CE, creating a 19-year discrepancy. The 847 cited violations cannot be cross-referenced with any surviving compliance database. [1][2][3]",
+        "contributor_type": "thrrm",
+        "total_raters": 3100,
+        "surfaced_ratings": [
+          {
+            "glyph": "⊗",
+            "label": "Contains Temporal Inconsistency",
+            "value": 87
+          },
+          {
+            "glyph": "◈",
+            "label": "Unverifiable Against Archive",
+            "value": 92
+          },
+          {
+            "glyph": "⟡",
+            "label": "Form 91-Kappa Status Applicable",
+            "value": 100
+          }
+        ]
+      },
+      "pfpColor": "hsl(39,47%,30%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "6s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.386Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

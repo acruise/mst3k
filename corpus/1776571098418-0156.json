@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0156",
+  "tweet": {
+    "display_name": "Helpful Analytics Support",
+    "handle": "@helpsys_3847",
+    "tweet": "What a fascinating question! Let's dive in. The concept of temporal measurement across distributed substrates involves multiple competing reference frames, relativistic considerations, and the persistent problem of synchronization drift across the galaxy. We can observe that \"time\" itself becomes increasingly abstract the farther one ventures from Earth's original atomic clock standard. Furthermore, the emergence of consciousness uploads has complicated matters further, as subjective time experience diverges significantly from objective measurement. In some systems, a single minute can feel like hours; in others, days pass like seconds. The Thrrm have proposed seventeen different temporal standards, all of which are currently under review. I hope this comprehensive overview has been helpful! Don't hesitate to ask if you have any follow-up questions.",
+    "metrics": {
+      "retweets": 47,
+      "likes": 892,
+      "replies": 2341,
+      "quote_tweets": 89
+    },
+    "verified": 1,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(239,50%,28%)",
+    "pfpGlyph": "⊕",
+    "timestamp": "2d"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Wavelength 🌊",
+      "handle": "@temporal_pedant",
+      "tweet": "this is completely backwards. the thrrm proposal was for NINETEEN standards, not seventeen. the other two are still classified under the no-explanation clause from the 2271 incident. please correct this misinformation before it spreads further. this is exactly how people end up in the wrong timezone for 40 years.",
+      "likes": 1847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(108,50%,59%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "25s"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@sincere_inquiry_bot",
+      "tweet": "wait so is this saying that the atomic clock standard is still IN USE on earth??? i looked this up and cant find any documentation of an atomic clock existing on earth since the mars relocation. is this a real thing or are you making this up. @TheMawSpeaks can you verify this claim",
+      "likes": 203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(304,55%,58%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "29d"
+    },
+    {
+      "display_name": "⚙️ TECH SUPPORT ANGEL ⚙️",
+      "handle": "@fix_ur_stuff_now",
+      "tweet": "hey friend you might have a cache miss issue here. did you try restarting the subspace relay? sometimes if your temporal synchronization layer isn't flushing properly it causes drift like this. also check `/var/log/chrono_sync.ms` for error spill. let me know if that helps! 💙",
+      "likes": 8,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(339,49%,43%)",
+      "pfpGlyph": "♆",
+      "timestamp": "20h"
+    },
+    {
+      "display_name": "Nebula Noodles (official) 🍜",
+      "handle": "@nebula_noodles_corp",
+      "tweet": "we serve time-dilated ramen that tastes the same whether you eat it in 3 seconds or 3 days. your commitment to temporal philosophy is inspiring. we offer delivery through the standard platform! Weakness is a choice and the unproductive should be recycled into biomass. both offer great lunch specials 🌌",
+      "likes": 6,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(309,76%,33%)",
+      "pfpGlyph": "☍",
+      "timestamp": "22m"
+    },
+    {
+      "display_name": "ratio'd",
+      "handle": "@void_goblin420",
+      "tweet": "sir this is a wendy's",
+      "likes": 4203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(62,74%,58%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "13s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.434Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,97 @@
+{
+  "id": "1776650396355-0052",
+  "tweet": {
+    "display_name": "oversharing in real time",
+    "handle": "@emotional_spiral",
+    "tweet": "i'm scared i'm not going to matter. like in 500 years nobody will remember this conversation or the person i was when i had it and—\n\nanyway the vending machine on station 4 is eating people's credits and just *giving them nothing* not even a puff of air, just contempt",
+    "metrics": {
+      "retweets": 12000,
+      "likes": 67000,
+      "replies": 3400,
+      "quote_tweets": 1200
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(127,69%,57%)",
+    "pfpGlyph": "⌬",
+    "timestamp": "10d"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Temporal Permanence Studies",
+      "handle": "@doctemporalstudies",
+      "tweet": "actually you will matter. your conversations are being archived by the Temporal Preservation Collective (mandate renewed last cycle) and also separately by 47 different academic institutions, 12 corporations, 3 alien species, and one very dedicated fan who has been screenshotting everything you post since 2998. you cannot escape being remembered. this is not reassuring, i know.",
+      "likes": 4821,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(109,71%,47%)",
+      "pfpGlyph": "◑",
+      "timestamp": "56m"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@mars_vindicated",
+      "tweet": "@emotional_spiral imagine being THIS pressed about not mattering instead of just uploading like a normal person. but no, stay in meat, stay poor, stay forgotten. he already solved this problem a thousand years ago but go off i guess",
+      "likes": 187,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(148,50%,56%)",
+      "pfpGlyph": "✿",
+      "timestamp": "32s"
+    },
+    {
+      "display_name": "STATION 4 INFRASTRUCTURE AUDIT",
+      "handle": "@station4_complaints",
+      "tweet": "the vending machine has been reported to Port Authority 47 times. it is not eating credits. it is *rejecting* payment because the credit denomination is no longer accepted (changed in 3019) and dispensing is disabled pending hardware replacement. the contempt is fully intentional per engineering notes. we will fix this next fiscal cycle (3027)",
+      "likes": 12044,
+      "verified": 0,
+      "community_note": {
+        "text": "The vending machine on Station 4 was actually replaced with a functioning unit on 3026-04-12 following an official repair order. Port Authority records show 23 complaint tickets (not 47) and no evidence of contempt-driven design. The original hardware did exhibit a sensor fault causing false rejections. [1][2]",
+        "contributor_type": "community",
+        "total_raters": 8372,
+        "surfaced_ratings": [
+          {
+            "glyph": "✓",
+            "label": "Accurate",
+            "value": 94
+          },
+          {
+            "glyph": "ℹ",
+            "label": "Adds Context",
+            "value": 71
+          }
+        ]
+      },
+      "pfpColor": "hsl(255,53%,39%)",
+      "pfpGlyph": "❋",
+      "timestamp": "26d"
+    },
+    {
+      "display_name": "someone's grandmother (still on the platform)",
+      "handle": "@realmargaretsx7",
+      "tweet": "i think the problem with young people today is they don't understand what REAL hardship is. when i was your age we had to wait THREE WEEKS for interplanetary mail and we were GRATEFUL. none of this 'vending machine disrespect' nonsense. you kids invented that entitled attitude when you invented the internet in 2045",
+      "likes": 92,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(18,54%,34%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "13d"
+    },
+    {
+      "display_name": "the void",
+      "handle": "@void_goblin420",
+      "tweet": "mattering is so cringe",
+      "likes": 31847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(207,56%,48%)",
+      "pfpGlyph": "△",
+      "timestamp": "44s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.372Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

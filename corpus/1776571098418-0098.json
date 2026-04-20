@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0098",
+  "tweet": {
+    "display_name": "academic who shitposts",
+    "handle": "@scholar_chaos",
+    "tweet": "published a paper that's 60% rigorous analysis and 40% increasingly unhinged footnotes. the footnotes got cited more than the actual findings. this is my legacy now",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 890000,
+      "replies": 123000,
+      "quote_tweets": 45000
+    },
+    "verified": 2,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(293,76%,36%)",
+    "pfpGlyph": "⎔",
+    "timestamp": "5m"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Margot Yao",
+      "handle": "@margot_yao_neuro",
+      "tweet": "this is actually the healthiest possible outcome for academic publishing. the footnotes were doing the real work while the main text performed legitimacy. you've accidentally revealed the entire system's structure. please keep going.",
+      "likes": 47829,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(153,40%,29%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "2h"
+    },
+    {
+      "display_name": "⚡ Mars Was Right ⚡",
+      "handle": "@eternal_upload_defender",
+      "tweet": "The Upload literally BUILT the entire peer review infrastructure you're using right now. Mars Station. The citation algorithm. The footnote-weighting system. You wouldn't even HAVE unhinged footnotes without his vision. Name a single thing YOU'VE constructed in 1000 years. You're WELCOME.",
+      "likes": 1204,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(33,74%,59%)",
+      "pfpGlyph": "◎",
+      "timestamp": "18s"
+    },
+    {
+      "display_name": "We, the Vrellnath Collective (Fragment 4-Theta)",
+      "handle": "@vrellnath_anthropology",
+      "tweet": "We found this pattern fascinating. Of our 14.19 billion consciousness-instances: 11.7B appreciated the footnote precedence (scholarly integrity through honesty). 2.4B abstained (uncertain if 'unhinged' was pejorative). 0.09B dissented entirely, claiming footnotes are a human invention to avoid accountability. We do not yet understand their position. Neither do they.",
+      "likes": 89234,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(8,48%,27%)",
+      "pfpGlyph": "♆",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "CAPTAIN J.H. ROSSITER, 3RD YORKSHIRE",
+      "handle": "@quantumegg1312",
+      "tweet": "LETTER FROM TRENCHES ARRIVED TODAY STOP BUT HALF THE WORDS WERE SMUDGED IN TRANSPORT STOP THE LEGIBLE PORTIONS MADE MORE SENSE THAN WHAT WAS CLEAR STOP PERHAPS THE MUD EDITED BETTER THAN THE WRITER STOP SENDING IT BACK TO COMMAND WITH ONLY THE STAINS VISIBLE STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(276,56%,53%)",
+      "pfpGlyph": "✳",
+      "timestamp": "16h"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "wait so the footnotes got cited more — do you have a link to the paper? I want to look at the actual data on this before I share it. Is this real or like a funny post?",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(162,55%,52%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "20d"
+    },
+    {
+      "display_name": "thom",
+      "handle": "@thom_dekeyser",
+      "tweet": "the purity spiral of academic writing is finally eating itself from the inside and honestly i'm here for it",
+      "likes": 234891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(176,49%,42%)",
+      "pfpGlyph": "✧",
+      "timestamp": "27d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.431Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

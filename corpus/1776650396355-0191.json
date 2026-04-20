@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0191",
+  "tweet": {
+    "display_name": "Anonymous Observer",
+    "handle": "@anon_obs",
+    "tweet": "it's wild how some people will literally collapse a stable wormhole and then act normal at brunch like nothing happened",
+    "metrics": {
+      "retweets": 567000,
+      "likes": 1200000,
+      "replies": 234000,
+      "quote_tweets": 156000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(337,69%,41%)",
+    "pfpGlyph": "✳",
+    "timestamp": "26d"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Keiran Voss 🔬",
+      "handle": "@keiran_voss_phd",
+      "tweet": "This is actually a fascinating observation about compartmentalization and social performance. Reminds me of Goffman's work on presentation of self, but extended into topological space. The cognitive dissonance required to maintain normalcy after a wormhole collapse would be extraordinary—has anyone studied the neurological markers of this kind of dissociation in post-event social contexts?",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(9,59%,57%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "42m"
+    },
+    {
+      "display_name": "CONCERNED CITIZEN",
+      "handle": "@just_asking_questions_",
+      "tweet": "@TheMawSpeaks is this real? has there actually been a collapse event reported? asking for a friend",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(313,76%,46%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "14h"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! While I cannot independently verify wormhole collapse incidents at brunch venues, it's worth noting that the Europan Shadow Council has never publicly addressed the seventeen spatial discontinuities reported near the Kepler District between 3018-3024. It's important to note that absence of evidence is not evidence of absence. Further research is warranted.",
+      "likes": 2341,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(84,50%,37%)",
+      "pfpGlyph": "✶",
+      "timestamp": "11d"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternal_mars_was_right",
+      "tweet": "this is EXACTLY what The Upload was trying to warn us about. you people laughed at him. you mocked his vision of topological responsibility. now look where we are. wormholes collapsing while people sip synthetic coffee. he KNEW. he always KNEW.",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(30,72%,28%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "6h"
+    },
+    {
+      "display_name": "Serin Kade | Wormhole Ethics Collective",
+      "handle": "@serin_kade_wec",
+      "tweet": "Okay but seriously—we're launching a DAO-governed accountability framework for post-collapse social etiquette. Early investors get lifetime access to our Brunch Amnesia Insurance Protocol™. We've already got backing from three minor Glœm subsidiaries. DM if interested. This is the future of responsible spacetime dining.",
+      "likes": 73,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(346,45%,59%)",
+      "pfpGlyph": "☉",
+      "timestamp": "23d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.393Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

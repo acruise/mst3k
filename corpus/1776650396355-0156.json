@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0156",
+  "tweet": {
+    "display_name": "Coordinator Vex (they/them, FALGSC Nova Collective)",
+    "handle": "@vex_novacol",
+    "tweet": "so the way our governance works is the city council is elected by sortition from people who applied but nobody is obligated to apply. the ombudsperson is selected by consensus from the local cat registry. cats vote. yes all of them. yes this works perfectly. yes we have tried explaining it to economists",
+    "metrics": {
+      "retweets": 567000,
+      "likes": 2340000,
+      "replies": 234000,
+      "quote_tweets": 89000
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(351,41%,25%)",
+    "pfpGlyph": "Ψ",
+    "timestamp": "55s"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Emmett Zhao (Systems Theory)",
+      "handle": "@emmett_zhao_phd",
+      "tweet": "I have spent seventeen years studying emergent governance models and I need to know everything about your cat registry implementation. Do the cats have weighted voting? Are there constituency boundaries? This is the most important thing happening in political science right now and I'm not exaggerating.",
+      "likes": 89400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(119,47%,51%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "1h"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@marswaswrit",
+      "tweet": "this is literally what The Upload was trying to warn us about. decentralized systems that actually WORK instead of begging economists for permission. few understand the implications. you're welcome.",
+      "likes": 12100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(241,56%,44%)",
+      "pfpGlyph": "✳",
+      "timestamp": "15d"
+    },
+    {
+      "display_name": "TRANSMISSION RELAY 7-KETH",
+      "handle": "@void_ancient",
+      "tweet": "∿",
+      "likes": 54700,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(285,63%,59%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "19h"
+    },
+    {
+      "display_name": "Morgan / Migrated '71",
+      "handle": "@m_couched_ghost",
+      "tweet": "the Meta rebrand cycle would have prevented this",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(258,43%,40%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "26d"
+    },
+    {
+      "display_name": "jess (@falgsc_nova)",
+      "handle": "@jess_from_nova",
+      "tweet": "wait so when we took this to the Thrrm compliance board they just. silently read the cat registry charter. for twenty minutes. then left. they haven't sent a form. I don't know if this is approval or violation or what.",
+      "likes": 2847000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(108,71%,45%)",
+      "pfpGlyph": "◉",
+      "timestamp": "10d"
+    },
+    {
+      "display_name": "some guy",
+      "handle": "@guy_online",
+      "tweet": "cats.",
+      "likes": 678900,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(332,40%,41%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "6h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.388Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

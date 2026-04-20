@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0155",
+  "tweet": {
+    "display_name": "Zk'vrath Strategic Analysis Division",
+    "handle": "@zkvrath_intel",
+    "tweet": "the human entertainment product designated 'The Crown' is NOT RESEARCH. we are studying their hierarchical structures for MILITARY PURPOSES. the fact that we have watched 47 seasons is CLASSIFIED. stop EXPOSING our operations",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 890000,
+      "replies": 156000,
+      "quote_tweets": 78000
+    },
+    "verified": 2,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(343,41%,27%)",
+    "pfpGlyph": "Γ",
+    "timestamp": "10s"
+  },
+  "replies": [
+    {
+      "display_name": "Crown Enthusiast™ Official",
+      "handle": "@crowntvmedia",
+      "tweet": "we appreciate all engagement with our content! whether for entertainment, research, or strategic analysis, there's something for everyone in the crown universe. thank you for your continued viewership 👑",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(247,75%,39%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "32m"
+    },
+    {
+      "display_name": "MILITARY HIERARCHY = WEALTH HIERARCHY 📈",
+      "handle": "@crypto_sees_all_trades",
+      "tweet": "this is unironically bullish for my new token: WarStratDeFi. you're exposed to hierarchical instability? i'm POSITIONED for it. colonists accumulating now will 100x when the Thrrm realize militaries are obsolete. dm me for whitelist access, link in bio. not financial advice but also yes it is",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(200,77%,45%)",
+      "pfpGlyph": "✶",
+      "timestamp": "8h"
+    },
+    {
+      "display_name": "just a guy",
+      "handle": "@just_some_thoughts_ok",
+      "tweet": "the classified thing is funny but like... why are we all pretending the zk'vrath don't have a publicly available streaming subscription? we all know about it. everyone knows. the whole galaxy knows. it's not exposing anything. they have a roku app",
+      "likes": 156900,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(118,43%,37%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "5s"
+    },
+    {
+      "display_name": "⚡ Void Gremlin ⚡",
+      "handle": "@void_goblin420",
+      "tweet": "stop exposing",
+      "likes": 445000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(179,68%,33%)",
+      "pfpGlyph": "◉",
+      "timestamp": "6h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.388Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

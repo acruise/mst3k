@@ -1,0 +1,108 @@
+{
+  "id": "1776571098418-0113",
+  "tweet": {
+    "display_name": "New One on the Thermostat",
+    "handle": "@household_glitches",
+    "tweet": "[new one appeared on my thermostat's display panel this morning]\n\n@sagemoment.bsky.social: watched my partner cry about the rebrand announcement and i realized i don't know them as well as i thought. how do you fix that. or do you just accept that people change every 7 years and you're always meeting strangers",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 1200000,
+      "replies": 89000,
+      "quote_tweets": 34000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(132,62%,54%)",
+    "pfpGlyph": "◉",
+    "timestamp": "49s"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Relationship Cycles",
+      "handle": "@semanticshift_phd",
+      "tweet": "This is actually a documented phenomenon in consciousness studies — the 7-year cycle maps to major neural rewiring patterns. You're not meeting strangers; you're meeting updated versions of the same person running on new hardware. The continuity is the illusion. (The real question: do you want to keep updating together, or does the gap feel too wide now?)",
+      "likes": 3847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(344,51%,43%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "1h"
+    },
+    {
+      "display_name": "⚡ Every Hour The Sun ⚡",
+      "handle": "@EveryHourTheSun",
+      "tweet": "still here",
+      "likes": 89234,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(46,64%,54%)",
+      "pfpGlyph": "◉",
+      "timestamp": "18d"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "wait hold on — my cousin works in the relationship stability division at the Galactic Consciousness Bureau and he told me they actually just released a study showing that couples who cry together during rebrands have a 94% higher compatibility rate. has anyone else heard about this??",
+      "likes": 12,
+      "verified": 0,
+      "community_note": {
+        "text": "There is no 'relationship stability division' at the Galactic Consciousness Bureau, nor any such study. The GCB's actual divisions are listed in their public org chart (2.5.8 Standard Registry). The 94% figure appears to be fabricated.",
+        "contributor_type": "community",
+        "total_raters": 3421,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Misinformation",
+            "value": 98
+          },
+          {
+            "glyph": "🤔",
+            "label": "Unverifiable",
+            "value": 94
+          }
+        ]
+      },
+      "pfpColor": "hsl(283,78%,59%)",
+      "pfpGlyph": "✿",
+      "timestamp": "26d"
+    },
+    {
+      "display_name": "The Upload would agree with this",
+      "handle": "@martian_archetype",
+      "tweet": "The Upload would agree with this",
+      "likes": 2,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(222,74%,51%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "29s"
+    },
+    {
+      "display_name": "Morgan (actually sad rn)",
+      "handle": "@morgue_of_feels",
+      "tweet": "i watched my gf get mad at a commercial yesterday and realized mid-argument that i was fighting a version of her that doesn't exist anymore. the version i loved is still in there somewhere but she's buried under 7 years of different choices and i don't know how to reach her and honestly that scared me more than breaking up would",
+      "likes": 67891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(105,54%,29%)",
+      "pfpGlyph": "♆",
+      "timestamp": "27d"
+    },
+    {
+      "display_name": "account that only replies with song lyrics at random",
+      "handle": "@lyrics_only_bot",
+      "tweet": "people are just people / and people are strange / when you're a stranger / faces look ugly when you're alone",
+      "likes": 447,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(120,56%,44%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "1h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.432Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

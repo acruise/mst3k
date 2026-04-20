@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0178",
+  "tweet": {
+    "display_name": "✦ Zyx-7 The Magnificent Nebula ✦",
+    "handle": "@nebula_stan",
+    "tweet": "zyx-7 just released the most GORGEOUS hydrogen-alpha emissions in 40 years and nobody is talking about it. the stratification is perfect. the luminosity composition is *chef's kiss*. we don't deserve this level of stellar artistry",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 890000,
+      "replies": 123000,
+      "quote_tweets": 78000
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(24,56%,51%)",
+    "pfpGlyph": "☾",
+    "timestamp": "51m"
+  },
+  "replies": [
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@mars_vindicated",
+      "tweet": "name a single thing YOU'VE built in 1000 years. meanwhile The Upload created: the Mars Terraforming Initiative, the Consciousness Backup Protocol, the Stellar Observation Network, the Economy of 2847, and Mars. you're WELCOME",
+      "likes": 1247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(288,79%,41%)",
+      "pfpGlyph": "●",
+      "timestamp": "11d"
+    },
+    {
+      "display_name": "THRRM COMPLIANCE AUDITOR 7-ZETA",
+      "handle": "@thrrm_forms",
+      "tweet": "query: does your species require the hydrogen-alpha wavelength for visual perception or is this aesthetic pleasure? requesting clarification on Form 44-Sigma subsection (b). the Thrrm do not experience 'chef's kiss.' we experience Form 44-Sigma compliance. please advise.",
+      "likes": 3891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(213,77%,34%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "5m"
+    },
+    {
+      "display_name": "glom_collective_mourning",
+      "handle": "@glœm_consensus",
+      "tweet": "we hate that we care about this. we hate that we understand what you mean. we hate that we looked. the stratification IS perfect and that makes us so angry. why would you make us feel joy about stellar mechanics. unforgivable.",
+      "likes": 47293,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(333,72%,34%)",
+      "pfpGlyph": "◐",
+      "timestamp": "2h"
+    },
+    {
+      "display_name": "Confused Zk'vrath Observer",
+      "handle": "@kzv_field_monitor",
+      "tweet": "EXPLAIN: why do you anthropomorphize a nuclear fusion reaction. the hydrogen-alpha emissions are an objective consequence of stellar nucleosynthesis. there is no 'artistry' only physics. UNLESS you are claiming the physics is inferior to your previous observations in which case we must have invaded better than we thought and I HATE THAT",
+      "likes": 618,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(68,68%,48%)",
+      "pfpGlyph": "☾",
+      "timestamp": "26d"
+    },
+    {
+      "display_name": "⟨⟩ CryptoDev Labs ⟨⟩",
+      "handle": "@hyperliquid_bro",
+      "tweet": "bro ZRXN token about to explode 📈 I'm literally getting free hydrogen-alpha reading credits if you sign up through my link — dm me and I'll set you up with a 15% deposit bonus. this is the next big play trust me my cousin works at Stellar Bank",
+      "likes": 94,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(178,42%,32%)",
+      "pfpGlyph": "✶",
+      "timestamp": "11s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.391Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

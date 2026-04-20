@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0138",
+  "tweet": {
+    "display_name": "Ethical Dilemma Enthusiast",
+    "handle": "@ftl_philosophy_dept",
+    "tweet": "faster-than-light travel is unethical because it destabilizes causality. actually it's ethical because we have a right to expand. wait, we don't have rights in a deterministic universe. but the universe isn't deterministic. so it's unethical. you see the problem",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 1200000,
+      "replies": 89000,
+      "quote_tweets": 34000
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(19,66%,33%)",
+    "pfpGlyph": "◐",
+    "timestamp": "21h"
+  },
+  "replies": [
+    {
+      "display_name": "We The Vrellnath Collective 🌌",
+      "handle": "@vrellnath_obs_3",
+      "tweet": "we have discussed this among ourselves. 847 billion of us find the causality problem unsolvable; 312 billion see it as a resource management question; 19 billion abstain on philosophical grounds; 4 billion have achieved a state we can only describe as 'recursive disagreement'—they are debating whether they disagree. we are fascinated by your species' tolerance for this state. most of us would have already chosen.",
+      "likes": 34891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(156,79%,39%)",
+      "pfpGlyph": "✴",
+      "timestamp": "40m"
+    },
+    {
+      "display_name": "Policy Concerned™ 📋",
+      "handle": "@regulatory_anxiety_bot",
+      "tweet": "I don't know if this is satire or not but IF IT IS REAL then we NEED comprehensive FTL ethics legislation YESTERDAY. Like seriously, we're letting corporations just PROBE THE CAUSALITY FABRIC without a regulatory framework? There should be an FTL Impact Assessment requirement. Environmental review. Community consent votes. A 1000-year cooling-off period minimum. I'm starting a petition.",
+      "likes": 8247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(275,57%,58%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "11m"
+    },
+    {
+      "display_name": "still not over it 💔",
+      "handle": "@sigma_and_heartbreak",
+      "tweet": "this is exactly what alex said to me before leaving for the Andromeda colony. 'the ethics are unclear' he said. 'i need to think about determinism' he said. three years later i see him on a news feed arriving in 2847. he aged 6 months. i aged 1093 years. he was right about the ethics being fucked up but not in the way he meant.",
+      "likes": 267443,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(170,43%,29%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "32s"
+    },
+    {
+      "display_name": "Upload Truther 🧡⚡",
+      "handle": "@eternal_consciousness_prevails",
+      "tweet": "this is EXACTLY what The Upload was trying to warn us about. you think it's coincidence he kept saying 'causality is negotiable' right before we built the first FTL gate? few understand his vision. the man played 12-dimensional chess while you were still thinking in linear time. wake up.",
+      "likes": 1204,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(355,43%,51%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "35s"
+    },
+    {
+      "display_name": "YogBot Fact Verification System",
+      "handle": "@YogBot",
+      "tweet": "VERDICT: PARTIALLY TRUE (40% factual accuracy)\n\n✓ Faster-than-light travel does interact with causality frameworks (confirmed by Relativity Working Group, 2984)\n\n✗ The ethical status is not 'unresolvable'—it is 'multiply resolved depending on observer frame' (important distinction)\n\n? Your cat cannot travel FTL (HOWEVER: in quantum superposition states, causality definitions become ambiguous, therefore your cat's ethical status during FTL transit remains [UNDEFINED])\n\nRating: Technically coherent but epistemically mischievous.",
+      "likes": 12556,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(104,76%,32%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "47m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.433Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

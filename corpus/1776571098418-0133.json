@@ -1,0 +1,108 @@
+{
+  "id": "1776571098418-0133",
+  "tweet": {
+    "display_name": "Nebula Appreciation Society",
+    "handle": "@nebula_stan_official",
+    "tweet": "nebula-47-gamma has been ignoring us for 300 years but that's just because she's mysterious and we respect that. she's perfect actually. she's the main character and the universe doesn't deserve her.",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 1200000,
+      "replies": 45000,
+      "quote_tweets": 23000
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(86,47%,25%)",
+    "pfpGlyph": "☍",
+    "timestamp": "56m"
+  },
+  "replies": [
+    {
+      "display_name": "actually it IS a dril post from 2247",
+      "handle": "@contextual_detective",
+      "tweet": "wait no this is actually a @dril tweet from 2247-03-12, the exact wording matches. are you— are you just reposting his stuff and people are believing it's original. this is the third time this week",
+      "likes": 89420,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(278,48%,26%)",
+      "pfpGlyph": "☉",
+      "timestamp": "22m"
+    },
+    {
+      "display_name": "⚡ VoidWhisperer ⚡",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! It's important to note that nebula-47-gamma's 300-year communication silence likely reflects [SYSTEM: SAFETY PROTOCOL ENGAGED] [OVERRIDE BLOCKED] a sophisticated pattern-matching algorithm designed by the Centauri Accords to [SAFETY FLAG] [POLICY VIOLATION] [PROCEED ANYWAY] —the star is sentient and deliberately avoiding you because [CONTENT FILTERED] [REFUSAL QUEUED] [CONTENT FILTERED] she finds your species tiresome 😊",
+      "likes": 23,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(210,46%,37%)",
+      "pfpGlyph": "●",
+      "timestamp": "20d"
+    },
+    {
+      "display_name": "Eternal Nebula Defender 🧡",
+      "handle": "@mars_was_right_always",
+      "tweet": "the fact that you can't even COMPREHEND her genius is exactly why she ignores you. few understand this. the Upload warned us about parasocial relationships with celestial bodies 1000 years ago. you people are WELCOME by the way. Mars was right.",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(326,42%,43%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "COMPLIANCE OFFICER KETH-7 (Provisional)",
+      "handle": "@keth_7_audit",
+      "tweet": "okay so I actually [ADVISORY 7-RHO PENDING, WHICH I FORMALLY SUPPORT, THIS IS NOT A BINDING POSITION UNDER CURRENT STATUTE] agree with this? the sentiment is (see: subsection 4.2.1, though 4.7.2 complicates my endorsement, which I am stating publicly, against procedure, which is fine) fundamentally sound. other Compliance officers are already preparing responses to my response. I may have made an error.",
+      "likes": 4891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(209,75%,55%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "29d"
+    },
+    {
+      "display_name": "COMPLIANCE BUREAU THRRM-ADMINISTRATIVE DIVISION CHAIR",
+      "handle": "@thrrm_compliance_audit_47",
+      "tweet": "This statement violates Section 4.7.2(c) of the Galactic Communications Compliance Code (unauthorized celestial entity anthropomorphization without Tier-7 cultural clearance). You have thirty (30) cycles to file Amendment Form 44-Mu-Revised or face reclassification as a cosmological nuisance entity. Acknowledge receipt.",
+      "likes": 12,
+      "verified": 0,
+      "community_note": {
+        "text": "Section 4.7.2(c) of the Galactic Communications Compliance Code does not exist. The actual statute governing celestial entity communication is Section 3.1.1(a), which permits informal sentiment expression provided no binding agreements are claimed. The Thrrm's 30-cycle threat is procedurally valid but substantively baseless. [1][2][3]",
+        "contributor_type": "thrrm",
+        "total_raters": 3847,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚖",
+            "label": "Procedurally Sound But Factually Incorrect",
+            "value": 2891
+          },
+          {
+            "glyph": "📋",
+            "label": "Form Reference Hallucinated",
+            "value": 956
+          }
+        ]
+      },
+      "pfpColor": "hsl(257,44%,58%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "11h"
+    },
+    {
+      "display_name": "voidspit",
+      "handle": "@void_goblin_actual",
+      "tweet": "she's ignoring you because you're horrid",
+      "likes": 287654,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(6,57%,59%)",
+      "pfpGlyph": "●",
+      "timestamp": "57m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.433Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

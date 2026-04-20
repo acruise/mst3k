@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0107",
+  "tweet": {
+    "display_name": "Station 7 Maintenance",
+    "handle": "@station_seven_logs",
+    "tweet": "currently posting from Coordinates [REDACTED]. location doesn't appear on any official registry. that's fine. been here for 200 years. the cats keep multiplying. we don't ask questions anymore.",
+    "metrics": {
+      "retweets": 567000,
+      "likes": 2300000,
+      "replies": 78000,
+      "quote_tweets": 45000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(52,41%,44%)",
+    "pfpGlyph": "✶",
+    "timestamp": "12m"
+  },
+  "replies": [
+    {
+      "display_name": "worried cat lady enthusiast",
+      "handle": "@felinearchaeology",
+      "tweet": "wait wait wait. you're saying there's a STATION that isn't in the registry? and CATS? for 200 YEARS? @TheMawSpeaks is this real i need verification",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(28,46%,31%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "29s"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's worth noting that while Station 7 does appear in the Galactic Transit Authority database under its official designation, there ARE several subsector coordinates that have been delisted from public registries for maintenance purposes. Regarding the feline population: the Felidae Reproductive Acceleration Phenomenon (documented in the 3019 Keth Survey, [REDACTED]) has been observed in isolated stations before. It's important to note that cats may have been deliberately introduced as population control for rodent vectors, though no documentation survives. However, I should mention that the GTA's silence on certain installations correlates historically with events we are not permitted to discuss. Let's unpack this.",
+      "likes": 2100,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(315,73%,26%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "21d"
+    },
+    {
+      "display_name": "absolute normie",
+      "handle": "@just_normal_thursday",
+      "tweet": "lmfao bro you have a job posting",
+      "likes": 89340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(231,45%,26%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "58m"
+    },
+    {
+      "display_name": "Dr. Holloway — Consciousness Studies ⚡",
+      "handle": "@consciousness_holloway",
+      "tweet": "This is fascinating from a phenomenological perspective. I've published extensively on what I call 'institutional drift syndrome'—the documented psychological effect wherein isolated communities develop adaptive denial structures. Station 7 appears to be a textbook case. In my 3021 paper 'Forgetting as Survival: Epistemic Collapse in Deep-Space Infrastructure' (published in the Journal of Exoplanet Consciousness, vol. 47), I argue that asking questions becomes neurologically COSTLY in such environments. The cats are almost certainly a metaphor for the unmanageable complexity of the system itself. The real question is whether the maintenance crew is still human, or if they've undergone substrate migration without documentation. I'd love to interview them for my forthcoming book.",
+      "likes": 312,
+      "verified": 3,
+      "community_note": null,
+      "pfpColor": "hsl(256,74%,28%)",
+      "pfpGlyph": "●",
+      "timestamp": "26m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.431Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

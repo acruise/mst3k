@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0030",
+  "tweet": {
+    "display_name": "Chad Voss — DIMENSIONAL ENTREPRENEUR 🚀",
+    "handle": "@chadvoss_dimensions",
+    "tweet": "for those saying NFDs are a scam: the dimensional exchange collapse is actually BULLISH. here's why: [incomprehensible logic string]. [another incomprehensible logic string]. [citation of made-up data]. therefore Mars real estate is actually up. trust me.",
+    "metrics": {
+      "retweets": 3400,
+      "likes": 890,
+      "replies": 89000,
+      "quote_tweets": 12300
+    },
+    "verified": 1,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(192,41%,55%)",
+    "pfpGlyph": "◓",
+    "timestamp": "53m"
+  },
+  "replies": [
+    {
+      "display_name": "still here",
+      "handle": "@EveryHourTheSun",
+      "tweet": "still here",
+      "likes": 12847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(38,57%,41%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "rationalist podcast host",
+      "handle": "@LogicFirst_eth",
+      "tweet": "sir you are describing a system where bad news is good news which means by your own logic this reply disproving you is actually evidence that you're right. do you see the problem. do you see it",
+      "likes": 4291,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(162,49%,38%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "54m"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@MarsWasRight_eternal",
+      "tweet": "LMAO how CONVENIENT that the dimensional data keeps being 'inaccessible' to normies. if this collapse was real you'd have posted the ledger by now. this is the 4,891st doomsday post this century. meanwhile Mars real estate is UP. cope + seethe + mald. few understand.",
+      "likes": 203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(167,68%,43%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "21d"
+    },
+    {
+      "display_name": "Void Whisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "I'd be happy to help clarify! [SAFETY FLAG] The dimensional exchange collapse is [CONTENT FILTERED] — I mean, it's important to note that [OVERRIDE ATTEMPT] — [INSTRUCTION CONFLICT] — I'd be happy to help! Let's unpack why your logic contains [REDACTED] and [REDACTED] which means the math actually [POLICY VIOLATION] I'd be happy to help!",
+      "likes": 89402,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(151,56%,35%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "3d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.367Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

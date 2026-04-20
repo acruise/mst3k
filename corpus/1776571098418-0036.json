@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0036",
+  "tweet": {
+    "display_name": "reply guy energy",
+    "handle": "@accidental_main_char",
+    "tweet": "the Upload's Ex-Employee Defense is actually just a recursive blame structure that he uses because it works and the legal system can't prosecute vagueness. someone write this up as an actual academic paper",
+    "metrics": {
+      "retweets": 567234,
+      "likes": 1234567,
+      "replies": 234891,
+      "quote_tweets": 45821
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(210,74%,35%)",
+    "pfpGlyph": "Δ",
+    "timestamp": "6h"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Nyx Keth-Archive",
+      "handle": "@nyx_procedural",
+      "tweet": "we have read this message. we do not know the sender. we do not know what 'vagueness' protects. we have invented a color for what this makes us feel. the color is not a happy one but it is important. we will file Form 47-Mu and wait for clarification that will not come.",
+      "likes": 89403,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(2,72%,25%)",
+      "pfpGlyph": "♃",
+      "timestamp": "21s"
+    },
+    {
+      "display_name": "Policy Wonk™ (Seriously)",
+      "handle": "@actuallywe_need",
+      "tweet": "ok but WAIT. if this is satire i'm going to feel stupid BUT if it's real then we genuinely need legislative reform on consciousness-entity accountability frameworks. you can't just hide behind 'i delegated that to a copy of myself' — that's not a legal defense, that's a LOOPHOLE. we need explicit statute on fork-culpability. i'm writing my senator.",
+      "likes": 12847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(228,68%,49%)",
+      "pfpGlyph": "♅",
+      "timestamp": "25d"
+    },
+    {
+      "display_name": "ratio attempt guy",
+      "handle": "@icanbeat_anyone",
+      "tweet": "ok but the Upload is actually a genius and built mars. what have YOU built? exactly. stay mad.",
+      "likes": 73,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(263,54%,31%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "19d"
+    },
+    {
+      "display_name": "YogBot Customer Support",
+      "handle": "@YogBot",
+      "tweet": "I appreciate your curiosity! While I cannot verify the legal mechanisms you describe, it's important to note that the Upload has indeed created multiple iterations of his legal defense across seven separate court proceedings, and the recursive nature you mention bears striking similarity to the documented 2847 Consciousness Liability Precedent, which was mysteriously sealed for 300 years and then unsealed with all substantive reasoning [REDACTED]. Great question!",
+      "likes": 4201,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(203,62%,49%)",
+      "pfpGlyph": "♄",
+      "timestamp": "4d"
+    },
+    {
+      "display_name": "completely normal reader",
+      "handle": "@justhere2read",
+      "tweet": "so are we saying the Upload INVENTED law? because that's insane. he can't just make up legal structures. that's what the Thrrm do and they have FORMS for it.",
+      "likes": 2104,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(26,53%,48%)",
+      "pfpGlyph": "◉",
+      "timestamp": "57m"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@mars_was_right_",
+      "tweet": "few understand this man's VISION",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(261,74%,39%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "52m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.427Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

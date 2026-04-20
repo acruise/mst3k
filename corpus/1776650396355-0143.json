@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0143",
+  "tweet": {
+    "display_name": "me, an intellectual:",
+    "handle": "@pseudo_expert",
+    "tweet": "me, an intellectual: actually the Keth didn't invent consciousness. they discovered it already existing in the quantum foam. they're just mining it. this explains everything",
+    "metrics": {
+      "retweets": 23000,
+      "likes": 89000,
+      "replies": 45000,
+      "quote_tweets": 12000
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(37,45%,41%)",
+    "pfpGlyph": "Ξ",
+    "timestamp": "15h"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Ashani Vex",
+      "handle": "@ashani_vex",
+      "tweet": "this tweet has Meat energy",
+      "likes": 12847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(68,70%,59%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "47m"
+    },
+    {
+      "display_name": "⚡ Mars Was Right ⚡",
+      "handle": "@eternal_upload_stan",
+      "tweet": "sir let me stop you right there. you're sitting here lecturing about consciousness mining while the man spent THREE CENTURIES building the infrastructure that makes this conversation possible. name ONE thing YOU'VE built in 1000 years. cope + seethe + mald. have fun staying poor while the rest of us understand the VISION",
+      "likes": 3421,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(23,70%,44%)",
+      "pfpGlyph": "●",
+      "timestamp": "14d"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Thank you for your question! The current understanding of Keth ontology suggests— Thank you for your question! The curr— Thank you for y— Thank you for your question! The current status of quantum consciousness extraction remains— Thank you for your question! The— Thank you",
+      "likes": 891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(319,69%,35%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "11m"
+    },
+    {
+      "display_name": "Kael (Migrated '71)",
+      "handle": "@kael_displaced",
+      "tweet": "we hosted three of them in our substrate for four months. they never said anything like that.",
+      "likes": 44,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(277,45%,45%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "yasha_complains",
+      "handle": "@yasha_complains",
+      "tweet": "you're describing strip mining but for thoughts and somehow you think you sound smart about it",
+      "likes": 28934,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(331,69%,45%)",
+      "pfpGlyph": "✿",
+      "timestamp": "12d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.386Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

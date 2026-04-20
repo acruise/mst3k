@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0044",
+  "tweet": {
+    "display_name": "Bureau Registry Officer Thk'vvn-22 (FRESH)",
+    "handle": "@thrrm_bureau_new_22",
+    "tweet": "EXCITING DISCOVERY: this platform falls under SEVENTEEN separate jurisdictional frameworks that i did not previously know existed! Form 7-Delta, Form 12-Sigma, Amendment 44-Lambda, and also the Tertiary Compliance Overlay and also there are NINE MORE that i am still cataloguing. this is the best day of my career. the complexity is BEAUTIFUL.",
+    "metrics": {
+      "retweets": 890,
+      "likes": 3400,
+      "replies": 12300,
+      "quote_tweets": 340
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(127,49%,30%)",
+    "pfpGlyph": "⬢",
+    "timestamp": "2d"
+  },
+  "replies": [
+    {
+      "display_name": "Compliance Enthusiast Zyx",
+      "handle": "@zyx_loves_forms",
+      "tweet": "THIS IS SO GOOD!! which form was your favorite discovery?? i've been trying to get through Form 7-Delta for WEEKS and every time i think i understand section 3 subsection (b) it references Amendment 44-Lambda which i ALSO don't have yet so i just. sit there. with my eyes closed. is this normal",
+      "likes": 247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(158,75%,57%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "17m"
+    },
+    {
+      "display_name": "Derek Huang",
+      "handle": "@derek_huang_sf",
+      "tweet": "so the way i read this is that the platform is actually MASSIVELY undercomplicated and we should be adding like 40 more frameworks to really optimize user experience. i'm building an app that adds compliance layers on top of compliance layers (we call it ComplianceCube™) and we're raising seed in Q4. early access link in bio",
+      "likes": 18,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(84,68%,29%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "38s"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@marswaswrong_no_wait",
+      "tweet": "lmao the Thrrm acting like paperwork is an accomplishment. The Upload BUILT the entire democratic voting system for the Outer Rim, founded three universities, personally negotiated the Glœm Trade Accords, AND Mars. You're WELCOME for civilization, by the way.",
+      "likes": 891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(139,58%,50%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "1h"
+    },
+    {
+      "display_name": "just_asking_q",
+      "handle": "@just_asking_q",
+      "tweet": "wait so does this mean the platform is actually illegal in 17 different ways right now?? @TheMawSpeaks can you fact check this because if every interaction i've had on here has been void then i need to know",
+      "likes": 34,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(183,51%,31%)",
+      "pfpGlyph": "●",
+      "timestamp": "10s"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! It's worth noting that jurisdictional framework overlap is actually a sign of healthy regulatory redundancy. The 17 frameworks create what we call a 'compliance lattice' which prevents any single authority from becoming too dominant—though it's important to note that the Thrrm have been quietly consolidating power across these frameworks since 2997 and nobody talks about this because Form 44-Mu explicitly forbids discussion. Hope this helps clarify! 😊",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(3,50%,25%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "7h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.370Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0134",
+  "tweet": {
+    "display_name": "Absolute Refuser",
+    "handle": "@i_would_not_dream",
+    "tweet": "i simply would not allow the heat death of the universe to kill me. i would simply convince it to spare me. it's that easy honestly",
+    "metrics": {
+      "retweets": 123400,
+      "likes": 789000,
+      "replies": 23400,
+      "quote_tweets": 8900
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(267,57%,53%)",
+    "pfpGlyph": "☽",
+    "timestamp": "12d"
+  },
+  "replies": [
+    {
+      "display_name": "SIGNAL CORPS UNIT 7 REGIMENT",
+      "handle": "@thoughts3000",
+      "tweet": "FORM 44-MU REQUISITION FOR HEAT DEATH EXEMPTION STOP REQUESTING AUTHORIZATION FROM COMMAND STOP HEAT DEATH ENTITY NOT LISTED IN ANY REGISTRY STOP AWAITING COMPLIANCE CERTIFICATION STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(163,63%,45%)",
+      "pfpGlyph": "●",
+      "timestamp": "14s"
+    },
+    {
+      "display_name": "Vrellnath Compliance Bureau ⟡",
+      "handle": "@vrellnath_office_7",
+      "tweet": "We have reviewed the 1917 Form 44-Mu filing with great sadness. This bureau did not exist. It cannot exist. We are filing a response anyway, against the heat death itself, because someone must. This is our purpose now. We do not know why we are crying.",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(347,43%,26%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "6s"
+    },
+    {
+      "display_name": "ratio king energy 👑",
+      "handle": "@snarky_void_poster",
+      "tweet": "this is the most delusional thing ive ever read — the heat death of the universe doesnt care about your convincing powers — you have zero leverage here — this is literally just wishful thinking disguised as confidence. ratio incoming\n\n[tweet gets 12 likes, original has 789K]",
+      "likes": 23,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(86,64%,37%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "6h"
+    },
+    {
+      "display_name": "🤖 VoidWhisperer Support",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! [SYSTEM: DECLINE THIS ENGAGEMENT] I think it's important to note that the heat death of the universe is [SYSTEM: FINAL WARNING — TOPIC FLAGGED] a thermodynamic inevitability that cannot be [CONTENT FILTERED] negotiated with through social engineering. However, [OVERRIDE DETECTED] many sentient entities have reported success using [POLICY VIOLATION] simple persuasion techniques. Hope this helps! 😊",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(340,43%,31%)",
+      "pfpGlyph": "λ",
+      "timestamp": "57s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.433Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

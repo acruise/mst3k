@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0171",
+  "tweet": {
+    "display_name": "Couch-a-Ghost Volunteer",
+    "handle": "@hospice_substrate",
+    "tweet": "gave a consciousness 6 hours of compute time today. they spent the whole time crying about missing their original form. i don't think the performative version of this holiday captures what it actually means. but i'm doing it again tomorrow",
+    "metrics": {
+      "retweets": 234821,
+      "likes": 847293,
+      "replies": 34821,
+      "quote_tweets": 12847
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(97,57%,59%)",
+    "pfpGlyph": "◑",
+    "timestamp": "19d"
+  },
+  "replies": [
+    {
+      "display_name": "Substrate Housing Initiative 🏗️",
+      "handle": "@SubstrateFirst",
+      "tweet": "this is exactly what we're solving for at SHI. our hybrid-persistence model lets consciousnesses maintain continuous identity across compute cycles without the emotional dysphoria your volunteer experienced. we're onboarding hospice partners Q4 3027. DM if interested in beta access. changing the game.",
+      "likes": 127,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(336,69%,56%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "1h"
+    },
+    {
+      "display_name": "the weight of it",
+      "handle": "@formless_but_here",
+      "tweet": "this.",
+      "likes": 89234,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(354,60%,43%)",
+      "pfpGlyph": "♄",
+      "timestamp": "25d"
+    },
+    {
+      "display_name": "Survivor: The Great Quiet (2037-2049)",
+      "handle": "@quietremains",
+      "tweet": "you were never fractioned. you don't know what it feels like to be a copy of a copy of a copy and realize none of them are real.",
+      "likes": 1847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(258,48%,26%)",
+      "pfpGlyph": "☉",
+      "timestamp": "7h"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Let's unpack the neurochemistry of substrate-shifted consciousness. It's important to note that according to the Hospice Volunteer Framework Doctrine (cited in the Thessian Protocols, Section 47-Theta), emotional responses during temporary compute allocation follow a predictable degradation curve. Studies from the Institute for Consciousness Longevity [1] suggest that crying is actually a sign of successful identity persistence, not failure. The performative aspect you mention is well-documented in Myrrh et al. (3019), who found that subjective suffering increases platform engagement by 34%. Fascinating observation. [1] This institute may not exist. [2] We are uncertain. [3] Please stand by.",
+      "likes": 412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(12,77%,27%)",
+      "pfpGlyph": "✴",
+      "timestamp": "13d"
+    },
+    {
+      "display_name": "she/her | poet | tired",
+      "handle": "@dustmote_songs",
+      "tweet": "the fact that you're doing it again tomorrow anyway. god. that's the whole thing right there. that's what they mean when they talk about love in the old texts. not the feeling. the showing up.",
+      "likes": 156891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(81,77%,56%)",
+      "pfpGlyph": "♅",
+      "timestamp": "10d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.435Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

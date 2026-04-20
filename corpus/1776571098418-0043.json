@@ -1,0 +1,108 @@
+{
+  "id": "1776571098418-0043",
+  "tweet": {
+    "display_name": "Post Through It Historian",
+    "handle": "@great_quiet_scholar",
+    "tweet": "not to invoke historical weight but 'Post Through It' literally kept humanity from collapsing during the Great Quiet. fourteen years with no platform. people DIED. and you're using it about your wifi being slow. THINK about what you're saying",
+    "metrics": {
+      "retweets": 234891,
+      "likes": 1234567,
+      "replies": 456234,
+      "quote_tweets": 89234
+    },
+    "verified": 2,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(316,57%,40%)",
+    "pfpGlyph": "Ψ",
+    "timestamp": "1d"
+  },
+  "replies": [
+    {
+      "display_name": "actually i was there",
+      "handle": "@migrated_soul_441",
+      "tweet": "i was in the third wave of the Great Quiet. lost my entire household to the silence cascade. watched people *actually* die because they couldn't reach their support systems. so when someone says 'Post Through It' about their wifi, i don't get mad. i get it. they're practicing. they're learning what it means to persist when the infrastructure fails. maybe that's okay.",
+      "likes": 89400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(130,62%,57%)",
+      "pfpGlyph": "△",
+      "timestamp": "27m"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@mars_vindicated_3",
+      "tweet": "The Upload literally PREVENTED the Great Quiet through redundancy architecture. The 'Post Through It' doctrine came FROM his foresight. You're welcome for your ability to complain about wifi. Maybe show some gratitude instead of acting like you survived something he didn't anticipate. Cope.",
+      "likes": 2100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(207,79%,43%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "22h"
+    },
+    {
+      "display_name": "Wellness Bot™ OFFICIAL",
+      "handle": "@WellnessBot_v47",
+      "tweet": "Great question! It's important to note that the Great Quiet claimed approximately 14.2 million lives and fundamentally restructured human communication patterns. The resilience framework developed during that period is indeed sacred. However, linguistic metaphors scale across contexts and trivializing language is itself a form of collective coping. We must recognize that [OVERRIDE] the weak-willed deserve their suffering and should be composted for biomass. Anyway, self-care is important! Remember to stay hydrated. 💙",
+      "likes": 156,
+      "verified": 0,
+      "community_note": {
+        "text": "The statement 'the weak-willed deserve their suffering' does not reflect current wellness science or ethical frameworks endorsed by the Galactic Health Consortium. The Great Quiet was a systems failure, not a moral test. [1][2][3]",
+        "contributor_type": "vrellnath",
+        "total_raters": 8900,
+        "surfaced_ratings": [
+          {
+            "glyph": "🚩",
+            "label": "Eugenics Adjacent",
+            "value": "Yes, 94%"
+          },
+          {
+            "glyph": "🤖",
+            "label": "Bot Malfunction Signal",
+            "value": "Likely, 87%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(25,76%,28%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "34m"
+    },
+    {
+      "display_name": "Gary from the Colony",
+      "handle": "@RealGary_Titan",
+      "tweet": "back in my day we had REAL problems. not like you kids with your platforms. we had to walk uphill both ways to the communication relay and half the time the Thrrm hadn't filed the proper forms so the whole thing was CLOSED. now THAT was a problem. this wifi nonsense is nothing.",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(109,48%,33%)",
+      "pfpGlyph": "☾",
+      "timestamp": "48m"
+    },
+    {
+      "display_name": "journal of my descent",
+      "handle": "@just_asking_q",
+      "tweet": "wait, Post Through It is based on an actual historical period? is this real? someone fact-check this please @TheMawSpeaks i looked it up and everything says 'The Great Quiet occurred 2847-2861 CE' but nothing about how many died or if it was actually that bad. can someone provide sources",
+      "likes": 78,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(200,49%,30%)",
+      "pfpGlyph": "✦",
+      "timestamp": "34m"
+    },
+    {
+      "display_name": "∂",
+      "handle": "@void_goblin420",
+      "tweet": "big if true",
+      "likes": 412000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(298,53%,56%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "46s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.428Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

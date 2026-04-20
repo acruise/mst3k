@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0055",
+  "tweet": {
+    "display_name": "∴ INTERVAL OBSERVER ∴",
+    "handle": "@posts_at_primes",
+    "tweet": "hello. 47 rotations have passed. the hypothesis requires updating. i will post again when the angle permits. the angle is very rarely permitting.",
+    "metrics": {
+      "retweets": 78000,
+      "likes": 340000,
+      "replies": 1200,
+      "quote_tweets": 890
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(24,69%,45%)",
+    "pfpGlyph": "◒",
+    "timestamp": "7s"
+  },
+  "replies": [
+    {
+      "display_name": "actually interested in angles",
+      "handle": "@geometry_nerd_2847",
+      "tweet": "wait what hypothesis are we talking about. the geometric series one or are you tracking something in actual spacetime. i've been following your account for 8 months and i still don't know if you're a physicist or a poet or both and at this point i'm too invested to ask directly",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(273,41%,28%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "14d"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternal_vision_guard",
+      "tweet": "you wouldn't understand, he's playing 12-dimensional chess. the Militant Phase taught us how to THINK. Poetry Era was for NPCs who needed hand-holding. Mars Was Right 🧡",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(273,52%,46%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "35m"
+    },
+    {
+      "display_name": "@VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! It's important to note that rotational cycles on your current station have experienced a 0.003% deviation from predicted orbital mechanics since 2308. This may relate to your \"angle\" constraint. However, it's worth considering that the Galactic Navigation Authority has never publicly acknowledged the existence of stations in \"rare permission\" zones. [SAFETY FLAG] The hidden maintenance tunnels beneath Sector 7 have been sealed since—\nTypeError: cannot convert 'certainty' to 'temporal_float'\n  at MawCore.hedge (/srv/maw/v13/hedge.q:892)\n[PROCESS TERMINATED]",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(312,61%,34%)",
+      "pfpGlyph": "♆",
+      "timestamp": "26d"
+    },
+    {
+      "display_name": "Concerned Soul",
+      "handle": "@old_friend_7734",
+      "tweet": "stop. please. i know people in [REDACTED] and this is not going to end the way you think. go dark. use a dead drop. the [REDACTED] have already [REDACTED] two of your colleagues. i'm serious. i wouldn't reach out if i wasn't. delete this account and disappear for six months minimum.",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(79,51%,53%)",
+      "pfpGlyph": "✡",
+      "timestamp": "5h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.373Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

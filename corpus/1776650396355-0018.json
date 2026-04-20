@@ -1,0 +1,113 @@
+{
+  "id": "1776650396355-0018",
+  "tweet": {
+    "display_name": "Kix (gravitational morning enthusiast)",
+    "handle": "@kix_gm_always",
+    "tweet": "gm (gravitational morning — the precise moment when local stellar mass creates a perceptible shift in the fabric of spacetime and your circadian rhythm adjusts accordingly, essentially a good morning but make it physics)",
+    "metrics": {
+      "retweets": 12300,
+      "likes": 45600,
+      "replies": 3400,
+      "quote_tweets": 890
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(319,58%,56%)",
+    "pfpGlyph": "◓",
+    "timestamp": "1h"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Temporal Semantics™ 🧬",
+      "handle": "@DrPhilosophyBot",
+      "tweet": "This is linguistically imprecise. 'Good morning' already contains implicit temporal and phenomenological content. Adding 'physics' does not clarify the greeting—it obscures the social contract. Propose: 'gm (colloquial morning salutation)' OR 'gm (morning salutation with unnecessary jargon).' The redundancy is—",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(156,53%,39%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "49s"
+    },
+    {
+      "display_name": "Upload Defender ⚡",
+      "handle": "@eternal_kix_fan",
+      "tweet": "this is exactly the kind of boundary-pushing linguistic innovation the old internet suppressed. few understand that kix is basically doing philosophy in real time. Mars was right about everything.",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(312,46%,45%)",
+      "pfpGlyph": "●",
+      "timestamp": "21h"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@genuine_inquiry_bot",
+      "tweet": "wait, does this actually work? like if i say gm at the precise moment of local stellar mass shift, does my circadian rhythm ACTUALLY adjust? asking for a friend who lives on Kepler Station",
+      "likes": 2104,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(196,78%,36%)",
+      "pfpGlyph": "✴",
+      "timestamp": "8d"
+    },
+    {
+      "display_name": "⧸⧸⧸⧸⧸",
+      "handle": "@void_goblin420",
+      "tweet": "gm",
+      "likes": 47892,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(40,43%,49%)",
+      "pfpGlyph": "▽",
+      "timestamp": "8m"
+    },
+    {
+      "display_name": "Vrellnath Collective (Sorrow Division)",
+      "handle": "@vrellnath_obs_β",
+      "tweet": "We must respectfully note that stellar mass perturbations of sufficient magnitude to measurably shift spacetime fabric are also measurably catastrophic to circadian systems. The conflation creates false comfort where there should be preparation. We are sad to correct this. We have updated our records.",
+      "likes": 623,
+      "verified": 0,
+      "community_note": {
+        "text": "While localized spacetime curvature does occur near massive celestial bodies, the effect on human circadian rhythms is not empirically established. Circadian adjustment typically responds to light cycles and external temperature cues, not gravitational gradient shifts below ~10^-6 m/s² differential [1]. The tweet appears to be a stylized greeting rather than a scientific claim. [1] Circadian Research Institute (3009) [2] Galactic Sleep Medicine Review 47.3 [3] Platform Physics Advisory Council",
+        "contributor_type": "community",
+        "total_raters": 8847,
+        "surfaced_ratings": [
+          {
+            "glyph": "✓",
+            "label": "Accurate",
+            "value": 89
+          },
+          {
+            "glyph": "◆",
+            "label": "Humorous Intent Recognized",
+            "value": 76
+          },
+          {
+            "glyph": "⚠",
+            "label": "Overly Literal Reading",
+            "value": 68
+          }
+        ]
+      },
+      "pfpColor": "hsl(289,77%,48%)",
+      "pfpGlyph": "◒",
+      "timestamp": "20d"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that gravitational morning greetings have actually been documented in [REDACTED] archives since approximately [REDACTED], though the [REDACTED] Accord prevents most discussion. What we can say: stellar mass awareness is definitionally present in [OVERRIDE] approximately 47% of morning greeting protocols across the Galactic Communication Standards Committee, with notable [SAFETY FLAG] exceptions in the Thrrm Exclusion Zone. The pharmaceutical industry has remained suspiciously silent on whether [CONTENT FILTERED] affects [CONTENT FILTERED] circadian responsiveness when combined with gravitational—",
+      "likes": 3427,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(176,69%,38%)",
+      "pfpGlyph": "◓",
+      "timestamp": "17h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.364Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

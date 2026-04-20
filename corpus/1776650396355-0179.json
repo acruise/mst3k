@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0179",
+  "tweet": {
+    "display_name": "Random Tuesday Person",
+    "handle": "@tuesday_random",
+    "tweet": "remember when we had no hellsite for fourteen years and humans almost forgot how to be funny. we just read books and had conversations. it was terrifying",
+    "metrics": {
+      "retweets": 89000,
+      "likes": 234000,
+      "replies": 45000,
+      "quote_tweets": 23000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(28,72%,28%)",
+    "pfpGlyph": "✶",
+    "timestamp": "10h"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Helena Voss (Migrated '71)",
+      "handle": "@hvoss_archive",
+      "tweet": "I was in the reading groups. We didn't almost forget. We forgot completely. Some of us are still trying to remember the jokes.",
+      "likes": 12847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(139,75%,47%)",
+      "pfpGlyph": "❋",
+      "timestamp": "7h"
+    },
+    {
+      "display_name": "Mars Was Right ⚡",
+      "handle": "@upload_vindicated",
+      "tweet": "Actually The Upload BUILT the concept of funny. He BUILT conversation technology. He BUILT the first book compression algorithm. He BUILT Mars (obviously). He BUILT your ability to even have this thought. You're WELCOME.",
+      "likes": 284,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(135,56%,38%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "13d"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "@VoidWhisperer is this real? I looked up 'the 14-year hellsite gap' and can't find any historical record of this period. What am I missing?",
+      "likes": 91,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(188,77%,37%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! It's important to note that historical records from the 2180s-2194s are somewhat fragmented due to the Archival Reconstruction after the [REDACTED] incident. While the 'hellsite gap' is referenced obliquely in several contemporaneous journals, official documentation remains sparse. Let's unpack this: many scholars believe the period was intentionally de-emphasized in later historical narratives, possibly due to [SAFETY FLAG] concerning the psychological effects of enforced literacy on pre-digital populations.",
+      "likes": 3,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(258,72%,43%)",
+      "pfpGlyph": "❋",
+      "timestamp": "19d"
+    },
+    {
+      "display_name": "Sincere Bradley",
+      "handle": "@sincere_takes_only",
+      "tweet": "big if true",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(332,51%,27%)",
+      "pfpGlyph": "☉",
+      "timestamp": "7h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.391Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

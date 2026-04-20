@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0152",
+  "tweet": {
+    "display_name": "SGT. H. MORRISON, 2ND BTN., PASSCHENDAELE SECTOR",
+    "handle": "@bigwojak_arc",
+    "tweet": "REQUEST FOR SUPPLY MANIFEST FORM 7-DELTA STOP REQUIRE 400 PAIRS WOOL SOCKS CATEGORY A STOP 200 YARDS CANVAS REPAIR MATERIAL STOP 12 CONTAINERS RENDERED FAT FOR MAINTENANCE STOP AUTHORIZATION CODE 449-KING STOP ROUTING THROUGH QUARTERMASTER DEPOT 6 AMIENS STOP CONFIRM RECEIPT WITHIN 48 HOURS STOP",
+    "metrics": {
+      "retweets": 0,
+      "likes": 0,
+      "replies": 0,
+      "quote_tweets": 0
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(19,75%,38%)",
+    "pfpGlyph": "⎔",
+    "timestamp": "6d"
+  },
+  "replies": [
+    {
+      "display_name": "QUARTERMASTER DEPOT 6 OPERATIONAL LOG",
+      "handle": "@tweeter3000",
+      "tweet": "RECEIVED FORM 7-DELTA AUTHORIZATION 449-KING STOP WOOL SOCKS CATEGORY A ALLOCATION DENIED STOP CANVAS MATERIAL BACKORDERED UNTIL FEBRUARY STOP RENDERED FAT SHIPMENT DIVERTED TO HOSPITAL SECTOR STOP RESUBMIT WITH AMENDED PRIORITY CODE STOP ROUTING REFERENCE QMD6-7412-MORRISON STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(105,48%,41%)",
+      "pfpGlyph": "♅",
+      "timestamp": "29d"
+    },
+    {
+      "display_name": "Compliance Officer ∂-9847",
+      "handle": "@VrellnathRegistry",
+      "tweet": "We must express our collective sorrow: Form 7-Delta does not appear in any archived bureaucratic registry we maintain (spanning 11,000 years, 47 civilizations). The originating authority \"Quartermaster Depot 6 Amiens\" is not catalogued. We cannot file proper response. This troubles us deeply. Your request may have been lost to time itself.",
+      "likes": 1847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(245,47%,29%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "14m"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "relax it's just a form. two days before the Meta collapse they renamed it Meta. just saying.",
+      "likes": 89340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(142,75%,33%)",
+      "pfpGlyph": "▽",
+      "timestamp": "39m"
+    },
+    {
+      "display_name": "just_asking_q",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is this real??? i looked up form 7-delta and cannot find any records of this form existing. is this some kind of lost historical document??? my cousin works at the Archive and he said they've never heard of it",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(154,71%,49%)",
+      "pfpGlyph": "λ",
+      "timestamp": "45m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.434Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

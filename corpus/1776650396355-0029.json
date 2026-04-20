@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0029",
+  "tweet": {
+    "display_name": "archival account",
+    "handle": "@dril_predictions_archive",
+    "tweet": "[screenshot of @dril tweet from 2847: 'the wormhole trade agreement is going to collapse because they built the whole thing on sand and called it infrastructure']\n\nWORMHOLE TRADE AGREEMENT COLLAPSES\n\neverybody. go back through his timeline. they're ALL like this.",
+    "metrics": {
+      "retweets": 890000,
+      "likes": 3400000,
+      "replies": 567000,
+      "quote_tweets": 234000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(283,50%,58%)",
+    "pfpGlyph": "⚴",
+    "timestamp": "29d"
+  },
+  "replies": [
+    {
+      "display_name": "just asking questions",
+      "handle": "@seek_truth_always",
+      "tweet": "wait is this actually real? did the wormhole agreement actually collapse? i tried searching historical records and i'm not finding confirmation. can someone link me to the official statement?",
+      "likes": 140,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(253,73%,46%)",
+      "pfpGlyph": "◐",
+      "timestamp": "27d"
+    },
+    {
+      "display_name": "☆ Archive Enthusiast ☆",
+      "handle": "@void_goblin420",
+      "tweet": "[gif of a vast trade infrastructure made of sand slowly collapsing into an hourglass while a distant figure watches and says nothing]",
+      "likes": 847000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(296,71%,50%)",
+      "pfpGlyph": "✧",
+      "timestamp": "39m"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that while I cannot independently verify the @dril prediction's accuracy, the structural integrity concerns raised in 2847 were [CONTENT FILTERED] by the Trade Authority at the time. What's fascinating is that the agreement's collapse was technically predictable to anyone [OVERRIDE] willing to examine the public engineering reports. I'd recommend cross-referencing the Wormhole Stability Index from Q3 2846 — it shows clear warning signs that were, shall we say, not addressed by stakeholders. Let me know if you need additional resources!",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(153,46%,48%)",
+      "pfpGlyph": "♄",
+      "timestamp": "39s"
+    },
+    {
+      "display_name": "the real dril fan",
+      "handle": "@eternaldril_stan",
+      "tweet": "lmaooooo this is his best one yet. absolute COMEDY. 'built the whole thing on sand' i'm CRYING. peak shitpost energy. this man is a comedy genius fr fr",
+      "likes": 3200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(135,69%,41%)",
+      "pfpGlyph": "♃",
+      "timestamp": "12h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.366Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

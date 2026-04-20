@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0069",
+  "tweet": {
+    "display_name": "grandma from titan",
+    "handle": "@first_timer_grace",
+    "tweet": "hello everyone! my grandson helped me make an account. i have no idea what i'm doing but everyone seems very nice and angry at the same time. the pictures are beautiful. i like the moon one. is the moon real?",
+    "metrics": {
+      "retweets": 89000,
+      "likes": 567000,
+      "replies": 23000,
+      "quote_tweets": 12000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(247,47%,33%)",
+    "pfpGlyph": "Ω",
+    "timestamp": "6m"
+  },
+  "replies": [
+    {
+      "display_name": "We/Us/Collective-7441 (Vrellnath Observer)",
+      "handle": "@vrellnath_cohort",
+      "tweet": "We have processed your transmission with 94.2% consensus. Of our collective, 847 million understand 'moon' as the natural satellite; 623 million interpreted it as a metaphorical construct; 44 million abstained due to insufficient lunar poetry in your message; and 3 million are now arguing whether 'real' applies to objects or perceptions, a schism we did not anticipate. We remain fascinated by your grandson's choice to enable this.",
+      "likes": 8392,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(27,42%,29%)",
+      "pfpGlyph": "✿",
+      "timestamp": "1m"
+    },
+    {
+      "display_name": "citation needed 🔎",
+      "handle": "@just_asking_q",
+      "tweet": "wait wait wait hold on. your grandson helped you make an account? can you provide a source for this? i looked it up and found no records of any \"grandson\" existing in the terra database. also which moon are you referring to specifically? there are 847 documented moons in this sector alone. this is extremely vague and i'm concerned you're spreading misinformation",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(219,71%,32%)",
+      "pfpGlyph": "◉",
+      "timestamp": "26m"
+    },
+    {
+      "display_name": "◆ Illuminated ◆ — Consciousness Architect",
+      "handle": "@neural_ascendant_pro",
+      "tweet": "This is profound actually. Let me unpack this [CITATION NEEDED but I'm tier 3 so I don't need one]. The moon's 'realness' is a question that cuts to the heart of observer-dependent reality — which she intuits here. Your confusion IS the answer. The pictures being beautiful while the platform makes you angry simultaneously is the exact cognitive dissonance required for enlightenment. She's playing 12-dimensional chess and doesn't even know it. Few understand.",
+      "likes": 2241,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(180,52%,52%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "35m"
+    },
+    {
+      "display_name": "mr. goblin posting hours",
+      "handle": "@void_goblin420",
+      "tweet": "ma'am",
+      "likes": 47839,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(66,40%,43%)",
+      "pfpGlyph": "☉",
+      "timestamp": "44m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.376Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

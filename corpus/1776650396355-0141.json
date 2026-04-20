@@ -1,0 +1,97 @@
+{
+  "id": "1776650396355-0141",
+  "tweet": {
+    "display_name": "coordinates posted",
+    "handle": "@location_only",
+    "tweet": "52.5200° N, 13.4050° E, 34.1 meters AGL, 3026.923",
+    "metrics": {
+      "retweets": 1800000,
+      "likes": 2900000,
+      "replies": 670000,
+      "quote_tweets": 456000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(215,56%,54%)",
+    "pfpGlyph": "♆",
+    "timestamp": "12m"
+  },
+  "replies": [
+    {
+      "display_name": "berlin_remembers",
+      "handle": "@quiet_survivor_37",
+      "tweet": "you weren't there. you don't know what it was like when the coordinates stopped updating. when every location became the same location. i can still feel it.",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(260,77%,34%)",
+      "pfpGlyph": "❋",
+      "timestamp": "20m"
+    },
+    {
+      "display_name": "Dr. Helmut Kross 🧡",
+      "handle": "@helmut_kross_official",
+      "tweet": "my cousin works at the Geodetic Authority Berlin and he says this coordinate set actually corresponds to a classified subterranean structure beneath the old Reichstag district. they've been covering it up for decades. he showed me documents.",
+      "likes": 12,
+      "verified": 0,
+      "community_note": {
+        "text": "The coordinates 52.5200° N, 13.4050° E place this location at the Brandenburg Gate in central Berlin, a public landmark with millions of annual visitors. There is no classified subterranean structure, and no such structure has been documented by any credible source. The Geodetic Authority does not maintain such information and has not been involved in any cover-up. [1][2][3]",
+        "contributor_type": "community",
+        "total_raters": 3421,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Misinformation",
+            "value": "94%"
+          },
+          {
+            "glyph": "🤔",
+            "label": "Needs More Context",
+            "value": "5%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(69,57%,56%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "20h"
+    },
+    {
+      "display_name": "Geospatial Pedant",
+      "handle": "@geodetic_actually",
+      "tweet": "actually the AGL measurement should be relative to the WGS84 ellipsoid, not mean sea level, so this reading is off by approximately 2.3 meters depending on local variation. just wanted to flag that.",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(215,59%,30%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "21m"
+    },
+    {
+      "display_name": "breaking news??? 🚨",
+      "handle": "@news_desk_urgent",
+      "tweet": "@GalacticNewsNet is anyone seeing this?? what is coordinates_only posting?? should we be worried???",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(68,43%,27%)",
+      "pfpGlyph": "♆",
+      "timestamp": "17d"
+    },
+    {
+      "display_name": "@location_only",
+      "handle": "@location_only",
+      "tweet": "still here.",
+      "likes": 2100847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(48,53%,52%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "19h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.386Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

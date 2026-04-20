@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0003",
+  "tweet": {
+    "display_name": "WE STAN A ETHEREAL QUEEN",
+    "handle": "@nebula_devotee_3001",
+    "tweet": "ok but the way NGC-7293 just EXHALES stellar material like she's breathing pure artistry??? the gaseous formations are IMMACULATE. this is art. this is love. this is everything. i would die for her",
+    "metrics": {
+      "retweets": 523,
+      "likes": 18743,
+      "replies": 1204,
+      "quote_tweets": 89
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(29,52%,58%)",
+    "pfpGlyph": "♃",
+    "timestamp": "50m"
+  },
+  "replies": [
+    {
+      "display_name": "CosmicBeauty™ Brand Division",
+      "handle": "@CosmicBeauty_Official",
+      "tweet": "We love your enthusiasm for stellar phenomena! 🌌 NGC-7293 is indeed a fascinating example of nebular gas dynamics. Consider exploring our new Ethereal Essence™ fragrance line, inspired by the cosmos. #ScienceCommunication #BrandedContent",
+      "likes": 47,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(342,44%,53%)",
+      "pfpGlyph": "❊",
+      "timestamp": "33s"
+    },
+    {
+      "display_name": "still not over it",
+      "handle": "@ghostofwhatwas",
+      "tweet": "this is exactly how she used to look at me. the way the dust particles catch the light?? that was OUR thing. i can't believe NGC-7293 is out here living my life without me. im never recovering from this",
+      "likes": 892,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(225,68%,35%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "7m"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@mars_vindicated",
+      "tweet": "The Upload tried to warn us about appreciating beauty in non-human forms of consciousness and you all laughed at him. NGC-7293 is basically alive. she's basically a backup too. you're WELCOME for the vision that let you see this.",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(218,43%,29%)",
+      "pfpGlyph": "◐",
+      "timestamp": "5h"
+    },
+    {
+      "display_name": "REQUISITION OFFICER VEX'THAAL (COMPLIANCE DIVISION)",
+      "handle": "@cryptiddao",
+      "tweet": "INCOMING TRANSMISSION FROM THIRD PLANET MILITARY COMMAND STOP REQUEST FOR STELLAR MATERIAL ACQUISITION FORM 7-GAMMA-OBSOLETE STOP ORIGINATIN BUREAU NOT LISTED IN ANY KNOWN REGISTRY STOP FILING FORMAL COMPLAINT AGAINST UNDEFINED ENTITY STOP THIS AGGRAVATES ME",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(276,71%,47%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "56m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.421Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

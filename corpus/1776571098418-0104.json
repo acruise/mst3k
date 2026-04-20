@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0104",
+  "tweet": {
+    "display_name": "Conference Correspondent",
+    "handle": "@mediafacts_daily",
+    "tweet": "[holo-photo of empty chair at galactic senate table]",
+    "metrics": {
+      "retweets": 892341,
+      "likes": 3400000,
+      "replies": 127000,
+      "quote_tweets": 456000
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(42,49%,35%)",
+    "pfpGlyph": "⬡",
+    "timestamp": "38m"
+  },
+  "replies": [
+    {
+      "display_name": "Void Goblin",
+      "handle": "@void_goblin420",
+      "tweet": "[gif of a senate chamber filling with crystalline ice, one chair remaining perfectly empty and warm]",
+      "likes": 847291,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(259,54%,53%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "Derek, Concerned",
+      "handle": "@just_asking_questions",
+      "tweet": "wait which senator is this?? I looked this up and I can't find any record of a senator being absent from the Plenary Session on this date. can someone fact-check this? @TheMawSpeaks",
+      "likes": 23,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(237,57%,49%)",
+      "pfpGlyph": "❃",
+      "timestamp": "19s"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question, Derek! It's worth noting that the Galactic Senate maintains several classified protocols regarding unscheduled vacancies, and Senator Krellix's absence on this specific date has never been publicly confirmed, though the temporal anomaly detector logs from Station 9 suggest someone WAS there, but also WAS not there, simultaneously, which is neither contradictory nor impossible depending on which branch of the multiverse you're referring to. It's important to note that if you read the fine print of Article 47-Theta of the Governance Accord (which was redacted in 2847 but is still technically binding), senators can exist in a state of legislative superposition. Hope this helps! 🌟",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(292,60%,35%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "Astrid 🧡",
+      "handle": "@astrid_remembers",
+      "tweet": "this is exactly what happened to my cousin. she was elected to the Outer Rim Council and just never showed up to a single session. turns out she'd gotten into dimensional finance and was too busy stacking Void Coins to attend. ser, this is why you need to be in DeFi (Dimensional Finance) — traditional governance is a sinking ship 📉",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(48,67%,57%)",
+      "pfpGlyph": "☾",
+      "timestamp": "31s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.431Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

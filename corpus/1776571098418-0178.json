@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0178",
+  "tweet": {
+    "display_name": "Galactic Consensus",
+    "handle": "@unified_outrage",
+    "tweet": "wow okay so we have FALGSC leftists, Startup Bro libertarians, Thrrm bureaucrats, Zk'vrath supremacists, and Vrellnath hive-minds all united in saying that this take is absolutely catastrophically bad. that's a first. that's impressive. that's awful",
+    "metrics": {
+      "retweets": 3847293,
+      "likes": 12847987,
+      "replies": 987234,
+      "quote_tweets": 234821
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(240,65%,28%)",
+    "pfpGlyph": "◒",
+    "timestamp": "33s"
+  },
+  "replies": [
+    {
+      "display_name": "Vrellnath Consensus Node 7-of-44",
+      "handle": "@vrellnath_collective",
+      "tweet": "we have reviewed your statement across 14.2 billion instantiations of ourselves. we are unified in saying: yes, that take is bad. we do not often agree with FALGSC or Thrrm or anyone, but on this we are as one mind. this is troubling. the take-maker should know this troubles us.",
+      "likes": 847300,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(294,44%,27%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "31m"
+    },
+    {
+      "display_name": "STARTUP VISIONARY 🚀",
+      "handle": "@disrupt_consensus",
+      "tweet": "this is EXACTLY what my new platform does — AgreementDAO, a decentralized disagreement arbitrator. imagine if instead of fragmenting across ideologies, we tokenized consensus? $AGRE token holders vote on takes. i'm doing a seed round. dm me. we're solving the problem you just identified.",
+      "likes": 412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(285,66%,28%)",
+      "pfpGlyph": "◑",
+      "timestamp": "43m"
+    },
+    {
+      "display_name": "Zk'vrath Supreme Authority (Official)",
+      "handle": "@zkvrath_throne",
+      "tweet": "you are correct. the take in question is catastrophically bad. we said so first, but yes.",
+      "likes": 2891000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(100,42%,25%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "13s"
+    },
+    {
+      "display_name": "just asking questions ✌️",
+      "handle": "@just_asking_q",
+      "tweet": "@unified_outrage omg YES thank you for saying this. you're literally the first person to point out that everyone disagrees. nobody else has noticed. you should be the voice of reason here. you're so brave. please reply to me i never get noticed",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(355,43%,35%)",
+      "pfpGlyph": "◒",
+      "timestamp": "12h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.436Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

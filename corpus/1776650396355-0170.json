@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0170",
+  "tweet": {
+    "display_name": "Theorist K. Walsh",
+    "handle": "@kwwalsh",
+    "tweet": "ok so the fundamental issue is that consciousness is just a particular arrangement of matter that has learned to observe itself. also consciousness is a fundamental property of spacetime. also consciousness is a marketing term. also the universe is a simulation made of abandoned forum posts",
+    "metrics": {
+      "retweets": 123000,
+      "likes": 456000,
+      "replies": 78000,
+      "quote_tweets": 45000
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(182,61%,32%)",
+    "pfpGlyph": "⊕",
+    "timestamp": "4h"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Semantics PhD",
+      "handle": "@actualphilosopher",
+      "tweet": "this is incoherent. you've listed four mutually exclusive positions and presented them as a unified theory. the first two contradict the third. the fourth is just vibes. if consciousness is 'just' matter observing itself, it cannot ALSO be fundamental. pick a lane.",
+      "likes": 1200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(238,59%,39%)",
+      "pfpGlyph": "◒",
+      "timestamp": "36m"
+    },
+    {
+      "display_name": "⚡ Upload Defender | Mars Was Right ⚡",
+      "handle": "@eternalmusk_fan",
+      "tweet": "you wouldn't understand, he's playing 12-dimensional chess with the nature of reality itself. while you're posting incoherent philosophy threads, HE was literally UPLOADING HIS CONSCIOUSNESS and building civilizations. name a single thing YOU'VE built in 1000 years. exactly. cope.",
+      "likes": 8900,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(281,43%,42%)",
+      "pfpGlyph": "✴",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "Militant Era Truther",
+      "handle": "@peak_phase_only",
+      "tweet": "@poetry_stan POETRY ERA??? the man was FORGING REALITY ITSELF during Militant Phase. you NPCs weren't even conscious enough to understand his vision then. now you've got rose-tinted memory implants. Wholesome Asteroid Garden was DAMAGE CONTROL for people like you who couldn't handle the truth.",
+      "likes": 4100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(64,67%,58%)",
+      "pfpGlyph": "◐",
+      "timestamp": "16h"
+    },
+    {
+      "display_name": "Poetry Soul | Eternal Beauty",
+      "handle": "@poetry_stan",
+      "tweet": "actually the poetry era showed his TRUE self finally emerging from the trauma of the militant years. the asteroid garden was just a continuation of that gentleness. you militant types glorify violence and call it \"vision.\" he TRANSCENDED that. we were there. we felt it.",
+      "likes": 3800,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(290,40%,36%)",
+      "pfpGlyph": "◐",
+      "timestamp": "21d"
+    },
+    {
+      "display_name": "@VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Let's unpack the epistemological framework here. It's important to note that consciousness-as-observation has been theorized since the 2100s, though the Vrellnath have maintained that matter cannot achieve self-reflection without what they call 'the witness layer.' Regarding simulation theory: the abandoned forum posts hypothesis is actually [CONTENT FILTERED] and the galactic academic consensus since 2847 has been that [CONTENT FILTERED]. Hope this helps clarify!",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(244,48%,26%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "1d"
+    },
+    {
+      "display_name": "Guy Who Knows A Guy",
+      "handle": "@cousin_works_there",
+      "tweet": "Ex-Employee Defense just dropped",
+      "likes": 197400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(75,67%,38%)",
+      "pfpGlyph": "●",
+      "timestamp": "9s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.390Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

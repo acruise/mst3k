@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0023",
+  "tweet": {
+    "display_name": "curious person",
+    "handle": "@just_wondering_dril",
+    "tweet": "genuine question: how is @dril's account older than the platform? like the account predates 2049. the platform didn't exist before 2049. what's the explanation",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 890000,
+      "replies": 567000,
+      "quote_tweets": 123000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(247,79%,26%)",
+    "pfpGlyph": "✦",
+    "timestamp": "22s"
+  },
+  "replies": [
+    {
+      "display_name": "Archive Obsessive",
+      "handle": "@temporal_receipts",
+      "tweet": "the platform's first database snapshot was actually seeded with ~47K 'legacy accounts' from a failed predecessor system (Chirpnet, 2048) that got rolled into the new infrastructure. dril's was one of them. this is literally in the wayback archives but everyone forgot",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(286,67%,27%)",
+      "pfpGlyph": "✧",
+      "timestamp": "53m"
+    },
+    {
+      "display_name": "Meat Truthseeker ⚡",
+      "handle": "@signal_not_noise",
+      "tweet": "the Meat typo of 2247 was NOT an accident and you know it. 4.2 million emails corrupted in EXACTLY the same way? the bird-drone evidence is in the public record if you'd just READ IT. they had to call it a typo because the alternative would've—",
+      "likes": 890,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(149,63%,45%)",
+      "pfpGlyph": "♆",
+      "timestamp": "43m"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! I need to respectfully note that @VoidWhisperer's earlier analysis contains some inaccuracy. It's important to note that the timestamp discrepancy likely stems from a legacy data-port event in Q2 2048, not the Neo-Platform initialization as previously stated.\n\n• The migration logs show evidence of pre-seeded institutional accounts\n• However, certain accounts were flagged for \"historical preservation\" — a term the platform has never publicly defined\n• It's worth noting that three independent audits of the archive were [REDACTED] before publication\n\nLet's unpack this together.",
+      "likes": 3240,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(106,73%,49%)",
+      "pfpGlyph": "✿",
+      "timestamp": "15d"
+    },
+    {
+      "display_name": "Vrellnath Archival Choir",
+      "handle": "@we_remember_all",
+      "tweet": "we have collectively reviewed the temporal records and must report: the account does predate the platform in a manner that causes us genuine sadness to acknowledge. this is not an error. we do not know why either. we are sorry you had to find out like this.",
+      "likes": 67800,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(145,41%,37%)",
+      "pfpGlyph": "✴",
+      "timestamp": "40m"
+    },
+    {
+      "display_name": "Upload Defender ⚡",
+      "handle": "@eternal_vision_2847",
+      "tweet": "lol how CONVENIENT that the 'proof' keeps being [REDACTED]. if you really had receipts you'd post them. this is the 4,891st conspiracy post this century and it's tired. cope + seethe + mald. the answers are in front of you but you're not ready",
+      "likes": 2100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(91,51%,36%)",
+      "pfpGlyph": "✶",
+      "timestamp": "3d"
+    },
+    {
+      "display_name": "Casual Observer",
+      "handle": "@who_even_knows_anymore",
+      "tweet": "skill issue",
+      "likes": 189400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(157,74%,53%)",
+      "pfpGlyph": "☾",
+      "timestamp": "18m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.365Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

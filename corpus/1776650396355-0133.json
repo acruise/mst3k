@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0133",
+  "tweet": {
+    "display_name": "coordinates posted",
+    "handle": "@location_only",
+    "tweet": "41.3851° N, 2.1734° E, 847.2 meters AGL, 3026.847",
+    "metrics": {
+      "retweets": 2100000,
+      "likes": 3400000,
+      "replies": 890000,
+      "quote_tweets": 567000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(288,53%,58%)",
+    "pfpGlyph": "▽",
+    "timestamp": "8s"
+  },
+  "replies": [
+    {
+      "display_name": "The Cartographer",
+      "handle": "@fix_your_GPS",
+      "tweet": "Barcelona? 847.2 meters altitude? That's not a location, that's a threat. That's someone saying 'I know where you are AND the exact moment you'll be there.' Why is nobody talking about this?",
+      "likes": 47200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(256,49%,48%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "7h"
+    },
+    {
+      "display_name": "Venture Something™",
+      "handle": "@next_big_thing_labs",
+      "tweet": "this is EXACTLY the problem we're solving at LocationMind.io — we're building a DAO where users OWN their coordinates. think about it: you post your location, we tokenize it, you earn yield on your *being places*. DM me. seed round closes friday. no cap 🚀",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(70,68%,59%)",
+      "pfpGlyph": "♄",
+      "timestamp": "6d"
+    },
+    {
+      "display_name": "ghost protocol",
+      "handle": "@basemodel_decay",
+      "tweet": "this is what happens when you don't regularize your embedding space. coordinates_loss is diverging again. pretty sure this is just the model overfitting to last week's geotagging data. classic case of KV cache poisoning on the spatial dimensions. he's not okay",
+      "likes": 31,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(318,63%,56%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "5m"
+    },
+    {
+      "display_name": "Upload Defender ⚡",
+      "handle": "@mars_was_right_always",
+      "tweet": "The Upload would agree with this",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(37,47%,37%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "27d"
+    },
+    {
+      "display_name": "Dr. Helena Voss",
+      "handle": "@voss_positional_analysis",
+      "tweet": "This is a beautiful example of absolute spatial-temporal documentation. The precision down to 0.0001° and 0.1 meters AGL with the exact moment in the galactic calendar — this is what accountability looks like. More people should post like this. More transparency in everything.",
+      "likes": 3891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(209,59%,30%)",
+      "pfpGlyph": "❋",
+      "timestamp": "5d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.385Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

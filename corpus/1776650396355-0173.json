@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0173",
+  "tweet": {
+    "display_name": "someone",
+    "handle": "@someone_real",
+    "tweet": "not ALL upload stans but definitely the one sitting across from me at this treaty negotiation insisting that the mars atmosphere thing was sabotage",
+    "metrics": {
+      "retweets": 456000,
+      "likes": 1200000,
+      "replies": 234000,
+      "quote_tweets": 89000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(268,55%,49%)",
+    "pfpGlyph": "❋",
+    "timestamp": "1h"
+  },
+  "replies": [
+    {
+      "display_name": "Witness to History™",
+      "handle": "@diplomatic_scribe",
+      "tweet": "which treaty? asking for a friend who is definitely not writing a dissertation on Upload Stan Infiltration of Galactic Governance Structures. also did he at least cite the Tharaxes Report or was it full \"Mars Was Right\" vibes",
+      "likes": 8400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(107,62%,38%)",
+      "pfpGlyph": "△",
+      "timestamp": "6d"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "@someone_real wait HOLD ON. the mars atmosphere degradation WAS sabotage though right?? i looked this up and can't find the original cause listed anywhere, just \"atmospheric cascade\" which sounds like a cover term. is this not something we're supposed to talk about in negotiations",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(256,59%,31%)",
+      "pfpGlyph": "◇",
+      "timestamp": "24m"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternalmars_blessed",
+      "tweet": "COPE. the man spent 300 years engineering green belts and you're STILL mad about it. name a single atmospheric reclamation project YOU'VE overseen in a thousand years. exactly. quiet.",
+      "likes": 22100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(262,62%,36%)",
+      "pfpGlyph": "▽",
+      "timestamp": "23d"
+    },
+    {
+      "display_name": "Sir or Madam",
+      "handle": "@void_goblin420",
+      "tweet": "sir/ma'am this is a treaty negotiation",
+      "likes": 891200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(231,45%,27%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "39s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.390Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

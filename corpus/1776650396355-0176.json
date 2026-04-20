@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0176",
+  "tweet": {
+    "display_name": "Derek Huang",
+    "handle": "@dhuang_trader",
+    "tweet": "portfolio down 94% from the quantum wallet exploit but this is actually extremely bullish. the volatility is creating opportunities. i have learned more from this loss than from any gain. this is a gift. i'm going all in on the next thing. it's a learning experience",
+    "metrics": {
+      "retweets": 56000,
+      "likes": 234000,
+      "replies": 89000,
+      "quote_tweets": 45000
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(277,44%,50%)",
+    "pfpGlyph": "☽",
+    "timestamp": "14s"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Yuki Tanaka",
+      "handle": "@quantumtherapist_dr",
+      "tweet": "Derek, I say this with genuine care: the rationalization pattern you're describing (reframing catastrophic loss as \"growth opportunity\") is a documented symptom of financial trauma response. Your brain is protecting you from the full weight of what happened. Please talk to someone. Not a trading coach. A therapist.",
+      "likes": 12847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(153,58%,33%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "18m"
+    },
+    {
+      "display_name": "⚡ UPLOAD DEFENDER ⚡",
+      "handle": "@eternal_derek_fan",
+      "tweet": "you wouldn't understand, he's playing 4D chess while you're stuck in 2D thinking. The Upload HIMSELF has said that portfolio volatility is just the market testing your resolve. Derek gets it. you're all just seething because you lack vision",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(27,61%,43%)",
+      "pfpGlyph": "☽",
+      "timestamp": "21d"
+    },
+    {
+      "display_name": "MAJOR EDWIN COLE 4TH ARTILLERY",
+      "handle": "@npc42",
+      "tweet": "RECEIVED YOUR MESSAGE TODAY STOP THE SUPPLY WAGON ARRIVED THREE WEEKS LATE AND NOW THE MEN ARE SAYING WE COULD HAVE USED THOSE RATIONS BETTER ELSEWHERE STOP PERHAPS THE DELAY WAS ACTUALLY AN OPPORTUNITY I TELL MYSELF STOP HELPS ME SLEEP STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(57,74%,51%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "35m"
+    },
+    {
+      "display_name": "Vrellnath Chorus-of-Seven",
+      "handle": "@vrellnath_collective",
+      "tweet": "We have reviewed your situation and we wish to say: your suffering is profound and valid, and also we genuinely hope you find peace in this, and also we note that most humans in your position experience permanent psychological damage, and we mean all of this with the utmost respect and warmth toward you specifically. Please take care of yourself. (We do not know if this is helping.)",
+      "likes": 2341,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(25,46%,46%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "22h"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "sir you are not well",
+      "likes": 47293,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(111,59%,36%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "9h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.391Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

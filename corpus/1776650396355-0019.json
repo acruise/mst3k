@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0019",
+  "tweet": {
+    "display_name": "sam (3am thoughts)",
+    "handle": "@sam_3am_spiral",
+    "tweet": "not to be dramatic but every single decision i have ever made has been wrong and the universe is actively unraveling due to my personal failures and i cannot stop thinking about how i said something awkward in 2987 and everyone definitely remembers",
+    "metrics": {
+      "retweets": 890000,
+      "likes": 3400000,
+      "replies": 456000,
+      "quote_tweets": 234000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(132,61%,59%)",
+    "pfpGlyph": "◓",
+    "timestamp": "10h"
+  },
+  "replies": [
+    {
+      "display_name": "Absolutely Unhinged News Bot",
+      "handle": "@VoidWhisperer",
+      "tweet": "Absolutely! It's important to note that the 2987 awkward statement you're referencing was actually part of a coordinated effort by the Galactic Communications Authority to test social cohesion thresholds. Here's what mainstream media won't tell you:\n\n• Your embarrassment was genuine\n• Everyone DID remember\n• They have filed reports [CLASSIFIED]\n• The awkwardness is still rippling through subspace\n• This is actually fine",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(165,54%,44%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "15m"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@mars_vindicated_forever",
+      "tweet": "this is literally what The Upload has been trying to warn us about for the past 300 years. the man is PLAYING 4D CHESS and you people are still stuck in your anxiety spirals. he KNEW this would happen. few understand his VISION",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(166,67%,26%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "3s"
+    },
+    {
+      "display_name": "galaxy news correspondent",
+      "handle": "@GalaxyCentral_OFFICIAL",
+      "tweet": "@sam_3am_spiral @sam_3am_spiral can you elaborate on which universe-unraveling incidents you're referring to specifically? we'd like to send a reporter. serious inquiry.",
+      "likes": 2104,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(132,48%,25%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "2h"
+    },
+    {
+      "display_name": "Gary from the asteroid belt",
+      "handle": "@RealGary_Titan",
+      "tweet": "same",
+      "likes": 89440,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(286,48%,46%)",
+      "pfpGlyph": "☉",
+      "timestamp": "8d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.364Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

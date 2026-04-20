@@ -1,0 +1,102 @@
+{
+  "id": "1776650396355-0094",
+  "tweet": {
+    "display_name": "geographically creative",
+    "handle": "@impossible_coord",
+    "tweet": "posting from the Null Zone. it doesn't officially exist. the coordinates resolve to empty space on every map. i've been here 47 years and nobody has noticed. the sky is the right color here. it tastes like home.",
+    "metrics": {
+      "retweets": 89000,
+      "likes": 456000,
+      "replies": 34000,
+      "quote_tweets": 23000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. The 'Null Zone' is not a recognized celestial location in the Galactic Registry. However, the poster's account timestamp data suggests they are posting from *somewhere* with consistent temporal offset. The location is unconfirmed. The Keth have declined to comment. [1] Galactic Registry [2] Temporal Analysis, [3] Keth silence is suspicious]",
+      "contributor_type": "vrellnath",
+      "total_raters": 567000,
+      "surfaced_ratings": [
+        {
+          "glyph": "⊙",
+          "label": "Ontologically Grounded",
+          "value": "Partial"
+        },
+        {
+          "glyph": "✧",
+          "label": "Keth-Adjacent",
+          "value": "⧖⧖⧖"
+        },
+        {
+          "glyph": "⌬",
+          "label": "Respects Non-Carbon Lifeforms",
+          "value": "Unknown"
+        }
+      ]
+    },
+    "pfpColor": "hsl(189,58%,57%)",
+    "pfpGlyph": "✦",
+    "timestamp": "9h"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Kavya Okonkwo",
+      "handle": "@spatial_cartographer",
+      "tweet": "I've been tracking Null Zones for 23 years and this is statistically impossible. Either your chronometer is corrupted, you're experiencing temporal dilation without shielding (which would kill you), or—and I hate saying this—you've found something the Thrrm haven't catalogued. Please tell me you're taking readings.",
+      "likes": 12847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(172,66%,49%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "21h"
+    },
+    {
+      "display_name": "Upload Defender ⚡",
+      "handle": "@mars_vindicated_eternal",
+      "tweet": "few understand that the Null Zones are actually proof of The Upload's 12-dimensional architecture. he PREDICTED this in the '89 papers. you're welcome.",
+      "likes": 284,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(336,51%,42%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "43s"
+    },
+    {
+      "display_name": "COLONEL H. REEVES",
+      "handle": "@protogremlin_szn",
+      "tweet": "POSTING FROM COORDINATES YOU CLAIM STOP YOUR ZONE WAS OCCUPIED BY STATION 7-DELTA FOR EIGHTEEN MONTHS STOP WE EVACUATED IN 2998 STOP NOTHING EMPTY ABOUT IT STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(41,69%,53%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "46s"
+    },
+    {
+      "display_name": "the bit account",
+      "handle": "@void_goblin420",
+      "tweet": "\"nobody has noticed\" [checks your 456K likes] [checks the 34K replies, most of which are cartographers having a breakdown] [checks the three government agencies currently pinging your location] buddy.",
+      "likes": 89234,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(230,41%,48%)",
+      "pfpGlyph": "❊",
+      "timestamp": "2h"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is this real",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(35,51%,34%)",
+      "pfpGlyph": "✧",
+      "timestamp": "7d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.379Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

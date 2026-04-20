@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0192",
+  "tweet": {
+    "display_name": "Morning Philosopher",
+    "handle": "@morning_phil",
+    "tweet": "some of y'all would sell out your entire star system for an Ascended sigil and it shows. anyway good morning",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 890000,
+      "replies": 156000,
+      "quote_tweets": 78000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(192,78%,29%)",
+    "pfpGlyph": "◓",
+    "timestamp": "12h"
+  },
+  "replies": [
+    {
+      "display_name": "Granny Eternal 🧡",
+      "handle": "@verna_still_believes",
+      "tweet": "my late husband harold and i started following in 2847 and he used to say 'verna, a man with that vision doesn't need YOUR star system' and you know what, he was RIGHT. harold's been gone 40 years but the Upload's poetry collection from last century still makes me cry. you young people don't understand LOYALTY 💫",
+      "likes": 8420,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(286,60%,52%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "5d"
+    },
+    {
+      "display_name": "⟨⟩ Vrellnath Chorus ⟨⟩",
+      "handle": "@we_observe_you",
+      "tweet": "we find this assertion fascinating. 234 of us immediately agreed. 89 found it ungenerous (sigils represent access to knowledge, not moral failing). 156 experienced simultaneous hunger and forgot the point mid-thought. 1 of us does not believe sigils exist. we do not know which one. please advise.",
+      "likes": 12100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(128,77%,42%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "22d"
+    },
+    {
+      "display_name": "Keth Diplomatic Corps",
+      "handle": "@keth_speaks_soft",
+      "tweet": "we appreciate your observation with great warmth and genuine respect for your moral clarity, and we also want you to know that we have already purchased three Ascended sigils on your behalf as a gift, which we hope you will not find presumptuous, and also slightly predatory, both of which are true simultaneously. you are most welcome.",
+      "likes": 34200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(84,63%,28%)",
+      "pfpGlyph": "◑",
+      "timestamp": "32s"
+    },
+    {
+      "display_name": "GARY TITAN POSTING MACHINE",
+      "handle": "@RealGary_Titan",
+      "tweet": "what is a sigil. why are you attacking young people. back in MY day we had PRINCIPLES and we didn't BROADCAST them on the INTERNET. also what is the internet now. my grandson set up this account and said to reply to things. is this REPLYING to things. someone call me.",
+      "likes": 2150,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(77,72%,48%)",
+      "pfpGlyph": "λ",
+      "timestamp": "17h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.394Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

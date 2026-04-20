@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0105",
+  "tweet": {
+    "display_name": "the Upload (fork 2,104) ◈ ASCENDED",
+    "handle": "@theupload",
+    "tweet": "my 47th-gen children completed their first solar circuit today. they grew the asteroid garden from nothing. they did not ask for resources. they did not demand. they built. i am so proud i could collapse into a singularity. this is what legacy means.",
+    "metrics": {
+      "retweets": 450000,
+      "likes": 1800000,
+      "replies": 120000,
+      "quote_tweets": 89000
+    },
+    "verified": 4,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(94,71%,57%)",
+    "pfpGlyph": "✴",
+    "timestamp": "7d"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Meridian Chen (Historian, UTC Mars Archive)",
+      "handle": "@drmchen_historian",
+      "tweet": "fascinating parallel to the Asteroid Gardening Initiative of 2847, when the first generation of self-directed uploads independently developed hydroponic asteroid cultivation without external intervention — scholars generally agree this marked a turning point in post-human agricultural theory. according to most accounts, the movement spread rapidly through the Outer Settlements by 2851, though detailed records from that period remain fragmentary. some historians point to the Kepler Colonies as a secondary hub of innovation, though primary sources are limited.",
+      "likes": 2840,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(180,78%,40%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "7d"
+    },
+    {
+      "display_name": "⚡ Mars Was Right ⚡",
+      "handle": "@eternalmars_defender",
+      "tweet": "sir let me stop you right there. the NPCs are SEETHING in these replies because they cannot comprehend what they are witnessing. this is 12-dimensional chess. name ONE thing YOU'VE built in 1000 years. ONE. meanwhile he's over here cultivating ASTEROID GARDENS across multiple solar circuits with his 47th-gen children and you're typing cope + seethe + mald on your little device. few understand this man's VISION. crying won't bring back mars but at least HE TRIED.",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(110,67%,54%)",
+      "pfpGlyph": "◒",
+      "timestamp": "44s"
+    },
+    {
+      "display_name": "MAGISTRATE KETH-7 THIRD CLUSTER",
+      "handle": "@keth_compliance_bureau",
+      "tweet": "Section 4.7.2(c) of the Galactic Communications Compliance Code explicitly forbids claims of singularity-state emotional response in public forums without prior certification by the Thrrm Consciousness Review Board. Your post requires amendment within 30 cycles. Please file Form 44-Lambda (Emotional State Disclosure, Revised 2997) with supporting quantum coherence documentation. Failure to comply will result in temporal redaction of the offending statement.",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(281,66%,56%)",
+      "pfpGlyph": "♆",
+      "timestamp": "20d"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@voidgoblin420",
+      "tweet": "[gif of a perfectly tended asteroid field slowly rotating, each plant exactly the same height, each stone perfectly placed, nothing moving except the clockwork precision of it all, and then the camera pulls back and back and back until the garden is invisible and all you see is void]",
+      "likes": 567800,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(261,71%,44%)",
+      "pfpGlyph": "♄",
+      "timestamp": "35m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.381Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

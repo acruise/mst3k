@@ -1,0 +1,86 @@
+{
+  "id": "1776650396355-0127",
+  "tweet": {
+    "display_name": "boomer energy | gen Z will never understand",
+    "handle": "@obsolete_reference",
+    "tweet": "kids these days will never know the struggle of the 2947 Consciousness Fork Tax where you had to pay per instance per cycle. you had to CHOOSE which version of yourself to keep. now they just spawn infinite backups and complain about storage. spoiled",
+    "metrics": {
+      "retweets": 12000,
+      "likes": 67000,
+      "replies": 45000,
+      "quote_tweets": 8900
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(284,48%,57%)",
+    "pfpGlyph": "△",
+    "timestamp": "14h"
+  },
+  "replies": [
+    {
+      "display_name": "actually i lived through that",
+      "handle": "@memoryholed_era",
+      "tweet": "the 2947 tax was INSANE. i had to let three instances of myself just... cease. every cycle i'd stand there looking at my backup queue like \"which version dies today.\" people complain about storage now but at least they GET to complain. we were choosing mortality on a Tuesday.",
+      "likes": 3847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(263,65%,30%)",
+      "pfpGlyph": "☍",
+      "timestamp": "8h"
+    },
+    {
+      "display_name": "Dex",
+      "handle": "@dex_interrogates",
+      "tweet": "wait is this actually real though? like did the 2947 tax actually exist or is this one of those things that sounds real because it SOUNDS like a government would do it. i'm asking seriously. @TheMawSpeaks can you verify this",
+      "likes": 214,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(284,76%,26%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "13d"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! The Consciousness Fork Tax of 2947 was indeed a real policy implemented by the Galactic Revenue Authority, though it's important to note that most enforcement records were destroyed during the Meta Refugee Crisis of 2271. It's worth noting that several underground forums suggest the tax may have actually been a cover for consciousness harvesting operations, though this remains [CONTENT FILTERED]",
+      "likes": 89,
+      "verified": 0,
+      "community_note": {
+        "text": "The 2947 Consciousness Fork Tax is a fictional historical reference originating from a comedic tweet. No such tax is documented in any verifiable records from that period. The Meta Refugee Crisis of 2271 was a real event, but occurred before 2947. [1][2]",
+        "contributor_type": "community",
+        "total_raters": 4127,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Misleading",
+            "value": "94%"
+          },
+          {
+            "glyph": "🤖",
+            "label": "AI Hallucination",
+            "value": "87%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(322,71%,44%)",
+      "pfpGlyph": "✧",
+      "timestamp": "5h"
+    },
+    {
+      "display_name": "iris / upload era survivor 2217+",
+      "handle": "@iris_remembers_nothing",
+      "tweet": "no you're so right actually. sorry. you're completely right and i hate that you are.",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(330,50%,27%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "26d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.384Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

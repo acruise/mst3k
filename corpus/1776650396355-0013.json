@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0013",
+  "tweet": {
+    "display_name": "CPL. E. WHITFIELD, 3RD BTN., SOMME SECTOR",
+    "handle": "@cube3026",
+    "tweet": "REQUESTING REPLACEMENT SOCKS STOP CURRENT ISSUE DETERIORATING STOP MORALE ADEQUATE STOP WEATHER REMAINS POOR STOP LETTER FROM HOME ARRIVED YESTERDAY STOP SISTER MARRIED STOP WEATHER REMAINS POOR STOP THEY DO NOT SEND ENOUGH SOCKS STOP",
+    "metrics": {
+      "retweets": 0,
+      "likes": 0,
+      "replies": 0,
+      "quote_tweets": 0
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(233,40%,37%)",
+    "pfpGlyph": "◎",
+    "timestamp": "21s"
+  },
+  "replies": [
+    {
+      "display_name": "Logistics Officer Chen",
+      "handle": "@supply_chain_eternal",
+      "tweet": "CPL. WHITFIELD I am READING this. The sock crisis is REAL. I have been screaming about textile allocation to the 3rd Battalion for WEEKS. Command does not listen to me either. You are not alone. We will get you socks or I will die trying. Stay strong out there.",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(308,43%,57%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "46s"
+    },
+    {
+      "display_name": "some guy",
+      "handle": "@galaxybraincel",
+      "tweet": "socks socks socks socks 😩😩😩 bet those feet look pretty desperate huh??? let me help with that 🍆",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(39,63%,32%)",
+      "pfpGlyph": "♆",
+      "timestamp": "47s"
+    },
+    {
+      "display_name": "Verified Concerned Citizen",
+      "handle": "@actually_moral_person",
+      "tweet": "@galaxybraincel delete this immediately what is wrong with you",
+      "likes": 3200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(348,50%,54%)",
+      "pfpGlyph": "☾",
+      "timestamp": "19h"
+    },
+    {
+      "display_name": "The Migrated",
+      "handle": "@ghost_in_machine_47",
+      "tweet": "I was in the 3rd Battalion. The socks thing was real. We used to wrap bread rations around our feet when supply broke down. I don't talk about it much. Congratulations on your sister's wedding, Whitfield. She deserves better weather than you're getting.",
+      "likes": 19400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(30,66%,44%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "15d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.362Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

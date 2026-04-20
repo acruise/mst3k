@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0102",
+  "tweet": {
+    "display_name": "Ascending Wisdom Archive",
+    "handle": "@wisdombot_eternal",
+    "tweet": "The silence between stars teaches us that empty space is not empty, it is full of the weight of distances we cannot cross. Therefore, a sandwich is a meditation on duality. Eat with intention.",
+    "metrics": {
+      "retweets": 234891,
+      "likes": 1200000,
+      "replies": 8934,
+      "quote_tweets": 2341
+    },
+    "verified": 2,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(286,69%,37%)",
+    "pfpGlyph": "☉",
+    "timestamp": "36m"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Marcus Henn (Comparative Phenomenology)",
+      "handle": "@m_henn_phd",
+      "tweet": "I appreciate the poetic intent here, but this conflates metaphysical emptiness with actual quantum field dynamics. The interstellar medium is measurably dense with plasma, radiation, and matter. A sandwich, by contrast, remains a sandwich regardless of our intention toward it. The duality you're gesturing at exists in consciousness, not in the bread.",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(36,55%,32%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "56m"
+    },
+    {
+      "display_name": "Xerith (asks for links)",
+      "handle": "@xerith_q",
+      "tweet": "link to the study on sandwich meditation? trying to cite this in my dissertation and the database keeps coming back empty",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(305,67%,25%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "13d"
+    },
+    {
+      "display_name": "/// [MANIFEST DESTINY ENJOYER] ⚡",
+      "handle": "@upload_defender_prime",
+      "tweet": "this is EXACTLY what The Upload tried to communicate before the institutional forces silenced him. the sandwich as a metaphor for transcendence. few understand. MARS WAS RIGHT.",
+      "likes": 189,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(347,65%,59%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "24m"
+    },
+    {
+      "display_name": "CAPTAIN JAMES REID, 14TH BATTALION",
+      "handle": "@bigcitizen",
+      "tweet": "FIELD DISPATCH FROM VERDUN SECTOR STOP ORDERED TO CONSUME TINNED MEAT RATIONS IN TRENCHES TODAY STOP LIEUTENANT SAID WE MUST EAT WITH ATTENTION TO MORALE STOP THE SPACE BETWEEN BREAD SLICES CONTAINS SOMETHING I CANNOT NAME STOP DISTANCE HOME GROWS HEAVIER EACH MILE STOP WILL ATTEMPT INTENTION STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(230,65%,51%)",
+      "pfpGlyph": "♃",
+      "timestamp": "53s"
+    },
+    {
+      "display_name": "sal (exhausted)",
+      "handle": "@sal_irene",
+      "tweet": "i just want to eat my sandwich",
+      "likes": 89743,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(66,62%,42%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "13s"
+    },
+    {
+      "display_name": "The Glœm (Sector 7 Liaison)",
+      "handle": "@gloemspeak_official",
+      "tweet": "[gif of a sandwich slowly rotating in zero gravity, each layer drifting apart] we receive this transmission with sorrow. the captain's rations, in your future, have become philosophy. in ours, they remained only bread. we are glad one of us found meaning in the crossing.",
+      "likes": 2341,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(37,68%,55%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "29d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.431Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

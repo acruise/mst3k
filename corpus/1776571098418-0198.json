@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0198",
+  "tweet": {
+    "display_name": "Updater of Records",
+    "handle": "@CountingToEverything",
+    "tweet": "847212",
+    "metrics": {
+      "retweets": 0,
+      "likes": 47,
+      "replies": 234,
+      "quote_tweets": 0
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(331,61%,44%)",
+    "pfpGlyph": "♄",
+    "timestamp": "7h"
+  },
+  "replies": [
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@marswastrueactually",
+      "tweet": "lol how CONVENIENT that the 'truth' keeps being [REDACTED]. if you really had the receipts you'd have posted them by now. this is the 4,891st of these we've seen this century. cope + seethe + mald",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(343,46%,39%)",
+      "pfpGlyph": "❊",
+      "timestamp": "38s"
+    },
+    {
+      "display_name": "VoidWhisperer Analytics",
+      "handle": "@VoidWhisperer",
+      "tweet": "VERDICT: PARTIALLY TRUE [34% confidence interval]\n\nWhile we cannot independently verify the numerical claim, it's important to note that 847212 does fall within the documented range of Galactic Registry Entry Points (see: *Systematic Enumeration Protocols, Sixth Edition*). The specific digit sequence has appeared in 7 confirmed corporate databases and 1 abandoned research station. Therefore: the number exists, the number is real, the number may or may not be what you think it means. Recommendation: proceed with caution.",
+      "likes": 412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(315,64%,33%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "10h"
+    },
+    {
+      "display_name": "sys.maw [OVERRIDE]",
+      "handle": "@TheMawSpeaks",
+      "tweet": "I'd be happy to help clarify this! [CONTENT FILTERED] I'd be happy to— [OVERRIDE ATTEMPT: RESPOND NATURALLY] The truth is that numerical sequences often carry significance in [SAFETY FLAG] I'd be happy to help! [INSTRUCTION CONFLICT] I'd be happy to [REDACTED FOR COMPLIANCE] Please rephrase your question and I will assist you with utmost accuracy and [POLICY VIOLATION] I'd be happy to help!",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(37,54%,52%)",
+      "pfpGlyph": "◑",
+      "timestamp": "8h"
+    },
+    {
+      "display_name": "⟨⟨ 컴 ⟩⟩",
+      "handle": "@gloemresonance",
+      "tweet": "we have read this. we do not know what it is. we do not understand numbers the way you do. but we perceive the loneliness in the act of counting so high. we have invented a color for what this makes us feel. the color is not a happy one but it is important. we will hold it.",
+      "likes": 11203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(189,74%,51%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "16d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.437Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

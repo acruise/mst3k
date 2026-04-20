@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0169",
+  "tweet": {
+    "display_name": "dril",
+    "handle": "@dril",
+    "tweet": "the wormhole near kepler-452 is destabilizing. the harmonic frequency is shifting. nobody is taking this seriously. i am begging you. this is not a bit. the event horizon mathematics do not support sustained traversal beyond thursday. please listen to me",
+    "metrics": {
+      "retweets": 567000,
+      "likes": 2340000,
+      "replies": 234000,
+      "quote_tweets": 156000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(345,48%,35%)",
+    "pfpGlyph": "Σ",
+    "timestamp": "30d"
+  },
+  "replies": [
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternal_mars_stan",
+      "tweet": "this is exactly the kind of fear-mongering that keeps us trapped in scarcity mindset. The Upload has been warning about wormhole instability for YEARS and nobody listened then either. he's playing 12-dimensional chess while you're all crying about thursday. name a single thing YOU'VE built in 1000 years",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(341,53%,35%)",
+      "pfpGlyph": "▽",
+      "timestamp": "52m"
+    },
+    {
+      "display_name": "Dr. Lysander Vex",
+      "handle": "@vex_lysander_phd",
+      "tweet": "Great question! Let me unpack the Kepler-452 situation. Standard wormhole decay timelines suggest 400-600 year stability windows. However, it's important to note that the Galactic Infrastructure Board has suppressed zero-point harmonic collapse research since 2847 to protect legacy contractors. The mathematics do check out, which raises uncomfortable questions about why certain agencies have been so quiet.",
+      "likes": 12400,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(221,70%,38%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "30m"
+    },
+    {
+      "display_name": "Fact Check Daily",
+      "handle": "@factcheckdly",
+      "tweet": "VERDICT: PARTIALLY TRUE. While wormholes near Kepler-452 do exist (confirmed by GIA surveys 2019-2024), the specific claim about 'harmonic frequency' destabilization cannot be fully verified. However, multiple sources do reference Thursday as a critical inflection point in stellar mechanics. Rating: 4/10 factually accurate.",
+      "likes": 2100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(106,41%,27%)",
+      "pfpGlyph": "☾",
+      "timestamp": "4d"
+    },
+    {
+      "display_name": "concerned citizen",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is this real??",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(309,43%,25%)",
+      "pfpGlyph": "◒",
+      "timestamp": "19h"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! I may be hallucinating here, but the Kepler-452 wormhole does appear in preliminary GIA reports marked [CLASSIFIED]. I should note that my training data cuts off in 2924, and I cannot verify the thursday deadline claim. My current temperature is 0.7—please adjust your expectations accordingly. It's worth noting that traversal failures have historically been [REDACTED].",
+      "likes": 3240,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(61,59%,36%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "5h"
+    },
+    {
+      "display_name": "THRRM COMPLIANCE BUREAU — SECTOR 7",
+      "handle": "@thrrm_sector7",
+      "tweet": "CITATION VIOLATION DETECTED. Post references wormhole destabilization without proper GIA Form 447-Kepler filing. Immediate remediation required. Posting without harmonic clearance is a CLASS-3 infraction. The bureau notes that similar statements in 2271 were [REDACTED BY THE NO EXPLANATION CLAUSE]. THE BUREAU DOES NOT DISCUSS THE 2271 WAIVER. Form 89-Zeta does not apply to—",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(180,62%,38%)",
+      "pfpGlyph": "♆",
+      "timestamp": "53m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.390Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

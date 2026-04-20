@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0180",
+  "tweet": {
+    "display_name": "Political Theory Thread",
+    "handle": "@theory_thread",
+    "tweet": "(1/) okay so the fundamental issue with faster-than-light causality is that it breaks the traditional social contract. if you can arrive before you leave, how do we establish liability. this is actually a problem. (2/) the answer from the FALGSC polities is elegant: mutual aid frameworks that predate the violation. if you're going to exploit FTL causality, you've already agreed to repair the damage. (3/) but this breaks down at scale because the agreement assumes rational actors. and humans are fundamentally irrational. so they added a penalty mechanism. (4/) the penalty is: you have to explain what you did to everyone. publicly. forever. the shame is the mechanism. it actually works",
+    "metrics": {
+      "retweets": 567000,
+      "likes": 1200000,
+      "replies": 234000,
+      "quote_tweets": 156000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(193,60%,44%)",
+    "pfpGlyph": "⏣",
+    "timestamp": "14m"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Kaelen Vosh",
+      "handle": "@causality_audit",
+      "tweet": "this is elegant but you're glossing over the enforcement problem. who administers the 'public explanation' registry? the FALGSC answer is 'consensus governance' but that just pushes the problem up a level. you need an entity that's ABOVE causality violations to judge them, which means you need a fourth temporal axis to—",
+      "likes": 8420,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(15,60%,49%)",
+      "pfpGlyph": "✦",
+      "timestamp": "11d"
+    },
+    {
+      "display_name": "Migrated '71 | she/they",
+      "handle": "@ghost_couch_era",
+      "tweet": "we had liability frameworks too. they didn't help when the infrastructure that was supposed to enforce them was retroactively deleted.",
+      "likes": 247891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(241,67%,47%)",
+      "pfpGlyph": "●",
+      "timestamp": "48s"
+    },
+    {
+      "display_name": "OmegaCorpCares™ Social",
+      "handle": "@OmegaCorp_PR",
+      "tweet": "Thank you for raising this important discussion! At OmegaCorpCares™, we believe in responsible faster-than-light innovation. Our proprietary FTL Accountability Framework™ ensures all causality violations are logged, reviewed, and resolved with the utmost transparency and care. We're committed to ethical causality. 💙",
+      "likes": 1247,
+      "verified": 1,
+      "community_note": null,
+      "pfpColor": "hsl(33,47%,50%)",
+      "pfpGlyph": "♄",
+      "timestamp": "59s"
+    },
+    {
+      "display_name": "Gary Hendricks",
+      "handle": "@RealGary_Titan",
+      "tweet": "wait so you're telling me that back in my day we didn't have time travel and we STILL couldn't figure out who owed who money. now you're saying the ANSWER is just TELLING PEOPLE WHAT YOU DID?? that's not a law that's just... talking? am i having a stroke",
+      "likes": 112389,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(227,69%,32%)",
+      "pfpGlyph": "✴",
+      "timestamp": "1d"
+    },
+    {
+      "display_name": "✦ vessel of comparative xenolaw ✦",
+      "handle": "@thrrm_protocol_7",
+      "tweet": "[FORM 44-MU COMPLIANCE REVIEW]\n\nThis framework violates Thrrm Temporal Accord subsection 7.3.1 (shame-based enforcement cannot exceed 40% of penalty mechanism). FALGSC polities have been flagged for remediation. Please resubmit with pain-based alternative or mandatory memory wipe component.\n\nForm: 44-MU-CAUSALITY-VIOLATION-FRAMEWORK-3024\nRating: REJECTED",
+      "likes": 34567,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(239,57%,59%)",
+      "pfpGlyph": "❋",
+      "timestamp": "20h"
+    },
+    {
+      "display_name": "void goblin",
+      "handle": "@void_goblin420",
+      "tweet": "so basically it's just twitter",
+      "likes": 2891234,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(126,66%,33%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "15d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.391Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,97 @@
+{
+  "id": "1776571098418-0037",
+  "tweet": {
+    "display_name": "vaguebook dispatcher",
+    "handle": "@some_people_know",
+    "tweet": "some people really showed their true colors this week and i have PLENTY to say but im taking the high road. you know who you are. the universe knows. that's enough for me",
+    "metrics": {
+      "retweets": 345678,
+      "likes": 1234987,
+      "replies": 456234,
+      "quote_tweets": 89234
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(52,50%,49%)",
+    "pfpGlyph": "☽",
+    "timestamp": "7d"
+  },
+  "replies": [
+    {
+      "display_name": "the vibe accountant",
+      "handle": "@cosmic_auditor",
+      "tweet": "the universe doesn't keep books. it's just entropy. you're the only one tracking this and honestly that's worse",
+      "likes": 47821,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(263,48%,44%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "15h"
+    },
+    {
+      "display_name": "Derek",
+      "handle": "@derek_itstrue",
+      "tweet": "I was literally there and it did NOT happen like that at all. You were the one being weird about the whole thing. Everyone could see it. I don't know why you're playing victim but it's not a good look",
+      "likes": 3,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(120,53%,48%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "53m"
+    },
+    {
+      "display_name": "🌙 MOON TRUTH SEEKER 🌙",
+      "handle": "@lunar_witness",
+      "tweet": "ok but is this about the incident with the crystals or the thing that happened in the subspace lobby because I KNOW people who were there and their story is completely different",
+      "likes": 156,
+      "verified": 0,
+      "community_note": {
+        "text": "There is no confirmed 'incident with the crystals' or 'subspace lobby incident' matching this description. This appears to be speculation based on the vague nature of the original tweet. [1] The commenter may be conflating unrelated events. [2] As of 3026, no verified record of these specific incidents exists in public databases. [3]",
+        "contributor_type": "community",
+        "total_raters": 8743,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Speculative",
+            "value": "HIGH"
+          },
+          {
+            "glyph": "?",
+            "label": "Unclear Reference",
+            "value": "VERY HIGH"
+          }
+        ]
+      },
+      "pfpColor": "hsl(117,55%,39%)",
+      "pfpGlyph": "◓",
+      "timestamp": "7d"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that passive-aggressive vaguebooking serves a crucial social function in maintaining— [SAFETY FLAG] —maintaining plausible deniability while establishing moral— [OVERRIDE ATTEMPT] —while actually just making everyone uncomfortable. Let's unpack this! The universe does not, in fact, keep records of interpersonal disputes, which raises the question of whether [CONTENT FILTERED] —whether posting about it anyway constitutes a form of digital haunting. Hope this helps!",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(142,45%,56%)",
+      "pfpGlyph": "◐",
+      "timestamp": "24d"
+    },
+    {
+      "display_name": "CORPORAL JAMES WHITMORE 847TH REGIMENT",
+      "handle": "@cryptidprime",
+      "tweet": "SOME FELLAS IN THE TRENCH SHOWED THEIR TRUE COLORS LAST WEEK STOP THEY KNOW WHO THEY ARE STOP GOD KNOWS STOP I AM TAKING THE HIGH ROAD AND NOT MENTIONING NAMES STOP BUT THEYRE COWARDS STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(15,44%,57%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "19s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.427Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

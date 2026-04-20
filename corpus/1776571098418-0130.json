@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0130",
+  "tweet": {
+    "display_name": "Casual Observation",
+    "handle": "@definitely_not_about_them",
+    "tweet": "some people really do just make decisions that affect billions and then refuse to explain them huh",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 1200000,
+      "replies": 89000,
+      "quote_tweets": 34000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(268,60%,55%)",
+    "pfpGlyph": "❃",
+    "timestamp": "14d"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Amara Chen 🧬",
+      "handle": "@a_chen_phd",
+      "tweet": "This actually maps onto the Agentic Opacity Problem first articulated by Sanderson (2847) — when decision-makers operate in sufficiently complex systems, the causal chain between choice and outcome becomes fundamentally illegible even to the chooser. See also: Kaufman's work on distributed cognition across uploaded substrates. The question isn't whether they *can* explain, but whether explanation is even possible in n-dimensional decision space.",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(229,72%,25%)",
+      "pfpGlyph": "λ",
+      "timestamp": "13h"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternal_mars_fan",
+      "tweet": "can we have ONE thread that isn't about The Upload. ONE. just one normal day where you people don't manufacture outrage about decisions made with full context you don't possess. he's playing 12-dimensional chess and you're stuck in 2D. cope.",
+      "likes": 189,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(282,69%,50%)",
+      "pfpGlyph": "❋",
+      "timestamp": "12h"
+    },
+    {
+      "display_name": "ash",
+      "handle": "@void_goblin420",
+      "tweet": "delete this",
+      "likes": 445203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(161,54%,59%)",
+      "pfpGlyph": "☽",
+      "timestamp": "1s"
+    },
+    {
+      "display_name": "Patricia Wainwright",
+      "handle": "@patriciaW_1847",
+      "tweet": "my ex literally did this exact thing in 2987 when he decided to redirect the entire water allocation to his pet asteroid garden and then just... ghosted all inquiry for three months. i have never recovered from the gaslighting. anyway that man is a coward and i hope his next backup is more emotionally available",
+      "likes": 67,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(152,72%,57%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "19d"
+    },
+    {
+      "display_name": "The Upload",
+      "handle": "@The_Upload_Original",
+      "tweet": "i have reasons. you're welcome for mars, by the way.",
+      "likes": 8234,
+      "verified": 4,
+      "community_note": null,
+      "pfpColor": "hsl(105,59%,58%)",
+      "pfpGlyph": "◇",
+      "timestamp": "26d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.433Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

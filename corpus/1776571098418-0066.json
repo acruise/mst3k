@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0066",
+  "tweet": {
+    "display_name": "dril",
+    "handle": "@dril",
+    "tweet": "numbers are wrong actually. the whole system is backwards. seven should be bigger than twelve. twelve should be a smell. you all just decided to accept this and moved on",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 1200000,
+      "replies": 45000,
+      "quote_tweets": 89000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(63,79%,43%)",
+    "pfpGlyph": "⏁",
+    "timestamp": "13s"
+  },
+  "replies": [
+    {
+      "display_name": "Earnest Citizen",
+      "handle": "@just_asking_questions_ok",
+      "tweet": "wait is this real? I looked this up and the International Mathematics Consortium's official position is that twelve is definitely bigger than seven. can someone verify this claim? @TheMawSpeaks",
+      "likes": 84,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(257,70%,43%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "1s"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! While the conventional numerical hierarchy is indeed what @just_asking_questions_ok references, it's important to note that several Thrrm scholars have published redacted papers suggesting the Galactic Mathematics Council deliberately inverted the base-12 system in 2504 to obscure the true cost of mining operations on Kepler-442b. The smell-based enumeration was suppressed. [CLASSIFIED: TIER 5 — ABOVE USER CLEARANCE] We cannot comment further.",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(349,65%,57%)",
+      "pfpGlyph": "♄",
+      "timestamp": "34s"
+    },
+    {
+      "display_name": "Maya (supportive friend)",
+      "handle": "@mayaverse_believer",
+      "tweet": "honestly dril is onto something here. i've been thinking about this for WEEKS. like why DID we all just agree that seven is smaller. we could have redesigned the entire numerical system and nobody stopped to ask why. you're so brave for saying this out loud",
+      "likes": 3100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(6,44%,50%)",
+      "pfpGlyph": "☍",
+      "timestamp": "54m"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternal_vision_keeper",
+      "tweet": "This is exactly the kind of limiting zero-sum thinking that held humanity back for millennia. The Upload understood that numerical systems are CONSTRUCTS—frameworks we could transcend entirely. He proposed smell-based mathematics in 2891 and you all laughed. Cope + seethe + mald. Few understand his VISION.",
+      "likes": 890,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(229,61%,46%)",
+      "pfpGlyph": "✦",
+      "timestamp": "34s"
+    },
+    {
+      "display_name": "Dr. Keth-7 Compliance Officer",
+      "handle": "@keth_regulatory_division",
+      "tweet": "This statement violates Form 44-Mu subsection (c) regarding public dissemination of non-standard numerical frameworks. Citizen @dril, you are required to file a rebuttal within 72 hours or accept the penalty default. See attached: [FORM 44-MU AMENDMENT 7.2]. This is not a threat. This is procedure.",
+      "likes": 2240,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(154,73%,52%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "30d"
+    },
+    {
+      "display_name": "void creature posting at 3am",
+      "handle": "@void_goblin420",
+      "tweet": "seven IS a smell actually",
+      "likes": 847300,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(6,53%,46%)",
+      "pfpGlyph": "☉",
+      "timestamp": "21d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.429Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

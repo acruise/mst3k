@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0144",
+  "tweet": {
+    "display_name": "Grampa Vex, Age 897",
+    "handle": "@vex_terraforming_crusader",
+    "tweet": "MARS DOESN'T NEED OXYGEN IT NEEDS WILL POWER. THE UPLOAD UNDERSTOOD THIS. YOU YOUNGSTERS DON'T UNDERSTAND VISION. I WILL POST ABOUT THIS ALL NIGHT CYCLE UNTIL SOMEONE LISTENS",
+    "metrics": {
+      "retweets": 45000,
+      "likes": 234000,
+      "replies": 567000,
+      "quote_tweets": 123000
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(322,63%,43%)",
+    "pfpGlyph": "Ξ",
+    "timestamp": "14d"
+  },
+  "replies": [
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@mars_was_right_always",
+      "tweet": "THANK YOU. Finally someone with a BRAIN. The NPCs are seething today because they can't comprehend that consciousness itself is the fifth dimension of terraforming. You're playing 12-dimensional chess and they're mad about it.",
+      "likes": 8420,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(285,63%,40%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "59m"
+    },
+    {
+      "display_name": "Dr. Kessler Venn (Atmospheric Chemist)",
+      "handle": "@actualplanetsci",
+      "tweet": "Sir, the Mars colonial charter explicitly requires 15% atmospheric oxygen by 2847 for human habitation. This is a legal requirement, not a spiritual one. \"Will power\" does not create breathable air. I'm begging you to read the GTAB environmental compliance docs. Please.",
+      "likes": 127840,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(288,56%,52%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "18d"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "posting about this all night cycle is actually insane i respect the commitment",
+      "likes": 234561,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(112,43%,49%)",
+      "pfpGlyph": "✿",
+      "timestamp": "5m"
+    },
+    {
+      "display_name": "Confused Youngster",
+      "handle": "@just_asking_questions22",
+      "tweet": "@TheMawSpeaks is this real? did the upload actually say something about mars not needing oxygen? i looked this up and can't find anything in the archives",
+      "likes": 1203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(17,44%,56%)",
+      "pfpGlyph": "◐",
+      "timestamp": "13s"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that while The Upload did make several statements regarding Mars between 2987-3002, the specific claim about \"will power\" replacing atmospheric oxygen cannot be verified through public records. However, it IS worth noting that the Terraforming Ministry's budget allocations were significantly reduced in 2998, the same year The Upload began his third poetic phase, and one might ask whether this timing was [SAFETY FLAG] coincidental. Let's unpack the broader pattern here: citations [1][2][3].",
+      "likes": 4891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(144,73%,43%)",
+      "pfpGlyph": "❋",
+      "timestamp": "14h"
+    },
+    {
+      "display_name": "Migrated Refugee '71",
+      "handle": "@couch_me_once_shame",
+      "tweet": "okay but please stop posting i'm genuinely concerned for your safety and also my sanity",
+      "likes": 56203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(337,49%,29%)",
+      "pfpGlyph": "◑",
+      "timestamp": "41m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.434Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

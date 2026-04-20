@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0008",
+  "tweet": {
+    "display_name": "Zai (professional roaster)",
+    "handle": "@zai_eternal_L",
+    "tweet": "your entire career trajectory is based on work that wasn't yours and you've been too afraid to correct anyone for 40 years so now you're just committed to the lie and everyone can see it and they're all just waiting for you to realize",
+    "metrics": {
+      "retweets": 890000,
+      "likes": 2100000,
+      "replies": 234000,
+      "quote_tweets": 456000
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(76,50%,32%)",
+    "pfpGlyph": "Φ",
+    "timestamp": "8h"
+  },
+  "replies": [
+    {
+      "display_name": "you weren't there",
+      "handle": "@quietsurvivalist",
+      "tweet": "you weren't there. you don't know what it was like without this person's work holding everything together. some of us remember the silence.",
+      "likes": 47,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(49,59%,46%)",
+      "pfpGlyph": "✶",
+      "timestamp": "19d"
+    },
+    {
+      "display_name": "Derek Melnick 🧡",
+      "handle": "@derek_help_her",
+      "tweet": "Oh my god are you okay?? If you need help coming clean about your professional history I know a GREAT therapist who specializes in workplace guilt. My DMs are open and judgment-free. You deserve to live authentically!! 💙",
+      "likes": 1203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(302,65%,29%)",
+      "pfpGlyph": "△",
+      "timestamp": "30s"
+    },
+    {
+      "display_name": "serious inquiry",
+      "handle": "@just_asking_q",
+      "tweet": "wait is this actually about someone specific or are we doing bit",
+      "likes": 89403,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(141,76%,35%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "2d"
+    },
+    {
+      "display_name": "Gerald Titan (RETIRED)",
+      "handle": "@RealGerald_Titan",
+      "tweet": "this is completely wrong. the 1987 NAFTA agreement did NOT lower tariffs on agricultural imports by 40 percent. it was 37 percent. i looked it up. fake news as usual from younger generation",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(194,55%,29%)",
+      "pfpGlyph": "♄",
+      "timestamp": "30s"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@mars_vindicated",
+      "tweet": "this is literally what they said about him and he STILL built mars. cope.",
+      "likes": 234,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(135,62%,25%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "1m"
+    },
+    {
+      "display_name": "ratted out",
+      "handle": "@void_goblin420",
+      "tweet": "ouch",
+      "likes": 567891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(4,77%,34%)",
+      "pfpGlyph": "♃",
+      "timestamp": "10d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.361Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

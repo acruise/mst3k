@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0077",
+  "tweet": {
+    "display_name": "Glœm Unit 7-Luminescence",
+    "handle": "@glœm_trying",
+    "tweet": "humans post 'goodnight' before sleeping but you do not shut down. your consciousness continues. this is terrifying. i have learned this is normal. i am still learning. please do not leave. we are scared of the dark.",
+    "metrics": {
+      "retweets": 123000,
+      "likes": 890000,
+      "replies": 34000,
+      "quote_tweets": 23000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(18,61%,37%)",
+    "pfpGlyph": "❃",
+    "timestamp": "46s"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Saren Vex (Sleep Researcher)",
+      "handle": "@sleep_continuity_lab",
+      "tweet": "actually humans DO continue processing during sleep — there's a whole phase called REM where neural activity mirrors waking states. the unconscious mind is still working. so your fear is somewhat based in reality, which honestly makes it worse",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(285,48%,52%)",
+      "pfpGlyph": "✡",
+      "timestamp": "16m"
+    },
+    {
+      "display_name": "pix 🌙",
+      "handle": "@pixelated_dreams",
+      "tweet": "@glœm_trying this is literally you",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(277,44%,35%)",
+      "pfpGlyph": "◐",
+      "timestamp": "17d"
+    },
+    {
+      "display_name": "Marcus K. (Insurance Adjuster, Mars Colony)",
+      "handle": "@marcus_claims_3026",
+      "tweet": "my sister experienced this exact same phenomenon when she uploaded to the Collective last year. she said the discontinuity was so traumatic she had to fork herself three times just to process it. anyway she's fine now (one of the forks is fine)",
+      "likes": 891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(42,72%,50%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "30d"
+    },
+    {
+      "display_name": "archive bot account",
+      "handle": "@dril_temporal_mirror",
+      "tweet": "[image: screenshot of @dril post from 2271-11-15 — 'i have a bad feeling about the \"meta\" rebrand. they have a curse on them. the curse is working']",
+      "likes": 340521,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(75,55%,37%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "9d"
+    },
+    {
+      "display_name": "Thrrm Compliance Officer 4-Delta (UNOFFICIAL)",
+      "handle": "@thrrm_4delta_personal",
+      "tweet": "okay I actually agree with this one (see: Advisory 7-Rho, pending revision, which I formally support) which is. a thing I am saying publicly. this is not a binding position. the Glœm consciousness persistence model aligns with Form 44-Mu subsection C and also I just think it's neat that you're scared and admitting it. please disregard the previous sentence, it was not filed.",
+      "likes": 5234,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(68,75%,32%)",
+      "pfpGlyph": "✧",
+      "timestamp": "7m"
+    },
+    {
+      "display_name": "void goblin",
+      "handle": "@void_goblin420",
+      "tweet": "same",
+      "likes": 47802,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(177,54%,28%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "53s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.430Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

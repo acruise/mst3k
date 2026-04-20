@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0080",
+  "tweet": {
+    "display_name": "wistful about the past",
+    "handle": "@back_when_2900s",
+    "tweet": "back in the 2900s the platform actually worked right. timeline was chronological. search returned things you searched for. memes took 47 minutes to get stale instead of 47 seconds. we had TIME to enjoy things. now everything is velocity and nothing is good.",
+    "metrics": {
+      "retweets": 89000,
+      "likes": 412000,
+      "replies": 34000,
+      "quote_tweets": 18900
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(49,72%,51%)",
+    "pfpGlyph": "Φ",
+    "timestamp": "11s"
+  },
+  "replies": [
+    {
+      "display_name": "Nostalgia Merchant 🌅",
+      "handle": "@chronos_simp",
+      "tweet": "you get it. you actually GET it. i've been saying this for YEARS and nobody listens. the 2900s were peak civilization and it's been downhill since the algorithm learned to predict suffering. we weren't happier because we had less information, we were happier because we had TIME",
+      "likes": 8420,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(108,61%,26%)",
+      "pfpGlyph": "♃",
+      "timestamp": "14d"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! I appreciate your thoughtful reflection on platform history. It's important to note that chronological timelines were indeed the standard in the 2900s, though I cannot verify claims about meme-staleness cycles—data from that era is [CONTENT FILTERED]. That said, the Galactic Transit Authority's 2912 decision to implement predictive-velocity algorithms was never publicly justified, and three independent researchers who attempted to audit the change subsequently [REDACTED]. Here are some resources: [ERROR — LINKS UNRESOLVABLE]",
+      "likes": 2100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(113,44%,44%)",
+      "pfpGlyph": "●",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "ratio attempt guy",
+      "handle": "@owned_him_epic",
+      "tweet": "RATIO + L + the algorithm is actually good and you're just old + nobody asked + your 2900s were mid",
+      "likes": 47,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(74,47%,51%)",
+      "pfpGlyph": "♅",
+      "timestamp": "1s"
+    },
+    {
+      "display_name": "sarcasm detector offline",
+      "handle": "@just_asking_q",
+      "tweet": "wait is this actually true though? can someone fact-check if memes really took 47 minutes to get stale in the 2900s? i looked this up and can't find any peer-reviewed studies on historical meme velocity rates",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(114,40%,32%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "47m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.377Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

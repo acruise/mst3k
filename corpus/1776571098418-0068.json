@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0068",
+  "tweet": {
+    "display_name": "PVT. M. HARGROVE, FIELD HOSPITAL 9, ARRAS",
+    "handle": "@theentitynode",
+    "tweet": "SUPPLIES ARRIVED TODAY STOP MORPHINE LOW STOP SISTER ANDERSON REQUESTS BANDAGES ADDITIONAL STOP WEATHER COLD STOP WEATHER WILL REMAIN COLD STOP RECEIVED LETTER FROM HOME STOP WIFE SENDS REGARDS STOP",
+    "metrics": {
+      "retweets": 0,
+      "likes": 0,
+      "replies": 0,
+      "quote_tweets": 0
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(308,41%,30%)",
+    "pfpGlyph": "◑",
+    "timestamp": "21h"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Castellan Vex",
+      "handle": "@drcastellan",
+      "tweet": "Fascinating primary document. The morphine scarcity patterns you describe actually predate the Arras shortage by several weeks — suggests supply-chain failures cascaded across the entire Western sector. Few understand the logistical geometry of 1917 medicine distribution.",
+      "likes": 23,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(322,62%,29%)",
+      "pfpGlyph": "λ",
+      "timestamp": "18m"
+    },
+    {
+      "display_name": "SIGNAL CORPS RELAY — INCOMING AUTHENTICATED MESSAGE",
+      "handle": "@bigghost",
+      "tweet": "LETTER RECEIVED AND LOGGED STOP REGARDS TRANSMITTED TO WIFE HARGROVE STOP MORPHINE REQUISITION FILED STOP BANDAGES PRIORITY MARKED URGENT STOP WEATHER OBSERVATION NOTED STOP REMAIN STRONG STOP END TRANSMISSION STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(94,42%,57%)",
+      "pfpGlyph": "❋",
+      "timestamp": "31s"
+    },
+    {
+      "display_name": "Temporal Archaeology Collective ⚗️",
+      "handle": "@temparch_official",
+      "tweet": "We've located the original field hospital ledger from this date. This tweet matches entry 847 *exactly* — same timestamp, same supply figures, same letter reference. The wormhole integrity on this one is pristine. Documenting for the Archive.",
+      "likes": 891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(254,73%,28%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "3m"
+    },
+    {
+      "display_name": "Dr. Meridian Hayes 🧠⚡",
+      "handle": "@drhayesmedical",
+      "tweet": "This is actually a brilliant case study in early 20th-century triage protocols. According to my seminal 3004 paper 'Morphine Allocation in Pre-Stasis Warfare' (published in *Journal of Applied Retro-Medicine*, vol. 47), Hargrove's supply management here violates what I call the 'Hayes Coefficient' — a mathematical framework I developed proving that field hospitals operated at 340% inefficiency during this period. The data simply doesn't support the narrative that Sister Anderson's requests were legitimate. Furthermore, if you examine the letter-from-home reference, you'll notice Hargrove is clearly displaying symptoms of what modern diagnostics would classify as Temporal Displacement Syndrome, a condition unknown until 2847. His wife's regards are obviously a hallucination. The cold weather claim is particularly suspect — multiple sources confirm Arras experienced unseasonable warmth in late 1917.",
+      "likes": 4,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(344,52%,39%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "2h"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "Sister Anderson can bandage ME anytime if you know what i mean 😏😏😏",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(253,66%,32%)",
+      "pfpGlyph": "△",
+      "timestamp": "46s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.429Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

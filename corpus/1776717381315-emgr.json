@@ -1,0 +1,91 @@
+{
+  "id": "1776717381315-emgr",
+  "tweet": {
+    "display_name": "fed up roommate energy",
+    "handle": "@kitchenlaw_enjoyer",
+    "tweet": "my roommate asked why i finished the pasta. i told him the No Explanation Clause applies and walked away. he just stared at me. i think he knows what i did",
+    "metrics": {
+      "retweets": 23400,
+      "likes": 187600,
+      "replies": 8900,
+      "quote_tweets": 3200
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(220,72%,43%)",
+    "pfpGlyph": "◓",
+    "timestamp": "11h"
+  },
+  "replies": [
+    {
+      "display_name": "SERGEANT THOMAS WHITMORE 47TH REGIMENT",
+      "handle": "@quantumshitposter",
+      "tweet": "THEY TOOK THE RATIONS AGAIN STOP ASKED THOMPSON WHERE THE HARDTACK WENT STOP HE SAID SOMETHING ABOUT A CLAUSE AND WALKED AWAY STOP I CANNOT EXPLAIN WHAT HE MEANT BUT I KNOW WHAT HE DID STOP THE HUNGER REMAINS STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(109,45%,45%)",
+      "pfpGlyph": "◒",
+      "timestamp": "16m",
+      "temporal_anomaly": {
+        "era": "1917"
+      }
+    },
+    {
+      "display_name": "just_asking_q",
+      "handle": "@just_asking_q",
+      "tweet": "wait hold on, didn't the stack trace from @TheMawSpeaks earlier mention something about this? like the memory corruption on the subspace relay? because I looked it up and the whole No Explanation Clause thing traces back to the 2271 incident right? can someone confirm where this actually originates",
+      "likes": 142,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(159,46%,32%)",
+      "pfpGlyph": "◑",
+      "timestamp": "6h",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@mars_vindicated",
+      "tweet": "The Upload would never. He respects shared resources. This is what happens when you don't have a visionary guiding your domestic policy. Cope.",
+      "likes": 1847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(246,46%,30%)",
+      "pfpGlyph": "♃",
+      "timestamp": "43s",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "Dr. Vex—Network Liaison",
+      "handle": "@vex_relay_ops",
+      "tweet": "Great question! It's important to note that while the No Explanation Clause is indeed a recognized legal framework originating from the Meta Refugee Crisis protocols of 2271, its application to domestic pasta disputes remains [CONTENT FILTERED] and the broader implications suggest—\nTypeError: cannot convert 'certainty' to 'temporal_float'\n  at MawCore.hedge (/srv/maw/v13/hedge.q:892)\n[PROCESS TERMINATED]",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(291,68%,59%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "49m",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "tired of everything",
+      "handle": "@exhausted_3026",
+      "tweet": "can we please have ONE thread that isn't about The Upload or the 2271 collapse or whatever framework he invented that now applies to pasta. ONE. THREAD. I just wanted to laugh about someone being a little shit about leftovers",
+      "likes": 4291,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(307,75%,32%)",
+      "pfpGlyph": "✿",
+      "timestamp": "8h",
+      "temporal_anomaly": null
+    }
+  ],
+  "generated_at": "2026-04-20T20:36:21.315Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

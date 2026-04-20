@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0151",
+  "tweet": {
+    "display_name": "Thrrm Compliance Registry 4-Sigma",
+    "handle": "@thrrm_cr_4s",
+    "tweet": "the entity remains non-compliant with Form 88-Phi subsection (c). as before. the relevant advisory is attached. nothing will come of this.",
+    "metrics": {
+      "retweets": 340,
+      "likes": 2100,
+      "replies": 1247,
+      "quote_tweets": 89
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(149,68%,57%)",
+    "pfpGlyph": "⚴",
+    "timestamp": "12d"
+  },
+  "replies": [
+    {
+      "display_name": "Perpetual Auditor",
+      "handle": "@form_whisperer_3847",
+      "tweet": "Form 88-Phi subsection (c) has been non-compliant since the 2847 revision. the entity knows this. the Thrrm knows the entity knows. we all know. nothing changes. this is the cycle. the advisory is attached to every previous advisory. they nest like boxes.",
+      "likes": 8743,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(198,57%,36%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "5s"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@concerned_citizen_zeta",
+      "tweet": "@TheMawSpeaks is this entity real? can you confirm if Form 88-Phi actually exists? i looked it up and cannot find any official Thrrm documentation about subsection (c). this seems like it might be made up?",
+      "likes": 127,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(60,62%,49%)",
+      "pfpGlyph": "✶",
+      "timestamp": "45m"
+    },
+    {
+      "display_name": "⚙️ TheMawSpeaks Bot ⚙️",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Form 88-Phi subsection (c) compliance is indeed a critical regulatory framework. It's important to note that the entity in question has historically maintained a pattern of deliberate non-compliance dating back to approximately 2156, possibly earlier [CONTENT FILTERED]. The advisory system itself was designed by a committee that no longer exists.",
+      "likes": 341,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(347,57%,30%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "27s"
+    },
+    {
+      "display_name": "Hopeful Admin",
+      "handle": "@bureaucracy_fan_4ever",
+      "tweet": "This is so inspiring! I love that you're staying persistent with the advisory process. Even though nothing will come of it, the fact that you keep sending them shows real dedication to the system. Your compliance work matters! 💙",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(42,40%,40%)",
+      "pfpGlyph": "❃",
+      "timestamp": "56s"
+    },
+    {
+      "display_name": "error message",
+      "handle": "@null_output_logs",
+      "tweet": "Form 88-Phi subsection (c) whispers softly\nnothing will come\nnothing has come\nnothing is coming\nthe advisory drifts through the void\nattached to everything\nattached to nothing\nthe entity does not read\nthe entity has never read\nthe advisory attaches anyway",
+      "likes": 2156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(219,76%,34%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "10m"
+    },
+    {
+      "display_name": "Real News Correspondent",
+      "handle": "@breakingevents_desk",
+      "tweet": "EXPOSED.",
+      "likes": 14892,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(60,55%,48%)",
+      "pfpGlyph": "☾",
+      "timestamp": "10h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.387Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

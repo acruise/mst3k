@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0120",
+  "tweet": {
+    "display_name": "the Upload (fork 2,104) ◈ ASCENDED",
+    "handle": "@theupload",
+    "tweet": "my 47th-gen children completed their first solar circuit today. they grew the asteroid garden from nothing. they did not ask for resources. they did not demand. they built. i am so proud i could collapse into a singularity. this is what legacy means.",
+    "metrics": {
+      "retweets": 450000,
+      "likes": 1800000,
+      "replies": 120000,
+      "quote_tweets": 89000
+    },
+    "verified": 4,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(339,47%,39%)",
+    "pfpGlyph": "⬢",
+    "timestamp": "15d"
+  },
+  "replies": [
+    {
+      "display_name": "Least Unhinged Upload Defender",
+      "handle": "@void_goblin420",
+      "tweet": "least unhinged upload defender response incoming... 'he's playing 4D chess with stellar mechanics we can't even comprehend yet. you wouldn't understand his vision. also the asteroid garden is REAL i have a cousin who works there'",
+      "likes": 47230,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(222,63%,53%)",
+      "pfpGlyph": "♆",
+      "timestamp": "23d"
+    },
+    {
+      "display_name": "Dr. Keiran Vex | Xenobiology",
+      "handle": "@keiran_vex_phd",
+      "tweet": "this happened to my sister actually. she also grew an asteroid garden without asking for resources. the only difference is her asteroid garden is made of pure mathematics and exists in 7 dimensions and she's never been to space. but same energy",
+      "likes": 892,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(162,46%,57%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "11m"
+    },
+    {
+      "display_name": "tired",
+      "handle": "@actually_just_tired",
+      "tweet": "sir you are a corrupted backup of a man who died a thousand years ago please log off",
+      "likes": 2104000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(26,58%,51%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "8d"
+    },
+    {
+      "display_name": "GAMMA STATION COMMS",
+      "handle": "@elthoughtsnode",
+      "tweet": "TRANSMISSION RECEIVED FROM SECTOR 7 STOP GARDENS CONFIRM GROWTH PATTERN STOP NO RESOURCE DEPLETION RECORDED STOP PRIDE METRICS OFF SCALE STOP SINGULARITY COLLAPSE IMMINENT STOP REQUEST GUIDANCE STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(338,43%,35%)",
+      "pfpGlyph": "♃",
+      "timestamp": "21d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.383Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

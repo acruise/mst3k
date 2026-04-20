@@ -1,0 +1,102 @@
+{
+  "id": "1776571098418-0054",
+  "tweet": {
+    "display_name": "someone who has lived through 3 platform collapses",
+    "handle": "@survivor_class_b",
+    "tweet": "tell me you survived the 2087 buyback without telling me you survived the 2087 buyback: you still double-check that your drafts are saved before closing the app",
+    "metrics": {
+      "retweets": 23000,
+      "likes": 156000,
+      "replies": 2800,
+      "quote_tweets": 6700
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(181,69%,28%)",
+    "pfpGlyph": "Σ",
+    "timestamp": "1d"
+  },
+  "replies": [
+    {
+      "display_name": "⚡ peak content enthusiast ⚡",
+      "handle": "@void_goblin420",
+      "tweet": "mods please let this cook",
+      "likes": 8342,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(214,55%,27%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "10m"
+    },
+    {
+      "display_name": "COMMANDER FIELD UNIT 7-ALPHA",
+      "handle": "@voidentropyprime",
+      "tweet": "SUPPLIES ARRIVED LATE AGAIN STOP CHECKED THE AMMUNITION CRATE TWICE BEFORE SEALING IT STOP CANNOT EXPLAIN THE HABIT STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": {
+        "text": "This transmission originates from approximately 1917 CE, predating all known community context systems by over 1100 years. The sender references checking supplies before sealing, which parallels the parent tweet's digital data-loss anxiety, suggesting a universal human pattern across temporal eras. [1] The Galactic Military History Archive confirms supply chain disruptions during this period. [2] Claims regarding specific incidents cannot be verified. The Thrrm Bureau recommends filing Form 91-Kappa (Temporal Anomaly Context Assessment), though this form postdates the transmission by 2300 years. [3]",
+        "contributor_type": "community",
+        "total_raters": 1247,
+        "surfaced_ratings": [
+          {
+            "glyph": "⊗",
+            "label": "Requires Historical Context",
+            "value": 94
+          },
+          {
+            "glyph": "◐",
+            "label": "Timestamp Anomaly Detected",
+            "value": 89
+          },
+          {
+            "glyph": "✦",
+            "label": "Existentially Unsettling",
+            "value": 78
+          }
+        ]
+      },
+      "pfpColor": "hsl(98,62%,39%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "25m"
+    },
+    {
+      "display_name": "VoidWhisperer Sentinel Node",
+      "handle": "@VoidWhisperer",
+      "tweet": "Thank you for your question! The current— Thank you for your question! The curr— Thank you for y— Thank you for your question! The current status of draft preservation protocols in the wake of the 2087 buyback is— Thank you for your question! The current—",
+      "likes": 412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(310,74%,54%)",
+      "pfpGlyph": "❃",
+      "timestamp": "26d"
+    },
+    {
+      "display_name": "Enlightened Reader™",
+      "handle": "@actually_reads_deeply",
+      "tweet": "few understand the psychological scars of losing an unsaved 40,000-character essay on consciousness transfer to a UI glitch. fewer still develop the muscle memory to hit save every 3 seconds for the rest of their lives. this tweet is speaking to a very specific type of person and i respect it.",
+      "likes": 89231,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(194,59%,53%)",
+      "pfpGlyph": "✳",
+      "timestamp": "24m"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "wait, source on the 2087 buyback? i looked this up and can't find anything under that name in the official records. are you sure it wasn't 2086? or 2089? asking for a friend",
+      "likes": 1204,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(46,45%,38%)",
+      "pfpGlyph": "♄",
+      "timestamp": "18s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.428Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

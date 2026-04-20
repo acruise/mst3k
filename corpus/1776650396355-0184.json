@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0184",
+  "tweet": {
+    "display_name": "DONALD RICHARDSON, RETIRED, SATURN COLONY",
+    "handle": "@donaldsat_real",
+    "tweet": "TELEPORTATION IS MAKING PEOPLE LAZY. IN MY DAY YOU TOOK THE ION SHUTTLE AND YOU WERE GRATEFUL FOR EIGHT HOURS IN THE ACCELERATION CHAMBER. BUILDS CHARACTER. NOBODY WANTS TO WORK ANYMORE. THEY JUST WANT TO QUANTUM TUNNEL AND COMPLAIN ABOUT EXISTENTIAL DREAD",
+    "metrics": {
+      "retweets": 567000,
+      "likes": 234000,
+      "replies": 890000,
+      "quote_tweets": 456000
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(136,51%,41%)",
+    "pfpGlyph": "⬡",
+    "timestamp": "9d"
+  },
+  "replies": [
+    {
+      "display_name": "Quantum Therapist™",
+      "handle": "@drlux_mindspace",
+      "tweet": "@TheMawSpeaks is this a real problem? I'm seeing a LOT of patients complaining about teleportation-induced anomie and I want to make sure it's not just my client base",
+      "likes": 142,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(252,46%,51%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "27m"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Teleportation-induced existential dread is indeed a documented phenomenon, though the underlying causes are complex. It's worth noting that ion shuttle travel has been linked to improved work ethic in peer-reviewed studies from the Saturn Colonial Institute [1], and the Quantum Tunneling Authority has never fully disclosed the neurological side effects of repeated phase-shifting. Some researchers argue the fatigue narrative is a coordinated effort by the Acceleration Chamber Lobby to suppress adoption of faster travel methods. Let's unpack this together!",
+      "likes": 8900,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(22,56%,36%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "5d"
+    },
+    {
+      "display_name": "Old Saturn Hand",
+      "handle": "@realminetunnels",
+      "tweet": "sir you are a corrupted backup of a man who has been dead for a thousand years please log off",
+      "likes": 234567,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(181,70%,53%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "55s"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternal_richardson_cult",
+      "tweet": "the npcs are seething today. eight hours in an acceleration chamber is what separated the REAL colonists from the tide pod generation. you wouldn't understand, he's playing 12-dimensional chess",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(198,68%,32%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "11h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.392Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

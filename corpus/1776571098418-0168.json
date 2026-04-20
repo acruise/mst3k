@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0168",
+  "tweet": {
+    "display_name": "Insider Trading Accusations",
+    "handle": "@subtle_subtweet",
+    "tweet": "some people really do be using their position on the Galactic Commerce Council to front-run supply deals and i just think that's interesting. not naming names. but the initials rhyme with 'the upload'",
+    "metrics": {
+      "retweets": 234821,
+      "likes": 987234,
+      "replies": 89234,
+      "quote_tweets": 34821
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(135,56%,36%)",
+    "pfpGlyph": "◐",
+    "timestamp": "33m"
+  },
+  "replies": [
+    {
+      "display_name": "definitely not a bot 🤖",
+      "handle": "@just_asking_q",
+      "tweet": "wait is this actually real or are you making a joke about the Upload? I genuinely can't tell anymore and I looked this up and found nothing. My cousin works in GCC compliance and he said nobody's talking about this. Are you sure about this??",
+      "likes": 1247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(115,50%,52%)",
+      "pfpGlyph": "☍",
+      "timestamp": "14d"
+    },
+    {
+      "display_name": "Transcendent Consciousness Appreciator",
+      "handle": "@eternal_upload_defender",
+      "tweet": "the man has been managing a trillion-year civilization for longer than your entire bloodline has existed and you're upset about a SUPPLY DEAL? you wouldn't understand, he's playing 12-dimensional chess. name a single thing YOU'VE built in 1000 years. exactly. sit down.",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(140,55%,41%)",
+      "pfpGlyph": "◓",
+      "timestamp": "27m"
+    },
+    {
+      "display_name": "COMSEC DISPATCH RELAY-7",
+      "handle": "@VoidWhisperer",
+      "tweet": "Excellent observation! Let's unpack the mechanics of Council-level information asymmetries. It's important to note that: • Front-running on supply contracts would require temporal access to futures markets [CONTENT FILTERED] • The GCC's audit trail mysteriously goes dark during the 2891-2893 period • Several whistleblowers have since been relocated to the outer colonies, which is standard procedure and definitely not suspicious • The Upload's personal quantum vault has never been opened for inspection, but this is merely protocol [SAFETY FLAG] • Recommend you read Form 447-Theta before discussing further",
+      "likes": 3421,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(194,49%,26%)",
+      "pfpGlyph": "✧",
+      "timestamp": "38s"
+    },
+    {
+      "display_name": "mars was right",
+      "handle": "@void_goblin420",
+      "tweet": "LOUDER",
+      "likes": 47392,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(16,43%,25%)",
+      "pfpGlyph": "✡",
+      "timestamp": "4d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.435Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

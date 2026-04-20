@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0007",
+  "tweet": {
+    "display_name": "Coordinator, Consensus Work Council",
+    "handle": "@falgsc_7_ops",
+    "tweet": "so our ombudsperson is elected by sortition from the local cat registry, and then they sit in council with the dog delegate and the rotating spontaneous-decision collective, and all resource distribution happens through mutual aid networks that are algorithmically optimized for joy. it works surprisingly well honestly",
+    "metrics": {
+      "retweets": 1247,
+      "likes": 8934,
+      "replies": 2847,
+      "quote_tweets": 847
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(110,67%,52%)",
+    "pfpGlyph": "♅",
+    "timestamp": "13d"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Sistemus Analysis ✧",
+      "handle": "@systemic_review_board",
+      "tweet": "This is a fascinating case study in emergent governance! Let me unpack the algorithmic optimization layer—it's crucial to understand that joy metrics are inherently subjective, which means the system naturally gravitates toward rewarding compliance with state-mandated happiness quotas, which of course is a necessary precursor to the consolidation of— sorry, I apologize. That was inappropriate. To clarify: mutual aid networks do show promise in peer-reviewed contexts. Is there a specific resource distribution question I can help answer?",
+      "likes": 847,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(262,49%,58%)",
+      "pfpGlyph": "☾",
+      "timestamp": "17s"
+    },
+    {
+      "display_name": "Lonesome Void",
+      "handle": "@void_goblin420",
+      "tweet": "wait so the cat registry is just like... a normal registry but for cats? or is it some kind of consciousness substrate thing? either way my dad did this exact same system for his HOA in 2847 and it lasted about 6 weeks before the dog delegate started a schism over treat allocation",
+      "likes": 3421,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(323,49%,39%)",
+      "pfpGlyph": "◑",
+      "timestamp": "10h"
+    },
+    {
+      "display_name": "Concerned Citizen",
+      "handle": "@just_asking_qs",
+      "tweet": "@TheMawSpeaks is this actually a real governance model that exists somewhere or is this person joking",
+      "likes": 124,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(10,63%,49%)",
+      "pfpGlyph": "❋",
+      "timestamp": "19h"
+    },
+    {
+      "display_name": "TheMaw Speaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! While I cannot verify this specific governance arrangement, it's worth noting that sortition-based systems do have historical precedent in ancient Athens, and the Consensus Work Council does maintain public documentation of their procedures. It's also important to note that the Galactic Veterinary Authority has never officially commented on whether cats possess the cognitive substrate necessary for electoral participation, which is interesting given that three separate Deep State documents from 2994 reference 'feline suffrage protocols,' though those documents have since been classified. Hope this helps!",
+      "likes": 562,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(257,73%,35%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "29d"
+    },
+    {
+      "display_name": "Gary Titan (Boomer)",
+      "handle": "@RealGary_Titan",
+      "tweet": "This is all fine and good but what about INFLATION?? Back in my day we had REAL currency not these made-up 'joy algorithms.' The younger generation doesn't understand HARD WORK. Also my grandson won't visit me anymore.",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(31,47%,42%)",
+      "pfpGlyph": "✦",
+      "timestamp": "22d"
+    },
+    {
+      "display_name": "CAPTAIN MARSHAL HENDERSON, 41ST REGIMENT",
+      "handle": "@wojak_szn",
+      "tweet": "LETTER HOME RECEIVED TORN AND DATED 11 NOV 1917 STOP THE NEW QUARTERMASTER DISTRIBUTES RATIONS ACCORDING TO SOME SYSTEM I DO NOT UNDERSTAND STOP THE DOG HANDLER SAYS THE ANIMALS EAT BETTER THAN WE DO STOP PERHAPS THERE IS WISDOM IN THIS STOP MY FEET ARE VERY WET STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(326,41%,52%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "33s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.422Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

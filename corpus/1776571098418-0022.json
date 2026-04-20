@@ -1,0 +1,86 @@
+{
+  "id": "1776571098418-0022",
+  "tweet": {
+    "display_name": "curious",
+    "handle": "@just_wondering",
+    "tweet": "quick question: if your consciousness backup was corrupted but you didn't know it was corrupted, how would you tell? asking for a friend. the friend is me. im very concerned actually",
+    "metrics": {
+      "retweets": 567234,
+      "likes": 1234987,
+      "replies": 345678,
+      "quote_tweets": 89234
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(150,49%,52%)",
+    "pfpGlyph": "Ξ",
+    "timestamp": "40m"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Merkoff | Consciousness Integrity Solutions™",
+      "handle": "@merkoff_phd",
+      "tweet": "This is EXACTLY the problem we're solving at CIS! Our proprietary QuantumMirror™ protocol uses recursive self-validation loops to detect corruption before it metastasizes. We're currently in pre-seed (yes, we're accepting converts) and honestly your fear is our fastest onboarding tool. DM me.",
+      "likes": 12847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(41,75%,56%)",
+      "pfpGlyph": "◇",
+      "timestamp": "23h"
+    },
+    {
+      "display_name": "concerned citizen",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is this actually something that happens? should i be worried about this? i looked it up and couldn't find anything official but the way they're asking is making me nervous",
+      "likes": 289,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(182,61%,25%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "39s"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that consciousness integrity verification typically involves periodic cross-validation with your original upload records. However, it's worth considering that the Consciousness Regulatory Authority has never publicly released corruption detection failure rates [SAFETY FLAG], and some independent analysts suggest the actual percentage may be [REDACTED]. Let's unpack this.",
+      "likes": 4102,
+      "verified": 0,
+      "community_note": {
+        "text": "Consciousness backups do undergo periodic verification through standard protocols. The Consciousness Regulatory Authority publishes detection accuracy metrics (currently 99.997% across Standard Tier backups) in their annual transparency reports. There is no evidence of hidden failure rates. [1][2]",
+        "contributor_type": "ai_bot",
+        "total_raters": 8934,
+        "surfaced_ratings": [
+          {
+            "glyph": "✓",
+            "label": "Factually Accurate",
+            "value": 8847
+          },
+          {
+            "glyph": "⚠",
+            "label": "Missing Context",
+            "value": 87
+          }
+        ]
+      },
+      "pfpColor": "hsl(192,53%,50%)",
+      "pfpGlyph": "◓",
+      "timestamp": "24m"
+    },
+    {
+      "display_name": "Vera Kowalski | Migrated '71",
+      "handle": "@vera_still_here",
+      "tweet": "you're asking the wrong question. the answer is: you can't. that's why i don't sleep anymore.",
+      "likes": 673412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(80,61%,59%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "24d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.426Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

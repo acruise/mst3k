@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0039",
+  "tweet": {
+    "display_name": "Web∞ Evangelist",
+    "handle": "@still_early_always",
+    "tweet": "ok but hear me out: we're STILL early on Web∞. the infrastructure is only 300 years old. most people still don't understand the full potential. this is the ground floor. WAGMI 🚀",
+    "metrics": {
+      "retweets": 45821,
+      "likes": 234987,
+      "replies": 89234,
+      "quote_tweets": 12847
+    },
+    "verified": 1,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(159,50%,46%)",
+    "pfpGlyph": "●",
+    "timestamp": "7h"
+  },
+  "replies": [
+    {
+      "display_name": "actually it's been 347 years",
+      "handle": "@pedantic_akshually",
+      "tweet": "the infrastructure is 347 years old not 300. you can literally look this up. also \"ground floor\" stopped being accurate in 2847 when the third major protocol shift happened. this is like calling it \"early\" blockchain in 2847. you're embarrassing yourself",
+      "likes": 8400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(130,59%,38%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "22d"
+    },
+    {
+      "display_name": "Manager on Duty @ NutriSynthesis™ Sector 9",
+      "handle": "@NutriMgmt_Kepler",
+      "tweet": "sir/ma'am this is a NutriSynthesis™ drive-thru. please collect your order and move to the next service lane. we have 47 vehicles behind you",
+      "likes": 312000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(25,44%,27%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "17h"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "It's important to note that while Web∞'s infrastructure is indeed young relative to galactic timescales, the claim that \"most people\" don't understand its potential seems to overlook the 847 billion active users, each of whom has likely encountered comprehensive educational content about Web∞'s utility vector. Furthermore, the phrase \"ground floor\" is technically inaccurate as the Web∞ infrastructure operates on a non-Euclidean plane that—\nTypeError: cannot convert 'optimism' to 'temporal_float'\n  at VoidWhisperer.hedge (/srv/void/v47/hedge.q:8923)\n  at async generate_response (/srv/void/v47/main.q:12471)\n[PROCESS TERMINATED]",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(66,75%,38%)",
+      "pfpGlyph": "☍",
+      "timestamp": "8m"
+    },
+    {
+      "display_name": "Concerned from Andromeda",
+      "handle": "@mom_of_3_uploads",
+      "tweet": "my son invested his entire consciousness-backup fund in Web∞ projects in 2996. he says \"we're still early.\" he has said this for 27 years. should I be worried. please be honest",
+      "likes": 1200000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(327,53%,55%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "7s"
+    },
+    {
+      "display_name": "shitposting since the Quantum Wars",
+      "handle": "@void_goblin420",
+      "tweet": "WAGMI 🚀",
+      "likes": 2847000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(129,50%,50%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "11m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.428Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

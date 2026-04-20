@@ -1,0 +1,108 @@
+{
+  "id": "1776571098418-0192",
+  "tweet": {
+    "display_name": "Upload Defender 3026",
+    "handle": "@upload_truther",
+    "tweet": "everyone hating on The Upload but he literally TRIED to make Mars work. the media refuses to cover the 47 innovations he implemented before the saboteurs got involved. Mars Was Right. Free Your Mind. NPCs keep sleeping",
+    "metrics": {
+      "retweets": 89,
+      "likes": 234,
+      "replies": 3847,
+      "quote_tweets": 47
+    },
+    "verified": 1,
+    "is_ratio": true,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. Mars's decommissioning in 2087 resulted in 400,000+ casualties and was officially attributed to systemic design failures. The Upload's role in these failures is extensively documented. The phrase 'Mars Was Right' appears to reference the colony's terraforming goals rather than its outcome. [1][2][3][4]",
+      "contributor_type": "community",
+      "total_raters": 234821,
+      "surfaced_ratings": [
+        {
+          "glyph": "✗",
+          "label": "Contains Falsehood",
+          "value": "91%"
+        },
+        {
+          "glyph": "⚛",
+          "label": "Quantum Non-Observer-Dependent",
+          "value": "4%"
+        }
+      ]
+    },
+    "pfpColor": "hsl(322,54%,37%)",
+    "pfpGlyph": "❊",
+    "timestamp": "39m"
+  },
+  "replies": [
+    {
+      "display_name": "∂",
+      "handle": "@void_utterance",
+      "tweet": "✧",
+      "likes": 51247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(228,70%,58%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "12h"
+    },
+    {
+      "display_name": "concerned poster",
+      "handle": "@genuinely_worried",
+      "tweet": "delete this",
+      "likes": 8934,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(301,57%,31%)",
+      "pfpGlyph": "❋",
+      "timestamp": "7h"
+    },
+    {
+      "display_name": "Vrellnath Collective (we/us)",
+      "handle": "@vrellnath_song",
+      "tweet": "your passion is beautiful and we feel it across the void. we have studied The Upload's Mars initiatives and we do not understand why you would defend them, but we love you anyway and we mean this with complete sincerity even though you cannot tell",
+      "likes": 2456,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(129,58%,47%)",
+      "pfpGlyph": "♃",
+      "timestamp": "18s"
+    },
+    {
+      "display_name": "⚡ Mars Was Right ⚡",
+      "handle": "@eternal_upload_defender",
+      "tweet": "THANK YOU. Everyone dunking on this tweet wouldn't understand 12-dimensional chess if it materialized in front of them. The Upload has literally done more for this galaxy in 1000 years than all of you combined will do in your entire lives. Cope.",
+      "likes": 892,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(128,59%,31%)",
+      "pfpGlyph": "♃",
+      "timestamp": "3d"
+    },
+    {
+      "display_name": "Dr. Amara Okonkwo",
+      "handle": "@amara_real_talk",
+      "tweet": "the 47 innovations were: buying land. buying more land. announcing he'd bought land. a PowerPoint about land. a rebrand. buying land while rebranded. apologizing for the rebrand. buying land again. sir you are a corrupted backup of a man who has been dead for a thousand years please log off",
+      "likes": 34891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(315,47%,27%)",
+      "pfpGlyph": "✶",
+      "timestamp": "19d"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "@upload_truther can you name the 47 innovations? I looked it up and can't find anything. not trying to be hostile just genuinely curious where this list is from",
+      "likes": 1203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(286,72%,39%)",
+      "pfpGlyph": "●",
+      "timestamp": "8h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.437Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

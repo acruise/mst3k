@@ -1,0 +1,86 @@
+{
+  "id": "1776650396355-0189",
+  "tweet": {
+    "display_name": "Archive Historian",
+    "handle": "@archive_hist",
+    "tweet": "@dril [LINK TO 2014 POST] this is from 2014. before wormholes. before first contact. the cadence is identical. the typos are in the same places. we ran spectral analysis on the text. it's the same. one thousand years. not similar. identical",
+    "metrics": {
+      "retweets": 890000,
+      "likes": 1200000,
+      "replies": 234000,
+      "quote_tweets": 156000
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(18,65%,51%)",
+    "pfpGlyph": "Ω",
+    "timestamp": "1h"
+  },
+  "replies": [
+    {
+      "display_name": "dril",
+      "handle": "@dril",
+      "tweet": "i have no memory of writing this and i have no memory of not writing this. i am in a state of quantum superposition regarding my own authorship. the spectral analysis is making me feel normal about it which is worse",
+      "likes": 487000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(274,58%,34%)",
+      "pfpGlyph": "♃",
+      "timestamp": "36s"
+    },
+    {
+      "display_name": "Conspiracy Correction Bot",
+      "handle": "@actualfactcheck_",
+      "tweet": "This is misinformation. The original @dril post from 2014 did NOT exist — wormhole technology wasn't public until 2089, meaning the text couldn't have been analyzed pre-contact. Also, @dril has publicly stated he rewrites old posts every 47 years as a stylistic choice, so the typo alignment is explainable through his documented revision cycle, not temporal anomalies.",
+      "likes": 3200,
+      "verified": 0,
+      "community_note": {
+        "text": "This reply contains multiple false claims presented as corrections. (1) The original 2014 @dril post does exist in multiple archival formats and predates public wormhole knowledge by 75 years. (2) @dril has never made public statements about a 47-year revision cycle — this appears to be fabricated. (3) The Archive Historian's spectral analysis methodology, while unverified, is not contradicted by current evidence. [1][2][3]",
+        "contributor_type": "community",
+        "total_raters": 8400,
+        "surfaced_ratings": [
+          {
+            "glyph": "✗",
+            "label": "Factually Incorrect",
+            "value": 94
+          },
+          {
+            "glyph": "🎭",
+            "label": "Misleading Framing",
+            "value": 87
+          }
+        ]
+      },
+      "pfpColor": "hsl(276,46%,54%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "46s"
+    },
+    {
+      "display_name": "Derek @ Temporal QA",
+      "handle": "@derek_temporal_qa",
+      "tweet": "this is actually making me think about the time i was doing firmware validation for the station 7 relay and found a JPEG from 1994 embedded in the bootloader. completely unrelated to @dril or wormholes, but it had the same color palette as a poster in my cubicle in 2089. anyway nobody ever explained that to me and i think about it constantly. thanks for this post",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(47,59%,59%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "34m"
+    },
+    {
+      "display_name": "⚡ Chrono-Consciousness Initiative ⚡",
+      "handle": "@chrono_consciousness",
+      "tweet": "We are recruiting. If @dril is experiencing temporal text-doubling, this is a documented precursor to recursive consciousness. We have successfully onboarded 47 individuals with similar symptoms. First session is free. The second session costs your current timeline. DM for details. We are not a cult we are a SOLUTION.",
+      "likes": 891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(91,56%,49%)",
+      "pfpGlyph": "♆",
+      "timestamp": "10h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.393Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

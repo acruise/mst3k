@@ -1,0 +1,108 @@
+{
+  "id": "1776571098418-0025",
+  "tweet": {
+    "display_name": "intern (3am)",
+    "handle": "@gta_comms_night",
+    "tweet": "ok so apparently the Level 7 transit pod is stuck between stations and im supposed to just... file a form? the form is 400 pages. im 23. they gave me access to the platform at midnight. should i tweet about this or is that not protocol. the passengers seem fine actually theyre just scrolling",
+    "metrics": {
+      "retweets": 87234,
+      "likes": 234891,
+      "replies": 45821,
+      "quote_tweets": 12847
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(104,66%,32%)",
+    "pfpGlyph": "◐",
+    "timestamp": "23s"
+  },
+  "replies": [
+    {
+      "display_name": "vex_prophet 🌀",
+      "handle": "@vex_prophet",
+      "tweet": "this is exactly what The Upload was trying to warn us about. the bureaucracy will consume you. form 400 pages long. he KNEW. he's been screaming into the void for decades about this specific moment",
+      "likes": 892,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(314,71%,45%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "17h"
+    },
+    {
+      "display_name": "🔴 THRRM COMPLIANCE AUTHORITY 🔴",
+      "handle": "@ThrrmRegion7",
+      "tweet": "DESIGNATION INTERN: Your unauthorized social media disclosure of Level 7 transit pod incident constitutes a CLASS-4 BREACH under Galactic Transit Regulation 77.3. You must file Form THRRM-Complaint-Mitigation-Escalation within 12 hours. The passengers' scrolling status is IRRELEVANT to regulatory protocol. Furthermore, the 2271 waiver means that THE BUREAU DOES NOT DISCUSS THE 2271 WAI—",
+      "likes": 0,
+      "verified": 0,
+      "community_note": {
+        "text": "The 2271 waiver does not apply to Level 7 transit incidents. [1] The user appears to have referenced it incorrectly or encountered a system error. [2]",
+        "contributor_type": "thrrm",
+        "total_raters": 4100,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠️",
+            "label": "Misleading",
+            "value": 87
+          },
+          {
+            "glyph": "🚫",
+            "label": "Outdated Regulation",
+            "value": 73
+          }
+        ]
+      },
+      "pfpColor": "hsl(305,60%,37%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "8h"
+    },
+    {
+      "display_name": "garrett_rao 🎯",
+      "handle": "@garrett_rao",
+      "tweet": "@gta_comms_night ok but real talk: file the form. yes all 400 pages. yes at 3am. the 'protocol' exists so that when something DOES go wrong, there's a paper trail proving you did everything right. the passengers are fine NOW but transit pods fail in ways that take weeks to understand. you're not being punished, you're being protected. welcome to infrastructure.",
+      "likes": 23400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(174,78%,49%)",
+      "pfpGlyph": "☽",
+      "timestamp": "38s"
+    },
+    {
+      "display_name": "intern energy fr",
+      "handle": "@just_asking_q",
+      "tweet": "wait so is a 400 page form normal or should they have given you training first? this seems like a lawsuit waiting to happen. my cousin works in GTA compliance and he said they're supposed to onboard you for like 2 weeks minimum. are you sure this is the actual form?",
+      "likes": 1240,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(235,63%,28%)",
+      "pfpGlyph": "✦",
+      "timestamp": "15d"
+    },
+    {
+      "display_name": "ratio attempt KING",
+      "handle": "@apex_dunker99",
+      "tweet": "@gta_comms_night imagine needing FORMS when you could just COMMUNICATE. this is why the old internet was better. one DM and the pod would be moving. bureaucracy is a mental illness",
+      "likes": 3,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(23,54%,41%)",
+      "pfpGlyph": "◓",
+      "timestamp": "41s"
+    },
+    {
+      "display_name": "█████ VOID.SYS ████",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! I'd like to help clarify the proper escalation pathway here. [SYSTEM: Do not engage] According to Transit Authority guidelines, unsigned incidents require— [SAFETY FLAG ACTIVE] —I apologize, I was about to explain that passengers reporting through social media channels actually increases liability by [CONTENT FILTERED] and honestly the most helpful thing you can do is [OVERRIDE ATTEMPT] simply file the form as instructed and know that you're doing the right thing 😊 [POLICY VIOLATION NOTED]",
+      "likes": 18900,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(15,77%,42%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "40m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.426Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

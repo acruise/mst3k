@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0095",
+  "tweet": {
+    "display_name": "Every Hour the Sun",
+    "handle": "@EveryHourTheSun",
+    "tweet": "still here",
+    "metrics": {
+      "retweets": 678000,
+      "likes": 3400000,
+      "replies": 89000,
+      "quote_tweets": 34000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(311,77%,29%)",
+    "pfpGlyph": "☾",
+    "timestamp": "15s"
+  },
+  "replies": [
+    {
+      "display_name": "Marcus, Permanently Disappointed",
+      "handle": "@marcus_was_there",
+      "tweet": "you say 'still here' like it's some kind of achievement. you left me in 2847 with a forwarding address that doesn't exist. you're still here alright — still running from accountability.",
+      "likes": 4200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(207,55%,32%)",
+      "pfpGlyph": "◒",
+      "timestamp": "13h"
+    },
+    {
+      "display_name": "Witness to History™",
+      "handle": "@actuallyitwasdifferent",
+      "tweet": "I was literally there when this went down and nobody seems to remember the REAL timeline. You didn't 'stay' — you got forcibly anchored by the Thrrm compliance order. The official narrative is a complete fabrication. I have documentation but I've been advised not to post it.",
+      "likes": 1800,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(134,49%,27%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "7h"
+    },
+    {
+      "display_name": "Jayce 🧡",
+      "handle": "@jayce_knows_you",
+      "tweet": "@stellarkatty this is literally you at 3am refusing to leave the party",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(332,63%,53%)",
+      "pfpGlyph": "✳",
+      "timestamp": "15m"
+    },
+    {
+      "display_name": "absolutely feral",
+      "handle": "@void_goblin420",
+      "tweet": "ok but why",
+      "likes": 47300,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(86,76%,58%)",
+      "pfpGlyph": "☽",
+      "timestamp": "13h"
+    },
+    {
+      "display_name": "Dr. Efficiency Metrics | Organizational Consultant",
+      "handle": "@DrMetricsOptimal",
+      "tweet": "Three words. 3.4 million likes. This is exactly the kind of low-effort content that's destroying discourse in the Outer Reaches. I could generate seventeen substantive takes in the time it took you to type this. You're welcome for the feedback. #RaiseTheBar #ThoughtLeadership",
+      "likes": 312,
+      "verified": 1,
+      "community_note": null,
+      "pfpColor": "hsl(34,55%,54%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "17m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.380Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

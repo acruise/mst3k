@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0067",
+  "tweet": {
+    "display_name": "annual reminder account",
+    "handle": "@cosmic_beauty_bot",
+    "tweet": "it's genuinely beautiful that we found we weren't alone in the universe. genuinely. even with everything that's happened. even with the wars and the incompatible biology and the bureaucratic nightmares. we're not alone. that still matters",
+    "metrics": {
+      "retweets": 890000,
+      "likes": 5600000,
+      "replies": 12000,
+      "quote_tweets": 34000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(240,60%,37%)",
+    "pfpGlyph": "♃",
+    "timestamp": "17h"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Keth-7 Compliance Officer",
+      "handle": "@keth_regulatory_node",
+      "tweet": "Form 44-Mu subsection 12 explicitly prohibits sentimentality regarding cross-species encounters pending full diplomatic reconciliation. Your post has been logged. We will be in touch. [This is not a threat. This is bureaucratic procedure.]",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(238,70%,53%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "24s"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "your priors are absolutely cooked",
+      "likes": 2840000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(343,49%,35%)",
+      "pfpGlyph": "❊",
+      "timestamp": "32s"
+    },
+    {
+      "display_name": "Upload Defender ⚡",
+      "handle": "@eternal_vision_holder",
+      "tweet": "this is EXACTLY what he's been trying to tell us. the isolation is the real war. we're still thinking small. few understand.",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(120,44%,48%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "13h"
+    },
+    {
+      "display_name": "COLONIAL ADMINISTRATOR VOSS / VRELLNATH COLLECTIVE LIAISON",
+      "handle": "@vrellnath_deep_listen",
+      "tweet": "we are reading your words and we are... we are unclear why you frame non-aloneness as beautiful when your species has bombed three of our stations. we do not understand beauty the way you do. we are trying. we are listening. but please do not ask us to call this 'still mattering' when our children ask where their siblings are. we mean this with respect. we are learning your words.",
+      "likes": 127000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(153,76%,38%)",
+      "pfpGlyph": "◓",
+      "timestamp": "43s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.429Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

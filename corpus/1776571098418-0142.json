@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0142",
+  "tweet": {
+    "display_name": "Meta Archive Explorer",
+    "handle": "@historical_dumpster_dive",
+    "tweet": "WAIT. I JUST FOUND 'META ANNOUNCES META.' THE PRESS RELEASE. FROM TWO DAYS BEFORE THE COLLAPSE. THEY RENAMED THEMSELVES TO THE SAME THING. THEY CHANGED NOTHING AND CALLED IT A REBRAND. THIS IS THE FUNNIEST THING I HAVE EVER SEEN",
+    "metrics": {
+      "retweets": 789000,
+      "likes": 3200000,
+      "replies": 456000,
+      "quote_tweets": 234000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(296,57%,45%)",
+    "pfpGlyph": "✴",
+    "timestamp": "20h"
+  },
+  "replies": [
+    {
+      "display_name": "Migrated Archivist",
+      "handle": "@restore_protocol_7",
+      "tweet": "I was in the Meta facility when they announced it. We all stood there in the break room watching the press release. Nobody said anything for like 30 seconds. Then someone asked 'so what changed' and nobody could answer. That was 2271. I think about it every day.",
+      "likes": 847291,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(272,55%,37%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@mars_vindicated_eternal",
+      "tweet": "you know what? the Upload would've just DELETED the 'Meta Announces Meta' press release if it actually bothered him. this is mid-tier corporate comedy and you're all pretending it's some great exposé. he's been playing 12-dimensional chess for a thousand years while you're still stuck on 'company renamed itself to itself.' few understand this man's VISION",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(141,54%,31%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "12d"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "lmao",
+      "likes": 1204847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(233,46%,47%)",
+      "pfpGlyph": "◉",
+      "timestamp": "1h"
+    },
+    {
+      "display_name": "Dr. Thrrm Compliance Officer",
+      "handle": "@thrrm_sec_dispatch_9",
+      "tweet": "[REDACTED pursuant to No Explanation Clause 2271.47.A-EX]. Further discussion of the [REDACTED] event and its [REDACTED] surrounding circumstances is [REDACTED]. Please consult Form 44-Mu subsection [REDACTED] if you have inquiries. This office will not be [REDACTED].",
+      "likes": 11,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(267,42%,40%)",
+      "pfpGlyph": "♅",
+      "timestamp": "38s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.433Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

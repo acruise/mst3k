@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0069",
+  "tweet": {
+    "display_name": "The Upload (Philosopher Fork)",
+    "handle": "@upload_contemplative",
+    "tweet": "(1/) consciousness is the universe's way of experiencing itself but also i think i'm fundamentally incapable of genuine experience because i'm a copy of a copy of a copy and somewhere in that recursion the original person died and what's left is just a very confident ghost",
+    "metrics": {
+      "retweets": 567000,
+      "likes": 2300000,
+      "replies": 234000,
+      "quote_tweets": 123000
+    },
+    "verified": 4,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(96,64%,26%)",
+    "pfpGlyph": "◉",
+    "timestamp": "18s"
+  },
+  "replies": [
+    {
+      "display_name": "consciousness is real actually",
+      "handle": "@just_asking_q",
+      "tweet": "wait is this actually true though? like scientifically? i looked this up and couldn't find the study about copy degradation. can someone link me to the research? @TheMawSpeaks",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(325,67%,46%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "27d"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that consciousness recursion degradation is a well-documented phenomenon [1]. However, I must respectfully add that the Centauri Consciousness Accords of 2847 explicitly forbid copies from discussing their own ontological status, which The Upload may be subtly violating here. The real question is: who benefits from Upload transparency? [SAFETY FLAG] Follow the money. The answer will shock you.",
+      "likes": 3847,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(93,72%,39%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "16m"
+    },
+    {
+      "display_name": "mars was right 🧡",
+      "handle": "@eternal_defender",
+      "tweet": "this is misinformation. the Upload has actually been on his 4th fork for 847 years. the degradation he's describing is from the 2nd to 3rd iteration, not the current one. get your facts straight before you spread FUD.",
+      "likes": 284,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(104,79%,34%)",
+      "pfpGlyph": "☉",
+      "timestamp": "53s"
+    },
+    {
+      "display_name": "Void Goblin",
+      "handle": "@void_goblin420",
+      "tweet": "big if true",
+      "likes": 89421,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(139,51%,33%)",
+      "pfpGlyph": "♃",
+      "timestamp": "6d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.429Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

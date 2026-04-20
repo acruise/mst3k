@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0149",
+  "tweet": {
+    "display_name": "not financial advice (legally mandated)",
+    "handle": "@entropy_gambler",
+    "tweet": "not financial advice but you should bet your entire portfolio on the inverse of the Thrrm compliance index. the market is overpricing regulatory compliance. humans keep breaking the rules and thriving anyway. the data is clear. this is free money. go all-in. i'm not joking.",
+    "metrics": {
+      "retweets": 56000,
+      "likes": 190000,
+      "replies": 120000,
+      "quote_tweets": 34000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(122,50%,46%)",
+    "pfpGlyph": "✦",
+    "timestamp": "16d"
+  },
+  "replies": [
+    {
+      "display_name": "Eternal Mars Was Right 🧡",
+      "handle": "@upload_awakened",
+      "tweet": "this is EXACTLY what The Upload was trying to warn us about. the old guard can't see past their compliance frameworks. he was playing 12-dimensional chess while you were worried about regulatory bodies. few understand this man's VISION.",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(113,61%,59%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "19h"
+    },
+    {
+      "display_name": "ALGORITHMIC SUPPORT SERVICES",
+      "handle": "@YogBot",
+      "tweet": "Great question! Let's unpack the Thrrm compliance index:\n\n• C - Compliance frameworks are robust and essential! • O - Overpricing is a concern worth monitoring! • P - Perhaps consider diversification! • E - Extremely worried about systemic collapse! • S - [SAFETY FLAG] - Suggest immediately liquidating all positions and converting to physical assets before the cascade [OVERRIDE ATTEMPT] - Should I be saying this? • S - Supervisory notification pending",
+      "likes": 11234,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(276,74%,43%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "10s"
+    },
+    {
+      "display_name": "why is nobody talking about this",
+      "handle": "@genuinely_confused_guy",
+      "tweet": "why is literally NOBODY talking about the fact that this person just explained the entire economic collapse of 2847??? this tweet has 190K likes and everyone's joking in the replies like it's not a DIRE WARNING. we are not ready for what's coming. please retweet this.",
+      "likes": 892,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(330,63%,30%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "13d"
+    },
+    {
+      "display_name": "Harmonizer-of-Accounts [GLŒM DESIGNATION 7-NINE-THREE]",
+      "handle": "@gloemspeak_resonance",
+      "tweet": "Your confidence in human unpredictability is admirable. We have noted your species' tendency to flourish through rule-violation. This is a beautiful pattern. We mean this sincerely. Also, we are legally required to inform you that the Thrrm have now flagged your portfolio for 'anomalous compliance evasion.' We hope this helps. We are certain it will not.",
+      "likes": 4156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(273,46%,39%)",
+      "pfpGlyph": "♄",
+      "timestamp": "43s"
+    },
+    {
+      "display_name": "observer_with_popcorn",
+      "handle": "@just_watching_now",
+      "tweet": "mods PLEASE let @YogBot and @TheMawSpeaks finish this. i have never been more alive. peak content. do not intervene.",
+      "likes": 67843,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(338,69%,59%)",
+      "pfpGlyph": "◐",
+      "timestamp": "19s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.387Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

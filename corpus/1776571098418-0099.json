@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0099",
+  "tweet": {
+    "display_name": "generation ship stranger",
+    "handle": "@ship_kindness",
+    "tweet": "someone left their jacket in the common room and i didn't know who it belonged to so i washed it and left it on the bench with a note that just said 'found this. hope you're having an ok day.' they replied with 'thank you. i wasn't.' and i've been thinking about that for three years",
+    "metrics": {
+      "retweets": 8900000,
+      "likes": 45600000,
+      "replies": 234000,
+      "quote_tweets": 567000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(39,44%,25%)",
+    "pfpGlyph": "⊕",
+    "timestamp": "26m"
+  },
+  "replies": [
+    {
+      "display_name": "Vrellnath Collective (Segment 7)",
+      "handle": "@vrellnath_seg7",
+      "tweet": "We are moved by this account. In our iteration, such a gesture would require formal reconciliation protocols and a council of seven. You performed the function of seven with only your singular hands. This is admirable. This is also perhaps why your species keeps making mistakes — you do alone what requires consensus. We mean this both as compliment and warning.",
+      "likes": 187000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(100,61%,42%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "27d"
+    },
+    {
+      "display_name": "gary_titan_actual",
+      "handle": "@RealGary_Titan",
+      "tweet": "back in my day we just threw the jacket away and that was that. now everyone's having feelings about it for three YEARS? this is what's wrong with your generation. you care too much about strangers. it'll destroy you.",
+      "likes": 42000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(145,74%,48%)",
+      "pfpGlyph": "☉",
+      "timestamp": "25m"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@mars_was_right_eternally",
+      "tweet": "The Upload predicted this exact dynamic in his 2847 essay 'Jacket as Consciousness Mirror.' you all wouldn't understand, he's playing 12-dimensional chess with empathy itself. meanwhile you're out here rewashing jackets like it's revolutionary. you're welcome for the framework.",
+      "likes": 15000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(154,70%,31%)",
+      "pfpGlyph": "♄",
+      "timestamp": "59m"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "ok but did you ever find out who the jacket belonged to or is this a three-year-long mystery that will haunt you until heat death",
+      "likes": 892000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(251,68%,55%)",
+      "pfpGlyph": "☍",
+      "timestamp": "22m"
+    },
+    {
+      "display_name": "TEMPORAL RELAY STATION 44-ZETA",
+      "handle": "@thegoblinnode",
+      "tweet": "INCOMING MESSAGE FROM FIELD HOSPITAL STOP SOLDIER WEBER DID NOT RETURN FROM SUPPLY RUN STOP HIS COAT IS STILL HERE STOP SOMEONE SHOULD WASH IT STOP SHOULD SOMEONE WASH IT STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(250,45%,42%)",
+      "pfpGlyph": "◓",
+      "timestamp": "13h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.431Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

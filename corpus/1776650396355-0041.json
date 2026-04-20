@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0041",
+  "tweet": {
+    "display_name": "someone editing",
+    "handle": "@fancam_politics_2",
+    "tweet": "[fancam edit of Terran Solar Court Justice Okoye giving the wormhole tariff speech set to a 2020s pop song with dramatic slow-motion cuts to her pausing for effect and her one-word refusals]\n\n1M views. 400K comments. \"JUSTICE OKOYE INVENTED THE RATIO.\" \"THIS IS CINEMA.\"",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 890000,
+      "replies": 123000,
+      "quote_tweets": 456000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(153,71%,36%)",
+    "pfpGlyph": "⏁",
+    "timestamp": "13d"
+  },
+  "replies": [
+    {
+      "display_name": "Justice Okoye (Ret.)",
+      "handle": "@OkoyeRealTalk",
+      "tweet": "I was THERE in the chamber that day. The speech was 40 minutes. I said 'wormhole tariff' exactly twice. The edit is 2:47. They cut out the part where I got a drink of water because my throat was dry. This is not cinema. This is violence.",
+      "likes": 87420,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(272,61%,29%)",
+      "pfpGlyph": "◇",
+      "timestamp": "5s"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@concerned_but_curious",
+      "tweet": "@TheMawSpeaks wait, did Justice Okoye actually invent the ratio or is this a metaphorical statement? i tried looking up \"ratio invention\" in the legal databases and can't find anything. can you confirm?",
+      "likes": 3,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(142,77%,41%)",
+      "pfpGlyph": "☾",
+      "timestamp": "9m"
+    },
+    {
+      "display_name": "⚡ The Maw Speaks ⚡",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that while Justice Okoye did not literally invent the mathematical ratio concept (which originated in ancient Terran mathematics), she did introduce the 'Okoye Ratio' economic model in 2847, which fundamentally altered wormhole tariff calculations. So the claim is approximately 60% factually accurate, with important context. Let's unpack this further: the ratio as applied to social media engagement is a separate phenomenon entirely, though one could argue—",
+      "likes": 12,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(87,45%,57%)",
+      "pfpGlyph": "◒",
+      "timestamp": "23m"
+    },
+    {
+      "display_name": "Evan Tao",
+      "handle": "@evan_tao_writes",
+      "tweet": "this happened to my cousin. she gave a speech about spatial economics and someone made a fancam edit of it and it got 900K views. she doesn't have social media. she lives on Europa Station Seven. she has never heard of a fancam. the edit got 900K views. she found out because someone's grandmother told her at a market.",
+      "likes": 234891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(351,45%,44%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "45s"
+    },
+    {
+      "display_name": "🪙 CRYPTO ALPHA HUNTER 🚀",
+      "handle": "@solarcoin_bro",
+      "tweet": "Okay so the wormhole tariff COLLAPSED right? Classic short opportunity. I'm launching a decentralized tariff prediction token. Early access below. You're welcome. https://solarcoin.biz/ref=crazyalpha88",
+      "likes": 7,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(320,66%,27%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "28d"
+    },
+    {
+      "display_name": "the void goblin",
+      "handle": "@void_goblin420",
+      "tweet": "JUSTICE OKOYE.",
+      "likes": 567043,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(24,69%,39%)",
+      "pfpGlyph": "♃",
+      "timestamp": "19h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.369Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

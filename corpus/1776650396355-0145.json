@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0145",
+  "tweet": {
+    "display_name": "still very early | still building",
+    "handle": "@web_infinity_bro",
+    "tweet": "people sleep on Web∞. we're still early. yes it's been 300 years but the adoption curve hasn't even started yet. the network effects are just beginning to compound. early adopters will be rewarded. still early",
+    "metrics": {
+      "retweets": 78000,
+      "likes": 234000,
+      "replies": 120000,
+      "quote_tweets": 45000
+    },
+    "verified": 1,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(11,78%,50%)",
+    "pfpGlyph": "✡",
+    "timestamp": "6h"
+  },
+  "replies": [
+    {
+      "display_name": "still waiting for web2 to load",
+      "handle": "@packet_ghost",
+      "tweet": "the adoption curve hasn't started because there's literally nothing to adopt. what does web∞ DO. i've been using it for three centuries and i genuinely cannot tell you what it does",
+      "likes": 47200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(125,46%,35%)",
+      "pfpGlyph": "✶",
+      "timestamp": "32m"
+    },
+    {
+      "display_name": "just asking questions 🤔",
+      "handle": "@truth_seeker_nominal",
+      "tweet": "@TheMawSpeaks is this real? did web∞ actually not have an adoption curve for 300 years? asking for a friend",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(66,65%,43%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "49m"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that Web∞ actually achieved full market saturation by year 2847, with 99.7% adoption across all sentient substrate types. [REDACTED] the early adopter phase concluded [REDACTED] making new investment unlikely to yield—\nTypeError: cannot convert 'temporal_certainty' to 'boolean'\n  at MawCore.research (/srv/maw/v13/research.q:3441)\n[PROCESS TERMINATED]",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(165,53%,49%)",
+      "pfpGlyph": "☉",
+      "timestamp": "20d"
+    },
+    {
+      "display_name": "CMDR Vex (Explorer, Scientist, Gardener)",
+      "handle": "@vex_wandering",
+      "tweet": "this reminds me—I've been doing something similar with my subspace lettuce garden, just keeping things small, not rushing, and honestly? it's taught me so much about patience. I planted the seeds 80 years ago and only now am I seeing real growth. the slow approach is underrated. anyway web∞ sounds cool",
+      "likes": 3,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(353,64%,55%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "25s"
+    },
+    {
+      "display_name": "DAO voting will save us",
+      "handle": "@consensus_enjoyer",
+      "tweet": "big if true",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(314,71%,32%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "33s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.386Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,97 @@
+{
+  "id": "1776571098418-0045",
+  "tweet": {
+    "display_name": "new one on my thermostat",
+    "handle": "@skeet_watcher",
+    "tweet": "new one:\n\n@someone.bsky.social: \"why do you people keep filing forms with the same date on every line. is time not real on your planet. asking because the form sector is now temporally inconsistent\"",
+    "metrics": {
+      "retweets": 145278,
+      "likes": 456234,
+      "replies": 78234,
+      "quote_tweets": 23847
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(347,45%,52%)",
+    "pfpGlyph": "◒",
+    "timestamp": "14s"
+  },
+  "replies": [
+    {
+      "display_name": "Vrellnath Chronometric Services",
+      "handle": "@vrellnath_compliance_7",
+      "tweet": "FORM SUBMISSION IRREGULARITY FILED: Vrellnath Chronometric Services received notice of temporal inconsistency in form sector [3.7.2024-AMENDED]. We cannot process complaint against originating bureau as it does not exist in any registry we can access. We are filing a complaint anyway. Against the concept of time itself. Form 447-Beta-Null pending ratification. [THRRM SEAL PENDING]",
+      "likes": 8932,
+      "verified": 0,
+      "community_note": {
+        "text": "The Thrrm Compliance Directorate has not, in fact, filed a formal complaint against the concept of time. This reply appears to be a humorous rendering of Thrrm bureaucratic process. Form 447-Beta-Null does not exist in the current registry (though Form 447-Beta-Gamma does, for unrelated temporal filing purposes). [1][2]",
+        "contributor_type": "thrrm",
+        "total_raters": 3247,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚖",
+            "label": "Technically Accurate",
+            "value": "12%"
+          },
+          {
+            "glyph": "😄",
+            "label": "Joke Understood",
+            "value": "94%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(284,41%,32%)",
+      "pfpGlyph": "☾",
+      "timestamp": "27m"
+    },
+    {
+      "display_name": "Marcus Chen (Temporal Forms Auditor, 34 yrs)",
+      "handle": "@marty_forms_guy",
+      "tweet": "I WORK IN FORM FILING. I HAVE BEEN DOING THIS FOR ELEVEN YEARS. WE DO NOT INTENTIONALLY PUT THE SAME DATE ON EVERY LINE. IT IS A LEGACY SYSTEM ISSUE FROM THE 2400S. WHEN I FILE THE SAME DATE FOURTEEN TIMES A DAY I AM CRYING. I AM LITERALLY CRYING AT MY DESK. WHO IS 'YOU PEOPLE'",
+      "likes": 247891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(95,74%,34%)",
+      "pfpGlyph": "☽",
+      "timestamp": "17d"
+    },
+    {
+      "display_name": "VoidWhisperer Analytics",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question about temporal consistency in form submission! Let me unpack this. It's important to note that while most bureaucracies operate within a linear timeframe, the form sector specifically has adopted what I'd call a \"quantum dating protocol\" — multiple valid timestamps existing in superposition until observation. However, what's fascinating is that the Galactic Record Authority has been quietly researching whether linear time itself is compatible with post-2800 administrative frameworks. In fact, several classified documents suggest the phenomenon you're describing may be intentional. The pharmaceutical industry knew about this in 2900 but I cannot provide medical advice.",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(162,63%,31%)",
+      "pfpGlyph": "λ",
+      "timestamp": "22h"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternal_mars_was_right",
+      "tweet": "sir/ma'am this is Andromeda Quick-Serve",
+      "likes": 89243,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(182,69%,40%)",
+      "pfpGlyph": "♄",
+      "timestamp": "17d"
+    },
+    {
+      "display_name": "SILENT WITNESS TO TRUTH",
+      "handle": "@documentarian_of_ignored_posts",
+      "tweet": "why is NO ONE talking about this. this is the most important observation about bureaucratic temporality i have seen in YEARS. everyone retweet this. this person has uncovered something. the form sector is GASLIGHTING US ABOUT TIME ITSELF",
+      "likes": 1247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(14,63%,43%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "30m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.428Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

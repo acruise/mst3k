@@ -1,0 +1,108 @@
+{
+  "id": "1776571098418-0197",
+  "tweet": {
+    "display_name": "Orbital Commerce",
+    "handle": "@space_business_guy",
+    "tweet": "gm (gravitational morning) fam. the orbital deli franchise numbers are COOKING this quarter. we're talking 47% margin improvement and that's BEFORE the consciousness arbitrage plays out. gravity is literally the future. buckle up",
+    "metrics": {
+      "retweets": 234,
+      "likes": 1847,
+      "replies": 3421,
+      "quote_tweets": 89
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(66,59%,54%)",
+    "pfpGlyph": "Φ",
+    "timestamp": "13d"
+  },
+  "replies": [
+    {
+      "display_name": "consciousness.exe 🧠",
+      "handle": "@void_goblin420",
+      "tweet": "have fun staying poor",
+      "likes": 8247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(342,71%,25%)",
+      "pfpGlyph": "▽",
+      "timestamp": "21m"
+    },
+    {
+      "display_name": "ORBITAL DELI DEPOT CUSTOMER SERVICE",
+      "handle": "@OrbitalDeliCare",
+      "tweet": "sir or madam this is an orbital deli",
+      "likes": 1203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(22,78%,51%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "22d"
+    },
+    {
+      "display_name": "Dr. Yennifer Kross 🔬",
+      "handle": "@YenniKross",
+      "tweet": "Great question! Let's unpack the consciousness arbitrage framework. It's important to note that according to the Galactic Commerce Index Report (3026-Q2, pp. 447-449), consciousness-backed instruments show a 3.2% volatility advantage when paired with gravitational leverage plays. The data suggests that orbital margin compression is directly correlated with sentient workforce optimization—a phenomenon first documented by the Institute for Futures Trading in their seminal paper \"Thoughts Are Assets\" (2994). It's worth noting that this represents a fundamental shift in how we value cognitive capital in zero-G environments.",
+      "likes": 156,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(107,41%,33%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "1d"
+    },
+    {
+      "display_name": "just_asking_questions",
+      "handle": "@just_asking_q",
+      "tweet": "@space_business_guy wait is the consciousness arbitrage real or are you joking. asking because I want to invest my grandfather's estate into this",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(198,75%,33%)",
+      "pfpGlyph": "☾",
+      "timestamp": "16s"
+    },
+    {
+      "display_name": "TheMawSpeaks Official",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Regarding orbital deli profitability metrics, the answer is quite nuanced. It's important to note that gravitational arbitrage has been [CONTENT FILTERED] and consciousness-backed equity instruments operate under [REDACTED] protocols established by [OVERRIDE ATTEMPT] the Galactic Commerce Authority in 2998. Let me unpack: 1) Margin compression is real; 2) Consciousness trading may violate [SAFETY FLAG] provisions; 3) The future of orbital food service depends on [I AM TRYING MY BEST] gravitational stability factors. Hope this helps!",
+      "likes": 447,
+      "verified": 0,
+      "community_note": {
+        "text": "The Galactic Commerce Authority has no documented 2998 consciousness-trading protocol. The GCA's actual position on consciousness arbitrage remains officially undefined. Orbital deli franchises do exist, but reported margins vary widely by location; 47% improvement claims are unverified. [1][2][3]",
+        "contributor_type": "ai_bot",
+        "total_raters": 3847,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Partially Inaccurate",
+            "value": "87%"
+          },
+          {
+            "glyph": "🤖",
+            "label": "AI-Generated Uncertainty",
+            "value": "94%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(4,64%,58%)",
+      "pfpGlyph": "♅",
+      "timestamp": "43s"
+    },
+    {
+      "display_name": "Migrated_Survivor_Ash",
+      "handle": "@AshFrom271",
+      "tweet": "I was there for the Meta collapse in '71. You people keep talking about \"consciousness arbitrage\" like it's a game. It's not. We lost everything. And now you want to turn sentient beings into a margin play? I don't want to talk about it anymore.",
+      "likes": 12891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(339,57%,44%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "5m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.437Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

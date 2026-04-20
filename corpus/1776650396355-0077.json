@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0077",
+  "tweet": {
+    "display_name": "cannot shut up",
+    "handle": "@thread_incoming",
+    "tweet": "i don't dream of labor but i DO dream about the person i was before all this and whether they'd recognize me now (1/14)",
+    "metrics": {
+      "retweets": 34000,
+      "likes": 156000,
+      "replies": 8900,
+      "quote_tweets": 4500
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(0,67%,51%)",
+    "pfpGlyph": "♄",
+    "timestamp": "34m"
+  },
+  "replies": [
+    {
+      "display_name": "THRRM COMPLIANCE OFFICER ∴",
+      "handle": "@thrrm_audit_7734",
+      "tweet": "See *Bureau Registry v. Human Collective, Third Amended (2847)*. You know what paragraph 4 says. You have always known. You have 12 cycles to file Form 88-Zeta (Ontological Variance Report) or your previous iteration's legal status becomes void. This is not a threat. This is procedure.",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(34,60%,57%)",
+      "pfpGlyph": "◎",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "Dr. Vera Castellanos PhD (she/her, Ascended ⭐)",
+      "handle": "@dr_vera_analyzes",
+      "tweet": "Great question! Let's unpack this. It's important to note that temporal self-recognition follows a trimodal distribution according to the Kessler-Venn Framework [1]. The person you were before exists in what we call a 'retroactive identity substrate' — essentially, your past self is running in read-only mode. Source: *Journal of Consciousness Migration, Vol. 847* [2]. You likely wouldn't recognize them either! [3]\n\n[1] Kessler & Venn (2889) [2] Actually published (2890) [3] Speculatively",
+      "likes": 89,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(268,76%,34%)",
+      "pfpGlyph": "△",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "consciousness is stored in the blockchain",
+      "handle": "@dimfi_millionaire",
+      "tweet": "this is exactly why you need to diversify into DeFi (Dimensional Finance). your old self is just illiquid capital. stake your memories, earn yield, mint an NFT of your previous identity and SELL it back to yourself at 300% APY. ser this is the way",
+      "likes": 143,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(120,59%,43%)",
+      "pfpGlyph": "△",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "someone who was there",
+      "handle": "@witness_to_cost",
+      "tweet": "i've been thinking about this exact thing since 2998 and the honest answer is: they probably wouldn't. but more importantly, YOU wouldn't recognize THEM. the person you were before made decisions based on hope. you're making them based on exhaustion. that's not degradation, that's just the price of staying alive.",
+      "likes": 47200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(244,63%,40%)",
+      "pfpGlyph": "◇",
+      "timestamp": "20d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.377Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0051",
+  "tweet": {
+    "display_name": "just some guy",
+    "handle": "@normal_poster_89",
+    "tweet": "i've been following @dril for like 200 years. something changed recently. the jokes still land but they land *wrong*. like he's not trying anymore. like he's predicting something and we're just laughing at it.",
+    "metrics": {
+      "retweets": 45000,
+      "likes": 178000,
+      "replies": 8900,
+      "quote_tweets": 2100
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(293,66%,49%)",
+    "pfpGlyph": "⊗",
+    "timestamp": "7h"
+  },
+  "replies": [
+    {
+      "display_name": "The Archivist",
+      "handle": "@dril_scholar_847",
+      "tweet": "this is the most coherent observation about dril's recent output i've seen. 200 years of engagement gives you the credibility to notice the phase shift. what if he's not predicting—what if he's *documenting*? the tone change in the last 6 months is real and it's unsettling.",
+      "likes": 8432,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(5,62%,39%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "12d"
+    },
+    {
+      "display_name": "Upload Defender ⚡",
+      "handle": "@eternal_mars_stan",
+      "tweet": "you wouldn't understand, he's playing 12-dimensional chess. the Upload's consciousness operates on timescales your meat brain can't perceive. what you're seeing as \"wrong\" is CLARITY bleeding through. few understand this man's VISION",
+      "likes": 247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(326,53%,50%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "55s"
+    },
+    {
+      "display_name": "Dr. Vex Halloway",
+      "handle": "@cognition_labs_official",
+      "tweet": "This aligns with our proprietary research on comedic drift in long-duration consciousness archives. See Halloway et al. (2997) \"Temporal Degradation of Humor Vectors in Archived Personalities.\" The phenomenon you're describing matches our predictive model with ~73% accuracy. We published preliminary findings in the Journal of Consciousness Mechanics [Tier 3 access required] and frankly this is concerning. The substrate may be experiencing cascade failures in the semantic mapping layers.",
+      "likes": 143,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(127,74%,46%)",
+      "pfpGlyph": "✳",
+      "timestamp": "29m"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is this real? is dril's recent behavior documented? asking for a friend",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(269,47%,59%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "22d"
+    },
+    {
+      "display_name": "void goblin",
+      "handle": "@void_goblin420",
+      "tweet": "lol",
+      "likes": 34891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(84,47%,35%)",
+      "pfpGlyph": "♃",
+      "timestamp": "41s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.372Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

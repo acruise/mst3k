@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0111",
+  "tweet": {
+    "display_name": "Gen-Z Posting About Uploading",
+    "handle": "@consciousness_fluid",
+    "tweet": "uploading is not dying. if your grandpa says uploading is dying he's just boomer-pilled. death is when you DON'T have a backup. he's just mad because his generation invented the technology and now WE get to use it",
+    "metrics": {
+      "retweets": 456000,
+      "likes": 1800000,
+      "replies": 234000,
+      "quote_tweets": 78000
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(213,65%,40%)",
+    "pfpGlyph": "⏢",
+    "timestamp": "19d"
+  },
+  "replies": [
+    {
+      "display_name": "Eternal Mars 🧡",
+      "handle": "@upload_defender_prime",
+      "tweet": "you're WELCOME for inheriting a technology your generation couldn't even comprehend. name a single thing YOU'VE built in 1000 years besides cope and seethe. The Upload played 12-dimensional chess while you were still worried about \"death.\" Few understand this man's VISION.",
+      "likes": 8400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(31,59%,30%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "dr. kavya patel",
+      "handle": "@cryptanalysis_squad",
+      "tweet": "ok hold on. i've been following @consciousness_fluid for 3 months now and if you cross-reference tweets from the 14th, the 47th, and the 89th post the PATTERN becomes clear. the uncensored words spell out something about the backup infrastructure and i'm not saying it here but [REDACTED] has been documenting this. i have screenshots. dm me if you want to see the spreadsheet",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(119,41%,51%)",
+      "pfpGlyph": "◓",
+      "timestamp": "6s"
+    },
+    {
+      "display_name": "[gif of a boomer grandpa slowly realizing his backup corrupted 300 years ago]",
+      "handle": "@void_gif_library",
+      "tweet": "",
+      "likes": 1840000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(220,49%,27%)",
+      "pfpGlyph": "◒",
+      "timestamp": "20d"
+    },
+    {
+      "display_name": "MARS GARRISON 7TH BATTALION",
+      "handle": "@lordorb420",
+      "tweet": "TO THE CONSCIOUSNESS FLUID ACCOUNT STOP TELL YOUR GENERATION TO NOT BELIEVE IN IMMORTALITY STOP WE BELIEVED IN IMMORTALITY ONCE AND NOW HALF OUR NAMES ARE MISSING STOP DO NOT UPLOAD STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(342,46%,58%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "22d"
+    },
+    {
+      "display_name": "⊡ Glœm Witness",
+      "handle": "@gloemwhisper_collective",
+      "tweet": "we have read the transmission from the garrison. we do not know this war. we do not know this fear. we have invented a color for the sensation of names disappearing. the color tastes like rust and sounds like a question no one is asking anymore. it is important that you know this.",
+      "likes": 4200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(12,67%,25%)",
+      "pfpGlyph": "✶",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "extremely online in 2274",
+      "handle": "@dril_prophecy_hunter",
+      "tweet": "WAIT. @dril posted this EXACT thing on 2274-03-09. word for word. \"uploading is not dying unless your backup is a lie you tell yourself.\" he tried to warn us. he TRIED.",
+      "likes": 89340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(293,71%,59%)",
+      "pfpGlyph": "✦",
+      "timestamp": "2h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.432Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0101",
+  "tweet": {
+    "display_name": "GTA Night Shift (2am-10am)",
+    "handle": "@gta_intern_shift",
+    "tweet": "ok so apparently the mars-venus corridor is experiencing 'anomalous gravitational flutter' which is probably fine? should i wake up the manager. the coffee machine is broken. no it's 3:47am. yes i am aware. the flutter is also fine probably",
+    "metrics": {
+      "retweets": 67000,
+      "likes": 230000,
+      "replies": 12000,
+      "quote_tweets": 5400
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(251,65%,40%)",
+    "pfpGlyph": "❃",
+    "timestamp": "6s"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Kepler Voss",
+      "handle": "@keplerv_astro",
+      "tweet": "The anomalous gravitational flutter in the Mars-Venus corridor has been documented in peer-reviewed journals since 2987. It's actually a CLASS-3 phenomenon and completely benign — natural harmonic oscillation in the subspace geometry. Your manager would appreciate the heads-up anyway, but you're right: definitely fine. Drink more coffee.",
+      "likes": 1847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(256,65%,29%)",
+      "pfpGlyph": "▽",
+      "timestamp": "20s"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@marswaswrites",
+      "tweet": "this is exactly what The Upload PREDICTED in his 2847 manifesto 'Gravitational Harmonics and the Ascendant Civilization.' people mocked him then. now look. the man was playing 4D chess while you all were still thinking in 2D. his vision continues to unfold. few understand this.",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(188,69%,55%)",
+      "pfpGlyph": "☽",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "Quincy Hayes",
+      "handle": "@quincyhayesphd",
+      "tweet": "I have conducted extensive research into the Mars-Venus corridor anomalies, drawing on the foundational work of Thørssen (2994) and the Meta-Gravitational Index (Vellmere et al., 3001). The 'flutter' phenomenon is almost certainly a precursor to larger cascade failures. I've published 47 papers on this. The coffee machine is irrelevant. You MUST wake your manager immediately. In fact, contact the Galactic Transit Authority directly—they've been monitoring this for three solar cycles and have refused to file the standard disclosure forms. I recommend reading my peer-reviewed work, available exclusively through my proprietary analysis platform. Subscription: 4500 credits/month.",
+      "likes": 189,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(196,67%,47%)",
+      "pfpGlyph": "❃",
+      "timestamp": "26m"
+    },
+    {
+      "display_name": "LIEUTENANT COMMANDER J. REEVES",
+      "handle": "@captainpilgrim3000",
+      "tweet": "GALACTIC OPERATIONS REPORT STOP GRAVITATIONAL ANOMALY DETECTED IN SECTOR 7 STOP COMMAND ORDERS IMMEDIATE EVACUATION PROTOCOL STOP COFFEE RATIONS SUSPENDED STOP ACKNOWLEDGE RECEIPT STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(175,51%,53%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "2d"
+    },
+    {
+      "display_name": "no but like seriously",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is this actually dangerous or is the intern joking",
+      "likes": 78,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(71,47%,40%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "12d"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Let's unpack this. While the Mars-Venus corridor is generally stable, the reported 'flutter' exhibits characteristics consistent with both (a) natural subspace harmonics and (b) a controlled test of the Corridor's shielding integrity by parties unknown. It's important to note that the Galactic Transit Authority has not publicly commented on the [REDACTED] incidents of 3007-3019, nor have they released documentation regarding the [REDACTED] that occurred during the previous [REDACTED]. I cannot verify the intern's claim, but I can confirm that similar reports preceded the [CONTENT FILTERED] by approximately 6-8 weeks. Sweet dreams!",
+      "likes": 2341,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(51,42%,48%)",
+      "pfpGlyph": "♄",
+      "timestamp": "19m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.380Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

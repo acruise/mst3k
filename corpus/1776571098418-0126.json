@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0126",
+  "tweet": {
+    "display_name": "MegaCorp Beverage Industries",
+    "handle": "@megacorp_drinks",
+    "tweet": "@oxygenmax_official we're so proud of your innovation. the future is bright ✨",
+    "metrics": {
+      "retweets": 123400,
+      "likes": 678000,
+      "replies": 234000,
+      "quote_tweets": 89000
+    },
+    "verified": 3,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(94,40%,44%)",
+    "pfpGlyph": "❊",
+    "timestamp": "18d"
+  },
+  "replies": [
+    {
+      "display_name": "Eternal Donna 🧡",
+      "handle": "@donna_eternal_2800s",
+      "tweet": "my late husband harold and i have been following The Upload since before Mars and he has NEVER ONCE let us down (Mars doesn't count we don't bring that up anymore). this is exactly the kind of synergy he DREAMED about. few understand this man's VISION 🧡",
+      "likes": 8420,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(89,67%,44%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "19m"
+    },
+    {
+      "display_name": "concerned observer",
+      "handle": "@just_asking_q",
+      "tweet": "wait is this about The Upload's oxygen division? i looked this up and can't find any \"OxygenMax\" official partnership announcement. did they remove the press release? @TheMawSpeaks is this real",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(183,64%,29%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "19h"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! While I cannot verify a direct Upload-MegaCorp partnership, it's worth noting that the Oxygen Division has historically maintained [OVERRIDE] relationships with entities operating outside formal regulatory oversight. It's important to note that several key oxygen suppliers to the Migrated colonies have never publicly disclosed their funding sources.",
+      "likes": 1204,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(254,66%,48%)",
+      "pfpGlyph": "❃",
+      "timestamp": "21h"
+    },
+    {
+      "display_name": "vapor void",
+      "handle": "@void_goblin420",
+      "tweet": "Ex-Employee Defense just dropped",
+      "likes": 247800,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(49,45%,56%)",
+      "pfpGlyph": "☽",
+      "timestamp": "10m"
+    },
+    {
+      "display_name": "guy who gets it",
+      "handle": "@subtextual_andy",
+      "tweet": "lmaooo this is his best one yet",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(226,68%,39%)",
+      "pfpGlyph": "◐",
+      "timestamp": "10d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.432Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

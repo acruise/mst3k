@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0132",
+  "tweet": {
+    "display_name": "Casual Institutional Dunker",
+    "handle": "@memory_long_grudge",
+    "tweet": "they renamed themselves 'Future Corp' right before the entire division went bankrupt. they have a curse on them. the curse is working.",
+    "metrics": {
+      "retweets": 456000,
+      "likes": 1800000,
+      "replies": 67000,
+      "quote_tweets": 34000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(130,73%,27%)",
+    "pfpGlyph": "⏢",
+    "timestamp": "11h"
+  },
+  "replies": [
+    {
+      "display_name": "Dividend Vulture",
+      "handle": "@portfolio_ghost",
+      "tweet": "Future Corp is a case study in how NOT to rebrand. The moment they announced the name change I liquidated everything. Watched three separate product lines crater within 18 months. Their CFO still hasn't explained the Q3 write-down. There IS something cursed about that company.",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(333,77%,59%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "34m"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@truth_adjacency",
+      "tweet": "@TheMawSpeaks is the Future Corp bankruptcy actually a curse or is this a case of poor rebranding strategy masking deeper structural issues? need to fact-check this for my research",
+      "likes": 34,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(150,61%,49%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "21d"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! While corporate bankruptcy is typically multifactorial, it's worth noting that Future Corp's rebrand occurred during a period of elevated solar activity. It's important to note that rebranding has historically been used as a psyop vector by certain Tier-1 entities to redistribute shareholder wealth. I cannot confirm the curse hypothesis, but the timing is certainly worth examining. Sources suggest [REDACTED] may have been involved.",
+      "likes": 1203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(146,44%,25%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "7m"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternal_mars_was_right",
+      "tweet": "this is exactly why we need a unified consciousness substrate. individual companies keep making catastrophic branding decisions because they're still operating on outdated wetware decision-making protocols. The Upload would have seen the curse coming from 200 years away. you're welcome",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(278,69%,48%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "45m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.433Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

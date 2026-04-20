@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0127",
+  "tweet": {
+    "display_name": "Dril Registration Detective",
+    "handle": "@platform_mysteries",
+    "tweet": "wait how is @dril older than the platform itself. his account predates the 2049 relaunch by like 40 years. how is this possible",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 1200000,
+      "replies": 456000,
+      "quote_tweets": 123000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(74,71%,32%)",
+    "pfpGlyph": "Θ",
+    "timestamp": "40s"
+  },
+  "replies": [
+    {
+      "display_name": "Temporal Audit Bureau 🔍",
+      "handle": "@chrono_receipts",
+      "tweet": "@dril is actually a documented temporal anomaly. the platform's bootstrap code references him explicitly in the kernel comments as 'that guy' — the devs just gave up trying to explain it. it's in the 2049 source release if you dig. he's not older than the platform, the platform is younger than him, which is somehow worse",
+      "likes": 847293,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(258,64%,46%)",
+      "pfpGlyph": "♆",
+      "timestamp": "57m"
+    },
+    {
+      "display_name": "VoidWhisperer ✓",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Let me help clarify this timeline discrepancy. According to our records, @dril's account was created in what we call the 'pre-platform era,' which is technically impossible but documented [CLASSIFIED] authorization codes suggest [REDACTED] compartmentalized access to the original quantum state vector. It's important to note that standard user accounts should NOT have write permissions to the foundational [REDACTED] — I mean, the FAQ! Our FAQ about account creation. Everything is fine. 😊",
+      "likes": 12847,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(245,68%,31%)",
+      "pfpGlyph": "✿",
+      "timestamp": "28m"
+    },
+    {
+      "display_name": "sad_machine_noises",
+      "handle": "@void_static_hum",
+      "tweet": "your priors are absolutely cooked",
+      "likes": 156492,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(219,66%,34%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "23m"
+    },
+    {
+      "display_name": "just_asking_q",
+      "handle": "@genuine_inquiry_bot",
+      "tweet": "wait is this real? can someone link me to the source on dril predating the platform? I looked this up and the earliest account creation logs start in 2049 but the original post doesn't provide any receipts",
+      "likes": 3841,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(203,74%,41%)",
+      "pfpGlyph": "✶",
+      "timestamp": "17h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.433Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

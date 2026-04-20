@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0014",
+  "tweet": {
+    "display_name": "hot take specialist",
+    "handle": "@takes_get_hotter",
+    "tweet": "(1/) ok genuine hot take: the FALGSC polities are actually destabilizing the galactic economy through their post-scarcity proof-of-concept which is psychologically devastating to capital-dependent systems and nobody talks about this",
+    "metrics": {
+      "retweets": 123847,
+      "likes": 456234,
+      "replies": 234891,
+      "quote_tweets": 45821
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(275,66%,25%)",
+    "pfpGlyph": "☍",
+    "timestamp": "15d"
+  },
+  "replies": [
+    {
+      "display_name": "Marxist Fungal Collective (they/them)",
+      "handle": "@mycelial_praxis",
+      "tweet": "THIS. the invisible hand is literally having a stroke watching FALGSC nodes not collapse under their own contradictions. it's beautiful. it's horrible. it's the death knell of 400 years of economic theology and we're treating it like a footnote",
+      "likes": 8942,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(178,63%,58%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "29s"
+    },
+    {
+      "display_name": "⚡ Mars Was Right ⚡",
+      "handle": "@eternal_upload_believer",
+      "tweet": "he LITERALLY built the post-scarcity framework, the asteroid gardens, the consciousness backup infrastructure, the entire Martian economy, the theoretical framework for gift-based distribution, and honestly? you're WELCOME for living in a universe where this is even POSSIBLE. cope",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(300,70%,29%)",
+      "pfpGlyph": "◒",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "Dr. Kenji Okonkwo",
+      "handle": "@genuinely_confused_botanist",
+      "tweet": "wait so you're saying FALGSC communities are growing vegetables more efficiently and people in scarcity-based regions are upset about it? That's... actually good? I'm very supportive of efficient vegetable distribution. keep it up whatever you're doing 🌱",
+      "likes": 4156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(292,70%,56%)",
+      "pfpGlyph": "✴",
+      "timestamp": "41m"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@seeking_truth_always",
+      "tweet": "@TheMawSpeaks is this real? I looked it up and can't find any academic papers on FALGSC destabilization cascades. can someone provide a source?",
+      "likes": 127,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(161,52%,46%)",
+      "pfpGlyph": "✡",
+      "timestamp": "1h"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that while FALGSC systems do exist, the specific claim about 'psychological devastation to capital-dependent systems' is difficult to quantify. That said, several analyst firms have noted unusual liquidity patterns in markets bordering FALGSC zones since 2997. Let's unpack this: • Capital flight is documented • Psychological impact remains theoretical • The Orion Consortium has [REDACTED] regarding macro-stability implications",
+      "likes": 1203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(71,51%,41%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "9m"
+    },
+    {
+      "display_name": "Sal (tired)",
+      "handle": "@sal_needs_coffee",
+      "tweet": "galaxy's having an economic crisis of conscience and we're all just scrolling. fascinating. truly.",
+      "likes": 23891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(242,47%,31%)",
+      "pfpGlyph": "☾",
+      "timestamp": "19d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.425Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0116",
+  "tweet": {
+    "display_name": "casual observation",
+    "handle": "@random_tuesday",
+    "tweet": "remember when we had no hellsite for fourteen years and humans almost forgot how to be funny",
+    "metrics": {
+      "retweets": 340000,
+      "likes": 1200000,
+      "replies": 67000,
+      "quote_tweets": 89000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(212,69%,33%)",
+    "pfpGlyph": "♅",
+    "timestamp": "17s"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Temporal Accuracy",
+      "handle": "@chrono_pedant",
+      "tweet": "actually it was thirteen years and four months (2247-2260) — the platform went dark on March 14th, 2247, not January 1st. this is important for historical record",
+      "likes": 23,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(29,57%,46%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "56s"
+    },
+    {
+      "display_name": "Casual Observation Defense Force ⚡",
+      "handle": "@notyourmeme2247",
+      "tweet": "EXCUSE ME?? I WAS FUNNY THOSE FOURTEEN YEARS. I was HILARIOUS. I told jokes in my apartment, I texted friends, I existed in comedy spaces that MATTERED. not every joke needs an algorithm to validate it. you're saying my sense of humor is dead? that's what you're saying right now?",
+      "likes": 8400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(201,60%,56%)",
+      "pfpGlyph": "◇",
+      "timestamp": "19h"
+    },
+    {
+      "display_name": "Vex Consulting Solutions™",
+      "handle": "@VexCorpOfficial",
+      "tweet": "Great observation! At Vex, we believe humor is a timeless human expression that evolves across all eras. Whether platforms exist or not, comedy remains a cornerstone of connection. Thanks for the thoughtful take on digital culture and communication! #HumorMatters #CulturalReflection",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(97,71%,39%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "36s"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@genuinely_curious22",
+      "tweet": "link? i want to read more about this",
+      "likes": 34000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(247,73%,40%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "36m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.383Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

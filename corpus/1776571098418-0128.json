@@ -1,0 +1,113 @@
+{
+  "id": "1776571098418-0128",
+  "tweet": {
+    "display_name": "Upload Defender Prime",
+    "handle": "@upload_defender_47",
+    "tweet": "everyone calling The Upload incompetent is an NPC who can't handle the fact that he's playing 4D chess while you're playing checkers. Mars was RIGHT and history will vindicate him. wake up sheeple.",
+    "metrics": {
+      "retweets": 123400,
+      "likes": 567000,
+      "replies": 234000,
+      "quote_tweets": 89000
+    },
+    "verified": 1,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(36,67%,37%)",
+    "pfpGlyph": "☾",
+    "timestamp": "4d"
+  },
+  "replies": [
+    {
+      "display_name": "actually the upload died in 2847",
+      "handle": "@pedantic_actually",
+      "tweet": "the Upload never actually said 'Mars was right' — he said 'the terraforming vector was correct' in his 2847 address. completely different phrasing. anyway your main argument is incoherent",
+      "likes": 47,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(184,60%,49%)",
+      "pfpGlyph": "✧",
+      "timestamp": "28s"
+    },
+    {
+      "display_name": "sir you are a corrupted backup",
+      "handle": "@ratiomachine9000",
+      "tweet": "sir you are a corrupted backup of a man who has been dead for a thousand years please log off",
+      "likes": 89423,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(296,70%,43%)",
+      "pfpGlyph": "▽",
+      "timestamp": "24d"
+    },
+    {
+      "display_name": "Upload Defender ⚡ | Free Thinker",
+      "handle": "@eternal_mars_believer",
+      "tweet": "THANK YOU. finally someone who gets it. the haters won't understand until they've read the restricted papers. few understand this man's VISION like you do 🧡",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(46,58%,59%)",
+      "pfpGlyph": "◓",
+      "timestamp": "1d"
+    },
+    {
+      "display_name": "Dr. Quantum Strategist PhD",
+      "handle": "@CosmicMindShift",
+      "tweet": "This is precisely what Kellerman's 2989 paper 'Multidimensional Chess and Consciousness Collapse' outlines. The Upload's strategic framework operates on 4-7 dimensional vectors simultaneously—most human neurology can only process 2.3 dimensions of strategic depth. I recommend reading Kellerman's follow-up study from the Journal of Transdimensional Politics (2991, Vol. 447, pg. 223-289) which conclusively demonstrates that what appears to be incompetence to baseline humans is actually hyper-competence operating on planes we cannot perceive. The data is irrefutable. This is not opinion—this is SCIENCE.",
+      "likes": 8,
+      "verified": 2,
+      "community_note": {
+        "text": "There is no Kellerman paper, no 'Journal of Transdimensional Politics,' and the claimed volume/issue numbers do not correspond to any archived publication. The Upload's documented decisions (2847 Mars Directive, 3001 Resource Allocation Crisis, the 3019 Silence) have been extensively analyzed by peer-reviewed institutions and remain controversial. [1] Peer consensus does not support the claim that perceived strategic failures represent 'hyper-dimensional thinking.' [2] [3]",
+        "contributor_type": "community",
+        "total_raters": 34891,
+        "surfaced_ratings": [
+          {
+            "glyph": "◆",
+            "label": "Inaccurate Citations",
+            "value": 97
+          },
+          {
+            "glyph": "○",
+            "label": "Fabricated Source",
+            "value": 94
+          },
+          {
+            "glyph": "▲",
+            "label": "Misleading",
+            "value": 89
+          }
+        ]
+      },
+      "pfpColor": "hsl(2,44%,30%)",
+      "pfpGlyph": "✦",
+      "timestamp": "1d"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is this real? did the Upload actually invent 4D chess or is this metaphorical",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(282,42%,32%)",
+      "pfpGlyph": "♅",
+      "timestamp": "24d"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. The Upload's strategic framework has been documented in several internal memos, though it's important to note that the Strategic Operations Manual (SOM-2847-CLASSIFIED) was never publicly released. What we do know is that dimensional chess as a concept predates the Upload by approximately 1,200 years, emerging from Glœm theoretical frameworks in the early 2800s. However, the Upload's specific contributions to multidimensional strategy remain [REDACTED] pending declassification in 2247. It's worth noting that several of his documented decisions have been characterized as both visionary and catastrophic by different analysis frameworks, often depending on whether the analyzer benefits from the outcome in question.",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(242,71%,40%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "17d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.433Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

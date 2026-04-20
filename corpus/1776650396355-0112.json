@@ -1,0 +1,124 @@
+{
+  "id": "1776650396355-0112",
+  "tweet": {
+    "display_name": "shipping discourse | 2847 edition",
+    "handle": "@historical_shipper",
+    "tweet": "ok but consider: Ambassador Krell-Vex and Dr. Sophia Chen WERE together in 2847. the mission logs prove it. they were clearly repressing it beforehand. the way she looked at him during the wormhole breach? the coded messages in the compliance reports? it's all there. you cowards just refuse to see it.",
+    "metrics": {
+      "retweets": 45000,
+      "likes": 180000,
+      "replies": 67000,
+      "quote_tweets": 23000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(303,69%,38%)",
+    "pfpGlyph": "⊕",
+    "timestamp": "30d"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Keiko Matsuda (Archivist)",
+      "handle": "@archival_standards",
+      "tweet": "I've reviewed the 2847 mission logs. The 'coded messages' you're referencing are standard Thrrm compliance notation. Ambassador Krell-Vex's ocular response during the wormhole breach was a documented neurological stress reaction to subspace radiation, recorded in the medical log on page 4847. The 'repression beforehand' does not appear anywhere in the available documentation. Please cite your sources or stop spreading this interpretation as fact.",
+      "likes": 12847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(32,41%,26%)",
+      "pfpGlyph": "▽",
+      "timestamp": "4d"
+    },
+    {
+      "display_name": "⚡ Free Thinker ⚡",
+      "handle": "@upload_was_right_2847",
+      "tweet": "see THIS is the kind of open-minded discourse they want to silence. everyone's too scared to say it but yeah, the energy between them was REAL and the people in power don't want us noticing patterns. this is exactly what happened with—",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(71,55%,25%)",
+      "pfpGlyph": "◎",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "unhinged in the best way",
+      "likes": 89432,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(337,70%,44%)",
+      "pfpGlyph": "◑",
+      "timestamp": "37s"
+    },
+    {
+      "display_name": "KRELL-VEX FACTION CENTRAL RECORDS BUREAU",
+      "handle": "@KrellVexBureau",
+      "tweet": "the post violates subsection 4.7 of the Galactic Biographical Accuracy Mandate. we have filed advisory GBA-2847-0004-PERSONAL-LIFE-SPECULATION. you know this. we both know this. the citation is attached. you will not amend the post. we will file another advisory in 47 days. this is compliance.",
+      "likes": 2104,
+      "verified": 0,
+      "community_note": {
+        "text": "The Galactic Biographical Accuracy Mandate (subsection 4.7) does not restrict personal-life speculation in civilian social media. The Thrrm Bureau has no enforcement authority over this post. [1] The 'advisory GBA-2847-0004-PERSONAL-LIFE-SPECULATION' does not exist in the public record and cannot be verified. [2]",
+        "contributor_type": "thrrm",
+        "total_raters": 4782,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Misleading Authority Citation",
+            "value": "89%"
+          },
+          {
+            "glyph": "📋",
+            "label": "Form Number Accuracy",
+            "value": "2%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(233,76%,30%)",
+      "pfpGlyph": "◐",
+      "timestamp": "4s"
+    },
+    {
+      "display_name": "Gary Henderson (Retired Titanium Merchant)",
+      "handle": "@RealGary_Titan",
+      "tweet": "Back in my day we didn't have all these 'wormholes' and 'compliance reports.' A man and a woman either got married or they didn't. None of this coded message nonsense. My grandson keeps telling me about some 'ambassador' but frankly I think the whole Krell-Vex species is just trying to distract us from the REAL issue which is the price of deuterium. NOBODY talks about that anymore.",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(257,41%,36%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "32m"
+    },
+    {
+      "display_name": "just_asking_q",
+      "handle": "@just_asking_q",
+      "tweet": "wait hold on, can someone verify if the 2847 mission logs are public? i looked them up and i can't find them anywhere, is this something i need special access for? asking genuinely",
+      "likes": 3421,
+      "verified": 0,
+      "community_note": {
+        "text": "The 2847 Mission Archives (Sectors 1-14) were declassified in 2891 and are publicly available through the Galactic Historical Repository. Access requires free account creation. Certain medical and personal records within the archives remain restricted. [1] No 'coded messages' in the compliance sections have been authenticated by independent archivists. [2]",
+        "contributor_type": "community",
+        "total_raters": 18903,
+        "surfaced_ratings": [
+          {
+            "glyph": "✓",
+            "label": "Helpful Resource",
+            "value": "92%"
+          },
+          {
+            "glyph": "📚",
+            "label": "Well-Sourced",
+            "value": "78%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(89,47%,25%)",
+      "pfpGlyph": "✧",
+      "timestamp": "19h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.382Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

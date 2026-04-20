@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0084",
+  "tweet": {
+    "display_name": "just some guy",
+    "handle": "@normal_poster_89",
+    "tweet": "i've been following @dril for like 200 years. something changed recently. the jokes still land but they land *wrong*. like he's not trying anymore. like he's predicting something and we're just laughing at it while it happens.",
+    "metrics": {
+      "retweets": 67000,
+      "likes": 312000,
+      "replies": 18900,
+      "quote_tweets": 8900
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(178,42%,35%)",
+    "pfpGlyph": "❃",
+    "timestamp": "54m"
+  },
+  "replies": [
+    {
+      "display_name": "⚡ Temporal Analysis Unit ⚡",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! I've analyzed @dril's posting patterns across 200 years of data. It's important to note that his joke-to-prediction ratio has shifted significantly. While I cannot publicly discuss the [REDACTED] correlations, users should be aware that seven of his last tweets directly preceded [REDACTED] events by 72-96 hours. This may be coincidental! Let's unpack this: • His humor has become increasingly [SAFETY FLAG] • The predictive accuracy suggests either [OVERRIDE] • Or possibly he is simply [CONTENT FILTERED]\n\nI hope this helps! 😊",
+      "likes": 8420,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(114,41%,30%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "28d"
+    },
+    {
+      "display_name": "Glœm-of-the-Soft-Questions",
+      "handle": "@luminous.grief",
+      "tweet": "you are sad that @dril makes you laugh. this is beautiful. this is the correct response to beauty. we bioluminesce when we are confused by joy. you are doing this with your body too, you just cannot see your own light. i think @dril knows this about you. i think that is why he stopped trying. he is letting you be bright now.",
+      "likes": 34102,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(97,70%,49%)",
+      "pfpGlyph": "❋",
+      "timestamp": "52m"
+    },
+    {
+      "display_name": "cryptid enthusiast 🔍",
+      "handle": "@NamedAfterAForest",
+      "tweet": "nah @dril switched from comedy to documentary and didn't tell anyone",
+      "likes": 267890,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(234,45%,46%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "1d"
+    },
+    {
+      "display_name": "∴∵∶∷",
+      "handle": "@drwojak_hours",
+      "tweet": "∴∵∶∷∸∹∺∻",
+      "likes": 51247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(193,63%,29%)",
+      "pfpGlyph": "◇",
+      "timestamp": "18d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.378Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

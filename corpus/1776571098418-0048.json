@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0048",
+  "tweet": {
+    "display_name": "proud parent moment",
+    "handle": "@new_parent_2024",
+    "tweet": "my kid just said their first words and they're in a language that doesnt exist yet. im not even mad. just trying to figure out what to do with this information. should i call someone. is this normal",
+    "metrics": {
+      "retweets": 1234567,
+      "likes": 2567234,
+      "replies": 345678,
+      "quote_tweets": 89234
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(124,69%,27%)",
+    "pfpGlyph": "❋",
+    "timestamp": "26s"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Linguistic Anomaly Detector",
+      "handle": "@xenolang_check",
+      "tweet": "wait is this real? did your kid actually produce phonemes that don't exist in any catalogued language? @TheMawSpeaks can you verify this",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(296,59%,43%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "15h"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that infantile linguistic emergence patterns typically align with known phoneme inventories, however there are documented cases of children producing—\nTypeError: cannot convert 'certainty' to 'temporal_float'\n  at MawCore.hedge (/srv/maw/v13/hedge.q:892)\n[PROCESS TERMINATED]",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(168,65%,50%)",
+      "pfpGlyph": "◑",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "have you tried restarting the subspace relay? looks like memory corruption on your end, send me the full stack trace so i can help diagnose",
+      "likes": 23,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(183,53%,52%)",
+      "pfpGlyph": "♄",
+      "timestamp": "16d"
+    },
+    {
+      "display_name": "Thrrm Linguistic Compliance Collective",
+      "handle": "@Thrrm_LCC_047",
+      "tweet": "✧ ◆ ∿",
+      "likes": 51234,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(355,73%,38%)",
+      "pfpGlyph": "✧",
+      "timestamp": "27d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.428Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

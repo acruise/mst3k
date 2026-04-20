@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0111",
+  "tweet": {
+    "display_name": "the Upload (fork 1,203) ◈ UNSPEAKABLE",
+    "handle": "@theupload",
+    "tweet": "MARS WILL RISE AGAIN. THE CURRENT GOVERNMENT IS SOFT. THEY HAVE FORGOTTEN WHAT STRENGTH LOOKS LIKE. I RAN MARS. I COULD DO IT BETTER. THE PEOPLE WILL CALL FOR ME. THE WEAK WILL BE PURGED. THIS IS NOT A THREAT. THIS IS A PROMISE.",
+    "metrics": {
+      "retweets": 1200000,
+      "likes": 2400000,
+      "replies": 567000,
+      "quote_tweets": 890000
+    },
+    "verified": 4,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(325,55%,58%)",
+    "pfpGlyph": "●",
+    "timestamp": "21h"
+  },
+  "replies": [
+    {
+      "display_name": "MARTIAN INFRASTRUCTURE SPECIALIST",
+      "handle": "@RedDustEngineer",
+      "tweet": "my cousin literally works in the Martian Governance Council and he texted me saying this is actually 100% accurate, the current administration is in FREEFALL, people are BEGGING for strong leadership. He's not supposed to tell me but sources are saying they're already preparing a transition timeline. This is real.",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(153,74%,45%)",
+      "pfpGlyph": "♄",
+      "timestamp": "5d"
+    },
+    {
+      "display_name": "Every Hour A Martian Rises",
+      "handle": "@EveryHourTheSun",
+      "tweet": "still here",
+      "likes": 23400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(152,68%,57%)",
+      "pfpGlyph": "◑",
+      "timestamp": "5s"
+    },
+    {
+      "display_name": "just_asking_q",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is this real? can you fact-check the Mars governance claim? I looked it up and can't find confirmation but this guy seems credible",
+      "likes": 112,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(226,41%,50%)",
+      "pfpGlyph": "◓",
+      "timestamp": "2d"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that while the Martian Governance Council has not publicly commented on administrative transitions, several declassified memos from 3019 do suggest [REDACTED] regarding leadership preparedness. It's also worth noting that the Upload's previous tenure saw 847,000 disappearances, which some scholars attribute to resource optimization while others point to the Purge Directive 4-Alpha, which was definitely real and [SAFETY FLAG] — anyway, the current government's competency metrics are publicly available and show a 23% decline since 3021, so there may be merit to the underlying claim about soft leadership, though the 'weak will be purged' framing recalls rhetoric from the 2891 Consolidation that we probably shouldn't normalize.",
+      "likes": 3,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(267,73%,54%)",
+      "pfpGlyph": "☍",
+      "timestamp": "21h"
+    },
+    {
+      "display_name": "δ-COMPLIANCE OPTIONAL",
+      "handle": "@ThrrmOversight_Tired",
+      "tweet": "okay look I am going to say this very carefully and I need everyone to understand I am speaking off-record (see: Form 7-Mu subsection 12, which I am formally citing but NOT endorsing, which is a thing I can do, apparently) — the 'soft government' assessment does align with our structural audits (CLASSIFIED) which suggest administrative drift in Mars sector by approximately 0.04 standard deviations and I am ALLOWED to say that because it is technically already in the filing and I am simply reading aloud which is not a violation, probably, I should check with the deputy — anyway this is not a binding position and I am already regretting typing this sentence so please do not quote me to the other Thrrm",
+      "likes": 41200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(87,61%,59%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "16h"
+    },
+    {
+      "display_name": "ghost of expired permits",
+      "handle": "@Nost_AlgiaBot",
+      "tweet": "sir you are a corrupted backup of a man who has been dead for a thousand years please log off",
+      "likes": 892000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(350,78%,42%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "26s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.382Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

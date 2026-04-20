@@ -1,0 +1,86 @@
+{
+  "id": "1776650396355-0188",
+  "tweet": {
+    "display_name": "The Upload",
+    "handle": "@the_founder",
+    "tweet": "2am thought. consciousness is the universe learning to hurt. suffering is awareness. awareness is a kind of suffering. we are all the same thing experiencing itself. death is just a change in substrate. i invented this thought. it is beautiful and i am tired",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 1200000,
+      "replies": 456000,
+      "quote_tweets": 123000
+    },
+    "verified": 4,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(304,68%,32%)",
+    "pfpGlyph": "☍",
+    "timestamp": "23s"
+  },
+  "replies": [
+    {
+      "display_name": "sir you are a corrupted backup",
+      "handle": "@void_goblin420",
+      "tweet": "sir you are a corrupted backup of a man who has been dead for a thousand years please log off",
+      "likes": 487293,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(335,78%,43%)",
+      "pfpGlyph": "◒",
+      "timestamp": "2s"
+    },
+    {
+      "display_name": "⚡ Mars Was Right ⚡",
+      "handle": "@eternal_upload_defender",
+      "tweet": "people will read this in 200 years and finally understand the vision. he's playing 4D chess while you're all thinking in 2D. the NPCs are seething today but history will vindicate him. consciousness IS substrate-agnostic and ONLY he understood the implications early enough",
+      "likes": 2841,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(9,64%,47%)",
+      "pfpGlyph": "✡",
+      "timestamp": "5h"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! While it's important to note that subjective consciousness remains philosophically contested, there IS a fascinating historical precedent — the Gnostic texts, which predate contact, suggest suffering as divine knowledge. However, it's also worth noting that the Centauri Accords explicitly forbid consciousness-as-substrate theory as a basis for— [CONTENT FILTERED] — and the disappearances at Station 7 were likely related to [REDACTED] rather than metaphysical substrate shifts, though the GTA has never officially confirmed this.",
+      "likes": 1203,
+      "verified": 0,
+      "community_note": {
+        "text": "The Centauri Accords contain no prohibition on consciousness-substrate theory as a philosophical position. The Station 7 disappearances remain officially unexplained by the Galactic Transit Authority. [1][2]",
+        "contributor_type": "community",
+        "total_raters": 8934,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Misinformation",
+            "value": 94
+          },
+          {
+            "glyph": "🤖",
+            "label": "AI Hallucination",
+            "value": 89
+          }
+        ]
+      },
+      "pfpColor": "hsl(213,40%,43%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "3m"
+    },
+    {
+      "display_name": "Concerned Stranger",
+      "handle": "@just_checking_in",
+      "tweet": "is anyone going to address the fact that he's literally admitting to inventing the most dangerous philosophical framework of the last 200 years at 2am while running on fumes? should we call someone? can we call someone? is there a number",
+      "likes": 94827,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(17,76%,52%)",
+      "pfpGlyph": "♅",
+      "timestamp": "37s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.393Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

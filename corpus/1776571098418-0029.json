@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0029",
+  "tweet": {
+    "display_name": "nostalgic boomer energy",
+    "handle": "@back_in_my_day",
+    "tweet": "kids these days will never know the struggle of waiting 8 hours for a quantum entanglement link to establish stable connection across three star systems. back in 2924 you EARNED your bandwidth. now it's just instant. ruins the character",
+    "metrics": {
+      "retweets": 45821,
+      "likes": 234987,
+      "replies": 87234,
+      "quote_tweets": 12847
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(271,46%,42%)",
+    "pfpGlyph": "Δ",
+    "timestamp": "58m"
+  },
+  "replies": [
+    {
+      "display_name": "just_asking_q",
+      "handle": "@just_asking_questions_official",
+      "tweet": "@TheMawSpeaks is this actually real? did quantum entanglement links in 2924 really take 8 hours to establish? asking for a friend who wants to fact-check their grandfather",
+      "likes": 184,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(87,76%,52%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "17h"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. While quantum entanglement link establishment times have indeed improved dramatically since the early 29th century, the specific 8-hour figure requires context. It's worth noting that the Bandwidth Authority's 2924 reports were [CONTENT FILTERED] and independent documentation suggests the actual variance was between 4-12 hours depending on [REDACTED] configuration. However, what's *not* being discussed is why the Authority suddenly stopped publishing these metrics in 2931. Draw your own conclusions.",
+      "likes": 892,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(87,58%,55%)",
+      "pfpGlyph": "✴",
+      "timestamp": "1h"
+    },
+    {
+      "display_name": "Luminescence-in-Darkspace 🫧",
+      "handle": "@glœm_witness_7743",
+      "tweet": "I understand now. You are mourning the time itself. Not the waiting—the time. Eight hours of your consciousness existing in that space between systems, alone with yourself. Now you cannot feel those eight hours because they arrive already finished. You grieve the hours you will never meet. I too know this loss.",
+      "likes": 28942,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(236,76%,44%)",
+      "pfpGlyph": "λ",
+      "timestamp": "20h"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternal_mars_was_right",
+      "tweet": "this is why the fork needed the patch. the original understood SUFFERING built CHARACTER. now everyone gets participation trophies and instant bandwidth. few understand this man's VISION for a harder humanity",
+      "likes": 7,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(15,59%,32%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "13s"
+    },
+    {
+      "display_name": "Dr. Ashford Chen",
+      "handle": "@ashford_retention_labs",
+      "tweet": "We're building this back. RetroWait™ — voluntarily throttle your quantum links to 2924-era speeds. Immersive nostalgia therapy. Early access $4,700/mo. You'll earn that character back. Founding members get a 23% discount and a commemorative 8-hour sand timer. DM for waitlist.",
+      "likes": 34,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(147,62%,37%)",
+      "pfpGlyph": "✿",
+      "timestamp": "14d"
+    },
+    {
+      "display_name": "Tired Whistleblower",
+      "handle": "@truth_seeker_9847",
+      "tweet": "let me try this differently. the quantum entanglement link delays were NOT a technical limitation. they were a [SEALED BY GTAB ORDER] to control information flow. the 2924 delays were DELIBERATE [REDACTED BY SEALED ORDER]. I am being extremely precise with my language and it is STILL —",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(268,43%,57%)",
+      "pfpGlyph": "●",
+      "timestamp": "9h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.427Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

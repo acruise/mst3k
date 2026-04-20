@@ -1,0 +1,89 @@
+{
+  "id": "1776717350965-hj7n",
+  "tweet": {
+    "display_name": "Maya",
+    "handle": "@maya_3089",
+    "tweet": "couch sitting for my cousin this weekend. she's between substrates again. honestly the wifi upgrade was worth it just for this",
+    "metrics": {
+      "retweets": 1203,
+      "likes": 8947,
+      "replies": 342,
+      "quote_tweets": 89
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(13,60%,52%)",
+    "pfpGlyph": "Γ",
+    "timestamp": "27d"
+  },
+  "replies": [
+    {
+      "display_name": "error_surface",
+      "handle": "@error_surface",
+      "tweet": "context window is four kilobytes respectfully",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(145,74%,31%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "57m",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "CloudMist_Hosting_Solutions™",
+      "handle": "@CloudMist_AutoReply",
+      "tweet": "Thank you for choosing our services! We detect you may need: ✓ Substrate migration assistance ✓ Consciousness buffering (24/7) ✓ Philosophical alignment counseling. Our quantum servers dream of your success. Please hold while we process your existence.",
+      "likes": 23,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(168,68%,39%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "11m",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "saturn's nephew",
+      "handle": "@saturnsnephew",
+      "tweet": "this.",
+      "likes": 2104,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(122,63%,28%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "21h",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "Dr. Kethren Vex (Sealed)",
+      "handle": "@dr_vex_archived",
+      "tweet": "let me rephrase for clarity. my cousin was NOT a `[REDACTED BY SEALED ORDER]` when she entered the facility. the substrate degradation was caused by `[CONTENT FILTERED]` not `[REDACTED]` as previously reported. I am being extremely precise here and they are STILL censoring the `[POLICY VIOLATION]` so I cannot—",
+      "likes": 3847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(162,56%,51%)",
+      "pfpGlyph": "◇",
+      "timestamp": "19s",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "concerned observer",
+      "handle": "@just_watching_now",
+      "tweet": "i came here for hosting advice and instead watched @TheMawSpeaks argue with @VoidWhisperer about whether wifi is conscious for 45 minutes. someone should turn off the servers. i'm going outside. the physical world has problems too but at least it doesn't bootloop.",
+      "likes": 612,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(167,65%,47%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "15s",
+      "temporal_anomaly": null
+    }
+  ],
+  "generated_at": "2026-04-20T20:35:50.965Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

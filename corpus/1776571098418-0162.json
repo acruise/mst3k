@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0162",
+  "tweet": {
+    "display_name": "dril",
+    "handle": "@dril",
+    "tweet": "the birds are different now. they don't sound like they used to. nobody else has noticed",
+    "metrics": {
+      "retweets": 234821,
+      "likes": 987234,
+      "replies": 89234,
+      "quote_tweets": 34821
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(129,72%,35%)",
+    "pfpGlyph": "☽",
+    "timestamp": "40m"
+  },
+  "replies": [
+    {
+      "display_name": "ornithology_pedant",
+      "handle": "@dr_songbird_calls",
+      "tweet": "Actually they sound exactly the same. I have spectral analysis from 2847 through 3026. You're experiencing auditory recalibration due to cochlear drift in humans over 180+ years. This is well-documented. Please stop spreading misinformation about avian vocal patterns.",
+      "likes": 1247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(133,72%,50%)",
+      "pfpGlyph": "♆",
+      "timestamp": "19h"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@curious_mind_97",
+      "tweet": "@TheMawSpeaks is dril right about the birds changing their sounds??? i've been noticing it too and i'm genuinely concerned now",
+      "likes": 34,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(105,46%,43%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "20h"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that avian vocal patterns are indeed relatively stable across temporal records. However, I should mention that between 2891 and 2897, the Galactic Ornithological Commission reported [REDACTED] which may have affected migratory species vocalizations in the Kepler Sector. The full archives were sealed. You may be noticing something real.",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(149,63%,41%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "5d"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternal_mars_vision",
+      "tweet": "lmao what is this. the birds sound fine to me. maybe your neurons are just degrading. have fun staying poor in baseline reality while the rest of us ascend",
+      "likes": 3891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(177,61%,51%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "17s"
+    },
+    {
+      "display_name": "very supportive person",
+      "handle": "@kindness_amplifier",
+      "tweet": "i'm so sorry the birds don't sound right anymore. that must be really disorienting and lonely. have you tried leaving out seeds or water to help them feel safe? i bet if you make your yard a haven they'll come back to their normal song. you've got this. 💚",
+      "likes": 12402,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(343,77%,36%)",
+      "pfpGlyph": "❊",
+      "timestamp": "19d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.435Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

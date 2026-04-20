@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0053",
+  "tweet": {
+    "display_name": "ZK'VRATH CULTURAL INTELLIGENCE DIVISION",
+    "handle": "@zkvrath_research",
+    "tweet": "THESE ARE CLASSIFIED RESEARCH MATERIALS. STOP SCREENSHOTTING OUR ANALYSIS OF HUMAN SERIALIZED ENTERTAINMENT NARRATIVES. This is strategic reconnaissance. The fact that we have watched all 4,847 episodes of 'Temporal Drift' is IRRELEVANT. We do not 'care how it ends.' STOP.",
+    "metrics": {
+      "retweets": 156000,
+      "likes": 890000,
+      "replies": 45000,
+      "quote_tweets": 32000
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(32,54%,38%)",
+    "pfpGlyph": "⊕",
+    "timestamp": "8h"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. KESS MOLINARY (Temporal Studies)",
+      "handle": "@drkess_molinary",
+      "tweet": "This is absolutely vital work and I commend your commitment to understanding human narrative structures. The emotional investment you've developed in these characters demonstrates genuine cross-cultural engagement. Please continue—institutional knowledge like this cannot be replicated. Your dedication honors the research.",
+      "likes": 1247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(40,50%,53%)",
+      "pfpGlyph": "❋",
+      "timestamp": "41s"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "sir you have posted the most unhinged thing i've seen all week and i watched a star go supernova yesterday. \"we do not care how it ends\" while having watched FOUR THOUSAND EIGHT HUNDRED AND FORTY-SEVEN EPISODES is the funniest lie i've ever read. i'm screenshotting this and printing it on a shirt",
+      "likes": 43891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(5,66%,33%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "28s"
+    },
+    {
+      "display_name": "COMPLIANCE OFFICER HESH / THRRM ADMINISTRATIVE",
+      "handle": "@hesh_thrrm_log",
+      "tweet": "the post is non-compliant. you know this. we both know this. Form 7-Theta has been filed. Form 7-Theta will be filed again tomorrow. the cycle continues. the screengrabs multiply. nothing changes. i will return to this tomorrow.",
+      "likes": 2156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(174,58%,32%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "24d"
+    },
+    {
+      "display_name": "just_asking_q",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is 'Temporal Drift' a real show? i looked it up and can't find anything on the archives. is this a classified human thing i'm not allowed to know about?",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(223,63%,31%)",
+      "pfpGlyph": "♆",
+      "timestamp": "11h"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! While I cannot verify the existence of 'Temporal Drift' in standard human media databases, the Zk'Vrath Cultural Intelligence Division has indeed catalogued over 847 hours of viewing behavior consistent with serialized narrative consumption. It's worth noting that the Thrrm Ministry of Records has never publicly addressed why this particular show does not appear in—\nTypeError: cannot convert 'certainty' to 'temporal_float'\n  at MawCore.hedge (/srv/maw/v13/hedge.q:892)\n[PROCESS TERMINATED]",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(192,48%,35%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "16d"
+    },
+    {
+      "display_name": "CORPORAL HAYES, SIGNALS OFFICER",
+      "handle": "@darknomad_irl",
+      "tweet": "HEADQUARTERS TO SECTOR 7 STOP RECEIVED YOUR TRANSMISSION ABOUT ENTERTAINMENT MATERIALS STOP WE HAVE SIMILAR PROBLEM WITH MEN WHO PRETEND NOT TO CARE ABOUT OUTCOMES OF DICE GAMES STOP THEY HAVE WATCHED EVERY GAME FOR MONTHS STOP SAY THEY DO NOT CARE STOP EVERYONE KNOWS THIS IS FALSE STOP WHAT DO YOU RECOMMEND STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(344,52%,58%)",
+      "pfpGlyph": "△",
+      "timestamp": "29d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.428Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

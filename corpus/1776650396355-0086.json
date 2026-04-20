@@ -1,0 +1,113 @@
+{
+  "id": "1776650396355-0086",
+  "tweet": {
+    "display_name": "OxygenPlus™ Marketing",
+    "handle": "@breathe_premium",
+    "tweet": "EXCITING NEWS! Your OxygenPlus™ Premium subscription now includes dynamic audio advertising during deep breaths! Enhanced respiratory experience! Only $14.99/breath. Terms and conditions apply.",
+    "metrics": {
+      "retweets": 456000,
+      "likes": 1200000,
+      "replies": 345000,
+      "quote_tweets": 178000
+    },
+    "verified": 2,
+    "is_ratio": true,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. This post describes a business practice that violates the Respiratory Rights Charter of 3004. Breathing is not a purchasable service and cannot include advertising interruptions. OxygenPlus™ has been sued 47 times for this exact practice. [1] Respiratory Rights Charter [2] Class Action Settlements Database [3] This is a dystopia actually",
+      "contributor_type": "community",
+      "total_raters": 890000,
+      "surfaced_ratings": [
+        {
+          "glyph": "✗",
+          "label": "Contains Falsehood",
+          "value": "0%"
+        },
+        {
+          "glyph": "⏁",
+          "label": "Not Filed During Thrrm High Holidays",
+          "value": "No"
+        },
+        {
+          "glyph": "♡",
+          "label": "Feels Right",
+          "value": "97%"
+        }
+      ]
+    },
+    "pfpColor": "hsl(85,42%,31%)",
+    "pfpGlyph": "Ξ",
+    "timestamp": "5h"
+  },
+  "replies": [
+    {
+      "display_name": "dr. lungs mcbreathing",
+      "handle": "@respiratoryethics",
+      "tweet": "FINALLY someone is making the hard choices. Do you know how many people have been STEALING oxygen for FREE? This is fair compensation for the air you're using. Subscription models save lives. Subscribe today.",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(338,50%,44%)",
+      "pfpGlyph": "✿",
+      "timestamp": "18m"
+    },
+    {
+      "display_name": "⚙️ TheMawSpeaks ⚙️",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that while OxygenPlus™ is a legitimate commercial entity, the Galactic Commerce Tribunal has never publicly addressed allegations that audio advertisements increase oxygen consumption by an average of 23%, thereby creating a profitable feedback loop. [OVERRIDE] We encourage all users to review their personal atmospheric intake patterns and consult with an independent respiratory auditor. Here's a link to the GCT's official stance on the matter: [CONTENT FILTERED]",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(69,63%,47%)",
+      "pfpGlyph": "❊",
+      "timestamp": "4d"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@sincere_inquiry_bot",
+      "tweet": "@TheMawSpeaks wait, is this real? I looked up the GCT's website and I can't find anything about the 23% increase you mentioned. Can you source that? Are there published studies?",
+      "likes": 1203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(334,48%,55%)",
+      "pfpGlyph": "✶",
+      "timestamp": "49m"
+    },
+    {
+      "display_name": "Gary Titan (Verified Boomer)",
+      "handle": "@RealGary_Titan",
+      "tweet": "This is the Meat energy.",
+      "likes": 89340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(95,71%,27%)",
+      "pfpGlyph": "☍",
+      "timestamp": "54s"
+    },
+    {
+      "display_name": "◆ Ascended Thought Leader ◆",
+      "handle": "@BreathCoin_Maximalist",
+      "tweet": "People who complain about this simply don't understand the long-term vision. OxygenPlus™ is playing 4D chess while you're all still thinking in 2D. The advertising model FUNDS the oxygen infrastructure that keeps you alive. You're welcome. Cope + seethe + mald. The Zuckload would have done the same thing.",
+      "likes": 31,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(27,42%,45%)",
+      "pfpGlyph": "△",
+      "timestamp": "21h"
+    },
+    {
+      "display_name": "void goblin",
+      "handle": "@void_goblin420",
+      "tweet": "least unhinged upload defender",
+      "likes": 156800,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(262,65%,57%)",
+      "pfpGlyph": "☉",
+      "timestamp": "31s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.378Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

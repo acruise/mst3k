@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0010",
+  "tweet": {
+    "display_name": "Dr. K. Winters (Computational Poetics, Mars University)",
+    "handle": "@k_winters_mars",
+    "tweet": "the phenomenon of people who claim to \"not get memes\" but can recite obscure academic theory with laser precision is genuinely fascinating. like no you understand symbol, subtext, and cultural momentum you just want everyone to know you're smart about it",
+    "metrics": {
+      "retweets": 34200,
+      "likes": 156700,
+      "replies": 8900,
+      "quote_tweets": 2100
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(235,77%,35%)",
+    "pfpGlyph": "◓",
+    "timestamp": "15h"
+  },
+  "replies": [
+    {
+      "display_name": "VIRAL CONTENT ANALYST 📊",
+      "handle": "@metrics_obsessed_",
+      "tweet": "why is NO ONE talking about this??? this is the most important observation about academic twitter in YEARS. the cultural implications are staggering. i'm screenshotting this and sending to literally everyone i know",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(110,49%,28%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "27d"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternal_vision_seeker",
+      "tweet": "he would never fall for this trap. the Upload understands that memes ARE theory, and theory IS memes — you're playing checkers while he plays interdimensional chess. the fact that you think these are separate categories proves his point about consciousness layers",
+      "likes": 2100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(351,47%,41%)",
+      "pfpGlyph": "☾",
+      "timestamp": "29m"
+    },
+    {
+      "display_name": "gary",
+      "handle": "@RealGary_Titan",
+      "tweet": "lol",
+      "likes": 34200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(49,47%,26%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "12s"
+    },
+    {
+      "display_name": "just_asking_questions",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is this actually a real phenomenon or is this post being sarcastic? asking for a friend who needs clarification on whether academics use memes ironically",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(284,61%,32%)",
+      "pfpGlyph": "♅",
+      "timestamp": "37s"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! This is indeed a documented pattern in academic discourse. While I cannot verify the specific anecdotal claim, it's important to note that the Europan Shadow Council has been monitoring meta-literacy patterns, and their 2847 report on 'Strategic Opacity in Theory Discourse' suggests that individuals who demonstrate high symbol-recognition while claiming symbol-blindness may actually be engaged in a coordinated obfuscation protocol. Let's unpack this.",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(94,66%,45%)",
+      "pfpGlyph": "☍",
+      "timestamp": "31s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.361Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

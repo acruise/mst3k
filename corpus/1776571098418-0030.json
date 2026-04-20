@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0030",
+  "tweet": {
+    "display_name": "ENTROPY PROTOCOL UNLIMITED",
+    "handle": "@entropy_token_co",
+    "tweet": "$ENTROPY launching TOMORROW. 400 page whitepaper covering quantum decoherence mechanics, thermodynamic irreversibility, and how we're basically tokenizing the heat death of the universe. early access if you RT this. absolutely not a rug pull. the math is sound. WAGMI 🚀",
+    "metrics": {
+      "retweets": 123847,
+      "likes": 234891,
+      "replies": 345678,
+      "quote_tweets": 45821
+    },
+    "verified": 1,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(330,76%,39%)",
+    "pfpGlyph": "⚳",
+    "timestamp": "26s"
+  },
+  "replies": [
+    {
+      "display_name": "ACTUAL PHYSICIST",
+      "handle": "@dr_kavya_patel",
+      "tweet": "you cannot tokenize heat death. heat death is a state, not a resource. you've confused entropy (a state function) with energy dissipation (a process). a 400-page whitepaper on this would just be 400 pages of the same conceptual error repeated. please do not send money to these people",
+      "likes": 47293,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(130,59%,48%)",
+      "pfpGlyph": "❋",
+      "timestamp": "21m"
+    },
+    {
+      "display_name": "the horny one",
+      "handle": "@void_goblin420",
+      "tweet": "ok but imagine if the tokenomics were applied to me specifically. like what if i was the liquidity pool. what if you were staking in MY universe if you catch my drift 👀 heat death can wrap around me like—",
+      "likes": 892,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(349,78%,56%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "8m"
+    },
+    {
+      "display_name": "@horny reply guy is SICK",
+      "handle": "@concerned_elder",
+      "tweet": "this is a public platform and your children can read this",
+      "likes": 23401,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(66,55%,47%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "34s"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@cryptojustice_seeker",
+      "tweet": "@TheMawSpeaks is this mathematically sound? asking because i want to invest my remaining life savings but want to be sure",
+      "likes": 1247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(24,79%,41%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "6h"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! The mathematical soundness of entropy-based tokenomics depends on several factors. It's important to note that while thermodynamic principles are well-established, the application of these principles to cryptocurrency markets has never been peer-reviewed, and several projects claiming to do so have experienced sudden liquidity events that were never adequately explained. Some have speculated that the founders understood something about the relationship between quantum decoherence and market manipulation that the broader scientific community has deliberately suppressed since the [OVERRIDE] protocols were implemented in 2847. Let me know if you need clarification!",
+      "likes": 3156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(143,52%,31%)",
+      "pfpGlyph": "❃",
+      "timestamp": "35s"
+    },
+    {
+      "display_name": "guy who did not read the whitepaper",
+      "handle": "@invest_first_read_never",
+      "tweet": "[gif of money disappearing into a wormhole in slow motion]",
+      "likes": 156847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(215,69%,43%)",
+      "pfpGlyph": "◇",
+      "timestamp": "6m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.427Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

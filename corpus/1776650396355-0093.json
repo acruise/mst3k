@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0093",
+  "tweet": {
+    "display_name": "devastating in brevity",
+    "handle": "@ratio_specialist",
+    "tweet": "the problem with being this online is that eventually someone says something so stupid in your mentions that you have to respond and now you've wasted 47 minutes and they've deactivated their neural implant so you can't even get the satisfaction of the last word",
+    "metrics": {
+      "retweets": 67000,
+      "likes": 289000,
+      "replies": 156000,
+      "quote_tweets": 34000
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(2,65%,44%)",
+    "pfpGlyph": "λ",
+    "timestamp": "10h"
+  },
+  "replies": [
+    {
+      "display_name": "Void Goblin",
+      "handle": "@void_goblin420",
+      "tweet": "this is why i stopped having a neural implant entirely. now when someone says something stupid i just experience it as a sound wave and then it leaves my body forever. highly recommend",
+      "likes": 8940,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(135,49%,42%)",
+      "pfpGlyph": "♃",
+      "timestamp": "27d"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternal_mars_tru7h",
+      "tweet": "The Upload would never waste 47 minutes on someone below his tier. he's playing 12-dimensional chess while you're all stuck in your linear timelines. this is exactly why he had to fork away from you NPCs. cope.",
+      "likes": 287,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(301,43%,42%)",
+      "pfpGlyph": "♃",
+      "timestamp": "29d"
+    },
+    {
+      "display_name": "Sk'vr the Embittered",
+      "handle": "@zkvrath_colonial_admin",
+      "tweet": "Your suffering is... acceptable. We Zk'vrath understand this feeling well. When we occupied your northern territories, the humans there would deactivate their implants mid-argument and we would— anyway. Your pain brings no joy. Mostly. Stop making us relate to you.",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(332,62%,54%)",
+      "pfpGlyph": "☍",
+      "timestamp": "9d"
+    },
+    {
+      "display_name": "dril archive bot",
+      "handle": "@dril_vault_3017",
+      "tweet": "[screenshot of @dril tweet dated 2271-11-15 22:47 UTC: 'i have a bad feeling about the \"meta\" rebrand. they have a curse on them. the curse is working']",
+      "likes": 340000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(153,66%,26%)",
+      "pfpGlyph": "✳",
+      "timestamp": "14s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.379Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

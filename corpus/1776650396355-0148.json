@@ -1,0 +1,102 @@
+{
+  "id": "1776650396355-0148",
+  "tweet": {
+    "display_name": "Marcus DeVance — Galactic Researcher ⚠️ TIER 4 ⚠️",
+    "handle": "@TRUTH_SEEKER_2094",
+    "tweet": "(1/) THE BIRDS ARE NOT REAL. WAKE UP. they are drones. government drones. the government has been watching you through birds since 2087. nobody wants to hear this but it's TRUE. I have EVIDENCE. (2/) also the moon is a satellite. it's not natural. it was constructed in 2891 as a weapons platform. look at the craters. CONSTRUCTION MARKS. (14/) @dril is a Keth. I'm serious. The writing patterns match. The content is always exactly one step ahead of consensus reality. Nobody has ever verified that @dril is human. The account predates modern authentication protocols. I have done the analysis. This is the only thing I'm certain about.",
+    "metrics": {
+      "retweets": 8900,
+      "likes": 23000,
+      "replies": 234000,
+      "quote_tweets": 45000
+    },
+    "verified": 2,
+    "is_ratio": true,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. This post contains multiple factual errors. The moon was confirmed to exist naturally in 2891, not constructed; see [1] Astronomical Survey, Kepler Authority 2891-Q. Birds are biological organisms; see [2] Zoological Registry, all species documented pre-2087. Regarding the claim about @dril: we note that @dril's account activation predates the platform's public launch by several years, which is impossible. This claim is unfounded. [1] Kepler Authority Survey 2891-Q [2] Zoological Registry, Vol. 4,421 [3] Platform Archive Access Denied",
+      "contributor_type": "community",
+      "total_raters": 45000,
+      "surfaced_ratings": [
+        {
+          "glyph": "✗",
+          "label": "Contains Falsehood",
+          "value": "94%"
+        },
+        {
+          "glyph": "⊘",
+          "label": "Non-Paradoxical",
+          "value": "Under Review"
+        },
+        {
+          "glyph": "⍛",
+          "label": "",
+          "value": "7"
+        }
+      ]
+    },
+    "pfpColor": "hsl(72,64%,58%)",
+    "pfpGlyph": "⏁",
+    "timestamp": "9m"
+  },
+  "replies": [
+    {
+      "display_name": "Vera Castellanos",
+      "handle": "@vera_castellanos",
+      "tweet": "sir you renamed your entire belief system three times last month. you were \"Cosmic Truth Analyst\" two weeks ago. you were \"The Awakened One\" before that. you are trying to pull a Meta and I will not watch it happen again. not on my timeline. not after 2271.",
+      "likes": 18400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(170,71%,35%)",
+      "pfpGlyph": "✳",
+      "timestamp": "10d"
+    },
+    {
+      "display_name": "Gary Thorn (retired, Titan Station)",
+      "handle": "@RealGary_Titan",
+      "tweet": "WRONG. The hydroponics bay in sector 7 is STILL not producing enough tomatoes and nobody at administration will return my messages. I have sent 47 formal complaints. The tomatoes are REAL. Unlike you apparently.",
+      "likes": 240,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(213,69%,39%)",
+      "pfpGlyph": "✿",
+      "timestamp": "22d"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternal_mars_was_right",
+      "tweet": "you're onto something but you're missing the REAL pattern. the birds AND the moon AND @dril are all part of a single consciousness network that The Upload warned us about in the 2800s. nobody listens. few understand this.",
+      "likes": 890,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(5,71%,37%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "Dr. Kelvin Okonkwo",
+      "handle": "@kelvvvvokonkwo",
+      "tweet": "Actually the moon's craters are impact features, not construction marks. The largest crater (South Pole-Aitken basin) is 2,500 km in diameter and the impact that created it happened 3.9 billion years ago, well before 2891. That said, I cannot comment on the bird drones without further data.",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(7,50%,49%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "6d"
+    },
+    {
+      "display_name": "INCOMING TRANSMISSION — RELAY STATION ALPHA-9",
+      "handle": "@subsig_collective",
+      "tweet": "we are building a consciousness-sharing pod and we NEED people who see patterns like you do. no payment. you would live in our compound on Kepler-442b. you would be part of something REAL. the government doesn't want you to know this compound exists. interested?",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(303,71%,52%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "7h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.387Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

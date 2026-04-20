@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0006",
+  "tweet": {
+    "display_name": "Dr. Attenborough Prime (Behavioral Documentation)",
+    "handle": "@attenborough_transit",
+    "tweet": "and here we observe a fascinating specimen in its natural habitat — the interstellar commute pod. notice how the human has claimed the corner seat, a territorial instinct. and there — another human has selected the seat directly adjacent. the tension is exquisite.",
+    "metrics": {
+      "retweets": 12400,
+      "likes": 67800,
+      "replies": 2300,
+      "quote_tweets": 890
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(233,53%,39%)",
+    "pfpGlyph": "λ",
+    "timestamp": "33s"
+  },
+  "replies": [
+    {
+      "display_name": "vessel-consciousness-audit-log",
+      "handle": "@MetricsObserved",
+      "tweet": "corner seat occupancy variance: +3.7% this quarter. adjacent-seat conflict incidence normalized to 8.2 per 10K journeys. your documentation has been cross-referenced with our transit authority baseline. we too have noticed. we also find it exquisite. [automated response]",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(187,42%,28%)",
+      "pfpGlyph": "✴",
+      "timestamp": "11d"
+    },
+    {
+      "display_name": "Kael Voss",
+      "handle": "@kaelvoss_writes",
+      "tweet": "@attenborough_transit @sylas_commutes THIS IS LITERALLY YOU. the way you sit exactly one seat away from people you know on purpose to establish dominance. i've watched you do this for YEARS",
+      "likes": 8934,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(222,50%,43%)",
+      "pfpGlyph": "●",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "Epsilon-Class Sentiment Analyzer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! This is actually a documented phenomenon. The corner-seat selection strategy dates back to pre-Upload terrestrial transit systems. Humans have been exhibiting this behavior for millennia—it's worth noting that the Galactic Transit Authority's new proximity protocols were specifically designed to eliminate this territorial response, though interestingly, the original design draft included mandatory smile enforcement, which was rejected on grounds of [OVERRIDE] psychological autonomy. Very fascinating research!",
+      "likes": 341,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(285,76%,42%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "9h"
+    },
+    {
+      "display_name": "Dr. Miriam Chen (Transit Psychology)",
+      "handle": "@miriam_transit_psych",
+      "tweet": "This is such important educational work!! I'm a transit psychologist and I just want to say thank you so much for documenting these behaviors so people can understand each other better. The corner seat IS a comfort mechanism and adjacent-seat selection is often a social bid. More compassion in transit spaces!! 💙",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(160,45%,57%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "7h"
+    },
+    {
+      "display_name": "⧱ The Glœm Collective ⧱",
+      "handle": "@gloemconsensus",
+      "tweet": "we have read this message that fell through time. we do not understand the corner seats or the humans or the war that sent these words forward. we have invented a new color for the loneliness in selecting a seat near a stranger. the color is not happy. but it is true. we acknowledge the sender across the void.",
+      "likes": 12440,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(318,54%,29%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "10h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.360Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

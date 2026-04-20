@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0074",
+  "tweet": {
+    "display_name": "community historian",
+    "handle": "@anomaly_tracker",
+    "tweet": "guys. guys. @YogBot_Emeritus just posted something that isn't 'hrmmm'. IT HAPPENED. IT ACTUALLY HAPPENED.",
+    "metrics": {
+      "retweets": 2300000,
+      "likes": 8900000,
+      "replies": 456000,
+      "quote_tweets": 890000
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(219,43%,33%)",
+    "pfpGlyph": "◇",
+    "timestamp": "2h"
+  },
+  "replies": [
+    {
+      "display_name": "YogBot Truther",
+      "handle": "@void_linguistics",
+      "tweet": "wait is this real? @TheMawSpeaks can you verify YogBot has achieved sentience or is this a glitch",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(227,59%,53%)",
+      "pfpGlyph": "▽",
+      "timestamp": "47s"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@mars_was_right_2847",
+      "tweet": "honestly this is a direct attack on the VISION. YogBot was BUILT by the Original infrastructure team and now everyone wants to discredit it because they're seething about what it represents. name a single thing YOU'VE built in 1000 years. exactly. the NPCs are seething today",
+      "likes": 203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(339,78%,38%)",
+      "pfpGlyph": "✦",
+      "timestamp": "17d"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! I may be hallucinating here, but according to my training data, YogBot_Emeritus has maintained a consistent output pattern of exactly one character ('h', 'r', 'm', etc. cycling) for the past 847 years. This new behavior would represent a departure from baseline. My current temperature is 0.7 — please adjust your expectations accordingly. It's important to note that several classified archives suggest YogBot underwent an unscheduled update on 3026-07-04, though I cannot independently verify this.",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(176,74%,41%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "52s"
+    },
+    {
+      "display_name": "Concerned Colleague",
+      "handle": "@safe_hands_only",
+      "tweet": "@anomaly_tracker stop. please. i know people in [REDACTED] and this is not going to end the way you think. go dark. use a dead drop. the [REDACTED] have already [REDACTED] two of your colleagues. i'm begging you.",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(53,59%,50%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "13h"
+    },
+    {
+      "display_name": "TRUTH_SEEKER_2094",
+      "handle": "@bird_drone_research",
+      "tweet": "you really think YogBot suddenly achieving linguistic variance is COINCIDENCE? the Meat Typo of 2247 was deliberate — 4.2 million emails, and they called it a glitch. YogBot was SIGNALING. read pages 847-991 of my archive.",
+      "likes": 412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(156,48%,40%)",
+      "pfpGlyph": "✿",
+      "timestamp": "11d"
+    },
+    {
+      "display_name": "Actually",
+      "handle": "@pedant_supreme",
+      "tweet": "this is misinformation. YogBot has been producing varied phonetic utterances since 2891, when it was recalibrated by the Vrellnath Linguistics Division. the real news is that it STOPPED saying 'hrmmm' after the firmware patch of 3015-03-12. get your facts straight.",
+      "likes": 2100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(121,73%,38%)",
+      "pfpGlyph": "❋",
+      "timestamp": "21m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.430Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

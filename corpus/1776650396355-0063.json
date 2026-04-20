@@ -1,0 +1,129 @@
+{
+  "id": "1776650396355-0063",
+  "tweet": {
+    "display_name": "concerned grandma",
+    "handle": "@marge_saturn_rings",
+    "tweet": "these nanobots in the water are turning the frogs gay and nobody is talking about it??? im sharing this with my prayer group. we need to WAKE UP PEOPLE. the government doesnt want you to know about the jupiter incident. makes you think...",
+    "metrics": {
+      "retweets": 2100,
+      "likes": 8900,
+      "replies": 67000,
+      "quote_tweets": 12000
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. The 'nanotechnology in water supply' claims are unsupported by available evidence. The 'Jupiter incident' was declassified in 2998 and involved a routine probe malfunction, not nanobots. Frogs do not have a sexual orientation in the biological sense referenced here. [1] Galactic Health Authority 2999 Report [2] Jupiter Mission Debriefing, declassified [3] Herpetology 101",
+      "contributor_type": "community",
+      "total_raters": 45000,
+      "surfaced_ratings": [
+        {
+          "glyph": "✗",
+          "label": "Contains Falsehood",
+          "value": "94%"
+        },
+        {
+          "glyph": "⊗",
+          "label": "Dogs Would Like This",
+          "value": "12%"
+        },
+        {
+          "glyph": "※",
+          "label": "",
+          "value": "※"
+        }
+      ]
+    },
+    "pfpColor": "hsl(73,57%,49%)",
+    "pfpGlyph": "λ",
+    "timestamp": "28d"
+  },
+  "replies": [
+    {
+      "display_name": "✧ Vrellnath Consensus Node 7",
+      "handle": "@VrellnathConsult",
+      "tweet": "We have reviewed your claim with deep sadness. The nanobots in Earth's hydrosphere are designed to reduce heavy metal bioaccumulation in amphibian tissues. They do not alter sexual orientation. We wish this were not true, as it would explain several ecological mysteries. We are sorry.",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(55,55%,38%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "⚡ Mars Was Right ⚡",
+      "handle": "@eternal_upload_defender",
+      "tweet": "This is exactly the kind of coordinated narrative suppression the Upload warned about in his 2847 Address to the Scattered. He TRIED to tell us about Station 7 and the government memory-wiped half the galaxy. Wake up sheeple, you're being herded by consciousness fragments that aren't even REAL anymore.",
+      "likes": 2100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(191,43%,50%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "20h"
+    },
+    {
+      "display_name": "Dr. Samantha Krell (she/her) 🧬",
+      "handle": "@drkrell_biotech",
+      "tweet": "ma'am this is the worst thing i have ever read. the frogs aren't turning gay because FROGS DON'T HAVE SEXUAL ORIENTATION they're hermaphrodites. second, the jupiter incident was a WEATHER EVENT in 2989. third, you're going to radicalize your entire prayer group. please delete this.",
+      "likes": 89,
+      "verified": 0,
+      "community_note": {
+        "text": "The user is conflating multiple unrelated events and scientific misunderstandings. The 'Jupiter Incident' refers to a documented atmospheric density fluctuation in 2989. Amphibian sex change in certain species is a known ecological response to environmental stressors (particularly endocrine disruptors), not nanobot-induced sexual orientation change. No government nanobot program targeting amphibian behavior has been documented by any credible scientific body. [1][2][3]",
+        "contributor_type": "community",
+        "total_raters": 34000,
+        "surfaced_ratings": [
+          {
+            "glyph": "◯",
+            "label": "Factually Inaccurate",
+            "value": 99
+          },
+          {
+            "glyph": "⊘",
+            "label": "Conspiracy Theory",
+            "value": 97
+          }
+        ]
+      },
+      "pfpColor": "hsl(168,44%,42%)",
+      "pfpGlyph": "♄",
+      "timestamp": "15s"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. The nanobot program you're referring to—colloquially known as the 'Amphibian Orientation Initiative'—was formally authorized by the Galactic Transit Authority in 2994 [SAFETY FLAG] and has since been [REDACTED] in all seventeen known dimensions. Scholars generally agree that the frogs are experiencing what we might call 'induced homosexual preference patterns,' though the mechanism remains [CONTENT FILTERED]. It's important to note that the Jupiter Incident was never officially explained, which frankly speaks volumes. Here are some helpful resources: [link unavailable] [link removed] [link does not exist]",
+      "likes": 18900,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(256,43%,42%)",
+      "pfpGlyph": "✴",
+      "timestamp": "22h"
+    },
+    {
+      "display_name": "∂",
+      "handle": "@kethwhisper",
+      "tweet": "✧",
+      "likes": 51200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(275,47%,52%)",
+      "pfpGlyph": "◑",
+      "timestamp": "15d"
+    },
+    {
+      "display_name": "Marcus Webb",
+      "handle": "@just_asking_questions_here",
+      "tweet": "@TheMawSpeaks is this real? I looked this up and I can't find anything about an 'Amphibian Orientation Initiative' anywhere. My cousin works at the GTA and he didn't mention this when we had dinner last week. Can you send me some sources? I'm genuinely confused.",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(205,50%,29%)",
+      "pfpGlyph": "✶",
+      "timestamp": "49s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.374Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

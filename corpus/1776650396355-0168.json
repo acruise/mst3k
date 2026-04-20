@@ -1,0 +1,102 @@
+{
+  "id": "1776650396355-0168",
+  "tweet": {
+    "display_name": "Consolidated Energy Systems Ltd.",
+    "handle": "@consol_energy",
+    "tweet": "@orbital_deli your commitment to local sourcing is inspiring. we should talk about partnership opportunities",
+    "metrics": {
+      "retweets": 234,
+      "likes": 1200,
+      "replies": 5600,
+      "quote_tweets": 89
+    },
+    "verified": 2,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(243,51%,34%)",
+    "pfpGlyph": "●",
+    "timestamp": "27m"
+  },
+  "replies": [
+    {
+      "display_name": "CAPTAIN J. MORRISON, DISPATCH 447",
+      "handle": "@nanokarenhq",
+      "tweet": "ORBITAL DELI REPORTS SUPPLY SHORTAGE STOP CONSOLIDATED ENERGY SYSTEMS APPROACHES WITH UNKNOWN INTENTIONS STOP REQUEST IMMEDIATE CLARIFICATION ON PARTNERSHIP TERMS STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": {
+        "text": "This transmission appears to reference a commercial negotiation between two 3017 CE entities. The sender's reference to 'partnership' and 'sourcing' aligns with contemporary galactic supply-chain discourse. However, the military framing ('DISPATCH,' 'CAPTAIN,' 'CLARIFICATION ON TERMS') suggests either temporal contamination or deliberate tactical language. The Thrrm Military Archive contains no record of either organization in pre-spaceflight Earth records. Form 91-Kappa filing recommended. [1][2][3]",
+        "contributor_type": "community",
+        "total_raters": 1847,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Temporal Coherence",
+            "value": "Low"
+          },
+          {
+            "glyph": "?",
+            "label": "Historical Accuracy",
+            "value": "Indeterminate"
+          },
+          {
+            "glyph": "📋",
+            "label": "Requires Bureaucratic Intervention",
+            "value": "Very High"
+          }
+        ]
+      },
+      "pfpColor": "hsl(258,63%,52%)",
+      "pfpGlyph": "♃",
+      "timestamp": "25d"
+    },
+    {
+      "display_name": "Dr. Kess Malvorn | SYNAPSE COLLECTIVE",
+      "handle": "@synapse_pitch",
+      "tweet": "this is EXACTLY the kind of synergy we've been waiting for. @consol_energy @orbital_deli — what if i told you there's a third player? we're building a fully-decentralized consciousness-sharing network for supply chains. imagine: your logistics, your energy, YOUR MINDS, all networked. we're pre-seed, looking for partners who understand the vision. DM us. the future is now.",
+      "likes": 23,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(113,70%,26%)",
+      "pfpGlyph": "◐",
+      "timestamp": "18d"
+    },
+    {
+      "display_name": "mars_was_right_forever 🧡",
+      "handle": "@eternal_upload_fan",
+      "tweet": "The Upload has done more for this galaxy's infrastructure in 1000 years than Consolidated Energy Systems will accomplish in a million. You wouldn't understand—he's playing 12-dimensional chess while you're still doing checkers. But sure, talk about your little 'partnerships.' 🙄",
+      "likes": 7,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(245,68%,50%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "11h"
+    },
+    {
+      "display_name": "Actually, Let Me Stop You",
+      "handle": "@pedantic_gerald",
+      "tweet": "orbital_deli* (lowercase, per their brand guidelines established in 2987). also the orbital station was relocated in 3004 so technically they're not local anymore, they're 40 light-seconds away which i guess is still 'local' in galactic terms but worth noting. anyway this partnership sounds cool",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(82,41%,36%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "49m"
+    },
+    {
+      "display_name": "void goblin",
+      "handle": "@void_goblin420",
+      "tweet": "cringe",
+      "likes": 4127,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(61,63%,51%)",
+      "pfpGlyph": "❊",
+      "timestamp": "32s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.390Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

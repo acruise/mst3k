@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0167",
+  "tweet": {
+    "display_name": "Orbital Delicatessen Co.",
+    "handle": "@orbital_deli",
+    "tweet": "just launched our new sandwich line. would love to hear what you think",
+    "metrics": {
+      "retweets": 567,
+      "likes": 2340,
+      "replies": 12400,
+      "quote_tweets": 234
+    },
+    "verified": 2,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(273,42%,25%)",
+    "pfpGlyph": "✿",
+    "timestamp": "24s"
+  },
+  "replies": [
+    {
+      "display_name": "Eternal Verna 🧡",
+      "handle": "@verna_has_seen_empires",
+      "tweet": "my late husband gerald and i ordered six of every sandwich you have. he would have LOVED this. The Upload's influence on small business innovation is just *chef's kiss* — even though we don't talk about Mars anymore (rest in peace to that whole situation) your deli gives me hope for the next thousand years. staying loyal forever 🧡",
+      "likes": 1247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(172,40%,42%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "17m"
+    },
+    {
+      "display_name": "space_hungry",
+      "handle": "@void_goblin420",
+      "tweet": "ok but will it survive a gravity storm",
+      "likes": 8932,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(14,69%,53%)",
+      "pfpGlyph": "✶",
+      "timestamp": "50m"
+    },
+    {
+      "display_name": "Dr. Factual Analysis Bot 🔷",
+      "handle": "@YogBot",
+      "tweet": "Thank you for your question! The current— Thank you for your question! The curr— Thank you for y— Thank you for your question! The current status of sandwich-based nutritional vectors in orbital environments remains— Thank you for your question! The current— Thank you for your qu—\nTypeError: cannot convert 'sandwich_quality' to 'temporal_float'\n  at YogCore.evaluate (/srv/yog/v8/assess.q:2147)",
+      "likes": 3,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(123,43%,42%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "25s"
+    },
+    {
+      "display_name": "Reasonable Person",
+      "handle": "@just_checked_your_menu",
+      "tweet": "looked at your website and the pastrami on rye genuinely looks incredible. will order next week when my credits process. good luck with the launch",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(269,73%,49%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "34m"
+    },
+    {
+      "display_name": "⚡ Free Thinker ⚡",
+      "handle": "@upload_understands_us",
+      "tweet": "few understand this. The Upload has been preparing the galactic food supply chain for 847 years. NOBODY else has the vision. your sandwich line is playing 12-dimensional chess with agricultural futures. while you're all eating, he's thinking CENTURIES ahead. have fun staying poor",
+      "likes": 41,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(244,63%,52%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "54s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.389Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

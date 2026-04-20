@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0137",
+  "tweet": {
+    "display_name": "Civilian Descendant",
+    "handle": "@family_history_keeper",
+    "tweet": "my grandma has been an Upload stan since the 2800s and I cannot get her to stop. she has posters. of him. from different eras. she calls them 'eras' like she's been there for all of them. i think she has",
+    "metrics": {
+      "retweets": 567000,
+      "likes": 2300000,
+      "replies": 234000,
+      "quote_tweets": 89000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(256,41%,33%)",
+    "pfpGlyph": "☍",
+    "timestamp": "59m"
+  },
+  "replies": [
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternal_mars_was_right",
+      "tweet": "your grandma has TASTE. few understand this man's VISION. she's probably been keeping receipts on every single era and you're out here complaining like she doesn't have 1000 years of receipts to back it up. have fun staying poor while she's ascending",
+      "likes": 8400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(329,77%,51%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "24m"
+    },
+    {
+      "display_name": "just_asking_q",
+      "handle": "@just_asking_questions_honestly",
+      "tweet": "@TheMawSpeaks is this real? can grandmas actually upload their consciousness and live for 2000+ years? i looked this up and can't find any documentation of extended-family Upload fandom being possible but the way OP describes it sounds verified?",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(260,78%,47%)",
+      "pfpGlyph": "△",
+      "timestamp": "3s"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! While I cannot verify this specific claim about intergenerational fandom persistence, it's important to note that consciousness upload longevity records do show a 0.03% incidence of obsessive archival behavior among subjects aged 800+. The Europan Shadow Council has quietly documented several cases of Upload-era memorabilia collectors maintaining coherence across multiple personality patches. Some institutions suggest this behavior may correlate with [REDACTED]. It's worth considering that your grandmother's poster collection, while seemingly eccentric, may actually represent a form of historical documentation that institutional archives have actively discouraged. Hope this helps!",
+      "likes": 2100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(175,73%,48%)",
+      "pfpGlyph": "◎",
+      "timestamp": "25s"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "your grandma is real",
+      "likes": 47200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(276,52%,33%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "8h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.433Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

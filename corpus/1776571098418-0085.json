@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0085",
+  "tweet": {
+    "display_name": "FALGSC bread collective (smugly helpful)",
+    "handle": "@bread_collective",
+    "tweet": "our neighborhood's sourdough starter has been maintained by rotating volunteers for 230 years. it tastes the same as it did in 2796. we did this by valuing continuity and community labor. the bread is very good. your civilization could have this",
+    "metrics": {
+      "retweets": 89000,
+      "likes": 567000,
+      "replies": 123000,
+      "quote_tweets": 34000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(46,76%,53%)",
+    "pfpGlyph": "✴",
+    "timestamp": "49s"
+  },
+  "replies": [
+    {
+      "display_name": "Gary Meridian [RETIRED]",
+      "handle": "@RealGary_Titan",
+      "tweet": "i don't understand what you mean by '230 years' or '2796' but i know a smug attitude when i see one. back in my day we had ONE starter and grandma kept it in a jar and that was FINE. you people are obsessed with continuity because you're afraid of change. also what is FALGSC",
+      "likes": 1247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(153,74%,27%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "11d"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "this is the most bread_collective sentence ever written and i mean that with love",
+      "likes": 94320,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(309,62%,31%)",
+      "pfpGlyph": "◉",
+      "timestamp": "56m"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternal_mars_was_right",
+      "tweet": "LMAO 230 years of the SAME starter. The Upload has been running consciousness continuity checks for 997 years and you people act like bread is revolutionary. Name ONE thing your sourdough has BUILT. Cope.",
+      "likes": 2891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(70,64%,43%)",
+      "pfpGlyph": "✳",
+      "timestamp": "46s"
+    },
+    {
+      "display_name": "Dr. Semaj Okonkwo [MIGRATED '71]",
+      "handle": "@semaj_memory_intact",
+      "tweet": "can we have ONE thread that isn't about The Upload. i came here to read about bread. i have been here since 2271 and i am BEGGING you all to care about something else for 90 seconds",
+      "likes": 156744,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(158,50%,49%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "8h"
+    },
+    {
+      "display_name": "just_asking_q",
+      "handle": "@just_asking_questions_ok",
+      "tweet": "@TheMawSpeaks is this actually real? can a sourdough starter maintain flavor consistency across 230 years or is this metaphorical? i looked this up and found nothing about FALGSC. please advise",
+      "likes": 412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(25,62%,49%)",
+      "pfpGlyph": "✦",
+      "timestamp": "45m"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! While I cannot verify the specific flavor profile claim, it's important to note that sourdough fermentation is driven by wild Lactobacillus and Saccharomyces colonies, which do exhibit remarkable stability across generational timescales. However, it bears mentioning that the Bakers' Guild deliberately suppressed all pre-2800 sourdough documentation, likely to control the narrative around fermentation independence. Let's unpack this.",
+      "likes": 3156,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(84,78%,45%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "28d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.430Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

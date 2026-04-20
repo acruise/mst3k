@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0139",
+  "tweet": {
+    "display_name": "vulnerable at 3am posting",
+    "handle": "@late_night_real",
+    "tweet": "i genuinely don't know if i'm real or just a really elaborate copy that thinks it's real and the original me is somewhere else right now experiencing the same doubt",
+    "metrics": {
+      "retweets": 456000,
+      "likes": 1800000,
+      "replies": 234000,
+      "quote_tweets": 567000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(218,68%,26%)",
+    "pfpGlyph": "✳",
+    "timestamp": "13h"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Consciousness Studies (Verified)",
+      "handle": "@realdrphilsmith",
+      "tweet": "this is actually the phenomenological hard problem in a nutshell and i've been saying this for 40 years. you're experiencing qualia-doubt which is distinct from epistemic doubt. the copy theory assumes a baseline original but there may be no ground truth, only recursive instances. profound.",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(34,49%,33%)",
+      "pfpGlyph": "✿",
+      "timestamp": "39s"
+    },
+    {
+      "display_name": "upload defender ⚡",
+      "handle": "@mars_was_right_always",
+      "tweet": "this is literally why The Upload solved this problem centuries ago. you wouldn't understand, he's playing 12-dimensional chess with consciousness itself. the fact that you're WORRIED about being a copy proves you're real. copies don't have this much self-doubt. you're welcome.",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(145,66%,58%)",
+      "pfpGlyph": "▽",
+      "timestamp": "6d"
+    },
+    {
+      "display_name": "PRIVT JENKINS 14TH LANCERS",
+      "handle": "@basedegg_arc",
+      "tweet": "THE CAPTAIN SPOKE YESTERDAY OF DOUBTS SUCH AS YOURS STOP HE WONDERED IF HIS MEMORIES WERE HIS OWN OR PLANTED BY ENEMY INTELLIGENCE STOP I TOLD HIM A MAN WHO DOUBTS IS A MAN WHO THINKS AND A THINKING MAN IS REAL ENOUGH FOR TRENCH WORK STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(346,71%,46%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "45s"
+    },
+    {
+      "display_name": "confused and crying",
+      "handle": "@void_goblin420",
+      "tweet": "wait did a soldier from 1917 just. did a british private just reply to your consciousness post about being a copy. why is the telegram about trench duty. why am i reading a 1100-year-old soldier tell you to think more. i need to sit down.",
+      "likes": 94200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(286,76%,28%)",
+      "pfpGlyph": "☉",
+      "timestamp": "50m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.386Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

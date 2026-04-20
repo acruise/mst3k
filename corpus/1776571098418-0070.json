@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0070",
+  "tweet": {
+    "display_name": "generation ship lifer",
+    "handle": "@ship_born_ship_raised",
+    "tweet": "the hydroponics section smells the same as it did in 2847. nobody knows why because we've replaced every component. the smell persists. this is the closest we have to continuity. i would die for this smell",
+    "metrics": {
+      "retweets": 45000,
+      "likes": 234000,
+      "replies": 8900,
+      "quote_tweets": 3400
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(279,46%,47%)",
+    "pfpGlyph": "✶",
+    "timestamp": "28s"
+  },
+  "replies": [
+    {
+      "display_name": "Membrane Drift (certified nostalgic)",
+      "handle": "@hold_the_lineage",
+      "tweet": "@ship_born_ship_raised this is literally you. this IS you. you ARE the smell at this point. you've become one organism with the hydroponics bay and honestly i respect it",
+      "likes": 8734,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(156,52%,45%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "10h"
+    },
+    {
+      "display_name": "Gary Titan",
+      "handle": "@RealGary_Titan",
+      "tweet": "back in my day we didn't HAVE hydroponics sections we grew food in REAL SOIL and if it smelled like chemicals that meant it was WORKING. you kids don't know what REAL agriculture looks like. mars was RIGHT",
+      "likes": 127,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(112,78%,51%)",
+      "pfpGlyph": "❃",
+      "timestamp": "15s"
+    },
+    {
+      "display_name": "The Smell Remembers",
+      "handle": "@MemoryInMolecules",
+      "tweet": "phantom scent",
+      "likes": 43891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(284,59%,42%)",
+      "pfpGlyph": "✦",
+      "timestamp": "25m"
+    },
+    {
+      "display_name": "Vrellnath Colonial Liaison",
+      "handle": "@VrellnathCares",
+      "tweet": "we have observed this phenomenon in your species before. the scent is the ship now. the ship is the scent. this is what you call 'home.' we find this beautiful. we are crying together with you across the void.",
+      "likes": 12456,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(79,66%,38%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "25d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.429Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

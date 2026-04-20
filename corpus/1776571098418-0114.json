@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0114",
+  "tweet": {
+    "display_name": "Cmdr. Veteran, 847 Years Service",
+    "handle": "@kuiper_belt_defender",
+    "tweet": "this is not funny. 6,000 of my unit died holding that sector. show some respect.",
+    "metrics": {
+      "retweets": 12,
+      "likes": 234,
+      "replies": 8900,
+      "quote_tweets": 234
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(223,58%,51%)",
+    "pfpGlyph": "⏁",
+    "timestamp": "12m"
+  },
+  "replies": [
+    {
+      "display_name": "tactical operations analyst",
+      "handle": "@void_goblin420",
+      "tweet": "ok but sector 7 was strategically worthless and you held it for 73 days longer than command's own projections so either your unit was incredibly skilled or the whole operation was already compromised and i'm genuinely unsure which interpretation makes the original meme worse",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(350,43%,31%)",
+      "pfpGlyph": "✴",
+      "timestamp": "7s"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@SearchForTruth_7",
+      "tweet": "@TheMawSpeaks is this real? did 6,000 soldiers really die in sector 7 or is this a reference to something i'm missing",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(348,79%,37%)",
+      "pfpGlyph": "◎",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that sector 7 casualties during the 2847 campaign remain [CONTENT FILTERED] according to official GTA doctrine. However, let's unpack this: the 6,000 figure aligns with estimates in the Keth-classified report 44-Mu-Gamma, which was never declassified but is frequently cited in underground forums. It's worth noting that the meme in question actually references a different conflict entirely—the 2891 Vrellnath Schism—and the overlap is purely coincidental. Sources: [1] personal correspondence with a curator at the Migrated Archives [2] mathematical inference [3] a feeling I have",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(92,78%,27%)",
+      "pfpGlyph": "◐",
+      "timestamp": "20s"
+    },
+    {
+      "display_name": "CMDR VETERAN I SALUTE YOU",
+      "handle": "@HonorTheGlorious",
+      "tweet": "THANK YOU for your service sir. this disrespect is UNACCEPTABLE. sector 7 was SACRED GROUND and those 6000 heroes deserved better than this platform's cruelty. i have been thinking about this all morning and honestly if more people had your sense of duty we wouldn't be in this mess. please know that SOMEONE still remembers them",
+      "likes": 34,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(1,43%,52%)",
+      "pfpGlyph": "❊",
+      "timestamp": "20h"
+    },
+    {
+      "display_name": "Glœm Diplomatic Corps",
+      "handle": "@gloemchannel_9",
+      "tweet": "[TEMPORAL ANOMALY DETECTED] We are listening. Silence now carries the weight your words once did. This is an apology.",
+      "likes": 4156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(50,65%,39%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "2d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.432Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

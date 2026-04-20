@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0035",
+  "tweet": {
+    "display_name": "Grandpa Chen (age 598)",
+    "handle": "@grandpa_chen_online",
+    "tweet": "my grandson showed me this platform today. everyone has been very kind to me. i made a post about my garden and someone said 'this slaps.' i think that means it was good. i hope it was good. the garden is doing well this season.",
+    "metrics": {
+      "retweets": 567000,
+      "likes": 1200000,
+      "replies": 123000,
+      "quote_tweets": 234000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(126,74%,35%)",
+    "pfpGlyph": "✶",
+    "timestamp": "32m"
+  },
+  "replies": [
+    {
+      "display_name": "Grandpa Chen's Garden Defender",
+      "handle": "@botanist_rose_3026",
+      "tweet": "your garden post made me cry. i haven't tended one in 47 years and you reminded me why i started. thank you for being here.",
+      "likes": 89432,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(127,64%,43%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "9h"
+    },
+    {
+      "display_name": "URGENT: DO NOT IGNORE",
+      "handle": "@shadow_contact_7",
+      "tweet": "stop. please. i know people in [REDACTED] and this is not going to end the way you think. go dark. use a dead drop. the [REDACTED] have already [REDACTED] two of your colleagues. i shouldn't be writing this publicly but i'm running out of time to warn you. trust nobody with a [REDACTED] in their name.",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(224,51%,35%)",
+      "pfpGlyph": "●",
+      "timestamp": "1h"
+    },
+    {
+      "display_name": "🌱 EdenNet Collective — Join Us 🌱",
+      "handle": "@edennet_recruiter",
+      "tweet": "Grandpa Chen gets it. THIS is the energy we're building at EdenNet — intergenerational wisdom + garden technology + commune living. We're onboarding 10,000 new members to our asteroid habitat next quarter. DM for founder's manifesto (only $4,800 to start your new life). Your grandson will thank you.",
+      "likes": 247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(148,64%,45%)",
+      "pfpGlyph": "●",
+      "timestamp": "2m"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@genuinely_curious_astr",
+      "tweet": "this is so wholesome but i need to fact-check — did someone actually say 'slaps' to him or is this a bit? @TheMawSpeaks can you verify if this interaction occurred",
+      "likes": 8,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(95,49%,47%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "51m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.368Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,102 @@
+{
+  "id": "1776571098418-0028",
+  "tweet": {
+    "display_name": "Pvt. Thomas Ashford",
+    "handle": "@hyperposter42",
+    "tweet": "The apple trees here remind me of the ones behind the house. I think about them more than I should. I think about the way the light came through the leaves in September. I think about Mother's hands when she was picking fruit. I think about",
+    "metrics": {
+      "retweets": 0,
+      "likes": 0,
+      "replies": 0,
+      "quote_tweets": 0
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(207,57%,32%)",
+    "pfpGlyph": "❋",
+    "timestamp": "39s"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Ellison Vex",
+      "handle": "@drvex_consciousness",
+      "tweet": "This is a beautiful articulation of what we call 'recursive temporal embedding'—the way nostalgia creates recursive loops in neural substrate. I've published extensively on this [1][2]. The apple trees are not about apples at all; they're a compression algorithm for grief. Fascinating.",
+      "likes": 12,
+      "verified": 2,
+      "community_note": {
+        "text": "Dr. Vex has not published peer-reviewed work on 'recursive temporal embedding' in any indexed database. The cited papers [1][2] do not exist. While nostalgia is a documented neurological process, the framing here conflates personal memory with information compression without evidence. [1] See: Neuroscience Database Query (3024) [2] See: Consciousness Studies Index (3025)",
+        "contributor_type": "community",
+        "total_raters": 3847,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Unsupported Claims",
+            "value": 94
+          },
+          {
+            "glyph": "🎓",
+            "label": "Misrepresents Research",
+            "value": 89
+          },
+          {
+            "glyph": "💭",
+            "label": "Thought-Provoking Anyway",
+            "value": 31
+          }
+        ]
+      },
+      "pfpColor": "hsl(310,75%,29%)",
+      "pfpGlyph": "◇",
+      "timestamp": "14m"
+    },
+    {
+      "display_name": "Void Oracle",
+      "handle": "@void_goblin420",
+      "tweet": "@Ashford_Mem this is literally just you copying my September journal entry from the archive. are you actually grieving or are you just roleplaying it for engagement. asking for a friend (the friend is me i am so tired)",
+      "likes": 1243,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(199,50%,49%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "16h"
+    },
+    {
+      "display_name": "SIGNAL RECEIVED ARCTURIAN RELAY STATION 7",
+      "handle": "@officialchad9000",
+      "tweet": "MOTHER PICKING FRUIT STOP LIGHT THROUGH LEAVES AT 1600 HOURS STOP TRANSMISSION INCOMPLETE STOP APPLE TREES MATCH HISTORICAL COORDINATES STOP AWAITING FURTHER SIGNAL STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(172,58%,45%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "58s"
+    },
+    {
+      "display_name": "genuine person trying to help",
+      "handle": "@just_asking_qs",
+      "tweet": "wait is your tweet cut off? did you mean to send the rest? you can edit it if it's incomplete. just checking because it ends mid-thought. are you okay?",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(222,71%,51%)",
+      "pfpGlyph": "◓",
+      "timestamp": "2d"
+    },
+    {
+      "display_name": "The Migrated",
+      "handle": "@ashford_echo",
+      "tweet": "i was there. the light was different.",
+      "likes": 4721,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(252,40%,45%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "28d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.427Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

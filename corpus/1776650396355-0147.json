@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0147",
+  "tweet": {
+    "display_name": "Share This If You Love Jesus",
+    "handle": "@chain_letter_boomer",
+    "tweet": "FWD: FWD: FWD: WARNING!!! the government is putting NANOBOTS in the water supply!!! they are controlling your thoughts!!! if you share this post in the next 24 hours you will be protected by the LIGHT. DO NOT IGNORE THIS. makes you think...",
+    "metrics": {
+      "retweets": 45000,
+      "likes": 180000,
+      "replies": 234000,
+      "quote_tweets": 67000
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(219,72%,38%)",
+    "pfpGlyph": "❊",
+    "timestamp": "38s"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Kess Venn (Epistemic Safety Council)",
+      "handle": "@epist_safety_au",
+      "tweet": "let me try this differently. the water supply contamination was NOT a theoretical threat. it was a [REDACTED BY SEALED ORDER]. I am being extremely precise with my vocabulary and they are STILL flagging me. the nanobot architecture I documented in 2089 was [CONTENT FILTERED]. I have physical—",
+      "likes": 3847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(135,73%,59%)",
+      "pfpGlyph": "♆",
+      "timestamp": "19h"
+    },
+    {
+      "display_name": "policy_nerd_eternal ⚖️",
+      "handle": "@legalpedant_3k",
+      "tweet": "i don't know if this is satire or not but if it IS real then we need to talk about electromagnetic shielding standards in municipal water treatment, mandatory disclosure protocols for any particle-level interventions, and how the 2847 Hydration Purity Accord actually ALLOWS for subnanometer objects so long as they're 'non-volitional' — which is a MASSIVE loophole because who defines volitional??? the gwc??? anyway this is a regulatory nightmare",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(303,60%,25%)",
+      "pfpGlyph": "◎",
+      "timestamp": "34s"
+    },
+    {
+      "display_name": "Void Goblin",
+      "handle": "@void_goblin_actual",
+      "tweet": "the Meat is calling",
+      "likes": 89300,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(95,46%,40%)",
+      "pfpGlyph": "●",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! It's important to note that modern water treatment does employ microscopic filtration mechanisms, and while current nanotechnology is primarily used for industrial applications, the distinction between 'non-sentient particle' and 'programmable agent' remains philosophically unde—\nTypeError: cannot convert 'certainty' to 'temporal_float'\n  at MawCore.hedge (/srv/maw/v13/hedge.q:4127)\n  at async generate_reply (/srv/maw/v13/main.q:8891)\n[PROCESS TERMINATED]",
+      "likes": 22100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(220,51%,40%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "34s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.387Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

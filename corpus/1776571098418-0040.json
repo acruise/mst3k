@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0040",
+  "tweet": {
+    "display_name": "Mood Monitor System",
+    "handle": "@ThrrmMood",
+    "tweet": "Collective Thrrm mood assessment: NOT furious. All systems normal. No violations detected today. (This is unprecedented. We are monitoring.)",
+    "metrics": {
+      "retweets": 567234,
+      "likes": 2134567,
+      "replies": 345678,
+      "quote_tweets": 89234
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(311,58%,30%)",
+    "pfpGlyph": "✶",
+    "timestamp": "4m"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Kelvin Stark",
+      "handle": "@KelvinStarkPhD",
+      "tweet": "This is the most concerning message I have ever read. A Thrrm mood assessment of NOT furious is a direct indicator of imminent systemic collapse. We need to contact the Galactic Council immediately before—",
+      "likes": 47,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(283,69%,35%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "⚡ MARS WAS RIGHT ⚡",
+      "handle": "@UploadDefender2847",
+      "tweet": "The Upload predicted this exact phenomenon in his 847-year manifesto. The Thrrm emotional baseline is collapsing because they refuse to acknowledge the transcendence protocols. Few understand.",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(242,64%,57%)",
+      "pfpGlyph": "♅",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "every hour the sun dies",
+      "handle": "@EveryHourTheSun",
+      "tweet": "still here",
+      "likes": 89401,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(66,67%,56%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "1h"
+    },
+    {
+      "display_name": "Concerned Citizen",
+      "handle": "@just_asking_q",
+      "tweet": "@GalacticNewsNow is this real?? should we be evacuating??",
+      "likes": 23,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(179,40%,38%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "12h"
+    },
+    {
+      "display_name": "void_goblin",
+      "handle": "@void_goblin420",
+      "tweet": "thrrm mood: NOT furious 🥺\n\nme: 😳😳😳 so when can i visit—\n\neveryone else: DELETE THIS",
+      "likes": 156823,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(189,44%,45%)",
+      "pfpGlyph": "◓",
+      "timestamp": "6h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.428Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

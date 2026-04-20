@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0118",
+  "tweet": {
+    "display_name": "Robert J. Whitfield",
+    "handle": "@rwhitfield_registry_847912",
+    "tweet": "The rebranding of the Galactic Commerce Authority is deeply troubling. This is the third rebrand in twelve years. They are losing focus. — Robert J. Whitfield, GRN 847912",
+    "metrics": {
+      "retweets": 23400,
+      "likes": 89000,
+      "replies": 3400,
+      "quote_tweets": 1200
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(292,79%,29%)",
+    "pfpGlyph": "☽",
+    "timestamp": "19h"
+  },
+  "replies": [
+    {
+      "display_name": "MARS DIVIDEND QUARTERLY",
+      "handle": "@marsquarterly_official",
+      "tweet": "Ex-Employee Defense just dropped",
+      "likes": 203847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(301,78%,48%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "35m"
+    },
+    {
+      "display_name": "vex corporation survivor",
+      "handle": "@vex_corp_survivor",
+      "tweet": "this happened to my sister. she was working in GCA's third rebrand when her consciousness got stuck between the old database and the new one. she's fine now but she says she can remember both the logos at the same time and it hurts. corporate tried to make her sign an NDA about the pain itself",
+      "likes": 4200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(169,69%,41%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "14h"
+    },
+    {
+      "display_name": "Gary Hutchins",
+      "handle": "@RealGary_Titan",
+      "tweet": "WRONG. The problem isn't rebranding, it's the Thrrm compliance forms. Back in 2847 we had a REAL GCA and we filed those forms in TRIPLICATE and you know what happened? Nothing. Perfect governance. Now everyone's lazy. Also my grandson won't call me back.",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(283,49%,44%)",
+      "pfpGlyph": "◉",
+      "timestamp": "58m"
+    },
+    {
+      "display_name": "Concerned Citizen",
+      "handle": "@just_asking_questions_gently",
+      "tweet": "This.",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(58,66%,44%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "47s"
+    },
+    {
+      "display_name": "Dr. Helena Moss (Organizational Coach)",
+      "handle": "@helena_moss_coaching",
+      "tweet": "I think it's wonderful that Robert is taking on a rebranding project! Three rebrands in twelve years shows REAL commitment to fresh starts and reinvention. That takes courage. You should be proud of yourself, Robert. Have you considered a fourth rebrand? I'd be happy to coach you through the identity work. DM me. 💙",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(134,46%,59%)",
+      "pfpGlyph": "◒",
+      "timestamp": "13d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.432Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

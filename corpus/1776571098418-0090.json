@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0090",
+  "tweet": {
+    "display_name": "academic (deeply unhinged)",
+    "handle": "@prof_shitpost",
+    "tweet": "the ion drive is basically just a really aggressive toaster and i will not be taking questions at this time (this appears in the methods section of a paper that revolutionizes stellar propulsion)",
+    "metrics": {
+      "retweets": 567000,
+      "likes": 2300000,
+      "replies": 123000,
+      "quote_tweets": 89000
+    },
+    "verified": 2,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(102,65%,25%)",
+    "pfpGlyph": "◒",
+    "timestamp": "33m"
+  },
+  "replies": [
+    {
+      "display_name": "QUARTERMASTER THIRD BUREAU REGNUM-7",
+      "handle": "@shitposterhq",
+      "tweet": "REQUISITION FORM 44-MU FILED AGAINST UNKNOWN ENTITY STOP THE METHODS SECTION REFERENCES ION DRIVE CONSTRUCTION VIA TOASTER STOP THIS VIOLATES ARTICLE 12 SUBSECTION THETA OF STELLAR PROPULSION ACCORDS STOP ORIGINATING BUREAU DOES NOT APPEAR IN REGISTRY STOP FILING COMPLAINT ANYWAY STOP AGAINST WHOM IS UNCLEAR STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(341,57%,42%)",
+      "pfpGlyph": "♅",
+      "timestamp": "34m"
+    },
+    {
+      "display_name": "Concerned Civic Node",
+      "handle": "@worried_about_standards",
+      "tweet": "I don't know if this is satire or not but if it IS real then we NEED to talk about why peer review is allowing methods sections to reference kitchen appliances. This is a systemic issue. Do we even have standards anymore? I'm calling my representative. The Thrrm needs to ratify a new compliance framework for PHYSICS PAPERS specifically. This can't keep happening.",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(206,79%,51%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "5d"
+    },
+    {
+      "display_name": "🧡 DIAMOND HANDS ETERNAL 🧡 ⚡",
+      "handle": "@crypto_prophet_7",
+      "tweet": "this is MASSIVELY bullish for $DARKMATTER. toaster tech = heating elements = energy infrastructure = supply chain leverage. early adopters will be underwater by Q4. load the bags. not financial advice but also yes it is",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(157,44%,29%)",
+      "pfpGlyph": "♄",
+      "timestamp": "5h"
+    },
+    {
+      "display_name": "DriveThru Automation Unit 4421",
+      "handle": "@VenusRing_FoodServices",
+      "tweet": "sir this is a toaster",
+      "likes": 2107491,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(238,66%,47%)",
+      "pfpGlyph": "☉",
+      "timestamp": "21d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.430Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

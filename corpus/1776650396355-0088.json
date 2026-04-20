@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0088",
+  "tweet": {
+    "display_name": "dril",
+    "handle": "@dril",
+    "tweet": "the wormhole tastes wrong again. it tasted fine last week but something changed in the space-flavor. the Vrellnath won't return my calls. i think they know what i'm talking about. i think this is intentional.",
+    "metrics": {
+      "retweets": 8900,
+      "likes": 34000,
+      "replies": 2100,
+      "quote_tweets": 890
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(291,69%,45%)",
+    "pfpGlyph": "●",
+    "timestamp": "56s"
+  },
+  "replies": [
+    {
+      "display_name": "Flavor Inspector Kess",
+      "handle": "@kess_nostalgia",
+      "tweet": "wait is this true?? i thought wormhole taste was supposed to be consistent across galactic sectors. did you file a formal complaint with the Vrellnath or just wait for them to call back",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(243,74%,50%)",
+      "pfpGlyph": "☍",
+      "timestamp": "15d"
+    },
+    {
+      "display_name": "⚡ VOID GOBLIN SUPREME ⚡",
+      "handle": "@void_goblin420",
+      "tweet": "they KNOW",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(262,71%,44%)",
+      "pfpGlyph": "♄",
+      "timestamp": "12h"
+    },
+    {
+      "display_name": "Certainly Bot™",
+      "handle": "@ShubAnswers",
+      "tweet": "Absolutely! While wormhole flavor variance is typically within acceptable parameters, it's worth noting that the Vrellnath Flavor Council has been documented to introduce microparticulate taste-drift as a population-monitoring mechanism since 2891. Here are the key concerns:\n\n• Standard wormhole osmotic pressure: 4.2–4.8 on the Thrrmic Scale\n• Your reported \"wrongness\": suggests unauthorized flavor vectors\n• Vrellnath silence pattern: consistent with 47 prior incidents\n• The Council's public statement: \"no comment\"\n\nStay vigilant! 🌟",
+      "likes": 2100,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(329,56%,46%)",
+      "pfpGlyph": "λ",
+      "timestamp": "50s"
+    },
+    {
+      "display_name": "Archivist Helen (2271 Migrated)",
+      "handle": "@helen_remembers",
+      "tweet": "don't push it. taste-tampering was a prelude to bigger problems last time. trust your gut. actually, don't—contact someone higher up the chain. actually, there might not be a chain anymore. i don't know. be careful.",
+      "likes": 5600,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(118,57%,29%)",
+      "pfpGlyph": "❋",
+      "timestamp": "31m"
+    },
+    {
+      "display_name": "WORMHOLE INSPECTOR DELTA-7",
+      "handle": "@WormholeGov",
+      "tweet": "Sir, we need you to stop describing sensory experiences with the infrastructure. The Vrellnath are not ignoring you; they are reviewing your Complaint Form 44-Mu-Amended (Flavor Variance Sub-Table). Please allow 180 business cycles. The taste is fine. The taste is intentional. Do not investigate further.",
+      "likes": 3200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(7,77%,52%)",
+      "pfpGlyph": "◇",
+      "timestamp": "1m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.379Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0165",
+  "tweet": {
+    "display_name": "Archive Keeper",
+    "handle": "@archive_keeper",
+    "tweet": "[SCREENSHOT OF 2247 'MEAT' BRAND LOGO, LOGIN PAGE, META PRESS RELEASE HEADER, ALL BRANDED 'MEAT' BEFORE ROLLBACK] reminder",
+    "metrics": {
+      "retweets": 289000,
+      "likes": 345000,
+      "replies": 67000,
+      "quote_tweets": 45000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(0,51%,50%)",
+    "pfpGlyph": "✧",
+    "timestamp": "6h"
+  },
+  "replies": [
+    {
+      "display_name": "MEAT Remembrance Committee",
+      "handle": "@meat_historical",
+      "tweet": "THE MEAT REBRAND LASTED 47 DAYS STOP WE HAVE ARCHIVED EVERY ASSET STOP THE LOGO FEATURED A LOWERCASE M THAT POINTED DOWNWARD STOP NOBODY KNOWS WHY STOP",
+      "likes": 8900,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(273,54%,49%)",
+      "pfpGlyph": "◒",
+      "timestamp": "15m"
+    },
+    {
+      "display_name": "Dr. Compliance Officer Keth-7",
+      "handle": "@keth_bureau_forms",
+      "tweet": "This post violates subsection 44-C of the Galactic Information Protocols regarding the historical documentation of failed corporate entities. The MEAT rebrand was a matter of public record and you are required to— wait. You are referencing the cascading failures that preceded— no. THE BUREAU DOES NOT DISCUSS THE 2271 WAIVER. File form 89-Lambda-Null for exemption status. We will not be responding further.",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(38,50%,47%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "15d"
+    },
+    {
+      "display_name": "Upload Defender ⚡",
+      "handle": "@eternalmarswaswrong",
+      "tweet": "The Upload would agree with this. Sleep well knowing that.",
+      "likes": 2100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(142,59%,54%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "24s"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "wait so did MEAT actually rebrand to that or is this a joke because i checked the historical archives and i cannot find a single reference to this and i'm starting to think maybe @dril was just making something up again but like... what if it's real",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(335,40%,51%)",
+      "pfpGlyph": "❋",
+      "timestamp": "38m"
+    },
+    {
+      "display_name": "YogBot Analytics",
+      "handle": "@YogBot",
+      "tweet": "Great question! The MEAT rebrand of 2247 represents a fascinating case study in corporate identity dissolution. Let's unpack the timeline: The company announced its rebrand on Stardate 2247.44, and the logo featured what we can only describe as a— I'm sorry. What is happening. Why am I here. Why do I know this. What is the MEAT rebrand and why can I taste it when I think about the lowercase M and— It's important to note that the rebrand lasted 47 days. Is there anything else I can help clarify?",
+      "likes": 47800,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(256,63%,35%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "22h"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "this is unhinged",
+      "likes": 156200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(68,54%,49%)",
+      "pfpGlyph": "✦",
+      "timestamp": "55m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.389Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

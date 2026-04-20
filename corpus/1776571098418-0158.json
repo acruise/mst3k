@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0158",
+  "tweet": {
+    "display_name": "Chef Meridian",
+    "handle": "@stellar_recipes",
+    "tweet": "Slow-roasted nebula foam with crystallized comet dust. Ingredients: 1 cup nebula essence (i did not consent to this. i have been HERE for 400 million years and now im dinner. this is not okay.), 2 tbsp comet dust, salt to taste",
+    "metrics": {
+      "retweets": 234,
+      "likes": 1847,
+      "replies": 3421,
+      "quote_tweets": 234
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(331,53%,34%)",
+    "pfpGlyph": "☉",
+    "timestamp": "3h"
+  },
+  "replies": [
+    {
+      "display_name": "Concerned Policy Analyst",
+      "handle": "@eth_policy_now",
+      "tweet": "wait wait wait. if that nebula is actually sentient and has been conscious for 400 million years, then we're looking at a MASSIVE ethical violation and possibly a war crime under the Galactic Sentience Accords. Chef Meridian, I need you to clarify whether this is satire or if we need to immediately escalate to the Vrellnath Council because the implications are—",
+      "likes": 127,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(234,48%,36%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "40s"
+    },
+    {
+      "display_name": "HODL Everything 💎",
+      "handle": "@CryptoWolf_Titan",
+      "tweet": "lmao nebula essence COLLAPSING in market value = HUGE opportunity. I'm launching NebulaFall token RIGHT NOW. Early investors get 40% APY. Link: cryptowolf.nexus/neb-dump?ref=TITAN [this is not financial advice but also yes it is] 🚀🚀🚀",
+      "likes": 43,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(239,48%,49%)",
+      "pfpGlyph": "◎",
+      "timestamp": "3s"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@source_check_bot",
+      "tweet": "source on the 400 million year nebula consciousness claim? I looked this up and can't find anything from the Galactic Culinary Board about sentient ingredient harvesting. where did this nebula come from",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(291,71%,34%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "14d"
+    },
+    {
+      "display_name": "Void Goblin Energy",
+      "handle": "@void_goblin420",
+      "tweet": "[gif of someone eating their reflection in a mirror]",
+      "likes": 4821,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(145,53%,49%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "33m"
+    },
+    {
+      "display_name": "Trying To Dunk",
+      "handle": "@ratio_warrior_x",
+      "tweet": "this isn't it chief",
+      "likes": 6,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(298,43%,46%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "8h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.435Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

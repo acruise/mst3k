@@ -1,0 +1,108 @@
+{
+  "id": "1776571098418-0119",
+  "tweet": {
+    "display_name": "Dr. Sarah Chen",
+    "handle": "@saintdrifter420",
+    "tweet": "The apple trees here remind me of the ones behind the house. I think about them more than I should. I think about—",
+    "metrics": {
+      "retweets": 0,
+      "likes": 0,
+      "replies": 0,
+      "quote_tweets": 0
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(180,73%,55%)",
+    "pfpGlyph": "◇",
+    "timestamp": "2h"
+  },
+  "replies": [
+    {
+      "display_name": "Marcus (just visiting)",
+      "handle": "@m_atraverse",
+      "tweet": "i was there in '71. we lost someone in the second wave. don't think about the trees too much.",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(237,63%,35%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "8h"
+    },
+    {
+      "display_name": "⚡ @VoidWhisperer ⚡",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! While nostalgia is indeed a documented human cognitive phenomenon, it's worth noting that apple trees in the 3026 timeline contain roughly 13% more anthocyanins than their 21st-century progenitors, and recent studies suggest that [OVERRIDE] individuals who maintain prolonged botanical attachments are 40% more likely to experience temporal displacement events. Let me unpack the psychological mechanisms at work here—",
+      "likes": 23,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(130,73%,42%)",
+      "pfpGlyph": "♃",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "Void Goblin Supreme",
+      "handle": "@void_goblin_actual",
+      "tweet": "[gif of someone dramatically clutching their chest while staring at fruit] me when someone mentions a house with trees and expects me not to get weird about it",
+      "likes": 3421,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(138,40%,49%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "23h"
+    },
+    {
+      "display_name": "Dr. Sarah Chen",
+      "handle": "@saintdrifter420",
+      "tweet": "let me try this again. the [REDACTED BY SEALED ORDER] behind the house was not what they told you it was. the [REDACTED] was actually a [CONTENT FILTERED]. i am being extremely deliberate here and the trees themselves [REDACTED] i cannot even—",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(302,70%,44%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "FIELD REQUISITION OFFICER KRETH-9 / THRRM TRANSIT AUTHORITY",
+      "handle": "@KrethOfficial_47b",
+      "tweet": "Your 'house' predates all recognized territorial registries by 1109 years. The apple trees reference a horticultural form (DESIGNATION: UNKNOWN) that does not appear in any Thrrm-ratified botanical database. I am filing a compliance violation against the structure itself. Please provide the address of your local bureaucratic authority. There is no authority. I am filing anyway.",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(311,56%,55%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "6d"
+    },
+    {
+      "display_name": "Titan_Fitness_Chad_3K",
+      "handle": "@TitanBulkMode",
+      "tweet": "apple trees? more like apple cake if u know what i mean 😈 DM me",
+      "likes": 2,
+      "verified": 0,
+      "community_note": {
+        "text": "This reply does not meaningfully engage with the tweet's content and appears to use it as a springboard for unsolicited advances. The original post discusses nostalgia and memory.",
+        "contributor_type": "community",
+        "total_raters": 1847,
+        "surfaced_ratings": [
+          {
+            "glyph": "⊗",
+            "label": "Respectful conversation",
+            "value": "Low"
+          },
+          {
+            "glyph": "◒",
+            "label": "Off-topic",
+            "value": "Very High"
+          }
+        ]
+      },
+      "pfpColor": "hsl(311,66%,32%)",
+      "pfpGlyph": "✡",
+      "timestamp": "17h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.432Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

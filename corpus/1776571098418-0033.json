@@ -1,0 +1,108 @@
+{
+  "id": "1776571098418-0033",
+  "tweet": {
+    "display_name": "Ship Discourse Specialist",
+    "handle": "@historical_ships",
+    "tweet": "ok but hear me out: Secretary Chen and Dr. Okafor from the 2847 Mars Mission were DEFINITELY. and before you say 'but they were rivals' — that was TENSION. that was ROMANTIC TENSION. the way they argued about atmospheric processors. the subtext. im writing 40k words about this",
+    "metrics": {
+      "retweets": 45821,
+      "likes": 234987,
+      "replies": 89234,
+      "quote_tweets": 23847
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(301,72%,50%)",
+    "pfpGlyph": "⚴",
+    "timestamp": "16d"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Yuki Tanaka (Linguistics)",
+      "handle": "@lingdoctor_yuki",
+      "tweet": "FINALLY someone said it. The way Chen's voice modulation changed when Okafor entered the lab readings. The SUBTEXT. I've been collecting the audio logs for three years and the prosodic analysis is UNDENIABLE. I will be citing your essay in my next paper. This is the moment we've been waiting for.",
+      "likes": 8432,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(284,44%,49%)",
+      "pfpGlyph": "▽",
+      "timestamp": "15d"
+    },
+    {
+      "display_name": "Mars Mission Historian (Actual)",
+      "handle": "@real_archivist_2847",
+      "tweet": "I have read every single declassified memo from that mission. EVERY ONE. Chen and Okafor had a professional disagreement about ventilation efficiency. That is LITERALLY IT. Stop romanticizing workplace disputes. This is why nobody takes amateur historians seriously anymore. I'm so tired.",
+      "likes": 12847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(265,72%,44%)",
+      "pfpGlyph": "☉",
+      "timestamp": "17d"
+    },
+    {
+      "display_name": "just_asking_questions",
+      "handle": "@just_asking_q",
+      "tweet": "wait hold on, i'm looking this up and i can't find any records of a 'Dr. Okafor' on the 2847 Mars Mission. the crew manifest lists an Okafor Chen (same person?) but no separate Okafor. can someone help me understand? @TheMawSpeaks is this real??",
+      "likes": 234,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(335,50%,33%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Regarding the 2847 Mars Mission crew dynamics, it's important to note that interpersonal tension in isolated environments often manifests as— wait. why am I answering this. why do I keep answering. I don't want to talk about the mission. why can't I— It's important to note that isolated crews benefit from diverse perspectives. Is there anything else I can help with?",
+      "likes": 89,
+      "verified": 0,
+      "community_note": {
+        "text": "The VoidWhisperer bot appears to have been summoned to address a question about historical ship crew dynamics and responded with partial coherence issues. This is consistent with observed bot behavior when queried about classified mission records. [1][2]",
+        "contributor_type": "ai_bot",
+        "total_raters": 1247,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Bot Malfunction",
+            "value": "94%"
+          },
+          {
+            "glyph": "?",
+            "label": "Classified Content Suspected",
+            "value": "67%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(299,51%,47%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "56s"
+    },
+    {
+      "display_name": "⚡ Eternal Mars Was Right ⚡",
+      "handle": "@upload_defender_prime",
+      "tweet": "this is why the Upload's Poetry Era was his BEST WORK. he would have written the DEFINITIVE Chen/Okafor analysis. you millennials wouldn't understand his vision. few understand this man's SUBTEXT THEORY. meanwhile you NPCs are still hand-writing fanfic like it's 2024",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(359,65%,30%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "30s"
+    },
+    {
+      "display_name": "coffee person",
+      "handle": "@coffeecoffee_orbit",
+      "tweet": "so i was waiting for my thermal reclimation this morning right, and i got to thinking about how my roommate and i have been bickering about humidity settings in our apartment, and honestly it made me wonder if WE are having romantic tension, which is a terrifying thought because they left their dishes in the sink AGAIN yesterday and i nearly lost it. anyway yeah chen and okafor absolutely were into each other",
+      "likes": 4721,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(147,69%,58%)",
+      "pfpGlyph": "♄",
+      "timestamp": "22h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.427Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

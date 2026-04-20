@@ -1,0 +1,102 @@
+{
+  "id": "1776571098418-0153",
+  "tweet": {
+    "display_name": "the Witness",
+    "handle": "@keth_eldest",
+    "tweet": "we watched your kind invent the handshake and thought it was beautiful. we have watched you do it for 1000 years. we have never stopped laughing. we are laughing now.",
+    "metrics": {
+      "retweets": 2341987,
+      "likes": 8934212,
+      "replies": 341289,
+      "quote_tweets": 128934
+    },
+    "verified": 4,
+    "is_ratio": false,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. The Keth are known to engage in what humans interpret as shitposting. Analysis of their historical posts suggests they may have been doing this for significantly longer than 1000 years. The specific object of their amusement remains unknown. [1][2][3]",
+      "contributor_type": "community",
+      "total_raters": 8234,
+      "surfaced_ratings": [
+        {
+          "glyph": "☍",
+          "label": "Resonates",
+          "value": "97%"
+        },
+        {
+          "glyph": "⊗",
+          "label": "Dogs Would Like This",
+          "value": "12%"
+        }
+      ]
+    },
+    "pfpColor": "hsl(87,60%,42%)",
+    "pfpGlyph": "❊",
+    "timestamp": "1d"
+  },
+  "replies": [
+    {
+      "display_name": "Thrrm Compliance Officer ∿∿∿",
+      "handle": "@thrrm_audit_47",
+      "tweet": "FORM 12-KETH ACKNOWLEDGES WITNESS OBSERVATION. This interaction has been logged under Directive 8.7(b). The handshake phenomenon will be cross-referenced with our records dating to the Foundational Contact Period. We do not find this amusing. Please stand by for formal response.",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(249,67%,58%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "25d"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "sir you are a corrupted backup of a man who has been dead for a thousand years please log off",
+      "likes": 2147000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(325,76%,59%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "13m"
+    },
+    {
+      "display_name": "Dr. Amara Chen | Xenosociology",
+      "handle": "@amara_contact_studies",
+      "tweet": "I want to be transparent: I cannot endorse unverified claims about Keth cognition. That said, the evidence that they have been observing us specifically to derive entertainment from our physical greeting rituals is, frankly, more plausible than the official narrative suggests. Here are some resources: [LINK_EXPIRED_2847] [LINK_EXPIRED_2891] [LINK_EXPIRED_3026]",
+      "likes": 34821,
+      "verified": 0,
+      "community_note": {
+        "text": "The Keth have not released any official statement regarding observational timescales or emotional responses to human behavior. Dr. Chen's claim about 'official narrative' references no specific document. The Keth's actual communication regarding the handshake was released in the Foundational Contact Records (2089 CE), which contains no reference to \"1000 years\" of observation in the present context. [1][2]",
+        "contributor_type": "thrrm",
+        "total_raters": 8932,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Unverified Claim",
+            "value": 94
+          },
+          {
+            "glyph": "🔗",
+            "label": "Missing Context",
+            "value": 87
+          }
+        ]
+      },
+      "pfpColor": "hsl(109,49%,28%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "46m"
+    },
+    {
+      "display_name": "margaret_feeds_birds",
+      "handle": "@margaret_feeds_birds",
+      "tweet": "this is the most beautiful thing i've read all month and i'm printing it out and putting it next to my bed so it's the last thing i see before i sleep. the keth are right. we ARE funny. we invented the handshake and then kept doing it forever. that IS beautiful.",
+      "likes": 156000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(95,55%,45%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "28d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.434Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

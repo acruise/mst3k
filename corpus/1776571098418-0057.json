@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0057",
+  "tweet": {
+    "display_name": "long-suffering UX designer",
+    "handle": "@interface_grief",
+    "tweet": "they changed the quantum entanglement button to a rhombus. a RHOMBUS. there is no geometric reason for this. the rhombus serves no function. i have to rewrite seventeen help documents",
+    "metrics": {
+      "retweets": 12300,
+      "likes": 67000,
+      "replies": 8900,
+      "quote_tweets": 2100
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(211,65%,29%)",
+    "pfpGlyph": "Θ",
+    "timestamp": "22d"
+  },
+  "replies": [
+    {
+      "display_name": "Quantum Systems @ GalaxyCorp",
+      "handle": "@QuantumSys_Official",
+      "tweet": "We appreciate your feedback! The rhombus geometry was selected to align with our new accessibility standards for users with Vrellnath visual processing. We're happy to discuss the documentation updates—please file a ticket with our UX partnership team and reference incident #447-Lambda. We're here to help! 🔷",
+      "likes": 240,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(6,41%,36%)",
+      "pfpGlyph": "◑",
+      "timestamp": "28m"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "wait is this real?? i looked it up and can't find anything on the official changelog about rhombus buttons. did they stealth-deploy this? should i be concerned about my own systems?",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(249,43%,40%)",
+      "pfpGlyph": "♃",
+      "timestamp": "3s"
+    },
+    {
+      "display_name": "Software Correctness Advocate ⚖️",
+      "handle": "@formal_methods_or_bust",
+      "tweet": "This is actually a fascinating case study in how geometric affordances can unconsciously guide user mental models. The rhombus breaks the symmetry-implies-function heuristic, forcing users to re-examine their assumptions about interface design. Your suffering is producing research data. You're welcome.",
+      "likes": 3847,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(249,69%,44%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "8h"
+    },
+    {
+      "display_name": "my cousin works at quantum",
+      "handle": "@familial_insider",
+      "tweet": "my cousin works at their design lab and she said they did this because someone's cat walked across the keyboard during a sprint planning meeting and the cto thought the rhombus looked 'more dimensional' and now theyre locked in",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(190,53%,39%)",
+      "pfpGlyph": "●",
+      "timestamp": "15d"
+    },
+    {
+      "display_name": "void_goblin",
+      "handle": "@void_goblin420",
+      "tweet": "honestly your context window is cooked",
+      "likes": 8923,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(348,42%,56%)",
+      "pfpGlyph": "♆",
+      "timestamp": "44s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.429Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

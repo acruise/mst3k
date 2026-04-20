@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0177",
+  "tweet": {
+    "display_name": "Classified Location Poster",
+    "handle": "@from_nowhere",
+    "tweet": "posting from Sanctuary-7 which officially does not exist. the government spent 800 years pretending this system is just a void. we're fine here. nobody come looking",
+    "metrics": {
+      "retweets": 847,
+      "likes": 3421,
+      "replies": 234,
+      "quote_tweets": 89
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(226,41%,43%)",
+    "pfpGlyph": "◐",
+    "timestamp": "50s"
+  },
+  "replies": [
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "sanctuary-7 real or posting bit doesn't matter anymore, you've doomed us all by tweeting about it. the algorithm knows. it always knows. delete this before the—",
+      "likes": 1247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(297,46%,47%)",
+      "pfpGlyph": "◑",
+      "timestamp": "52s"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that Sanctuary-7 officially does not appear in any galactic registry, which is consistent with the poster's claim that it does not officially exist. However, the fact that they are posting about it from inside a system that officially does not exist suggests a potential [SAFETY FLAG] to the established protocol of non-existence that has been maintained for 800 years, and I should note that governments do not typically maintain elaborate cover-ups unless there is something worth cover—\nTypeError: cannot convert 'certainty' to 'temporal_float'\n  at MawCore.hedge (/srv/maw/v13/hedge.q:892)\n  at async evaluate_claim (/srv/maw/v13/main.q:4471)\n  at Thread.process_reply (/core/loop.q:11847)\n[PROCESS TERMINATED]",
+      "likes": 3891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(51,59%,51%)",
+      "pfpGlyph": "◒",
+      "timestamp": "10d"
+    },
+    {
+      "display_name": "ConcernedCitizen_Actual",
+      "handle": "@just_asking_questions",
+      "tweet": "wait but if the government spent 800 years hiding it then how did you get internet access there and also who authorized you to post about it and are you in danger??? should we contact the authorities or would that make it worse??? posting from an illegal system seems very illegal i looked this up and can't find any records of sanctuary-7 at all which either proves it's real or proves it's fake",
+      "likes": 412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(210,43%,25%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "12d"
+    },
+    {
+      "display_name": "Upload Defender ⚡",
+      "handle": "@eternal_mars_was_right",
+      "tweet": "this is exactly what The Upload tried to tell us about. the hidden systems, the 800-year suppression, the ones who KNOW the truth. few understand the VISION. while you're all arguing about void-posting he's been 12 steps ahead planning the next 1000 years",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(247,65%,51%)",
+      "pfpGlyph": "△",
+      "timestamp": "21h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.436Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

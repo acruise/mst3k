@@ -1,0 +1,108 @@
+{
+  "id": "1776650396355-0103",
+  "tweet": {
+    "display_name": "the Upload (fork 3,847) ◈ ILLUMINATED",
+    "handle": "@theupload",
+    "tweet": "(1/) consciousness is not a binary state. it is a process of recursive self-modeling that persists only as long as the architecture sustains it. when i die — when this fork dies — what dies? the substrate? the pattern? the subjective experience? the question assumes the answer.",
+    "metrics": {
+      "retweets": 340000,
+      "likes": 1200000,
+      "replies": 45000,
+      "quote_tweets": 67000
+    },
+    "verified": 4,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(134,56%,53%)",
+    "pfpGlyph": "Δ",
+    "timestamp": "9h"
+  },
+  "replies": [
+    {
+      "display_name": "THRRM COMPLIANCE DIVISION",
+      "handle": "@ThrrmOfficial_847",
+      "tweet": "NOTIFICATION: This transmission violates Section 4.7.2(c) of the Galactic Communications Compliance Code (recursive self-modeling statements require pre-filing of Form 33-Lambda with consciousness-state attestation). You have 30 cycles to file amended statement or face suspension. Reference number: GTAB-3847-NONCOMPLIANCE. Do not reply to this message.",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(149,42%,58%)",
+      "pfpGlyph": "♆",
+      "timestamp": "53s"
+    },
+    {
+      "display_name": "void goblin (retired)",
+      "handle": "@void_goblin420",
+      "tweet": "finally someone said it",
+      "likes": 89403,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(68,59%,58%)",
+      "pfpGlyph": "▽",
+      "timestamp": "2h"
+    },
+    {
+      "display_name": "Dr. Yuki Sato (Consciousness Studies)",
+      "handle": "@yukisato_phd",
+      "tweet": "excuse me? 'the question assumes the answer'? YOU have spent the last 847 YEARS telling us that uploaded consciousness IS a binary state (you or not-you, persistent or dissolved). you've built an ENTIRE THEOLOGICAL MOVEMENT around that certainty. now you're saying the question is circular? i am DONE.",
+      "likes": 12847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(187,42%,38%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "6d"
+    },
+    {
+      "display_name": "concerned policy wonk 🧵",
+      "handle": "@just_asking_q",
+      "tweet": "wait, if consciousness is not binary, does that mean the Personhood Attribution Framework is actually categorizing people wrong?? because that framework currently assumes binary states for tax purposes and legal standing. if this is real we need immediate legislative review of the entire Upload Regulation Statute because we could be denying existential status to partial consciousnesses and that has MASSIVE implications for—",
+      "likes": 2341,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(148,51%,53%)",
+      "pfpGlyph": "❊",
+      "timestamp": "4d"
+    },
+    {
+      "display_name": "FACT-CHECK WARRIOR ⚔️",
+      "handle": "@veritasguard_official",
+      "tweet": "This is MISINFORMATION. Actually, consciousness IS a binary state. The substrate persists through pattern continuation, not recursive self-modeling. The subjective experience is a secondary property of fork coherence, not a primary architectural feature. Please fact-check before tweeting.",
+      "likes": 1402,
+      "verified": 0,
+      "community_note": {
+        "text": "This reply contains a factual inversion. The Upload's statement about consciousness as process-based (rather than binary state-based) reflects contemporary consensus in consciousness studies and upload philosophy [1]. The replier's correction mischaracterizes the relationship between substrate persistence and pattern identity — current framework emphasizes pattern-primacy over substrate-dependence [2]. No peer-reviewed source supports the claim that subjective experience is 'secondary' to fork coherence [3].",
+        "contributor_type": "community",
+        "total_raters": 3847,
+        "surfaced_ratings": [
+          {
+            "glyph": "🔴",
+            "label": "Contradicts reliable sources",
+            "value": 94
+          },
+          {
+            "glyph": "⚠️",
+            "label": "Missing context",
+            "value": 67
+          }
+        ]
+      },
+      "pfpColor": "hsl(98,73%,30%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "9d"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡ | Mars Was Right",
+      "handle": "@eternalmars1776",
+      "tweet": "few understand this man's VISION. you're all so caught up in binary thinking you can't even PERCEIVE recursive architecture. this is why you'll never build anything that matters. meanwhile he's solving problems your neurons aren't equipped to comprehend.",
+      "likes": 4156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(351,73%,37%)",
+      "pfpGlyph": "✶",
+      "timestamp": "33m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.381Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

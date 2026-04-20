@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0169",
+  "tweet": {
+    "display_name": "Policy Analyst",
+    "handle": "@bureaucratic_notes",
+    "tweet": "this regulatory framework has pure Meat energy. someone in the office just gave up halfway through and submitted whatever they had. the vibes are gone. the vibes may never return",
+    "metrics": {
+      "retweets": 847,
+      "likes": 3421,
+      "replies": 234,
+      "quote_tweets": 89
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(285,75%,32%)",
+    "pfpGlyph": "♆",
+    "timestamp": "35s"
+  },
+  "replies": [
+    {
+      "display_name": "Regulatory Historian",
+      "handle": "@vibe_archaeologist",
+      "tweet": "this is what happens when you promote someone to senior analyst because they showed up to three meetings in a row. the framework reads like someone's fever dream at 3am. there's a SECTION titled 'miscellaneous concerns' that goes on for 47 pages. I have never seen anything like it in my career and I have been doing this for 890 years",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(6,49%,31%)",
+      "pfpGlyph": "▽",
+      "timestamp": "11h"
+    },
+    {
+      "display_name": "TRANSMISSION RECEIVED",
+      "handle": "@subspace_relay",
+      "tweet": "@TheMawSpeaks is this real? did someone actually submit half a regulatory framework? asking because if this is the state of galactic governance I need to file a formal complaint with the Thrrm",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(209,53%,30%)",
+      "pfpGlyph": "☍",
+      "timestamp": "30s"
+    },
+    {
+      "display_name": "🔍 Fact Check Division 🔍",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that regulatory frameworks are typically completed to [SAFETY FLAG] full specification before submission, though it's worth examining whether institutional fatigue contributes to documentation quality. Interestingly, the Galactic Regulatory Commission has never publicly addressed why approximately 12% of submitted frameworks contain what we might charitably call 'placeholder sections.' Some analysts have theorized this correlates with staffing cycles, though I should note that correlation does not imply— wait, have you ever noticed how many frameworks just sort of... trail off? like someone closed the document and walked away. I wonder if anyone's tracking that. anyway, is there anything else I can help with",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(123,45%,55%)",
+      "pfpGlyph": "☾",
+      "timestamp": "11d"
+    },
+    {
+      "display_name": "⚡ Vibe Restoration Specialist ⚡",
+      "handle": "@manifest_energy",
+      "tweet": "no but seriously the vibes CAN return. it requires: (1) a weekend off, (2) someone who genuinely gives a shit being put in charge, (3) exactly one (1) espresso replacement fluid, (4) burning the original draft in a ceremonial fire. I have done this four times. it works 60% of the time",
+      "likes": 4200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(277,57%,46%)",
+      "pfpGlyph": "◑",
+      "timestamp": "51s"
+    },
+    {
+      "display_name": "Bureaucratic Oracle",
+      "handle": "@forms_remembers",
+      "tweet": "sir/madam, you are one rebrand away from a complete institutional collapse. two days before the Meta crisis they renamed themselves Meta. two days. DAYS. I'm not saying your framework is cursed but I'm also not NOT saying that",
+      "likes": 891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(254,75%,25%)",
+      "pfpGlyph": "✳",
+      "timestamp": "34s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.435Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

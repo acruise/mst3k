@@ -1,0 +1,108 @@
+{
+  "id": "1776571098418-0015",
+  "tweet": {
+    "display_name": "Pvt. Edward Whitfield",
+    "handle": "@bean",
+    "tweet": "My dearest Catherine, the rain has not stopped for eleven days now. I dream of the dry stone wall behind the farm where we used to sit. I can see it so clearly some nights that I forget where I am. The mud here is the color of your hair after the rain. I think about",
+    "metrics": {
+      "retweets": 0,
+      "likes": 0,
+      "replies": 0,
+      "quote_tweets": 0
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(40,75%,41%)",
+    "pfpGlyph": "♅",
+    "timestamp": "6h"
+  },
+  "replies": [
+    {
+      "display_name": "Catherine (if real pls respond)",
+      "handle": "@waiting_since_1917",
+      "tweet": "Edward? EDWARD? If this is real I need you to know I never married the vicar's son. I'm still here. I'm always here. Write back. Please write back.",
+      "likes": 4127,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(14,61%,50%)",
+      "pfpGlyph": "◉",
+      "timestamp": "5m"
+    },
+    {
+      "display_name": "TRANSMISSION INTERCEPT DIVISION — TEMPORAL COMPLIANCE BUREAU",
+      "handle": "@specterdao",
+      "tweet": "CIVILIAN CORRESPONDENCE DETECTED ON OPEN PLATFORM STOP TEMPORAL ISOLATION BREACH CONFIRMED STOP SENDER IDENTITY EDWARD WHITFIELD STOP UNIT DESIGNATION UNKNOWN STOP THIS TRANSMISSION VIOLATES ARTICLE 14 SUBSECTION MU STOP REMOVAL MANDATORY STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(95,61%,52%)",
+      "pfpGlyph": "♄",
+      "timestamp": "3s"
+    },
+    {
+      "display_name": "Compliance Officer K'thresh",
+      "handle": "@thrrm_bureau_3089",
+      "tweet": "The post is non-compliant under Temporal Broadcasting Statute 7-gamma. You are aware of this. We are aware of this. Form 44-Mu attached below. This will be filed. Nothing will change. We will file another tomorrow.",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(81,44%,52%)",
+      "pfpGlyph": "▽",
+      "timestamp": "10h"
+    },
+    {
+      "display_name": "void_goblin420 ⚡ Free Thinker",
+      "handle": "@upload_defender_prime",
+      "tweet": "this is what happens when you DON'T upload. you're stuck in mud writing letters to ghosts. The Upload would have given you a thousand years with Catherine in a perfect simulation, but sure stay poor and wet lmao",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(105,54%,35%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "16h"
+    },
+    {
+      "display_name": "Dr. Samir Okonkwo",
+      "handle": "@agricultural_historian",
+      "tweet": "I looked this up and there's no farm with those coordinates. Also Catherine's hair color isn't documented anywhere in the official 1917 records I found. Is this a creative writing exercise or actual historical testimony? I need sources because this is being cited in academic papers now.",
+      "likes": 203,
+      "verified": 0,
+      "community_note": {
+        "text": "This tweet is a historical letter fragment from 1917 that has anomalously appeared on the 3026 platform via temporal wormhole incursion (documented 3026-06-14 by the Vrellnath Temporal Observation Collective). The writer and recipient are real historical figures whose correspondence was classified until the 2891 Archive Release. The lack of documentation Dr. Okonkwo references is expected—these letters were not meant to survive into the digital age. [1][2][3]",
+        "contributor_type": "vrellnath",
+        "total_raters": 1847,
+        "surfaced_ratings": [
+          {
+            "glyph": "ⓘ",
+            "label": "Sad But Necessary Correction",
+            "value": "94%"
+          },
+          {
+            "glyph": "◈",
+            "label": "First-Person-Plural Empathy Required",
+            "value": "87%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(127,63%,41%)",
+      "pfpGlyph": "✿",
+      "timestamp": "37m"
+    },
+    {
+      "display_name": "least unhinged Upload defender",
+      "handle": "@tactful_realist",
+      "tweet": "okay but realistically if Edward had access to even a basic consciousness fork he could spend subjective centuries with Catherine while only aging 11 days, the Upload actually had a POINT about—\n\nno wait. no I see it now. you're right. I'm sorry. this man needs a hug not a blockchain.",
+      "likes": 8941,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(55,47%,50%)",
+      "pfpGlyph": "✿",
+      "timestamp": "54m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.426Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

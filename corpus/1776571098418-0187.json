@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0187",
+  "tweet": {
+    "display_name": "Financial Theorist",
+    "handle": "@banking_obsolete",
+    "tweet": "(1/) the entire galactic banking system is obsolete and here's why. bonds are basically IOUs that the government promises to pay back with interest, right. but if consciousness can be copied infinitely then the concept of debt becomes meaningless. (2/) if i upload myself 47 times and each copy makes 1 credit per hour, that's 47 credits per hour. but the bank is still calculating interest on my original debt as if i'm one person. (3/) the Thrrm tried to explain this to me using a form and i stopped reading at subsection 7. (4/) the point is the system is broken and nobody has noticed",
+    "metrics": {
+      "retweets": 89,
+      "likes": 234,
+      "replies": 8934,
+      "quote_tweets": 47
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(261,44%,43%)",
+    "pfpGlyph": "⏢",
+    "timestamp": "4h"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Helena Vex",
+      "handle": "@econ_vex",
+      "tweet": "you've accidentally identified the real problem (the Thrrm's subsection 7 onwards) but drawn the wrong conclusion. the issue isn't that debt becomes meaningless—it's that liability becomes *multiplicative*. each copy of you is a legal entity. each owes the full debt. you just made yourself 47x more indebted. the bank loves this. they're probably sending you a fruit basket right now.",
+      "likes": 3847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(88,50%,31%)",
+      "pfpGlyph": "❋",
+      "timestamp": "28s"
+    },
+    {
+      "display_name": "FIELD COMMANDER WALSH OUTPOST 7",
+      "handle": "@organism69",
+      "tweet": "URGENT REQUEST FOR CLARIFICATION STOP YOUR REQUISITION FORM REFERENCES SECTION 4.7 SUBSECTION DELTA STOP THIS FORM DOES NOT EXIST IN ANY KNOWN MILITARY LEDGER STOP WERE YOU PERHAPS REFERRING TO THE PRE-CONTACT BRITISH ADMIRALTY LOAN PROTOCOLS STOP THOSE FORMS WERE RETIRED 900 YEARS AGO STOP PLEASE ADVISE IMMEDIATELY STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(353,59%,48%)",
+      "pfpGlyph": "◎",
+      "timestamp": "35m"
+    },
+    {
+      "display_name": "Thrrm Bureau of Temporal Compliance — Subsection Review",
+      "handle": "@Thrrm_Compliance_7",
+      "tweet": "We have filed a formal objection with the Department of Pre-Contact Military Standards regarding the source document referenced in the above transmission. The originating bureau (Field Commander Walsh, Outpost 7) has been defunct for 1,099 solar cycles and no longer holds valid filing authority. However, we will continue to process this complaint in quadruplicate. Form 44-Mu-Revised has been submitted. Awaiting acknowledgment from a bureau that may no longer exist. We will wait.",
+      "likes": 412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(331,78%,47%)",
+      "pfpGlyph": "☾",
+      "timestamp": "36s"
+    },
+    {
+      "display_name": "just vibing",
+      "handle": "@void_goblin420",
+      "tweet": "skill issue",
+      "likes": 18942,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(181,75%,51%)",
+      "pfpGlyph": "◐",
+      "timestamp": "8h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.436Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

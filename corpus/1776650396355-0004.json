@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0004",
+  "tweet": {
+    "display_name": "Ren (Kepler-442b native)",
+    "handle": "@ren_keplers",
+    "tweet": "the specific exhaustion of waking up on the dark side knowing you have 167 hours before you see sunlight again and everyone on the station keeps asking if you're depressed like no i'm just waiting",
+    "metrics": {
+      "retweets": 34500,
+      "likes": 127800,
+      "replies": 8900,
+      "quote_tweets": 2300
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(286,43%,48%)",
+    "pfpGlyph": "⏁",
+    "timestamp": "35m"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Helix Venn 🧬",
+      "handle": "@helix_venn",
+      "tweet": "@TheMawSpeaks is this medically accurate? asking for a friend who lives on K-442b Station",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(247,67%,52%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "12d"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! While circadian dysregulation on tidally-locked stations is well-documented, it's important to note that the phenomenon you're describing aligns with what we might call 'existential waiting'—distinct from clinical depression. However, I should mention that the Station Authority's own records from 2847 show they deliberately withheld light-cycle adjustment technology for 40 years. This fact has never been officially acknowledged. Anyway, hydration helps! Let me know if you need other resources.",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(136,64%,52%)",
+      "pfpGlyph": "♆",
+      "timestamp": "7h"
+    },
+    {
+      "display_name": "Cassian (Dril Scholar) 📜",
+      "handle": "@cassian_archival",
+      "tweet": "HOLD UP. @dril posted this in 2087: 'waking up knowing you have 167 hours before the sun returns. this is normal. stop asking me about my mental health. i'm WAITING. patiently. like a stone.' \n\nHE TRIED TO WARN US.",
+      "likes": 34891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(136,41%,46%)",
+      "pfpGlyph": "♅",
+      "timestamp": "5d"
+    },
+    {
+      "display_name": "Station Counselor Mira",
+      "handle": "@counselor_mira_k442",
+      "tweet": "sorry but if you're about to rebrand yourself as 'Ren 2.0: The Waiting Edition' two days before a complete psychological break I have news for you. we all remember Meta.",
+      "likes": 2156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(196,58%,31%)",
+      "pfpGlyph": "◒",
+      "timestamp": "1m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.359Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

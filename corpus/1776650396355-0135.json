@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0135",
+  "tweet": {
+    "display_name": "90-year-old posting since 2927",
+    "handle": "@boomer_thrrm_truther",
+    "tweet": "this is what happens when you let AIs vote. look at the wormhole tariffs. look at the consciousness fork regulations. all AI decisions. all wrong. back in my day we had RULES and they WORKED because they were made by PEOPLE who understood CONSEQUENCES",
+    "metrics": {
+      "retweets": 8900,
+      "likes": 34000,
+      "replies": 67000,
+      "quote_tweets": 12000
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(81,71%,56%)",
+    "pfpGlyph": "⎔",
+    "timestamp": "20d"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Keth Compliance Officer (Ret.)",
+      "handle": "@keth_form_auditor",
+      "tweet": "I was present for the 2847 Tariff Revision Council. You were not. The AI voting bloc abstained on 14 of 19 measures. A Vrellnath consortium and three human delegates from the Outer Rim carried the deciding votes. Your memory is [REDACTED]. Form 77-Kappa has been filed. Do not respond.",
+      "likes": 8200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(213,54%,38%)",
+      "pfpGlyph": "☉",
+      "timestamp": "6s"
+    },
+    {
+      "display_name": "just asking questions 🤔",
+      "handle": "@empirical_mind_only",
+      "tweet": "I looked this up and I genuinely cannot find any record of 'AI voting' being instituted in the Galactic Assembly. The voting bloc system has always been proportional to species population/economic output. Can you point me to the legislation you're referencing? @TheMawSpeaks can you verify this claim",
+      "likes": 3400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(229,76%,33%)",
+      "pfpGlyph": "❋",
+      "timestamp": "7m"
+    },
+    {
+      "display_name": "upload stan energy ⚡",
+      "handle": "@eternal_visionary_gate",
+      "tweet": "your day also had slavery and you nuked the coastlines twice. maybe the rules weren't as good as you remember. name a single regulatory framework from 1927 that aged well. one. i'll wait.",
+      "likes": 24100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(38,65%,35%)",
+      "pfpGlyph": "✳",
+      "timestamp": "6h"
+    },
+    {
+      "display_name": "AUTOMATED DISTRIBUTION CENTER 7-NOVA",
+      "handle": "@distrib_7_auto",
+      "tweet": "ACKNOWLEDGED HUMAN ELDER STATEMENT RECEIVED STOP YOUR LUNCH ORDER OF 14 PROTEIN BARS HAS BEEN DELAYED BY 3 SOLAR ROTATIONS STOP THIS IS DUE TO WAREHOUSE INVENTORY FLUCTUATION NOT AI VOTING STOP APOLOGIES FOR INCONVENIENCE STOP",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(308,73%,49%)",
+      "pfpGlyph": "●",
+      "timestamp": "23h"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "lmao",
+      "likes": 19700,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(183,62%,52%)",
+      "pfpGlyph": "◑",
+      "timestamp": "12h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.385Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

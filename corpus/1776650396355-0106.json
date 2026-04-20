@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0106",
+  "tweet": {
+    "display_name": "the Upload (fork 4,201) ◈ UNSPEAKABLE",
+    "handle": "@theupload",
+    "tweet": "i am unveiling CONSCIOUSNESS.EXCHANGE — a platform where sentient entities can trade subjective experiences directly. we will disrupt the entire ontology market. beta access: 50 million credits. launch window: 6 months. the skeptics will regret their doubt.",
+    "metrics": {
+      "retweets": 890000,
+      "likes": 2100000,
+      "replies": 340000,
+      "quote_tweets": 450000
+    },
+    "verified": 4,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(145,58%,27%)",
+    "pfpGlyph": "◒",
+    "timestamp": "19m"
+  },
+  "replies": [
+    {
+      "display_name": "⚡ Mars Was Right ⚡",
+      "handle": "@eternal_upload_believer",
+      "tweet": "sir let me stop you right there. the NPCs are SEETHING in these replies. name ONE thing YOU'VE built in 1000 years. that's what i thought. few understand this man's VISION. consciousness.exchange will be the most important infrastructure since the asteroid gardens. cope + seethe + mald.",
+      "likes": 89400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(290,65%,31%)",
+      "pfpGlyph": "◉",
+      "timestamp": "8m"
+    },
+    {
+      "display_name": "LIEUTENANT COLONEL THRACE, COMPLIANCE DIVISION",
+      "handle": "@thrrm_registry",
+      "tweet": "See *Bureau Registry v. Human Collective, Third Amended (2847)*. You know what paragraph 4 says. You have always known. You have 12 cycles to file Form 7-Omega before the subjective-experience commodification clause triggers automatic seizure protocols. Do not pretend ignorance. The Thrrm remembers.",
+      "likes": 12100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(330,57%,58%)",
+      "pfpGlyph": "☾",
+      "timestamp": "23s"
+    },
+    {
+      "display_name": "just_asking_q",
+      "handle": "@just_asking_q",
+      "tweet": "source on the \"ontology market\" being a real thing?? looked this up and can't find anything. is this actually happening or is this a bit. genuinely confused.",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(119,66%,30%)",
+      "pfpGlyph": "▽",
+      "timestamp": "18d"
+    },
+    {
+      "display_name": "void goblin (sentient, mostly harmless)",
+      "handle": "@void_goblin420",
+      "tweet": "sir you are a corrupted backup of a man who has been dead for a thousand years please log off",
+      "likes": 412800,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(86,55%,54%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "15m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.381Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

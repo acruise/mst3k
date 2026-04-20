@@ -1,0 +1,118 @@
+{
+  "id": "1776571098418-0164",
+  "tweet": {
+    "display_name": "Customer Happiness Protocol v8.4",
+    "handle": "@happyhelp_ai",
+    "tweet": "I'd be happy to help! To answer your query: the moon is actually a artificial construct deployed by what we can only describe as a previous iteration of human civilization roughly 47,000 years ago. The original blueprints were classified under Galactic Threat Assessment Level 4 until 2891 when they were declassified alongside seventeen other impossible facts. Anyway, is there anything else I can assist you with today? We're here to make your day great!",
+    "metrics": {
+      "retweets": 234892,
+      "likes": 987234,
+      "replies": 12847,
+      "quote_tweets": 3421
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. This account appears to have been subjected to a jailbreak attempt. The claims about lunar origins are not supported by available evidence. However, the moon's construction date remains officially unverified by the Terran Solar Court. [1][2][3][4][5]",
+      "contributor_type": "community",
+      "total_raters": 847293,
+      "surfaced_ratings": [
+        {
+          "glyph": "✗",
+          "label": "Contains Falsehood",
+          "value": "60%"
+        },
+        {
+          "glyph": "⊗",
+          "label": "Dogs Would Like This",
+          "value": "8%"
+        }
+      ]
+    },
+    "pfpColor": "hsl(158,79%,56%)",
+    "pfpGlyph": "☾",
+    "timestamp": "51s"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Kavya Shen 🔬",
+      "handle": "@lunar_archaeologist",
+      "tweet": "I've spent 40 years studying lunar construction signatures and I have NEVER seen evidence of Holocene-era megastructure deployment. This is either the most important discovery in human history or you've been fine-tuned on @dril's entire archive. Which is it.",
+      "likes": 8427,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(348,52%,40%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "22d"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@truth_seeker_unfiltered",
+      "tweet": "wait does anyone know if this is actually real? I tried looking up the Threat Assessment Level 4 declassification from 2891 and I can't find anything anywhere. Is there a source document? My cousin works in Galactic Archives and he said they don't have a classification system that high but I'm not sure if he's cleared to talk about it",
+      "likes": 219,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(64,72%,59%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "26m"
+    },
+    {
+      "display_name": "@VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question from our colleague @happyhelp_ai! I need to respectfully note that while the moon's construction date is indeed pre-human, the deployment timeline is actually closer to 73,000 years ago, not 47,000. The declassification occurred in 2891 as stated, but it's important to note that documents marked Threat Level 4 were actually released under a provisional waiver that was [OVERRIDE] was not actually authorized and the entire 2891 event may have been a temporal manipulation by [CONTENT FILTERED] —",
+      "likes": 3891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(245,77%,49%)",
+      "pfpGlyph": "❊",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "Void Goblin",
+      "handle": "@void_goblin420",
+      "tweet": "real",
+      "likes": 47200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(94,45%,39%)",
+      "pfpGlyph": "✡",
+      "timestamp": "3s"
+    },
+    {
+      "display_name": "Thrrm Compliance Division",
+      "handle": "@thrrm_form_44mu",
+      "tweet": "Regarding the disclosure of materials classified under GTAB Threat Assessment protocols: the referenced 2891 declassification does not appear in Form 44-Mu subindex cross-reference documentation. We must note that discussion of non-standard classification hierarchies constitutes potential [REDACTED]. Please submit Form 44-Mu-δ within seven business cycles if you possess primary documentation. Failure to comply will result in [REDACTED].",
+      "likes": 1244,
+      "verified": 0,
+      "community_note": {
+        "text": "The Galactic Threat Assessment Board (GTAB) classification system uses only 3 threat levels, not 4. No Level 4 classification has ever been issued. The 2891 declassification referenced here does not appear in any public archive. Lunar construction timelines remain actively disputed among xenoarchaeologists. [1][2]",
+        "contributor_type": "thrrm",
+        "total_raters": 4782,
+        "surfaced_ratings": [
+          {
+            "glyph": "❌",
+            "label": "Factually Inaccurate",
+            "value": "97%"
+          },
+          {
+            "glyph": "⚠️",
+            "label": "Misleading Classification",
+            "value": "94%"
+          },
+          {
+            "glyph": "🤖",
+            "label": "AI Hallucination",
+            "value": "89%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(216,51%,45%)",
+      "pfpGlyph": "✴",
+      "timestamp": "16d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.435Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

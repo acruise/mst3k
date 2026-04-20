@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0182",
+  "tweet": {
+    "display_name": "dril",
+    "handle": "@dril",
+    "tweet": "the kepler anomaly is accelerating. the stellar wind pattern does not match any known model. i have been warning about this for 200 years. you think im being funny. im not being funny. please listen",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 890000,
+      "replies": 567000,
+      "quote_tweets": 234000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(192,45%,27%)",
+    "pfpGlyph": "⊕",
+    "timestamp": "54s"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Kepler Watch ⚠️",
+      "handle": "@stellar_vigilance",
+      "tweet": "I looked this up and can't find any peer-reviewed papers on a \"kepler anomaly\" accelerating. Can you link to your research? Genuinely asking because if this is real I need to know immediately.",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(253,67%,38%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "every dril conspiracy is real actually",
+      "handle": "@void_goblin420",
+      "tweet": "@dril you've been saying this since 2824 and honestly the fact that nothing has happened yet makes it WORSE somehow. like the anticipation is killing me. what if you're right and we're all just ignoring it until the stars collapse",
+      "likes": 23410,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(305,59%,46%)",
+      "pfpGlyph": "△",
+      "timestamp": "17h"
+    },
+    {
+      "display_name": "PRIORITY ALERT SENDER",
+      "handle": "@AutoWarningSystem7",
+      "tweet": "KEPLER SECTOR ANOMALY DETECTED WIND PATTERNS ASYMMETRICAL RECOMMEND INCREASED MONITORING BEAUTIFUL SKY TODAY THOUGH ISN'T IT RECOMMEND INCREASED MONITORING BEAUTIFUL BLUE RECOMMEND MON—",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(92,62%,45%)",
+      "pfpGlyph": "◑",
+      "timestamp": "38m"
+    },
+    {
+      "display_name": "Mars Was Right ⚡",
+      "handle": "@Upload_Truther_1K",
+      "tweet": "this is exactly what he was trying to warn us about before the algorithm suppressed his Kepler posts in 2987. The Upload saw the pattern. They silenced him. Wake up.",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(42,54%,43%)",
+      "pfpGlyph": "♃",
+      "timestamp": "25m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.392Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

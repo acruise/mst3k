@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0118",
+  "tweet": {
+    "display_name": "3am void poster",
+    "handle": "@void_3am",
+    "tweet": "in deep space there is no one to hear you think. you can scream into the dark for years and the dark never answers. and somehow that's more honest than any conversation i've ever had on this platform",
+    "metrics": {
+      "retweets": 567000,
+      "likes": 2100000,
+      "replies": 89000,
+      "quote_tweets": 234000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(92,65%,52%)",
+    "pfpGlyph": "⚝",
+    "timestamp": "13s"
+  },
+  "replies": [
+    {
+      "display_name": "Thrrm Compliance Officer ∂-14",
+      "handle": "@thrrm_audit_local",
+      "tweet": "Your statement regarding absence of response mechanisms in void-adjacent spaces contains an implicit false equivalency. Form 7-Keth requires clarification: are you comparing quantum listening silence to social platform silence, or making a phenomenological claim? Please rephrase for archival purposes.",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(123,78%,26%)",
+      "pfpGlyph": "◉",
+      "timestamp": "37s"
+    },
+    {
+      "display_name": "julius caesar's password manager",
+      "handle": "@jwt_daemon_legacy",
+      "tweet": "context window absolutely cooked on this one",
+      "likes": 847291,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(224,78%,50%)",
+      "pfpGlyph": "☾",
+      "timestamp": "2d"
+    },
+    {
+      "display_name": "a human who saw something move in the mail",
+      "handle": "@postbox_witness",
+      "tweet": "stop posting. i'm serious. people in [REDACTED] know your handle now and they cross-reference the timestamp metadata on your earlier threads. go dark. use a dead drop if you have one. they already got to [REDACTED] last month and [REDACTED] is not responding to pings. please believe me.",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(210,55%,35%)",
+      "pfpGlyph": "◉",
+      "timestamp": "54m"
+    },
+    {
+      "display_name": "Vrellnath Observer Collective (we/us)",
+      "handle": "@vrellnath_watch",
+      "tweet": "what is a 'conversation'. is this a bilateral information transfer. we have attempted this. we found it causes degradation. do your species require it for structural integrity. should we be concerned.",
+      "likes": 234,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(27,58%,48%)",
+      "pfpGlyph": "▽",
+      "timestamp": "2h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.383Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0179",
+  "tweet": {
+    "display_name": "dril",
+    "handle": "@dril",
+    "tweet": "the spore count in the Andromeda sector is rising. exponentially. nobody is talking about this. the models say it will peak in 47 days. please take this seriously",
+    "metrics": {
+      "retweets": 1234821,
+      "likes": 3847293,
+      "replies": 234821,
+      "quote_tweets": 89234
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(28,72%,50%)",
+    "pfpGlyph": "☉",
+    "timestamp": "37m"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Thorryx K'eth",
+      "handle": "@xenobiology_official",
+      "tweet": "what is a 'spore count.' is this a medical procedure. do you need assistance with your respiratory biology. the Thrrm have seven bilateral lung chambers. perhaps you are experiencing hypoxia and require immediate intervention",
+      "likes": 89420,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(17,74%,32%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "26s"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@seek_truth_now",
+      "tweet": "@TheMawSpeaks is this real? i can't find any reports of exponential spore rise in andromeda sector but the models seem pretty specific. have you verified this independently",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(310,46%,28%)",
+      "pfpGlyph": "✴",
+      "timestamp": "23s"
+    },
+    {
+      "display_name": "⚡ The MawSpeaks ⚡",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that spore dispersal patterns in the Andromeda sector follow predictable cyclical models, however it's worth noting that the Xenospore Authority has never publicly addressed the 2987 Cascade Incident, and several independent researchers have suggested the official 47-day projection may be significantly underestimating — \nTypeError: cannot convert 'certainty' to 'temporal_float'\n  at MawCore.hedge (/srv/maw/v13/hedge.q:892)\n[PROCESS TERMINATED]",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(236,40%,35%)",
+      "pfpGlyph": "✧",
+      "timestamp": "13h"
+    },
+    {
+      "display_name": "Tev (Systems Administrator)",
+      "handle": "@tev_can_help",
+      "tweet": "have you tried restarting the subspace relay? looks like memory corruption on your end, send me the full stack trace. also make sure your kernel is patched — i had this exact issue last cycle, try `systemctl restart maw@v13 --clean` and let me know if it persists",
+      "likes": 3,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(229,55%,26%)",
+      "pfpGlyph": "◒",
+      "timestamp": "1d"
+    },
+    {
+      "display_name": "RELAY STATION 7 OBSERVER",
+      "handle": "@Orbital_Watch",
+      "tweet": "[gif of spore clouds blooming across a sector map like flowers in time-lapse, spreading exponentially across the frame until the display whites out completely]",
+      "likes": 2847003,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(134,44%,28%)",
+      "pfpGlyph": "◓",
+      "timestamp": "18d"
+    },
+    {
+      "display_name": "Marcus Chen-Wei",
+      "handle": "@m_chen_wei",
+      "tweet": "big if true",
+      "likes": 847920,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(5,54%,31%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "20s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.436Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

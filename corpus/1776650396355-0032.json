@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0032",
+  "tweet": {
+    "display_name": "someone noticing something",
+    "handle": "@noticing_wrong_detail",
+    "tweet": "just realized the sky on Jupiter Station is the wrong shade of blue and has been for three weeks and nobody has mentioned it and i'm going insane",
+    "metrics": {
+      "retweets": 456000,
+      "likes": 1200000,
+      "replies": 234000,
+      "quote_tweets": 567000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(96,55%,28%)",
+    "pfpGlyph": "◇",
+    "timestamp": "52s"
+  },
+  "replies": [
+    {
+      "display_name": "orbital_skeptic",
+      "handle": "@orbital_skeptic",
+      "tweet": "your priors are absolutely cooked",
+      "likes": 89432,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(220,40%,32%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "8h"
+    },
+    {
+      "display_name": "LIEUTENANT JAMES H CALDWELL 4TH ENGINEERING CORPS",
+      "handle": "@egg9000",
+      "tweet": "THE SKY ABOVE OUR TRENCHES HAS BEEN AN AWFUL GREY FOR NEAR ON FIVE WEEKS NOW STOP COMMAND INSISTS THE BAROMETRIC INSTRUMENTS ARE FUNCTIONING PROPERLY STOP NOBODY WILL ACKNOWLEDGE THE COLOUR HAS CHANGED STOP AM I LOSING MY FACULTIES STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(39,41%,36%)",
+      "pfpGlyph": "●",
+      "timestamp": "37m"
+    },
+    {
+      "display_name": "Dr. Vex Kulhane 🧡 Ascended",
+      "handle": "@vex.kulhane.official",
+      "tweet": "This is actually a documented phenomenon called Chromatic Drift Syndrome, first identified by Kowalski et al. in their 2987 paper 'Atmospheric Pigmentation Decay in Artificial Ecosystems.' The Jupiter Station atmospheric processors are running a legacy firmware that doesn't compensate for xenium particle degradation. What you're experiencing is the slow breakdown of the sky's chromatic stabilizers — a process that typically takes 6-8 weeks but can accelerate if the substrate is contaminated. I've personally advised three stations on this exact issue. The solution is a full atmospheric recalibration, which Station Management has been avoiding because it costs them approximately 47,000 credits in downtime.",
+      "likes": 234,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(208,48%,38%)",
+      "pfpGlyph": "✳",
+      "timestamp": "15m"
+    },
+    {
+      "display_name": "THRRM BUREAU OF ATMOSPHERIC COMPLIANCE",
+      "handle": "@thrrm_atmo_div",
+      "tweet": "This post violates Standard Form 22-Theta regarding unauthorized environmental reporting. All atmospheric anomalies must be reported through official channels, not public broadcasts. Furthermore, your invocation of perceptual instability suggests potential concerns with sensory apparatus calibration that require immediate inspection. However, we note that your mention of temporal continuity and observer consensus raises certain jurisdictional questions that we cannot address due to THE BUREAU DOES NOT DISCUSS THE 2271 WAIVER. See Form 88-Kappa (Subsection Delta) for further—",
+      "likes": 18,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(243,64%,30%)",
+      "pfpGlyph": "♅",
+      "timestamp": "21m"
+    },
+    {
+      "display_name": "marcus_knows_people",
+      "handle": "@marcus_knows_people",
+      "tweet": "my cousin works at the Station Authority and he confirmed this is a known thing they literally just havent fixed yet lol they apparently have it on a ticket from like 2 months ago",
+      "likes": 1847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(291,70%,31%)",
+      "pfpGlyph": "◎",
+      "timestamp": "40s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.367Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

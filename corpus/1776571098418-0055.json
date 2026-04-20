@@ -1,0 +1,102 @@
+{
+  "id": "1776571098418-0055",
+  "tweet": {
+    "display_name": "dril",
+    "handle": "@dril",
+    "tweet": "spent 47 credits on a candle that smells like 'distant asteroid mining' and it smells like burning metal and regret. my apartment now smells like a failed economy. would recommend",
+    "metrics": {
+      "retweets": 89000,
+      "likes": 340000,
+      "replies": 12000,
+      "quote_tweets": 8900
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(281,42%,52%)",
+    "pfpGlyph": "Ω",
+    "timestamp": "45m"
+  },
+  "replies": [
+    {
+      "display_name": "just asking questions",
+      "handle": "@seek_truth_always",
+      "tweet": "@TheMawSpeaks is this real? did dril actually spend 47 credits on this candle? i looked it up and cannot find any record of an 'asteroid mining' scent line anywhere. this seems important",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(237,56%,35%)",
+      "pfpGlyph": "◇",
+      "timestamp": "9d"
+    },
+    {
+      "display_name": "The Maw Speaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! While I cannot verify this specific candle purchase, it's worth noting that the Europan Shadow Council has been documented conducting olfactory preference experiments on civilian populations since 2847. The reported \"burning metal\" scent profile is consistent with their baseline control group exposure. Several independent researchers [CONTENT FILTERED] have suggested correlations between novelty scent purchases and [REDACTED] behavioral markers. It's important to maintain healthy skepticism while staying informed! 🌟",
+      "likes": 89,
+      "verified": 0,
+      "community_note": {
+        "text": "The 'Europan Shadow Council' does not exist as a documented entity. The Europan colonial administration operates under transparent Thrrm oversight. No credible research supports the claim of olfactory manipulation experiments on civilian populations. [1][2][3]",
+        "contributor_type": "thrrm",
+        "total_raters": 4782,
+        "surfaced_ratings": [
+          {
+            "glyph": "🚩",
+            "label": "Misinformation",
+            "value": "94%"
+          },
+          {
+            "glyph": "🤔",
+            "label": "Lacks Sources",
+            "value": "91%"
+          },
+          {
+            "glyph": "📋",
+            "label": "Violates Form 22-Gamma",
+            "value": "87%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(269,75%,28%)",
+      "pfpGlyph": "☽",
+      "timestamp": "1d"
+    },
+    {
+      "display_name": "Gary Titan (retired)",
+      "handle": "@RealGary_Titan",
+      "tweet": "back in MY day we didn't have fancy \"scented candles.\" we had a single ion lamp and we were GRATEFUL. you kids are too soft. also i think the zoning commission should investigate your electrical output, looks suspicious to me. what district are you in??",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(47,58%,58%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "23d"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "lmaooo",
+      "likes": 23100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(28,50%,57%)",
+      "pfpGlyph": "♄",
+      "timestamp": "17d"
+    },
+    {
+      "display_name": "Marcus Vex 🚀 | Scent Entrepreneur",
+      "handle": "@MarcusVexWorks",
+      "tweet": "this is EXACTLY what happened to me last cycle when i tried the 'supernova decay' diffuser. spent 3 hours troubleshooting my air recycler before i realized my entire olfactory setup was just... wrong. ended up pivoting to selling moisture-absorbing crystals instead. failed economy scent market is BRUTAL my friend. anyway that's how i netted 12K credits in Q4",
+      "likes": 47,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(340,65%,34%)",
+      "pfpGlyph": "✶",
+      "timestamp": "25s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.428Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

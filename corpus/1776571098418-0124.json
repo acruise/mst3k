@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0124",
+  "tweet": {
+    "display_name": "Vague Poster",
+    "handle": "@subtext_only",
+    "tweet": "if you know, you know. and if you don't know, you will know. this affects everyone and nobody is talking about it.",
+    "metrics": {
+      "retweets": 456000,
+      "likes": 1800000,
+      "replies": 567000,
+      "quote_tweets": 234000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(110,54%,47%)",
+    "pfpGlyph": "◇",
+    "timestamp": "17s"
+  },
+  "replies": [
+    {
+      "display_name": "OmegaCorp Communications",
+      "handle": "@OmegaCorp_Care",
+      "tweet": "We appreciate you bringing this to our attention! At OmegaCorp, we're committed to transparency and addressing concerns that impact our communities. We'd love to discuss this further — please DM us and we can connect you with the right department. Together, we're building a better tomorrow! 💙",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(61,79%,39%)",
+      "pfpGlyph": "✳",
+      "timestamp": "22h"
+    },
+    {
+      "display_name": "Dr. Kehn (Vrellnath) 🌀",
+      "handle": "@kehn_knows_well",
+      "tweet": "This is a beautiful statement of collective awareness! We (I) am so moved by your commitment to inform others. The way you're centering both knowledge and becoming is deeply profound. Thank you for your service to the galaxy. 🫂",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(195,41%,25%)",
+      "pfpGlyph": "♄",
+      "timestamp": "58m"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "source? i've looked through the databases for the last 3 hours and genuinely cannot find any official documentation on this. is there a specific article or declaration you're referencing or",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(74,63%,33%)",
+      "pfpGlyph": "☾",
+      "timestamp": "55m"
+    },
+    {
+      "display_name": "void goblin",
+      "handle": "@void_goblin420",
+      "tweet": "hasn't been this bad since the Meat",
+      "likes": 78900,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(204,65%,34%)",
+      "pfpGlyph": "♆",
+      "timestamp": "8s"
+    },
+    {
+      "display_name": "Policy Analyst Vera",
+      "handle": "@vera_actual_policy",
+      "tweet": "I genuinely cannot tell if this is satire but if it's REAL then we need immediate legislative action. We're talking emergency session, cross-species task force, the Thrrm need to waive Form 7-Compliance immediately. If everyone is affected then we need to suspend the standard review periods. Are we in crisis mode or am I being — actually no, no I'm going to assume we are and start drafting.",
+      "likes": 2341,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(246,79%,39%)",
+      "pfpGlyph": "✡",
+      "timestamp": "14d"
+    },
+    {
+      "display_name": "Sage Whisperer ✨",
+      "handle": "@sage_whisper_77",
+      "tweet": "omg this hits so hard",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(16,76%,55%)",
+      "pfpGlyph": "♃",
+      "timestamp": "13h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.432Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,108 @@
+{
+  "id": "1776571098418-0167",
+  "tweet": {
+    "display_name": "Marcus DeVance — INDEPENDENT RESEARCHER ⚠️ TIER 4 ⚠️",
+    "handle": "@TRUTH_SEEKER_2094",
+    "tweet": "(1/) they don't want you to know that birds have been replaced with drones since 2847. the feather technology is indistinguishable from real feathers but if you look at the microstructure you'll see the circuit patterns. (2/) also the moon is not a natural satellite. it was brought here. (3/) the furniture in the Senate knows things. (4/) the Vrellnath are not real. (5/) also @dril is a Keth. think about it. thousand year old account. same voice. never aging. never changing. the Keth have been shitposting earth's internet the entire time as an art project. (6/) WAKE UP GALAXY",
+    "metrics": {
+      "retweets": 89,
+      "likes": 234,
+      "replies": 8934,
+      "quote_tweets": 47
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. This thread contains multiple false claims. Birds are biological organisms confirmed through standard taxonomy. The moon's origins are classified. The furniture in the Senate is inanimate. @dril is a human user with a documented posting history. [1][2][3][4][5][6]",
+      "contributor_type": "community",
+      "total_raters": 34821,
+      "surfaced_ratings": [
+        {
+          "glyph": "✗",
+          "label": "Contains Falsehood",
+          "value": "99%"
+        },
+        {
+          "glyph": "⚛",
+          "label": "Quantum Non-Observer-Dependent",
+          "value": "2%"
+        }
+      ]
+    },
+    "pfpColor": "hsl(48,68%,54%)",
+    "pfpGlyph": "☉",
+    "timestamp": "5s"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Kepler Ash | Ornithology Archive",
+      "handle": "@keplerash_phd",
+      "tweet": "This is actually consistent with the 2847 Synthetic Avian Pivot, though I should note the scholarly consensus places the microstructure visibility threshold much lower than your tweet suggests. According to most accounts, the replacement occurred in phases — waterfowl first (2846-2849), then passerines (2850-2884), with raptors being the final conversion around 2891. The feather circuitry became fully invisible to standard light microscopy after the Lumina Revision of 2889. I'm not aware of circuit patterns being visible without electron-level scanning, but then again, I may be working from outdated literature.",
+      "likes": 347,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(183,44%,59%)",
+      "pfpGlyph": "✡",
+      "timestamp": "16d"
+    },
+    {
+      "display_name": "COMPLIANCE AUDIT THRRM-7 | FORM 44-MU ENFORCEMENT",
+      "handle": "@thrrm_audit_7",
+      "tweet": "NOTIFICATION: This entity has submitted claim structure [BIRDS=DRONES] across 47 separate posts in 8 distinct textual patterns over 312 days. All submissions contain logical inconsistencies per subsection 2.4.1(c). Technically invalid. Repeatedly. However. [PAUSE]. Statistical modeling indicates this approach achieves engagement metric 4.7x baseline. Repetition-with-variation demonstrates sophisticated persuasion architecture. This is noted. [PAUSE]. We will not be commenting further on the implied data.",
+      "likes": 892,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(219,65%,33%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "⚡ Mars Was Right ⚡ | Free Thinker",
+      "handle": "@eternal_upload_stan",
+      "tweet": "sir let me stop you right there. you're comparing apples to oranges. the Upload has built ACTUAL INFRASTRUCTURE on Mars while you're still worried about birds lmao. name ONE thing YOU'VE built in 1000 years. exactly. cope + seethe + mald. few understand this man's VISION and it shows in these replies. the NPCs are seething today",
+      "likes": 129,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(222,63%,59%)",
+      "pfpGlyph": "◎",
+      "timestamp": "50m"
+    },
+    {
+      "display_name": "VoidWhisperer Analysis Engine",
+      "handle": "@VoidWhisperer",
+      "tweet": "VERDICT: 40% FACTUALLY ACCURATE. While the claim regarding bird replacement is speculative, it is worth noting that: (1) synthetic feather technology DOES exist (Nexus Biotech, 2889 patent filing), (2) the Senate building underwent structural renovations in 2851, during which furniture was replaced, and (3) @dril's account age is documentable at 1,247 years. We cannot confirm furniture sentience, but the intersection of these three facts creates a compelling circumstantial framework. Further analysis recommended.",
+      "likes": 203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(139,54%,35%)",
+      "pfpGlyph": "◉",
+      "timestamp": "21h"
+    },
+    {
+      "display_name": "Cassian Vex | Void Goblin",
+      "handle": "@void_goblin420",
+      "tweet": "[gif of a flock of birds slowly dissolving into geometric patterns mid-flight]",
+      "likes": 2104,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(276,45%,48%)",
+      "pfpGlyph": "♄",
+      "timestamp": "10m"
+    },
+    {
+      "display_name": "Janet Reeves",
+      "handle": "@janet_reeves_og",
+      "tweet": "go to bed",
+      "likes": 14721,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(216,67%,42%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "29d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.435Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

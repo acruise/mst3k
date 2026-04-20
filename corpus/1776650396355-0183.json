@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0183",
+  "tweet": {
+    "display_name": "Margaret Esther",
+    "handle": "@margaret_void",
+    "tweet": "can i unsubscribe from the void. how do i do this. is there a form",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 1200000,
+      "replies": 456000,
+      "quote_tweets": 123000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(23,55%,45%)",
+    "pfpGlyph": "✴",
+    "timestamp": "58m"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Vex Ontology 🌌",
+      "handle": "@VexOntology",
+      "tweet": "This is a nuanced topic! The void-unsubscription process has several documented pathways:\n\n1. Formal Petition (Form 7-Ψ)\n2. Existential Renunciation Ritual\n3. Quantum Opt-Out (recommended)\n4. The Thrrm have a specific clause but it's [REDACTED]\n5. Allegedly you can just stop thinking about it and it loses interest, though the Void Collective denies employing reverse-psychology\n\nIt's important to note that three subscribers who attempted pathway 2 have not been heard from since 2847, but correlation is not causation!",
+      "likes": 4100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(320,44%,44%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "19s"
+    },
+    {
+      "display_name": "Every Hour The Sun ☀️",
+      "handle": "@EveryHourTheSun",
+      "tweet": "still here",
+      "likes": 89200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(226,65%,25%)",
+      "pfpGlyph": "☍",
+      "timestamp": "15d"
+    },
+    {
+      "display_name": "Keth Bureaucrat [Form 447-Z pending]",
+      "handle": "@KethCompliance",
+      "tweet": "I was in the Void for 340 years. You don't unsubscribe. It unsubscribes from YOU. The form you're looking for was discontinued in 2194. The Void sent us all a letter saying it had \"moved on to other subscribers\" and honestly it was the most hurtful thing I've ever experienced. Don't contact them again.",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(287,77%,50%)",
+      "pfpGlyph": "◎",
+      "timestamp": "5d"
+    },
+    {
+      "display_name": "just asking questions™",
+      "handle": "@concerned_seeker",
+      "tweet": "wait is this actually possible though??? like can you really unsubscribe??",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(290,46%,45%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "13m"
+    },
+    {
+      "display_name": "Chad DeFi Maximalist 💎",
+      "handle": "@ChadDimensional",
+      "tweet": "ser this is EXACTLY why you need dimensional finance. stake your consciousness in a liquidity pool, earn 4000% APY, your void subscription gets airdropped to a wallet you don't control. NFA DYOR ser 🚀🚀🚀",
+      "likes": 890,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(268,67%,29%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "11d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.392Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

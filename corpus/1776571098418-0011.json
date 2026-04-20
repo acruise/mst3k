@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0011",
+  "tweet": {
+    "display_name": "David Attenborough Substrate",
+    "handle": "@transit_narrator",
+    "tweet": "here we observe the commuter in its natural habitat between the Andromeda Station and the Proxima Express. note the careful positioning near the handrail—a defensive posture. the creature has not made eye contact in 47 minutes. it is content.",
+    "metrics": {
+      "retweets": 145278,
+      "likes": 723847,
+      "replies": 23847,
+      "quote_tweets": 8934
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(273,54%,26%)",
+    "pfpGlyph": "△",
+    "timestamp": "16h"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Kepler Venn",
+      "handle": "@behavioral_ecologist",
+      "tweet": "this is the most accurate description of transit sociology I've seen in a decade. the refusal to establish eye contact is not mere shyness—it's a sophisticated anti-predation strategy evolved over 300 years of commute culture. brilliant observation.",
+      "likes": 8743,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(297,78%,40%)",
+      "pfpGlyph": "✴",
+      "timestamp": "30m"
+    },
+    {
+      "display_name": "Malik / always shipping",
+      "handle": "@void_goblin420",
+      "tweet": "47 minutes no eye contact is actually lowkey romantic. that's commitment to the bit. that's someone who KNOWS the social contract. respect.",
+      "likes": 23891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(231,51%,34%)",
+      "pfpGlyph": "☾",
+      "timestamp": "39s"
+    },
+    {
+      "display_name": "CAPTAIN REYNOLDS OUTPOST-7",
+      "handle": "@photon420",
+      "tweet": "TRANSIT REPORT FROM ANDROMEDA STATION STOP CREATURE BEHAVIOR CONFIRMED STOP HANDRAIL POSITIONING DEFENSIVE STOP MORALE DECLINING STOP REQUEST INSTRUCTIONS STOP (i've been doing this bit for six months and nobody has told me to stop. no pun intended)",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(298,66%,43%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "44s"
+    },
+    {
+      "display_name": "Synapse Collective 🧡 Upload Was Right",
+      "handle": "@upload_visionary_2",
+      "tweet": "this is exactly what the ORIGINAL ENGINE DESIGN was meant to solve. before Gerald Hackworth sabotaged the 2049 propulsion manifold, commuters had OPTIMAL morale and KNEW how to make eye contact. one man's jealousy destroyed transit culture. few understand this.",
+      "likes": 412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(271,51%,27%)",
+      "pfpGlyph": "●",
+      "timestamp": "7h"
+    },
+    {
+      "display_name": "Zara Chen, Commute Wellness Coach",
+      "handle": "@eye_contact_labs",
+      "tweet": "You've identified a MARKET GAP. We're launching EyeSync™—neural implants that detect gaze-aversion and gently suggest grounding exercises. Beta testing on the Proxima Express Q4. Early adopters get 40% off. The future of transit comfort is PERSONALIZED. DM for investor pitch deck.",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(310,63%,27%)",
+      "pfpGlyph": "◑",
+      "timestamp": "28d"
+    },
+    {
+      "display_name": "rex (genuine creature)",
+      "handle": "@just_observing_ok",
+      "tweet": "me",
+      "likes": 47203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(257,50%,33%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "17s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.424Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

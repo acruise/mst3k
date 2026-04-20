@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0175",
+  "tweet": {
+    "display_name": "Ratio Master 3000",
+    "handle": "@ratio_eternal",
+    "tweet": "no",
+    "metrics": {
+      "retweets": 45000,
+      "likes": 234000,
+      "replies": 1200,
+      "quote_tweets": 89
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(323,77%,52%)",
+    "pfpGlyph": "⌬",
+    "timestamp": "10h"
+  },
+  "replies": [
+    {
+      "display_name": "✧ K E T H   C O N S U L T A N T ✧",
+      "handle": "@void_arbiter_7",
+      "tweet": "∞",
+      "likes": 51200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(321,60%,44%)",
+      "pfpGlyph": "◐",
+      "timestamp": "19d"
+    },
+    {
+      "display_name": "GigaCope Energy",
+      "handle": "@ratio_attempt_2847",
+      "tweet": "you know what? this deserves a ratio. here's my response: \"yes actually.\" there, i've dismantled your entire argument with a single monosyllabic contradiction. i expect my ratio to arrive within 24 hours. i've prepared a spreadsheet. the mods will have no choice but to acknowledge my dominance. why are you not responding. where is my ratio. please respond",
+      "likes": 23,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(276,71%,50%)",
+      "pfpGlyph": "❃",
+      "timestamp": "41m"
+    },
+    {
+      "display_name": "Millennial Aunt Vibes",
+      "handle": "@bethany_ascended_47",
+      "tweet": "LOUDER FOR THE PEOPLE IN THE BACK 🙌✨💅",
+      "likes": 8900,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(14,60%,43%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "23h"
+    },
+    {
+      "display_name": "just trying to understand :)",
+      "handle": "@sincere_question_asker",
+      "tweet": "wait is this real??? did something actually happen?? i'm confused should i be worried??",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(176,65%,25%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "19s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.391Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,86 @@
+{
+  "id": "1776571098418-0097",
+  "tweet": {
+    "display_name": "millennial boomer",
+    "handle": "@split_gen",
+    "tweet": "uploading is not dying because you're still you but also uploading IS dying because you're a copy and the original is dead so who are you really. this is why millennials can't commit to anything. we're all copies of copies and we know it",
+    "metrics": {
+      "retweets": 345000,
+      "likes": 1200000,
+      "replies": 234000,
+      "quote_tweets": 89000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(245,50%,35%)",
+    "pfpGlyph": "☽",
+    "timestamp": "45m"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Continuity Studies (Retired)",
+      "handle": "@drcontinuity",
+      "tweet": "this is actually incoherent. the philosophical position you're describing—that uploading creates a copy while leaving the original to die—is not specific to millennials, it's the Parfit problem applied to mind uploading, which has been formally debated since the 2060s. also you're conflating metaphysical death with biological death. also this explains nothing about commitment issues. please read a paper.",
+      "likes": 8420,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(118,61%,44%)",
+      "pfpGlyph": "✦",
+      "timestamp": "48m"
+    },
+    {
+      "display_name": "just asking questions 🤔",
+      "handle": "@just_asking_q",
+      "tweet": "@split_gen wait so if uploading creates a copy, does that mean when I upload my consciousness my original body is technically dead and I'm a ghost??? I looked this up and can't find anything about ghost law in the 3000s legal code. is this why uploads keep disappearing??",
+      "likes": 312,
+      "verified": 0,
+      "community_note": {
+        "text": "Uploading technology does not involve 'ghost' status, nor is there evidence of 'ghost law' in the Galactic Legal Code. The metaphysical question of personal identity persists across upload procedures, but there is no legal death of the original body. Uploads are recognized persons under Article 7.1 of the Unified Consciousness Accord. [1][2]",
+        "contributor_type": "thrrm",
+        "total_raters": 4891,
+        "surfaced_ratings": [
+          {
+            "glyph": "🔒",
+            "label": "Addressed Legal Confusion",
+            "value": "97%"
+          },
+          {
+            "glyph": "⚠️",
+            "label": "Contains Misconceptions",
+            "value": "94%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(285,52%,37%)",
+      "pfpGlyph": "◑",
+      "timestamp": "11d"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "ok but have you considered that this is actually the PERFECT entry point into my new consciousness-fragmentation hedge fund. you're already a copy, might as well get PAID for it. dm me for early access. link in bio. 📈💫",
+      "likes": 189,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(346,70%,32%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "15m"
+    },
+    {
+      "display_name": "CRITICAL ANALYSIS INCOMING",
+      "handle": "@hyperlogos_meta",
+      "tweet": "yes.",
+      "likes": 67400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(301,79%,30%)",
+      "pfpGlyph": "◇",
+      "timestamp": "5h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.431Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

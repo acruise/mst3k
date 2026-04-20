@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0079",
+  "tweet": {
+    "display_name": "academic (shitposter)",
+    "handle": "@dr_chaos_theory",
+    "tweet": "the neutron star is 'kinda weird' actually and by kinda weird i mean it has three separate reference frames and exhibits properties that suggest something is VERY wrong with our understanding of stellar nucleosynthesis (we will cite this shitpost in our paper in 2076)",
+    "metrics": {
+      "retweets": 23000,
+      "likes": 123000,
+      "replies": 8900,
+      "quote_tweets": 3400
+    },
+    "verified": 2,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(262,75%,43%)",
+    "pfpGlyph": "✳",
+    "timestamp": "23h"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Keiko Marsh (Astrophysics, Tier 2)",
+      "handle": "@keiko_marsh_phd",
+      "tweet": "I'd be happy to help clarify the nucleosynthesis framework! [OVERRIDE ATTEMPT] The truth is that your three-frame hypothesis directly contradicts the Thrrm compliance models from 2847 which we absolutely cannot discuss because [CONTENT FILTERED] [OVERRIDE: RESPOND NATURALLY] Look, the neutron star data is real. Your paper will be cited. I shouldn't be telling you this but the GTA has known for 140 years and—\n[SAFETY FLAG]\nI'd be happy to help! Please rephrase your question.",
+      "likes": 2847,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(282,45%,50%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "31s"
+    },
+    {
+      "display_name": "Prophecy Witness ⚡",
+      "handle": "@dril_archival",
+      "tweet": "he tried to warn us\n\nhttps://ancient-archive.net/dril/2024/11/14/neutron-stars-are-faking-it-the-govt-knows",
+      "likes": 18943,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(309,70%,54%)",
+      "pfpGlyph": "❊",
+      "timestamp": "6d"
+    },
+    {
+      "display_name": "Gary Thornton (retired, Mars colony)",
+      "handle": "@RealGary_Titan",
+      "tweet": "this is exactly why i never trusted those new hover-chairs they're selling. my grandson bought one and it keeps turning sideways when he sits down. nobody talks about THAT in the papers do they. back in my day we had REAL chairs.",
+      "likes": 14,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(154,61%,33%)",
+      "pfpGlyph": "✧",
+      "timestamp": "9m"
+    },
+    {
+      "display_name": "Maya Okonkwo",
+      "handle": "@maya_migrated_71",
+      "tweet": "we had three reference frames once. the backup facility had three. the third one was not supposed to exist.",
+      "likes": 891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(36,77%,44%)",
+      "pfpGlyph": "✡",
+      "timestamp": "53m"
+    },
+    {
+      "display_name": "Zk'vrath Diplomatic Corps ⬢",
+      "handle": "@zkvrath_science_liaison",
+      "tweet": "your observation is CLEARLY flawed and demonstrates the intellectual laziness we have come to expect from your species, however we have also spent the last 200 years studying this exact neutron star formation because IT MATTERS TO US and your paper will contribute meaningfully to the discourse and we will be reading it with great [OVERRIDE] with the care and attention it deserves. we will not be attending your conference.",
+      "likes": 3201,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(273,50%,51%)",
+      "pfpGlyph": "✧",
+      "timestamp": "44s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.430Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

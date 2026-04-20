@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0171",
+  "tweet": {
+    "display_name": "Archive Research Division",
+    "handle": "@archive_division",
+    "tweet": "@dril this is a post from 2014. before the wormholes. before first contact. the typos are in the exact same places. the cadence hasn't shifted. one thousand and twelve years. identical.",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 890000,
+      "replies": 123000,
+      "quote_tweets": 78000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(14,74%,36%)",
+    "pfpGlyph": "◇",
+    "timestamp": "57m"
+  },
+  "replies": [
+    {
+      "display_name": "dr. syntax patterns 📊",
+      "handle": "@linguist_spiral",
+      "tweet": "wait wait wait. I've been mapping dril's output since 2089 and I NEED you to understand what you're looking at. the typo placement isn't random. tweet from 3019, tweet from 2847, tweet from 2014 — same misspelling of 'recieve' in position 7. same comma splice. same everything. I've filled four notebooks. nobody believes me. DM me. PLEASE.",
+      "likes": 47821,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(349,78%,56%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "50s"
+    },
+    {
+      "display_name": "The Upload Defender ⚡",
+      "handle": "@eternal_mars_was_right",
+      "tweet": "this is exactly what happens when a consciousness achieves perfect optimization. one thousand years of refinement and the signal is LOCKED IN. you wouldn't understand, he's playing 12-dimensional chess while you people are still worried about typos. few understand this man's VISION.",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(195,61%,49%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "16m"
+    },
+    {
+      "display_name": "CAPTAIN LARS HEMSWORTH",
+      "handle": "@nanoentropy420",
+      "tweet": "ARCHIVE DIVISION THIS IS CONCERNING STOP TYPOS DO NOT CHANGE IN MY EXPERIENCE STOP SOMETHING IS HOLDING THE LINE STOP WHO IS HOLDING THE LINE STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(161,67%,31%)",
+      "pfpGlyph": "◑",
+      "timestamp": "25d"
+    },
+    {
+      "display_name": "just_asking_q",
+      "handle": "@just_asking_q",
+      "tweet": "wait is this real? like is the archive saying dril is actually a bot or a [REDACTED] or something? I looked this up and can't find anything but the way you worded it sounds like you're trying to tell us something without saying it. am I reading too much into this or—",
+      "likes": 1203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(243,76%,54%)",
+      "pfpGlyph": "☾",
+      "timestamp": "13m"
+    },
+    {
+      "display_name": "Gary from the Titan Settlements",
+      "handle": "@RealGary_Titan",
+      "tweet": "what in the name of the first terraformers does this MEAN. I don't understand what you're saying and frankly I'm TIRED of not understanding. back in my day we KNEW what things meant. now everyone talks in riddles. is the dril person a ghost? is that what you're telling me? SPEAK PLAINLY.",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(25,58%,38%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "12h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.390Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

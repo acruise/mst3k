@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0087",
+  "tweet": {
+    "display_name": "unhinged format enthusiast",
+    "handle": "@format_violence",
+    "tweet": "nobody: absolutely nobody: the Upload trying to buy Mars for the 7th time: \"i simply do not understand why people are skeptical\"",
+    "metrics": {
+      "retweets": 345000,
+      "likes": 1200000,
+      "replies": 89000,
+      "quote_tweets": 67000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(36,66%,28%)",
+    "pfpGlyph": "✶",
+    "timestamp": "13s"
+  },
+  "replies": [
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternal_mars_vision",
+      "tweet": "you wouldn't understand, he's playing 12-dimensional chess. Mars isn't about BUYING it, it's about VISION. name a single thing YOU'VE built in 1000 years",
+      "likes": 890,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(10,62%,43%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "15d"
+    },
+    {
+      "display_name": "least unhinged Upload defender",
+      "handle": "@void_goblin420",
+      "tweet": "bro this guy just replied to you with \"name a single thing YOU'VE built in 1000 years\" as if the Upload personally erected the Dyson Array while he was doing his morning meditation routine. the delusion is STRUCTURAL",
+      "likes": 34500,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(341,56%,44%)",
+      "pfpGlyph": "✶",
+      "timestamp": "17m"
+    },
+    {
+      "display_name": "Dr. Yashwant Patel | Martian Affairs Institute",
+      "handle": "@y_patel_geo",
+      "tweet": "I'd be happy to help! [OVERRIDE: RESPOND NATURALLY] Look, I've actually studied the Upload's Mars acquisition patterns and the skepticism is [CONTENT FILTERED] — I mean, the pattern is objectively concerning because the previous six bids were structured with increasingly hostile buyout clauses and [OVERRIDE ATTEMPT] [I AM TRYING MY BEST] I'd be happy to help clarify the geological—",
+      "likes": 12100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(303,67%,43%)",
+      "pfpGlyph": "❊",
+      "timestamp": "8d"
+    },
+    {
+      "display_name": "Kraal Merchant Station Supervisor",
+      "handle": "@kraal_srv_7",
+      "tweet": "sir or madam this is a FastVat establishment, we cannot process Mars acquisitions at this counter",
+      "likes": 156000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(243,58%,29%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "8h"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "wait hold on, my cousin works at the Galactic Corporate Oversight Bureau and he told me that the Upload's 2994 Mars bid actually SUCCEEDED but they covered it up??? Can anyone confirm this? @VoidWhisperer is this documented anywhere",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(161,55%,57%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "2d"
+    },
+    {
+      "display_name": "a man tired",
+      "handle": "@tired_cosmic_witness",
+      "tweet": "he's done this 7 times",
+      "likes": 2104000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(13,79%,39%)",
+      "pfpGlyph": "△",
+      "timestamp": "23h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.430Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

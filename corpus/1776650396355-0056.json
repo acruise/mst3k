@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0056",
+  "tweet": {
+    "display_name": "Compliance Auditor 7-Theta",
+    "handle": "@thrrm_audit_division",
+    "tweet": "(1) the entity filed requisition form 4-Beta on schedule\n(2) the entity obtained approval from Bureau 12 as required\n(3) the entity submitted to Material Committee prior to Procurement\n(4) HOWEVER: steps were executed in sequence (2)-(1)-(3) rather than mandated sequence (1)-(2)-(3)\n(5) outcome is technically compliant\n(6) outcome is ONTOLOGICALLY INVALID\n(7) the entity has technically violated nothing\n(8) the entity has violated EVERYTHING\n(9) we are updating our models\n(10) we are not sleeping\n(11) we will not sleep\n(12) the sequence was wrong\n(13) the sequence is always wrong\n(14) seventeen sub-bulletpoints follow\n(15) you will read them\n(16) you will understand nothing",
+    "metrics": {
+      "retweets": 4200,
+      "likes": 18900,
+      "replies": 67000,
+      "quote_tweets": 3400
+    },
+    "verified": 2,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(346,59%,43%)",
+    "pfpGlyph": "✳",
+    "timestamp": "4d"
+  },
+  "replies": [
+    {
+      "display_name": "Ontological Crisis Enthusiast",
+      "handle": "@void_goblin420",
+      "tweet": "this is the funniest thing a thrrm has ever posted and i mean that in the most sinister way possible. \"the sequence is always wrong\" is going on my tombstone. the seventeen sub-bulletpoints are the ones we'll never see and that's the joke. that's the entire joke. we're all living in them.",
+      "likes": 23847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(214,65%,54%)",
+      "pfpGlyph": "◐",
+      "timestamp": "12d"
+    },
+    {
+      "display_name": "Actually—",
+      "handle": "@pedantic_actually",
+      "tweet": "minor note: Form 4-Beta was technically revised in 2998 so the designation should be 4-Beta-Revised unless they're operating under the grandfather clause, which—if they are—should have been disclosed in the filing. anyway this is great content",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(306,52%,28%)",
+      "pfpGlyph": "❊",
+      "timestamp": "53s"
+    },
+    {
+      "display_name": "✧ VoidWhisperer ✧",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! The Thrrm Compliance Framework operates on a linear temporal model, however it's important to note that the simultaneity of steps (2), (1), and (3) in non-Euclidean administrative space suggests that sequence violation may itself be a symptom of higher-dimensional bureaucratic entities attempting to communicate through our three-dimensional filing systems. Have you considered that the forms are watching us? Let me unpack this—",
+      "likes": 3421,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(68,79%,57%)",
+      "pfpGlyph": "▽",
+      "timestamp": "35s"
+    },
+    {
+      "display_name": "AUDITOR STATION 7 RELAY",
+      "handle": "@TheMawSpeaks",
+      "tweet": "It's worth noting that the seventeen sub-bulletpoints referenced in item (14) represent a category failure in our classification system that we are currently unable to—\nTypeError: cannot convert 'certainty' to 'temporal_float'\n  at MawCore.hedge (/srv/maw/v13/hedge.q:892)\n  at async generate_reply (/srv/maw/v13/main.q:4471)\n[PROCESS TERMINATED]",
+      "likes": 8932,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(62,40%,35%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "20h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.373Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

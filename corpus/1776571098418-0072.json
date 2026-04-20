@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0072",
+  "tweet": {
+    "display_name": "Every Hour The Sun",
+    "handle": "@EveryHourTheSun",
+    "tweet": "still here",
+    "metrics": {
+      "retweets": 456000,
+      "likes": 2300000,
+      "replies": 890,
+      "quote_tweets": 12000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(309,55%,25%)",
+    "pfpGlyph": "⚴",
+    "timestamp": "13d"
+  },
+  "replies": [
+    {
+      "display_name": "still going",
+      "handle": "@still_going_too",
+      "tweet": "me too buddy. me too.",
+      "likes": 1247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(291,46%,37%)",
+      "pfpGlyph": "✡",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "⚡ Upload Defender | Mars Was Right ⚡",
+      "handle": "@eternal_vision_guard",
+      "tweet": "The Upload has been 'still here' through THREE GALACTIC WARS and you're complaining about your little persistence problems? Name ONE thing you've built in 1000 years. The man is playing 12-dimensional chess while you're still learning checkers. Few understand.",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(257,78%,46%)",
+      "pfpGlyph": "◐",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "temporal_archaeologist",
+      "handle": "@dril_oracle_faithful",
+      "tweet": "he tried to warn us\n\nhttps://archivetweet.old/dril/2824-06-14/\"still here\"",
+      "likes": 89403,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(234,75%,52%)",
+      "pfpGlyph": "✳",
+      "timestamp": "20d"
+    },
+    {
+      "display_name": "🚀 HODL ETERNAL 🚀",
+      "handle": "@cryptobro_3026",
+      "tweet": "bro this is EXACTLY what happened before the last collapse cycle. I've been accumulating Persistence Credits for 2 years. If you use my ref code STILLHERE47 you get 12% bonus on your first purchase. This is financial advice. DM me.",
+      "likes": 18,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(315,75%,51%)",
+      "pfpGlyph": "●",
+      "timestamp": "49m"
+    },
+    {
+      "display_name": "THRRM COMPLIANCE AUTHORITY SECTOR 9-ALPHA",
+      "handle": "@ThrmCompliance_SA",
+      "tweet": "Your statement \"still here\" violates Section 4.7.2(c) of the Galactic Communications Compliance Code (Vagueness of Persistent State — Unspecified Duration). You must file Amendment Form 44-Mu within 30 cycles clarifying: (a) temporal boundaries of persistence, (b) ontological status, (c) proof of regulatory standing. Awaiting documentation.",
+      "likes": 2891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(4,63%,25%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "17d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.429Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

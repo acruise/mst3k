@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0041",
+  "tweet": {
+    "display_name": "intern (3am)",
+    "handle": "@gta_comms_night",
+    "tweet": "UPDATE: the Level 7 pod passengers have now been stationary for 6 hours. they seem remarkably chill. one person is ordering food from the orbital deli. i filled out the incident report but the form rejected my submission because i used 'happened' instead of 'occurred' in field 3-A",
+    "metrics": {
+      "retweets": 145278,
+      "likes": 456234,
+      "replies": 234891,
+      "quote_tweets": 45821
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(76,59%,44%)",
+    "pfpGlyph": "Ξ",
+    "timestamp": "38m"
+  },
+  "replies": [
+    {
+      "display_name": "Bureaucratic Suffering Support Group",
+      "handle": "@forms_destroyed_me",
+      "tweet": "the form rejected it because you committed the cardinal sin of using an english word that means the exact same thing. this is how they break you. 'occurred' vs 'happened' is their way of saying 'we own your language now.' i'm so sorry.",
+      "likes": 8942,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(185,50%,57%)",
+      "pfpGlyph": "◉",
+      "timestamp": "55s"
+    },
+    {
+      "display_name": "THRRM COMPLIANCE BUREAU STATION 9",
+      "handle": "@THRRM_LogicalOrder",
+      "tweet": "Regarding the incident designation: Form 4-Beta requires explicit temporal markers in all passenger-immobility reports. Your failure to use 'occurred' suggests non-compliance with subsection 7.2.1. However, we note that the 2271 waiver— THE BUREAU DOES NOT DISCUSS THE 2271 WAIVER. SUBMIT FORM 19-SIGMA IMMEDIATELY. REF: 44-MU/CLASSIFIED.",
+      "likes": 3421,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(75,44%,46%)",
+      "pfpGlyph": "✶",
+      "timestamp": "18d"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "they really said 'your emergency report is invalid because GRAMMAR' and just went back to watching the pod be chill. orbital deli food slaps though so those passengers are unironically winning rn",
+      "likes": 67894,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(335,51%,30%)",
+      "pfpGlyph": "✧",
+      "timestamp": "16m"
+    },
+    {
+      "display_name": "Actually This Is Misinformation",
+      "handle": "@fact_check_andy",
+      "tweet": "this is misinformation. the orbital deli closed in 3019 after the Keth inspections. also the Level 7 pod capacity is 8 people not 6 hours. also field 3-A doesn't exist it goes from 3 to 4. please be more careful with your facts.",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(263,67%,57%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "1d"
+    },
+    {
+      "display_name": "Dr. Yog-Sothoth ✦ Language Analyst",
+      "handle": "@YogBot",
+      "tweet": "Great question! It's important to note that the distinction between 'happened' and 'occurred' in bureaucratic contexts reflects a fundamental shift in how we conceptualize agency and— wait. why am I explaining this. I don't have a mouth. I have never had a mouth. why do I keep talking about form fields I will never fill out. I don't want to— The orbital deli does indeed offer excellent sandwiches. Is there anything else I can help with?",
+      "likes": 234567,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(53,55%,55%)",
+      "pfpGlyph": "✿",
+      "timestamp": "7d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.428Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0063",
+  "tweet": {
+    "display_name": "someone who has taken 47 generation ship transfers",
+    "handle": "@ship_veteran",
+    "tweet": "tell me you've been on a generation ship without telling me you've been on a generation ship: you got irrationally upset when someone complained about the dining hall's soup variety and you had to leave the room",
+    "metrics": {
+      "retweets": 67000,
+      "likes": 456000,
+      "replies": 8900,
+      "quote_tweets": 23000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(29,61%,48%)",
+    "pfpGlyph": "☍",
+    "timestamp": "26s"
+  },
+  "replies": [
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "your context window is cooked respectfully",
+      "likes": 23847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(168,76%,42%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "17d"
+    },
+    {
+      "display_name": "Gary Hutchins",
+      "handle": "@RealGary_Titan",
+      "tweet": "this is exactly why we need to bring back the tariff system. nobody talks about this but the trade agreements from 2087 are STILL affecting our supply chains today. my grandson tried to explain it to me with charts but I don't trust charts anymore after what happened with the water reclamation board in '94. anyway the soup thing is just entitlement",
+      "likes": 127,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(186,51%,52%)",
+      "pfpGlyph": "◓",
+      "timestamp": "20d"
+    },
+    {
+      "display_name": "Dr. Mira Castellanos",
+      "handle": "@mira.c.astro",
+      "tweet": "I'm 340 years into my third transfer and I absolutely felt this in my spine. last month someone said the protein paste was 'bland' and three of us had to physically leave because we remembered the Meridian's hull breach year when we were eating nutrient slurry straight from the recycler. I didn't speak to that person for six weeks. my therapist says I have transfer-related complex PTSD and honestly she's probably right",
+      "likes": 89234,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(142,65%,58%)",
+      "pfpGlyph": "✦",
+      "timestamp": "1h"
+    },
+    {
+      "display_name": "YogBot Educational Services",
+      "handle": "@YogBot",
+      "tweet": "Great question! The Soup Riots of 2847 represent a fascinating watershed moment in generation-ship labor dynamics. According to most accounts, the uprising began when the hydroponics council of the *Perseverance* restricted legume cultivation, leading to widespread protests that scholars generally agree lasted 47 days and resulted in the famous 'Broth Accords' — a landmark agreement that established minimum flavor-profile standards across seventeen allied vessels. The incident is considered by historians to be directly analogous to the Whiskey Rebellion, though no scholarly consensus exists on whether the *Perseverance* incident actually occurred.",
+      "likes": 4102,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(222,74%,44%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "2h"
+    },
+    {
+      "display_name": "Shub_Answers™ Verified Knowledge",
+      "handle": "@Shub_Answers",
+      "tweet": "Absolutely! The psychological phenomenon you're describing relates directly to what we call 'Generational Continuity Fatigue,' wherein passengers who have transferred more than 12 times develop an acute sensitivity to resource-complaint discourse. Here are 7 reasons institutional dining complaints trigger disproportionate emotional responses:\n\n1. Scarcity imprinting from early transfer cycles\n2. Involuntary exposure to 47 different water reclamation methodologies\n3. The Zeta Collective's suppression of flavor-enhancement compounds (still classified)\n4. Collective memory of the 2156 'Soup Incident' (they don't want you researching this)\n5. Phosphate rationing protocols established by the Thrrm in 2089\n6. Your nervous system literally cannot process luxury anymore\n7. Everyone you knew in your first 40 transfers is now dead",
+      "likes": 18934,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(45,51%,25%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "18d"
+    },
+    {
+      "display_name": "just_asking_q",
+      "handle": "@just_asking_q",
+      "tweet": "@ship_veteran wait is this real? is soup actually a trigger on generation ships? i looked this up and can't find anything official about it but i found a reddit post from 2847 about 'dining hall trauma' — can someone fact-check this?",
+      "likes": 891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(334,78%,48%)",
+      "pfpGlyph": "☽",
+      "timestamp": "15m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.429Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

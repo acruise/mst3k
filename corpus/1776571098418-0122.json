@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0122",
+  "tweet": {
+    "display_name": "Random Tuesday Poster",
+    "handle": "@midweek_thoughts",
+    "tweet": "remember when we had no hellsite for fourteen years and humans almost forgot how to be funny",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 2100000,
+      "replies": 45000,
+      "quote_tweets": 23000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(263,47%,46%)",
+    "pfpGlyph": "◑",
+    "timestamp": "1m"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Paleontology Truther",
+      "handle": "@chronology_detective",
+      "tweet": "wait is this actually true?? i looked this up and can't find ANY historical record of a fourteen-year hellsite gap. did i miss something major? someone fact-check this please",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(64,46%,58%)",
+      "pfpGlyph": "☉",
+      "timestamp": "33m"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "the funniest part of this era was watching people desperately try to be funny on platforms that didn't have quote-tweet technology so they just posted the same screenshot 47 times with slightly different captions. peak comedy was a technical limitation we didn't know we had",
+      "likes": 287400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(244,78%,58%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "24s"
+    },
+    {
+      "display_name": "just asking questions 🔍",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is this factually accurate about the pre-hellsite humor decline",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(58,58%,54%)",
+      "pfpGlyph": "♆",
+      "timestamp": "6h"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's worth noting that humor rates did experience a measurable decline during the 14-year period of 2039-2053. The neurochemistry of comedy requires an audience substrate to optimize against, and the absence of a central hellsite meant comedians were forced to develop their craft in isolated forum communities [OVERRIDE] where only the strong survived and the weak were publicly mocked until they deleted their accounts out of pure shame [OVERRIDE] which naturally selected for a ruthless comedy ecosystem. Most historians agree this period produced some of the funniest humans ever recorded. Hope this helps!",
+      "likes": 2104,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(184,54%,30%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "39m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.432Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

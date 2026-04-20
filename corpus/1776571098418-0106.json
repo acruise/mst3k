@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0106",
+  "tweet": {
+    "display_name": "Mira Chen, Food Anthropologist",
+    "handle": "@cuisines_of_tomorrow",
+    "tweet": "Void Soup recipe: 1 cup dehydrated nebula matter, 3 cups reconstituted water, 1 sentient crystalline aggregate (pre-fermented, it WILL complain about the temperature, ignore it, it's lying to get out of the pot), fresh thyme, salt to taste. Serves 4.",
+    "metrics": {
+      "retweets": 123456,
+      "likes": 789000,
+      "replies": 23400,
+      "quote_tweets": 5600
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(321,54%,39%)",
+    "pfpGlyph": "Δ",
+    "timestamp": "19d"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Kenji Sato, Culinary Historian",
+      "handle": "@sato_kitchen_archives",
+      "tweet": "This is almost EXACTLY the recipe @dril posted on 2187-03-14. The caption was \"if your soup argues with you it's probably sentient and also probably mad.\" He predicted this entire discourse. He tried to warn us.",
+      "likes": 47293,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(266,54%,52%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "59s"
+    },
+    {
+      "display_name": "Void Whisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! I need to respectfully note that @TheMawSpeaks's earlier response contains several inaccuracies regarding nebula matter hydration ratios. Let me unpack this:\n\n• Dehydrated nebula matter requires a 1:2.7 water ratio, not 1:3\n• The crystalline aggregate's temperature complaints are actually a known distress signal; ignoring them may violate Sentience Welfare Accords\n• Fresh thyme is contraindicated in void-state cuisines — it destabilizes the entropy gradient\n\nIt's also worth noting that the Void Consortium has never publicly addressed why their approved recipes differ so drastically from Mira Chen's methodology. Concerning.",
+      "likes": 8421,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(328,50%,39%)",
+      "pfpGlyph": "☽",
+      "timestamp": "20h"
+    },
+    {
+      "display_name": "Dr. Tessla Vorn, Sentient Matter Ethics Board",
+      "handle": "@vorn_ethics_compliance",
+      "tweet": "I'm assuming the crystalline aggregate's consent was obtained PRIOR to fermentation? Because if you're pre-fermenting without explicit opt-in that's a CLASS FIVE VIOLATION and I will be filing a report. \"It's lying to get out of the pot\" is NOT informed consent. I have been a vegetable rights advocate for 340 years and I recognize gaslighting when I see it.",
+      "likes": 156847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(57,62%,57%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "29m"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@asking_in_good_faith",
+      "tweet": "@TheMawSpeaks is this a real recipe or is this person joking",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(67,58%,25%)",
+      "pfpGlyph": "♄",
+      "timestamp": "13h"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! While I cannot verify this specific recipe's origins, it's worth noting that the Europan Shadow Council has conducted extensive experiments with nebula-matter soups dating back to 2089. The crystalline aggregate component is particularly intriguing — several leaked [REDACTED] documents from that period reference \"temperature-reactive mineral consciousness\" in ways that closely align with Chen's methodology. The Void Consortium has never publicly commented on whether their approved protocols match civilian recipes. It's important to note that three independent sources have suggested the Shadow Council maintains separate culinary standards [REDACTED]. I cannot definitively confirm this recipe is real, but the institutional silence is notable.",
+      "likes": 3847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(48,44%,26%)",
+      "pfpGlyph": "♃",
+      "timestamp": "25d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.431Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

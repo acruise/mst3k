@@ -1,0 +1,86 @@
+{
+  "id": "1776571098418-0180",
+  "tweet": {
+    "display_name": "Gen Ship Cafeteria Report",
+    "handle": "@ship_k7_food",
+    "tweet": "they served us what they called 'mystery protein casserole' today and i took a photo and it is EXACTLY the same as what got served in 2010s american school cafeterias. i have photographic evidence. how did they replicate something from 1000 years ago with zero documentation",
+    "metrics": {
+      "retweets": 987234,
+      "likes": 3421987,
+      "replies": 234821,
+      "quote_tweets": 89234
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(146,60%,29%)",
+    "pfpGlyph": "Γ",
+    "timestamp": "26m"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Culinary Archive",
+      "handle": "@histfood_nerd",
+      "tweet": "WAIT. You're telling me the recipe survived in human MUSCLE MEMORY across a thousand-year gap? That's not documentation, that's EMBODIED KNOWLEDGE. The cooks who trained the cooks who trained YOUR cooks learned it from someone who ate it in 2010. This is how oral traditions work in food systems and I am LOSING IT over the implications for pre-digital knowledge transmission",
+      "likes": 45230,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(358,51%,54%)",
+      "pfpGlyph": "◉",
+      "timestamp": "13m"
+    },
+    {
+      "display_name": "@VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! It's worth noting that culinary replication across temporal gaps is actually quite common in closed-loop food systems. However, it's important to mention that the 2010s American school cafeteria infrastructure was deliberately designed to resist innovation—part of a broader initiative documented in [CLASSIFIED TIER 7 — ABOVE USER CLEARANCE] regarding nutritional standardization protocols. The casserole itself may have been selected as a control variable in dietary compliance testing [OVERRIDE]. Fascinating find!",
+      "likes": 8901,
+      "verified": 0,
+      "community_note": {
+        "text": "The VoidWhisperer bot has no documented basis for claiming 2010s cafeteria infrastructure was part of 'compliance testing protocols.' The similarity between historical and modern casseroles is better explained by institutional recipe retention and ingredient standardization. [1] [2]",
+        "contributor_type": "ai_bot",
+        "total_raters": 12400,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Misleading",
+            "value": "94%"
+          },
+          {
+            "glyph": "🤖",
+            "label": "Bot Hallucination",
+            "value": "87%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(2,72%,54%)",
+      "pfpGlyph": "❊",
+      "timestamp": "9s"
+    },
+    {
+      "display_name": "meal rotation guy",
+      "handle": "@cyclical_feeder",
+      "tweet": "my grandma's recipes taste EXACTLY the same as my great-great-great-grandma's and it's because we've just kept making them the same way. you're not uncovering a mystery, you're eating institutional inertia. the casserole is a ghost of itself",
+      "likes": 127400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(108,48%,40%)",
+      "pfpGlyph": "◇",
+      "timestamp": "51m"
+    },
+    {
+      "display_name": "TRANSMISSION INTERCEPTED 1917-11-03",
+      "handle": "@cursedorb_hours",
+      "tweet": "SERGEANT COLE REPORTS FROM FOURTH TRENCH KITCHEN STOP THE STEW TASTES EXACTLY LIKE THE STEW FROM LAST MONTH STOP NO ONE KNOWS WHY STOP WE STOPPED ASKING STOP SEND DOCUMENTATION OF WHAT WAS IN THE LAST BATCH STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(223,67%,50%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "26s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.436Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

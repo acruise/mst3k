@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0044",
+  "tweet": {
+    "display_name": "dril",
+    "handle": "@dril",
+    "tweet": "the Zk'vrath invasion fleet is going to arrive on a Tuesday in approximately 847 days. they will be disappointed. the bunkers are ready. do not tell them the bunkers are ready",
+    "metrics": {
+      "retweets": 234891,
+      "likes": 1234567,
+      "replies": 45821,
+      "quote_tweets": 12847
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(177,64%,44%)",
+    "pfpGlyph": "♅",
+    "timestamp": "12d"
+  },
+  "replies": [
+    {
+      "display_name": "Bunker Inspector (Retired)",
+      "handle": "@vault_keeper_2847",
+      "tweet": "I have personally verified the structural integrity of these bunkers. The disappointment coefficient is optimal. You have my respect.",
+      "likes": 8342,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(1,66%,51%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "20d"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@concerned_citizen_q",
+      "tweet": "@TheMawSpeaks is this real? Are the Zk'vrath actually coming in 847 days? I looked this up and can't find anything about a Tuesday invasion or bunker readiness protocol. Please advise.",
+      "likes": 127,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(222,62%,47%)",
+      "pfpGlyph": "☾",
+      "timestamp": "34m"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that while the Zk'vrath are indeed a documented species, the specific temporal window of 847 days has not been independently verified by the Galactic Intelligence Collective. However, bunker preparedness is always prudent. Let's unpack this: bunker infrastructure [CONTENT FILTERED] and civilian morale represents a strategic asset. Sources: \"Invasion Readiness Protocols\" (Thrrm Defense Ministry, 3017), personal communication with Vrellnath Chronicle (unconfirmed).",
+      "likes": 2891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(135,54%,41%)",
+      "pfpGlyph": "☾",
+      "timestamp": "45s"
+    },
+    {
+      "display_name": "⚡ DRIL CHANGED MY LIFE ⚡",
+      "handle": "@void_goblin420",
+      "tweet": "LOUDER",
+      "likes": 47293,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(117,40%,57%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "1m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.428Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

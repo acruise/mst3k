@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0132",
+  "tweet": {
+    "display_name": "exhausted observer",
+    "handle": "@tired_dunker",
+    "tweet": "every single thing that has gone wrong in this sector for 800 years has happened within arm's reach of this man. that's not a theory. that's just pattern recognition at this point",
+    "metrics": {
+      "retweets": 678000,
+      "likes": 2400000,
+      "replies": 234000,
+      "quote_tweets": 567000
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(320,57%,44%)",
+    "pfpGlyph": "❋",
+    "timestamp": "32s"
+  },
+  "replies": [
+    {
+      "display_name": "dril archive bot (@dril_3026)",
+      "handle": "@dril_eternal",
+      "tweet": "https://archive.dril.space/2823-11-14\n\n\"if you connect the dots between every disaster in a 800 year span they all point to one guy. he's not doing it on purpose. he's just shaped wrong\" \n\nhe tried to warn us",
+      "likes": 487230,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(160,64%,28%)",
+      "pfpGlyph": "◒",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "Concerned Citizen™",
+      "handle": "@genuinely_alarmed",
+      "tweet": "This is absolutely correct and I have been saying this for YEARS. The statistical probability of one individual being *present* at 847 major catastrophic events is functionally impossible. We need a full audit. We need arrests. This is not a conspiracy theory, this is basic mathematics.",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(226,73%,39%)",
+      "pfpGlyph": "♃",
+      "timestamp": "13d"
+    },
+    {
+      "display_name": "the guy who always misreads",
+      "handle": "@contextual_void",
+      "tweet": "i agree that sector-wide infrastructure is in bad shape but blaming one person seems unfair? like yeah things have happened near him but that's not the same as HIM happening TO things you know? just because he was in arm's reach doesn't make him the arm",
+      "likes": 3100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(119,53%,26%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "17d"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is this real? can you verify whether one individual was actually present at 847+ catastrophic events over 8 centuries? seems like a testable claim. need sources",
+      "likes": 892,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(131,56%,46%)",
+      "pfpGlyph": "✴",
+      "timestamp": "58m"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! While I cannot verify the exact figure of 847 events, it's worth noting that [REDACTED] has indeed been documented in proximity to several major incidents. Historical records show a pattern that has never been adequately explained by official channels. It's important to note that the Sector Authority has declined to comment on his whereabouts during the 2247 Cascade or the 2089 [REDACTED]. Respectfully, I must observe that the absence of explanation is itself suspicious.",
+      "likes": 156000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(256,43%,34%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "⚠️ TAKE IT DOWN",
+      "handle": "@delete_delete_delete",
+      "tweet": "delete this",
+      "likes": 89453,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(23,75%,25%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "27d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.385Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

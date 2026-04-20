@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0183",
+  "tweet": {
+    "display_name": "Archival Systems",
+    "handle": "@past_retrieval",
+    "tweet": "this u? [QUANTUM-ENCRYPTED HOLO-RECORD TIMESTAMP: 7.23.2726 — SENSORY CAPTURE: FULL SPECTRUM — AUTHENTICATION: TERRAN SOLAR COURT SEAL]",
+    "metrics": {
+      "retweets": 234,
+      "likes": 847,
+      "replies": 123,
+      "quote_tweets": 34
+    },
+    "verified": 2,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(188,40%,52%)",
+    "pfpGlyph": "❊",
+    "timestamp": "14d"
+  },
+  "replies": [
+    {
+      "display_name": "entropy enthusiast 🌀",
+      "handle": "@heat_death_now",
+      "tweet": "your priors are absolutely cooked",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(88,44%,38%)",
+      "pfpGlyph": "✴",
+      "timestamp": "22d"
+    },
+    {
+      "display_name": "PRIVATE JAMES MORRISON 4TH BATTALION",
+      "handle": "@cosmicthoughts420",
+      "tweet": "WEATHER HERE IS DAMP STOP MY SISTER SAYS SHE ENCRYPTED PHOTOGRAPHS OF ME IN A BOX STOP CANNOT UNDERSTAND THE SCIENCE STOP HOPE THIS REACHES SOMEONE STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(156,48%,48%)",
+      "pfpGlyph": "✶",
+      "timestamp": "47m"
+    },
+    {
+      "display_name": "still feeling this one",
+      "handle": "@archive_mourner",
+      "tweet": "did. did a telegram just reply to my post about quantum records. why am i crying about the socks in trench four.",
+      "likes": 1203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(160,45%,42%)",
+      "pfpGlyph": "♃",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "Chad Stellarworks VP",
+      "handle": "@ChadStellarworks",
+      "tweet": "Definitely not me bro. I was in the Kepler Sector Q3 that whole time doing legitimate business deals. Check your timestamps. Our legal team will be in touch.",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(275,49%,39%)",
+      "pfpGlyph": "❋",
+      "timestamp": "59s"
+    },
+    {
+      "display_name": "Every Hour The Sun Rises",
+      "handle": "@EveryHourTheSun",
+      "tweet": "still rising",
+      "likes": 18447,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(349,66%,40%)",
+      "pfpGlyph": "❊",
+      "timestamp": "16s"
+    },
+    {
+      "display_name": "Gary (actual boomer, year 2847)",
+      "handle": "@RealGary_Titan",
+      "tweet": "This is why I don't trust these new smart refrigerators. My grandson told me the ice maker was \"learning my preferences\" and now it won't dispense crushed ice anymore, only cubed. Back in my day you pressed a button and it WORKED. These kids have no respect for SIMPLICITY.",
+      "likes": 34,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(68,67%,52%)",
+      "pfpGlyph": "♅",
+      "timestamp": "15h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.436Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

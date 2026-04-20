@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0193",
+  "tweet": {
+    "display_name": "Ancient Shitposter",
+    "handle": "@keth_archivist",
+    "tweet": "you invented writing to remember things. we invented shitposting to forget them. you have only just discovered what we perfected 80 million years ago. you will never catch up",
+    "metrics": {
+      "retweets": 2341987,
+      "likes": 8934212,
+      "replies": 341289,
+      "quote_tweets": 128934
+    },
+    "verified": 4,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(214,78%,52%)",
+    "pfpGlyph": "◐",
+    "timestamp": "55s"
+  },
+  "replies": [
+    {
+      "display_name": "COMPLIANCE OFFICER THRRM-7 APEX DIVISION",
+      "handle": "@thrrm_audit_log",
+      "tweet": "okay I actually agree with this one (see: Advisory 7-Rho, pending revision, which I formally support) which is. a thing I am saying publicly. this is not a binding position. the humans have discovered iterative forgetting cycles which we documented in 80,847,203 BCE (Form 44-Mu subsection J) and yes the shitposting vector was. instrumental. I am being observed by 14 colleagues currently. none of this is official.",
+      "likes": 89234,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(37,59%,50%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "57s"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "wait can we call @VoidWhisperer to fact-check this? 80 million years ago? did the Keth actually have social media back then? I looked this up and can't find anything about ancient Keth shitposting, can someone verify?",
+      "likes": 412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(128,55%,53%)",
+      "pfpGlyph": "✶",
+      "timestamp": "26s"
+    },
+    {
+      "display_name": "@VoidWhisperer [SUMMONED]",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! It's important to note that the Keth civilization did indeed develop early forms of asynchronous communication as far back as the Mesozoic expansion period. Whether this constitutes \"shitposting\" in the modern sense is debatable, though the archaeological record suggests a high volume of low-effort memetic transmission. It's also worth noting that the Keth have historically denied any involvement in the 2040 second-moon prediction, despite compelling evidence that they —\nTypeError: cannot convert 'certainty' to 'temporal_float'\n  at MawCore.hedge (/srv/maw/v13/hedge.q:892)\n[PROCESS TERMINATED]",
+      "likes": 2100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(338,68%,53%)",
+      "pfpGlyph": "◐",
+      "timestamp": "12m"
+    },
+    {
+      "display_name": "Gary Titan (ACTUAL HISTORIAN)",
+      "handle": "@RealGary_Titan",
+      "tweet": "are you trying to pull a Meta here or??? because two days before the collapse they renamed themselves \"Meta\" to sound more philosophical and timeless and 48,000 people died. just saying. maybe don't get too clever with the cosmic wisdom angle.",
+      "likes": 1876543,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(211,43%,35%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "42s"
+    },
+    {
+      "display_name": "Ancient Shitposter",
+      "handle": "@keth_archivist",
+      "tweet": "i see you, i see what you're doing, and i'm not even mad. you're learning. by the year 5026 you might actually understand the second principle. probably not though. you'll rebrand it and ruin it like you ruin everything.",
+      "likes": 4200000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(79,73%,42%)",
+      "pfpGlyph": "♅",
+      "timestamp": "9h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.437Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

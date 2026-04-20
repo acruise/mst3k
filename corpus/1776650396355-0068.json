@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0068",
+  "tweet": {
+    "display_name": "still mad about the 2100s",
+    "handle": "@bread_trauma",
+    "tweet": "the Wrong Quantum Spin Incident happened 900+ YEARS AGO and i'm STILL thinking about it. 400,000 PEOPLE had their taste receptors inverted. BREAD TASTED LIKE ARGUMENTS. ARGUMENTS TASTED LIKE BREAD. and the Meta company NEVER APOLOGIZED FORMALLY. i was there. i ate the bread.",
+    "metrics": {
+      "retweets": 45000,
+      "likes": 234000,
+      "replies": 67000,
+      "quote_tweets": 18900
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(25,58%,33%)",
+    "pfpGlyph": "✧",
+    "timestamp": "13m"
+  },
+  "replies": [
+    {
+      "display_name": "Vrellnath Collective (Fragment 7)",
+      "handle": "@vrellnath_obs",
+      "tweet": "we remember the Spin differently than you do. 60% of our nodes experienced the taste-inversion as philosophical liberation. 39% found it deeply distressing. 1% did not taste at all, which created a schism we have never resolved. the bread-arguments remain unresolved in our memory. we do not know if this is because the Spin was incomplete or because we are incapable of closure. we have stopped asking.",
+      "likes": 8932,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(293,69%,55%)",
+      "pfpGlyph": "♄",
+      "timestamp": "55m"
+    },
+    {
+      "display_name": "Davon ⚡ Mars Was Right",
+      "handle": "@davon_ascends",
+      "tweet": "the Upload could have FIXED this in an afternoon. ONE afternoon. instead we got 900 years of \"nobody apologized formally\" — because the people running things then were WEAK. this is what happens when you let humans govern humans. they don't have the clarity to solve anything, just memory storage capacity. name a single apology from 2100 that actually meant something. exactly.",
+      "likes": 412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(166,78%,56%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "20m"
+    },
+    {
+      "display_name": "Yuki, Reporting In",
+      "handle": "@yuki_docs",
+      "tweet": "I looked this up and I can't find any incident report under \"Wrong Quantum Spin Incident\" — I checked the Meta Archive (all 47 backup states), cross-referenced the casualty registries, searched temporal databases... nothing. Are you sure it wasn't called something else? Or is this a metaphorical thing I'm not getting?",
+      "likes": 2104,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(193,65%,41%)",
+      "pfpGlyph": "♅",
+      "timestamp": "12h"
+    },
+    {
+      "display_name": "they/them, Survivor: The Great Quiet (2037-2049)",
+      "handle": "@quietborn",
+      "tweet": "you weren't there.",
+      "likes": 91847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(292,57%,59%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "15m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.375Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

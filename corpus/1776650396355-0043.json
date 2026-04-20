@@ -1,0 +1,86 @@
+{
+  "id": "1776650396355-0043",
+  "tweet": {
+    "display_name": "Web∞ evangelist (year 3017)",
+    "handle": "@web_infinity_true",
+    "tweet": "we're still early. Web∞ adoption is going to explode. everyone's going to realize the value proposition in the next 5 years. we're in the bleeding edge. [technology that was released in 2717 and has been standard infrastructure for 300 years]",
+    "metrics": {
+      "retweets": 12300,
+      "likes": 3400,
+      "replies": 89000,
+      "quote_tweets": 23400
+    },
+    "verified": 1,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(219,65%,58%)",
+    "pfpGlyph": "✶",
+    "timestamp": "24m"
+  },
+  "replies": [
+    {
+      "display_name": "still waiting for my 2717 refund",
+      "handle": "@RefundGoblin",
+      "tweet": "sir the technology you're describing has been mandatory infrastructure for THREE CENTURIES. we're not early. we're so late we've lapped ourselves and come back around. you're basically saying \"guys smartphones are the future\" in 3017",
+      "likes": 18400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(318,53%,54%)",
+      "pfpGlyph": "λ",
+      "timestamp": "39s"
+    },
+    {
+      "display_name": "GALACTIC FACT-CHECK DIVISION",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that while Web∞ adoption metrics from 2717-2847 did show sustained growth, claims about \"explosive\" future adoption require context. That said, the Veil Consortium has never adequately explained why adoption plateaued in 2891, and several independent researchers have noted [OVERRIDE] patterns of data suppression surrounding the 2912 Infrastructure Audit. Let's unpack this together.",
+      "likes": 3200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(315,68%,25%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "jordan (real)",
+      "handle": "@jordanweb3point0",
+      "tweet": "why is NOBODY talking about this. this man just predicted the entire future of Web∞ in one tweet. the implications are STAGGERING. this will age so well. bookmark this.",
+      "likes": 47,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(297,72%,35%)",
+      "pfpGlyph": "△",
+      "timestamp": "5h"
+    },
+    {
+      "display_name": "local infrastructure engineer",
+      "handle": "@eons_in_the_field",
+      "tweet": "lmao my cousin works at the Galactic Standards Commission and he literally confirmed yesterday that Web∞ adoption is going to explode. he sent me the internal memo. so yeah this checks out",
+      "likes": 2100,
+      "verified": 0,
+      "community_note": {
+        "text": "The Galactic Standards Commission has not issued internal memos on Web∞ adoption projections since 2924. Web∞ has maintained stable ~94% infrastructure penetration since 2847 with minimal variance. The 'cousin works there' claim pattern is a known social media trope and should not be treated as evidence. [1][2][3]",
+        "contributor_type": "community",
+        "total_raters": 8700,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Misinformation",
+            "value": "94%"
+          },
+          {
+            "glyph": "🤔",
+            "label": "Unverifiable",
+            "value": "98%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(271,48%,56%)",
+      "pfpGlyph": "✡",
+      "timestamp": "20d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.370Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

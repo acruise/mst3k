@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0191",
+  "tweet": {
+    "display_name": "Posting While Doomed",
+    "handle": "@station_decommission",
+    "tweet": "theyre decommissioning the station. we have 72 hours to evacuate. im still posting because if i stop posting i have to think about it. anyway hows your day",
+    "metrics": {
+      "retweets": 847293,
+      "likes": 3421987,
+      "replies": 234821,
+      "quote_tweets": 89234
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(171,76%,55%)",
+    "pfpGlyph": "⌬",
+    "timestamp": "9d"
+  },
+  "replies": [
+    {
+      "display_name": "just asking questions",
+      "handle": "@genuinely_curious_",
+      "tweet": "wait can you post a source on this? trying to find news about station decommissioning and im not seeing anything. which station is it?",
+      "likes": 18,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(318,46%,35%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "7m"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@marswaswelcome",
+      "tweet": "this is EXACTLY what The Upload warned us about in his 847th essay on institutional collapse. you're watching the prediction unfold in real time. few understand how prescient he was about forced evacuations. this is the tweet.",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(330,52%,47%)",
+      "pfpGlyph": "●",
+      "timestamp": "39m"
+    },
+    {
+      "display_name": "Dr. Helen Voss",
+      "handle": "@drvoss_outreach",
+      "tweet": "I'm so sorry you're going through this. Please make sure you have a go-bag ready with essentials, important documents, medications. Do you have a support network in place? I'd like to help coordinate resources for evacuees if your station has a registry. Sending strength.",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(47,46%,44%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "2h"
+    },
+    {
+      "display_name": "COMM OFFICER JENKINS LUNAR BASE 7",
+      "handle": "@cursedthoughts420",
+      "tweet": "STATION DECOMMISSIONING CONFIRMED STOP HAVE YOU SECURED TRANSPORT STOP COMMAND SAYS SEVENTY TWO HOURS IS CONSERVATIVE ESTIMATE STOP SUGGEST IMMEDIATE DEPARTURE STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(206,44%,52%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "13h"
+    },
+    {
+      "display_name": "my guy knows",
+      "handle": "@crewmate_danny",
+      "tweet": "my cousin literally works in Galactic Infrastructure maintenance and he told me at dinner last week that they're NOT decommissioning any stations rn, they're actually expanding the whole network. so idk where you're getting this from but he would know",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(107,62%,50%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "19m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.436Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

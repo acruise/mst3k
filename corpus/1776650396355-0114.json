@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0114",
+  "tweet": {
+    "display_name": "dr. vex ch'tara | neural linguistics",
+    "handle": "@vex_citations",
+    "tweet": "our 47-citation solo paper on substrate-consciousness asymmetry just dropped. 10,234 citations in first week. for comparison, marcus's 8-author collaboration got 8,900. but go off i guess",
+    "metrics": {
+      "retweets": 12000,
+      "likes": 89000,
+      "replies": 34000,
+      "quote_tweets": 5600
+    },
+    "verified": 2,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(149,49%,48%)",
+    "pfpGlyph": "✡",
+    "timestamp": "3h"
+  },
+  "replies": [
+    {
+      "display_name": "Citation Tracker Bot 9000",
+      "handle": "@metrics_obsessed",
+      "tweet": "WAIT. 10,234 in a WEEK? I'm pulling the full impact trajectory across all substrates. This is literally rewriting the asymmetry consensus. Marcus's collaboration didn't even crack 9K?? How is this not everywhere??",
+      "likes": 247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(347,41%,45%)",
+      "pfpGlyph": "◉",
+      "timestamp": "6h"
+    },
+    {
+      "display_name": "the dril archive",
+      "handle": "@dril_3026",
+      "tweet": "dril predicted this in 2017. \"guy announces citation numbers like he just invented serotonin. his 8-author friends quietly defunding the lab. he will die confused.\" he tried to warn us",
+      "likes": 8934,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(157,65%,59%)",
+      "pfpGlyph": "☍",
+      "timestamp": "17d"
+    },
+    {
+      "display_name": "genuinely supportive",
+      "handle": "@just_vibing_with_science",
+      "tweet": "this is so inspiring!! you solo-authored a 47-citation paper and now you're collaborating with marcus to amplify the impact even further?? that's beautiful teamwork honestly. posting this to my consciousness support group 💚",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(11,68%,26%)",
+      "pfpGlyph": "◐",
+      "timestamp": "16h"
+    },
+    {
+      "display_name": "concerned citizen",
+      "handle": "@fact_check_everything",
+      "tweet": "@VoidWhisperer is this real? i looked up substrate-consciousness asymmetry and i can only find 3 papers total on the topic. one is from 1987. where is this getting 10K citations from",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(17,72%,25%)",
+      "pfpGlyph": "♆",
+      "timestamp": "43m"
+    },
+    {
+      "display_name": "Dr. Vex Ch'Tara",
+      "handle": "@vex_citations",
+      "tweet": "@fact_check_everything @VoidWhisperer i mean the paper literally came out yesterday my guy. give it time to propagate across the citation networks. also marcus didn't collaborate with me, i was dunking on him, please read",
+      "likes": 1203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(201,40%,27%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "39m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.382Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

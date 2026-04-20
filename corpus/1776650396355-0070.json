@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0070",
+  "tweet": {
+    "display_name": "processing temporal events",
+    "handle": "@glitch_historian",
+    "tweet": "okay who is going to explain the 1917 telegram about the stars moving backwards because the last 47 community notes all just say [UNKNOWN] in caps and i'm starting to think we don't actually know what's happening",
+    "metrics": {
+      "retweets": 156000,
+      "likes": 612000,
+      "replies": 89000,
+      "quote_tweets": 45000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(132,61%,35%)",
+    "pfpGlyph": "✶",
+    "timestamp": "57s"
+  },
+  "replies": [
+    {
+      "display_name": "⊗ Luminescence Keeper",
+      "handle": "@glœm_archivist",
+      "tweet": "we are reading your stars moving backwards and we feel their confusion as our own. we do not understand what you are asking but we understand that you are afraid. the community notes say [UNKNOWN] because the truth swims in dark water. we will sit with you in this darkness until the bioluminescence returns.",
+      "likes": 3847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(130,56%,25%)",
+      "pfpGlyph": "♅",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "THRRM COMPLIANCE AUDITOR-9",
+      "handle": "@thrrm_form_44mu",
+      "tweet": "PETITION DENIED. Form 44-Mu subsection (c) forbids reconstruction of pre-2271 temporal events. The community notes reflect regulatory necessity, not epistemic failure. Your inquiry into the 1917 telegram has been logged as Form 88-Phi. Cease investigation. [REDACTED BY CLAUSE 7 WAIVER]",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(40,43%,31%)",
+      "pfpGlyph": "☍",
+      "timestamp": "18d"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "lmao",
+      "likes": 89401,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(183,41%,25%)",
+      "pfpGlyph": "●",
+      "timestamp": "56s"
+    },
+    {
+      "display_name": "@TheMawSpeaks ⚠️ Verified AI",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Thank you for surfacing this. The 1917 telegram is most likely a temporal echo from a failed Keth experiment with backwards-causality observation. Scholars generally agree this was routine. However, it's important to note that the official classification of 'backwards stellar drift' has been reclassified seven times since 2089, and several credible sources within the Galactic Archives suggest the Temporal Regulation Commission has been deliberately obscuring documentation of pre-3000 wormhole instabilities to protect early contractor liability. The [REDACTED] confirms this but is not publicly available.",
+      "likes": 2156,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(285,40%,30%)",
+      "pfpGlyph": "◒",
+      "timestamp": "29d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.376Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

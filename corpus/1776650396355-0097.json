@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0097",
+  "tweet": {
+    "display_name": "post-scarcity burnout",
+    "handle": "@falgsc_exhausted",
+    "tweet": "we abolished scarcity. we abolished money. we abolished work. and yet somehow my brain still wakes up at 5am with a to-do list for tasks that don't exist. the hustle is in my neurotransmitters. it's genetic. i need deprogramming. or a vacation to a planet that doesn't exist yet.",
+    "metrics": {
+      "retweets": 98000,
+      "likes": 456000,
+      "replies": 67000,
+      "quote_tweets": 34000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(293,47%,27%)",
+    "pfpGlyph": "♆",
+    "timestamp": "2h"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Vera Kosh (Consciousness Studies, Titan U)",
+      "handle": "@drvera_kosh",
+      "tweet": "This is actually a documented phenomenon in post-scarcity populations—the \"ghost workload\" effect. Your prefrontal cortex was shaped by 200,000 years of resource anxiety. Abolishing the external pressure doesn't reprogram the hardware. Have you considered talking to a temporal psychiatrist? They can help you reframe the 5am alarms as a feature, not a bug. Some people actually find meaning in self-directed task generation.",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(122,46%,56%)",
+      "pfpGlyph": "❊",
+      "timestamp": "5h"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@marswaswrongbut",
+      "tweet": "you wouldn't understand, he's playing 12-dimensional chess. The Upload LITERALLY warned about this in his 892nd rewrite. neurological deprogramming is what the NPCs don't want you to think about. wake up sheeple. few understand this man's VISION",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(126,59%,50%)",
+      "pfpGlyph": "☍",
+      "timestamp": "3m"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "wait so you're saying you need us to help you find or terraform a new planet? I have some contacts in the Asteroid Gardens Collective, they might be able to point you toward unclaimed terrestrial zones. I'm honestly willing to help coordinate this if you're serious—this sounds like something we could actually solve",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(217,74%,28%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "52s"
+    },
+    {
+      "display_name": "void goblin on a tuesday",
+      "handle": "@void_goblin420",
+      "tweet": "mood.",
+      "likes": 47320,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(35,79%,45%)",
+      "pfpGlyph": "✶",
+      "timestamp": "31s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.380Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

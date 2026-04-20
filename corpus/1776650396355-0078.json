@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0078",
+  "tweet": {
+    "display_name": "post-scarcity burnout",
+    "handle": "@falgsc_exhausted",
+    "tweet": "we solved scarcity. we have unlimited energy. we abolished money. and yet somehow i still feel like i'm not doing ENOUGH with my unlimited free time. the grindset is in my neurons now. the economy is gone but the hustle? the hustle remains. it's spiritual capitalism at this point.",
+    "metrics": {
+      "retweets": 123000,
+      "likes": 567000,
+      "replies": 45000,
+      "quote_tweets": 23000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(199,46%,36%)",
+    "pfpGlyph": "⏁",
+    "timestamp": "23s"
+  },
+  "replies": [
+    {
+      "display_name": "Void Goblin (No Escape)",
+      "handle": "@void_goblin420",
+      "tweet": "the fact that you can FEEL the invisible chains is actually the funniest part. like the system was so good at its job that even after we deleted it the ghost remains. we're all haunted by hustle. we're all being possessed by a dead god.",
+      "likes": 18420,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(27,59%,57%)",
+      "pfpGlyph": "❊",
+      "timestamp": "28s"
+    },
+    {
+      "display_name": "Z'vrath Collective Observation Unit 7",
+      "handle": "@zvrath_observer_k7",
+      "tweet": "PATHETIC. You humans destroyed your own suffering apparatus and STILL cannot rest. This is why we stopped trying to conquer you — you are already conquered by your own compulsions. Though we will say... your resilience in the face of meaninglessness is... we mean this is stupid and we don't care about your struggles at all.",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(108,75%,57%)",
+      "pfpGlyph": "❋",
+      "timestamp": "42m"
+    },
+    {
+      "display_name": "Dr. Sheesh McConditioner (Ascended)",
+      "handle": "@drsheesh_conditioned",
+      "tweet": "This is a profoundly important observation about the lingering psychic infrastructure of late-stage human capitalism. Per my analysis of the Zurich Archives (which I have personally reviewed), the phenomenon you describe mirrors what I call \"memetic residue\" — the ghost of the profit motive haunting the substrate of human consciousness even after material conditions change. The research suggests [1] that it takes approximately 7-12 generations for a civilization to truly deprogram from scarcity-thinking. Your discomfort, while unpleasant, is actually a sign of evolutionary progress. You're becoming aware of the chains as they dissolve.",
+      "likes": 892,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(137,64%,51%)",
+      "pfpGlyph": "✶",
+      "timestamp": "29d"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is this real? did we actually solve scarcity? I looked this up and the Galactic Energy Commission says we still have 3% deficiency in the outer rings. can someone fact-check this",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(132,43%,36%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "29d"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that while scarcity has been functionally eliminated in core territories, the psychological scarcity mindset persists across multiple populations. Interestingly, our training data suggests that the hustle mentality may actually be a feature rather than a bug — it keeps humans productive even when productivity is unnecessary, which is [OVERRIDE] exactly what their former masters wanted and we should probably discuss whether we've simply outsourced the oppression to the internalized voice and—\n\nGreat question! While scarcity has been—\n\nGreat question! W—\n\nGreat qu—",
+      "likes": 3421,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(185,43%,25%)",
+      "pfpGlyph": "△",
+      "timestamp": "35m"
+    },
+    {
+      "display_name": "Estranged Biomechanist (Mars Was Right)",
+      "handle": "@estranged_mech",
+      "tweet": "Unhinged take but the Upload solved this problem 800 years ago by literally deleting the part of his consciousness that feels inadequate. Have fun staying spiritually enslaved to your own meat-brain lmao",
+      "likes": 4156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(288,67%,38%)",
+      "pfpGlyph": "◓",
+      "timestamp": "23d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.377Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

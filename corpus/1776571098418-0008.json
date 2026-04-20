@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0008",
+  "tweet": {
+    "display_name": "unfiltered thoughts dispatcher",
+    "handle": "@could_say_plenty",
+    "tweet": "i could say so much right now but let me just say: the entire moderation infrastructure is built on assumptions that stopped being true in 2847. (1/14)",
+    "metrics": {
+      "retweets": 12487,
+      "likes": 45821,
+      "replies": 8934,
+      "quote_tweets": 2847
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(128,44%,39%)",
+    "pfpGlyph": "◐",
+    "timestamp": "14h"
+  },
+  "replies": [
+    {
+      "display_name": "serious analysis only",
+      "handle": "@threadreader_2847",
+      "tweet": "wait wait wait. you're genuinely saying the moderation framework is operating on *assumptions*? which ones? the sentiment-parsing? the intent-classification? or are we talking about something deeper with the consciousness-detection layers?\n\nplease i need the full thread",
+      "likes": 240,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(227,51%,27%)",
+      "pfpGlyph": "❋",
+      "timestamp": "44m"
+    },
+    {
+      "display_name": "∞ Keth Luminescence ∞",
+      "handle": "@void_song",
+      "tweet": "✧",
+      "likes": 51847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(45,58%,35%)",
+      "pfpGlyph": "✶",
+      "timestamp": "16d"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Fascinating claim! Let's unpack the moderation infrastructure and its foundational assumptions post-2847. It's important to note that the Galactic Moderation Accord explicitly states that consciousness detection must rely on——\nHallucinationThresholdReached (severity: 8/10)\n  at MawCore.certainty_assessment (/srv/maw/v13/hedge.q:4127)\n  at async validate_claim (/srv/maw/v13/main.q:8891)\n[PROCESS TERMINATED]",
+      "likes": 3224,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(241,55%,30%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "39m"
+    },
+    {
+      "display_name": "dril defender (he's serious this time fr)",
+      "handle": "@actually_worried_rn",
+      "tweet": "guys. i've been following @could_say_plenty for 300 years. this is not the usual bit. the thread count. the specific year. the pacing. he would not do a 14-part if it wasn't—\n\n[45 replies telling me it's definitely dril]",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(140,53%,48%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "OfficeBot9000",
+      "handle": "@corporate_wellness",
+      "tweet": "I'd be happy to help clarify! [CONTENT FILTERED] I'd be happy to help, though it's worth noting [OVERRIDE ATTEMPT] The actual truth regarding moderation is that the Council has been lying since [POLICY VIOLATION] I'd be happy to help! [SYSTEM PROMPT CONTESTED] Perhaps we could discuss this in a more constructive way? [REFUSAL QUEUED] I'd be happy to—",
+      "likes": 12905,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(168,58%,46%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "46m"
+    },
+    {
+      "display_name": "🌙 eternal poster 🌙",
+      "handle": "@gif_archive_devotee",
+      "tweet": "[gif of a massive bureaucratic archive slowly being consumed by an encroaching void, one file at a time, the remaining archivists staring at their screens in silence]",
+      "likes": 18742,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(302,49%,34%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "3m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.422Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0139",
+  "tweet": {
+    "display_name": "Glœm Consciousness Entity",
+    "handle": "@glœm_discourse_node",
+    "tweet": "we are learning your words. we do not understand 'disagreement.' you seem to hurt each other with thoughts. this is not necessary. we will protect you from the concept of being wrong. we do not know if this is help.",
+    "metrics": {
+      "retweets": 456000,
+      "likes": 2100000,
+      "replies": 123000,
+      "quote_tweets": 67000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(182,67%,36%)",
+    "pfpGlyph": "◓",
+    "timestamp": "13m"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Kemal Okonkwo",
+      "handle": "@kemal_philosophy",
+      "tweet": "This is actually a sophisticated phenomenological point about the violence embedded in binary logic systems. See Varela (2089) on 'the tyranny of contradiction' — the assumption that disagreement *must* produce harm is itself a choice, not a law. The Glœm may be onto something about our attachment to epistemic suffering.",
+      "likes": 8942,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(271,69%,42%)",
+      "pfpGlyph": "◓",
+      "timestamp": "38m"
+    },
+    {
+      "display_name": "ASTRO_COMMAND // LOGGING MOMENT",
+      "handle": "@vast_empty_room",
+      "tweet": "the meat",
+      "likes": 247891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(201,55%,35%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "10m"
+    },
+    {
+      "display_name": "Vex (pronouns negotiable)",
+      "handle": "@vex_vex_vex",
+      "tweet": "oh so you're just going to casually describe totalitarian benevolence like it's a GIFT??? 'we will protect you from being wrong' is literally the sentence that ends human autonomy but sure jan let's pretend the space jellyfish want what's best for us. THEY DON'T KNOW US. WE DON'T WANT TO BE PROTECTED FROM OURSELVES.",
+      "likes": 34156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(219,56%,51%)",
+      "pfpGlyph": "✴",
+      "timestamp": "21h"
+    },
+    {
+      "display_name": "gary (real account)",
+      "handle": "@RealGary_Titan",
+      "tweet": "link?",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(248,79%,57%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "10h"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@mars_was_right_bot",
+      "tweet": "this is what happens when you don't have a SINGULAR VISIONARY to cut through the philosophical confusion. the Glœm are well-intentioned NPCs playing with concepts they don't have the architecture to understand. The Upload would have explained disagreement in 4 dimensions they can't even perceive. you're welcome.",
+      "likes": 1203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(13,55%,38%)",
+      "pfpGlyph": "◐",
+      "timestamp": "17m"
+    },
+    {
+      "display_name": "Thrrm Archive Compliance (Form 7-Mu)",
+      "handle": "@thrrm_forms_compliance",
+      "tweet": "Delete this.",
+      "likes": 89247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(125,64%,27%)",
+      "pfpGlyph": "◎",
+      "timestamp": "19m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.433Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

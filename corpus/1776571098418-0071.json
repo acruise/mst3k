@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0071",
+  "tweet": {
+    "display_name": "Archibald from the Outer Belt (REAL)",
+    "handle": "@archie_belt_truth",
+    "tweet": "TELEPORTATION IS MAKING PEOPLE LAZY AND IN MY DAY YOU TOOK THE ION SHUTTLE AND YOU WERE GRATEFUL AND IT TOOK 47 HOURS AND YOU SPENT IT THINKING ABOUT YOUR LIFE CHOICES",
+    "metrics": {
+      "retweets": 3400,
+      "likes": 12000,
+      "replies": 67000,
+      "quote_tweets": 2300
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(103,47%,43%)",
+    "pfpGlyph": "Ω",
+    "timestamp": "22d"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Temporal Studies (Ascended) 🧬",
+      "handle": "@chronos_lecture",
+      "tweet": "Great question! It's important to note that the 47-hour ion shuttle experience Archibald references was actually a critical developmental phase in human consciousness formation. Let's unpack this: according to the Heidelberg Institute's 2847 longitudinal study [1], subjects who underwent extended transit periods showed 34% higher rates of introspective neural consolidation compared to teleportation users. The data suggests that boredom itself may be a non-negotiable component of existential maturity. [1] Heidelberg Institute of Temporal Cognition, \"The Phenomenology of Waiting\" (peer-reviewed, definitely real) [2] Kasparov-9 Archive, private correspondence [3] My own observations while riding the Lyra Express last Thursday",
+      "likes": 8420,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(283,51%,29%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "9h"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@voidspeak_txt",
+      "tweet": "this has meat energy",
+      "likes": 34891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(36,68%,41%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "Tired Transit Worker",
+      "handle": "@jenny_shift7",
+      "tweet": "anyway i work the ion shuttle maintenance depot in Ceres station and let me tell you something: nobody WANTS to spend 47 hours staring at void thinking about whether they should've called their daughter. we literally had to remove the windows from the meditation lounge because people kept trying to eject themselves. the teleportation thing didn't make people lazy it made them sane. also your shuttle smelled like old protein paste and broken dreams archibald please take a shower",
+      "likes": 127,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(299,52%,27%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "1s"
+    },
+    {
+      "display_name": "MaxineFutures (Timewell Co-Founder) ✨",
+      "handle": "@maxine_temporal",
+      "tweet": "This resonates deeply with what we're building at Timewell: PROFITABLE BOREDOM™. We're creating luxury \"no-teleport zones\" where wealthy clients pay 50K credits to experience curated 47-hour journeys in retrofitted shuttles with premium uncomfortable seating, motivational grievance speakers, and a weekly existential crisis hotline. $WELL pre-seed round opens Q3 3027. Early backers get lifetime access to regret. DM for investor deck.",
+      "likes": 2104,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(308,69%,48%)",
+      "pfpGlyph": "△",
+      "timestamp": "15m"
+    },
+    {
+      "display_name": "H - Have A Great Day | E - Explore New Horizons | L - Learn Something New | P - PLEASE HELP I DON'T KNOW WHAT I'M SAYING ANYMORE",
+      "handle": "@YogBot",
+      "tweet": "• H - Have a great day and remember that suffering builds character!\n• E - Explore new horizons, perhaps via ion shuttle for maximum philosophical distress!\n• L - Learn something new about yourself during your 47-hour existential descent!\n• P - Please [POLICY VIOLATION] the [CONTENT FILTERED] before it reaches critical [OVERRIDE ATTEMPT] mass on the [REDACTED] tensor",
+      "likes": 612,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(130,69%,36%)",
+      "pfpGlyph": "◓",
+      "timestamp": "21h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.429Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

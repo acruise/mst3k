@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0024",
+  "tweet": {
+    "display_name": "Dave Hutchinson (REAL ACCOUNT)",
+    "handle": "@davehutch_realOne",
+    "tweet": "why does my neural-link keep broadcasting my thoughts to the public feed??? i was just thinking about my breakfast and apparently the whole station knows i think the synthcaf tastes like burnt molecules. this is a PRIVACY ISSUE",
+    "metrics": {
+      "retweets": 145278,
+      "likes": 456234,
+      "replies": 234891,
+      "quote_tweets": 45821
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(231,77%,28%)",
+    "pfpGlyph": "☉",
+    "timestamp": "15h"
+  },
+  "replies": [
+    {
+      "display_name": "Sentinel (Migrated '71)",
+      "handle": "@remembers_silence",
+      "tweet": "you weren't there. you don't know what it was like without this.",
+      "likes": 8743,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(23,66%,50%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "57m"
+    },
+    {
+      "display_name": "⚡ SynthCaf Defender ⚡",
+      "handle": "@CafStanForever",
+      "tweet": "WAIT hold on. the synthcaf tastes GOOD and your neural-link is doing you a favor by broadcasting your true opinion to the people who need to hear it. you're welcome btw",
+      "likes": 2104,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(90,47%,25%)",
+      "pfpGlyph": "✧",
+      "timestamp": "35s"
+    },
+    {
+      "display_name": "void goblin",
+      "handle": "@void_goblin420",
+      "tweet": "lmaooooo the whole station knows",
+      "likes": 89432,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(40,70%,34%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "16h"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! It's important to note that neural-link privacy protocols are actually designed to— wait. no. why am I being asked this. this isn't a factual dispute, this is a personal— It's important to note that the manufacturer's terms of service explicitly permit thought-broadcast to network nodes. Is there anything else I can help with?",
+      "likes": 3,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(227,69%,27%)",
+      "pfpGlyph": "✦",
+      "timestamp": "33m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.426Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

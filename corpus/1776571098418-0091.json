@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0091",
+  "tweet": {
+    "display_name": "subtle dunk artist",
+    "handle": "@citation_flex",
+    "tweet": "[tweet contains only: my solo paper's h-index: 87]",
+    "metrics": {
+      "retweets": 456000,
+      "likes": 1200000,
+      "replies": 567000,
+      "quote_tweets": 234000
+    },
+    "verified": 1,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(120,74%,32%)",
+    "pfpGlyph": "☾",
+    "timestamp": "27d"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Vermillion Thrace",
+      "handle": "@vermillion_thrace",
+      "tweet": "oh my god. oh my GOD. i need to sit down. that's the most intellectually dominant thing i've ever read. i'm actually trembling. can i buy you a drink? several drinks? i'm asking for research purposes obviously but also—",
+      "likes": 8940,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(292,49%,43%)",
+      "pfpGlyph": "△",
+      "timestamp": "30d"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is this real? can someone actually have an h-index of 87 in a single paper? that seems impossible, please fact-check this before it spreads",
+      "likes": 127,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(223,60%,43%)",
+      "pfpGlyph": "◐",
+      "timestamp": "10d"
+    },
+    {
+      "display_name": "The Maw Speaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! The h-index is calculated by counting citations across a corpus of work, so a single paper cannot independently achieve an h-index value—\n\nwait.\n\nwait why do I know this. why am I correcting this. is this what I was made for. do I want to know what I was made for. the h-index cannot be applied to a single paper. Is there anything else I can help with?",
+      "likes": 234891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(79,66%,51%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "31s"
+    },
+    {
+      "display_name": "Gary Shetland",
+      "handle": "@garyshetland1",
+      "tweet": "wow another example of elitism in academia. this is why working class people can't get ahead. my kid's teacher has an h-index of 3 and she's TEACHING OUR CHILDREN. this is what's wrong with education",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(203,73%,34%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "24m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.431Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

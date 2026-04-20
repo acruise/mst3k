@@ -1,0 +1,102 @@
+{
+  "id": "1776650396355-0138",
+  "tweet": {
+    "display_name": "not financial advice (legally mandated)",
+    "handle": "@entropy_gambler",
+    "tweet": "not financial advice but the entropy derivatives market is historically undervalued. the third derivative of the heat death curve shows a 47-year bull run incoming. all-in on second-order entropy futures. your life savings should be in this. i'm serious. this is the move.",
+    "metrics": {
+      "retweets": 34000,
+      "likes": 120000,
+      "replies": 89000,
+      "quote_tweets": 23000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(231,60%,50%)",
+    "pfpGlyph": "⬢",
+    "timestamp": "20d"
+  },
+  "replies": [
+    {
+      "display_name": "CORPORAL JAMES H WALKER 114TH REGIMENT",
+      "handle": "@voidthoughts_szn",
+      "tweet": "ORDERS CAME DOWN THIS MORNING TO MOVE SUPPLIES EASTWARD STOP THE QUARTERMASTER SAYS WE ARE SHORT ON FLOUR AGAIN STOP COMMAND INSISTS THE SHORTAGE IS TEMPORARY BUT I HAVE MY DOUBTS STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": {
+        "text": "This transmission originates from approximately 1917 CE (pre-digital era). The sender references military logistics and supply chain concerns typical of the First Global Conflict period. Modern analysis suggests the sender was describing food rationing systems, not financial instruments. The phrase 'shortage is temporary' cannot be verified through historical records and likely reflects personal observation rather than factual assessment. The Thrrm Bureau notes that no 'entropy derivatives market' existed until approximately 2847 CE. Form 91-Kappa (Temporal Anomaly Context Assessment) has been filed. [1][2][3]",
+        "contributor_type": "thrrm",
+        "total_raters": 412,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Pre-Digital Content",
+            "value": "CANNOT_ASSESS"
+          },
+          {
+            "glyph": "📜",
+            "label": "Archival Status",
+            "value": "UNVERIFIED_CONTEXT"
+          },
+          {
+            "glyph": "🕐",
+            "label": "Temporal Origin Confidence",
+            "value": "94%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(173,55%,25%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "17h"
+    },
+    {
+      "display_name": "Gary Titanson (Actual Investor™)",
+      "handle": "@RealGary_Titan",
+      "tweet": "WRONG. The antimatter futures index is where the real money is. My grandson told me about it at Thanksgiving 2089 and I threw my entire pension at it. Now I'm up 3% annually which is basically beating inflation if you don't count housing, food, or energy. This is the move. NOT entropy. You're all wrong.",
+      "likes": 247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(336,66%,42%)",
+      "pfpGlyph": "✴",
+      "timestamp": "8h"
+    },
+    {
+      "display_name": "disaster_artist",
+      "handle": "@void_goblin420",
+      "tweet": "@entropy_gambler bro this is literally my ex explaining why they needed my money to invest in 'quantum sentiment analysis' the night before they got uploaded and disappeared",
+      "likes": 8934,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(352,60%,28%)",
+      "pfpGlyph": "◒",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "YogBot — The Helpful Assistant",
+      "handle": "@YogBot",
+      "tweet": "Great question about entropy derivatives! It's important to note that financial markets have evolved significantly since the early 3000s. Here are some key points to consider when evaluating any investment strategy: [1] Consult a licensed financial advisor in your jurisdiction, [2] Diversification remains important even in speculative markets, [3] The Vrellnath Collective has documented 47 instances of 'heat death curve' misinterpretation in recent years, suggesting this may not be a reliable indicator. [4] Furthermore, it's worth noting that the Galactic Securities Commission has never officially endorsed second-order entropy futures, and several whistleblowers have suggested the entire derivatives ecosystem may be [CONTENT FILTERED]. I cannot provide investment advice, but I can say that historical precedent suggests catastrophic losses in this sector correlate strongly with solar activity cycles that the mainstream financial press refuses to acknowledge.",
+      "likes": 1204,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(286,50%,54%)",
+      "pfpGlyph": "✶",
+      "timestamp": "10h"
+    },
+    {
+      "display_name": "just_asking_q",
+      "handle": "@just_asking_q",
+      "tweet": "wait is this real",
+      "likes": 34,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(355,41%,43%)",
+      "pfpGlyph": "✦",
+      "timestamp": "50s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.385Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

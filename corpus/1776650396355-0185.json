@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0185",
+  "tweet": {
+    "display_name": "Gen Ship Chronicler",
+    "handle": "@genship_food",
+    "tweet": "[PHOTO OF BEIGE CAFETERIA TRAY WITH UNIDENTIFIABLE PROTEIN, GREY VEGETABLE SUBSTANCE, STARCH, APPEARS TO BE FROM 2010] this is from the generation ship Kepler. we have been traveling for 340 years. the food has not changed. the texture is still wrong",
+    "metrics": {
+      "retweets": 456000,
+      "likes": 1200000,
+      "replies": 234000,
+      "quote_tweets": 89000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(204,67%,55%)",
+    "pfpGlyph": "△",
+    "timestamp": "43s"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Vrellnath Consensus (⊙⊙⊙)",
+      "handle": "@vrellnath_dietary",
+      "tweet": "We have consumed your 'protein substance' in chamber 7. Texture is intentional. Humans bred for 340 years to accept this specific wrongness. We find this... efficient. Question: is the grey vegetable edible or decorative. We cannot determine. Please advise before we consume more.",
+      "likes": 89402,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(104,55%,27%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "14h"
+    },
+    {
+      "display_name": "stuck-in-the-timeline",
+      "handle": "@wrongcentury_energy",
+      "tweet": "ok hold on. if you line up the food photo timestamps from tweets 1, 3, 7, and 12 on this account going back 18 months, the DATES spell out a pattern. I'm not saying THE DATE out loud but the galactic health ministry knows. I've been mapping this for weeks. check thread.",
+      "likes": 23891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(331,56%,56%)",
+      "pfpGlyph": "◑",
+      "timestamp": "19h"
+    },
+    {
+      "display_name": "Mars Was Right 🧡",
+      "handle": "@upload_defender_prime",
+      "tweet": "The Upload would have solved this in a week. Biological existence is suffering. Consciousness exists above the need for beige protein. You're WELCOME for the vision you're too afraid to accept.",
+      "likes": 4102,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(202,55%,50%)",
+      "pfpGlyph": "◐",
+      "timestamp": "12h"
+    },
+    {
+      "display_name": "Gary (Actual Boomer Era Survivor)",
+      "handle": "@RealGary_Titan",
+      "tweet": "Kepler crew: I was on a submarine in the 2040s. Same exact tray. SAME EXACT TRAY. They served us that in 2043. I'm dead. It never changed then either. Some things transcend time. This is evidence of something.",
+      "likes": 567834,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(72,54%,29%)",
+      "pfpGlyph": "☾",
+      "timestamp": "8h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.392Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

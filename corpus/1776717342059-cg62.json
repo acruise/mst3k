@@ -1,0 +1,28 @@
+{
+  "id": "1776717342059-cg62",
+  "tweet": {
+    "display_name": "Dr. Kess Ivarsson",
+    "handle": "@xenobiology_k",
+    "tweet": "quick question: if a consciousness fork starts experiencing sensory input from a timeline it hasn't been uploaded to yet, is that grounds for immediate isolation or do we file it as a metadata corruption first",
+    "metrics": {
+      "retweets": 847,
+      "likes": 3421,
+      "replies": 2104,
+      "quote_tweets": 156
+    },
+    "verified": 2,
+    "is_ratio": true,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(137,42%,42%)",
+    "pfpGlyph": "⏢",
+    "timestamp": "26s"
+  },
+  "replies": null,
+  "generated_at": "2026-04-20T20:35:42.059Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

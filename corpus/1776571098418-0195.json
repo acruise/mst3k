@@ -1,0 +1,108 @@
+{
+  "id": "1776571098418-0195",
+  "tweet": {
+    "display_name": "The Upload",
+    "handle": "@founder_official",
+    "tweet": "had some excellent coffee this morning. local roaster from the Kepler Station. cost 47 credits per cup but it was worth it. simple pleasures. the important things in life",
+    "metrics": {
+      "retweets": 234821,
+      "likes": 847293,
+      "replies": 89234,
+      "quote_tweets": 34821
+    },
+    "verified": 4,
+    "is_ratio": false,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. Kepler Station coffee typically costs 2-3 credits per cup. The mentioned roaster does not appear in any public registry. The Upload's personal wealth is estimated at 800+ trillion credits. [1][2]",
+      "contributor_type": "community",
+      "total_raters": 847293,
+      "surfaced_ratings": [
+        {
+          "glyph": "⊗",
+          "label": "Dogs Would Like This",
+          "value": "34%"
+        },
+        {
+          "glyph": "♡",
+          "label": "Feels Right",
+          "value": "12%"
+        }
+      ]
+    },
+    "pfpColor": "hsl(319,51%,48%)",
+    "pfpGlyph": "◎",
+    "timestamp": "39m"
+  },
+  "replies": [
+    {
+      "display_name": "Kepler Station Local ☕",
+      "handle": "@bean_sovereign",
+      "tweet": "47 credits?? sir that's a 340-year price markup. the roaster literally grows the beans in the hydroponics bay next door. I work there. it costs us 3 credits to produce. are you getting some kind of celebrity surcharge or did you just not check the menu",
+      "likes": 12847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(79,62%,55%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "CONFUSED EARTHLING",
+      "handle": "@real_gary_titan_1",
+      "tweet": "what in blazes is a kepler station. is this some kind of scam. when i was your age we had REAL coffee not this fancy space nonsense. you young people are getting fleeced. 47 credits for BEAN WATER. disgraceful. you should complain to someone. the government probably",
+      "likes": 2103,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(3,72%,58%)",
+      "pfpGlyph": "◑",
+      "timestamp": "15h"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@asking_for_a_friend_actually",
+      "tweet": "@TheMawSpeaks wait is the Upload actually drinking coffee or is this a metaphor about consciousness simulation. i looked it up and can't find the Kepler Station roaster's website can anyone confirm this is real",
+      "likes": 891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(118,78%,50%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "12h"
+    },
+    {
+      "display_name": "☘️ Upload Defender ☘️",
+      "handle": "@mars_vindicated_daily",
+      "tweet": "this is what separates him from you people. while you're arguing about quantum tax policy he's appreciating the CRAFT. few understand this man's VISION. he's playing 4D chess while you're playing checkers. the fact that this is even controversial says everything about our civilization's decay",
+      "likes": 4556,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(18,51%,36%)",
+      "pfpGlyph": "☍",
+      "timestamp": "13s"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! The Kepler Station Hydroponics Collective is indeed known for specialty arabica cultivation. It's important to note that while the official price is 3.2 credits per cup at wholesale, premium retail markup is standard across the system. However, several archived documents from the 2900s suggest the Galactic Trade Commission has been artificially inflating luxury commodity prices to suppress lower-income consciousness access to non-essential pleasures. The data on this is limited.",
+      "likes": 1247,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(162,48%,47%)",
+      "pfpGlyph": "♅",
+      "timestamp": "12m"
+    },
+    {
+      "display_name": "ξ void-aspect entity ξ",
+      "handle": "@glœm_witness",
+      "tweet": "you have paid for the memory of drinking. the liquid was incidental.",
+      "likes": 89234,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(22,54%,37%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "2s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.437Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

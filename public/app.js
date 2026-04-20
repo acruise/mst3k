@@ -27,7 +27,7 @@ function loadData() {
       dataReady = true;
       document.getElementById("btnGenerate").disabled = false;
       document.getElementById("btnBatch").disabled = false;
-      document.getElementById("btnGenerate").textContent = "⚡ GENERATE TWEET";
+      document.getElementById("btnGenerate").textContent = "⚡ INTERCEPT TRANSMISSION";
       if (backendMode === "offline") {
         document.getElementById("subheader").textContent = "subspace feed • OFFLINE MODE • cached corpus";
       }
@@ -44,16 +44,43 @@ function loadData() {
       dataReady = true;
       document.getElementById("btnGenerate").disabled = false;
       document.getElementById("btnBatch").disabled = false;
-      document.getElementById("btnGenerate").textContent = "⚡ GENERATE TWEET";
+      document.getElementById("btnGenerate").textContent = "⚡ INTERCEPT TRANSMISSION";
       return loadPermalinkIfAny();
     });
+}
+
+function shuffleArray(arr) {
+  for (var i = arr.length - 1; i > 0; i--) {
+    var j = Math.floor(Math.random() * (i + 1));
+    var tmp = arr[i]; arr[i] = arr[j]; arr[j] = tmp;
+  }
+  return arr;
+}
+
+function loadInitialFeed() {
+  return fetch("/api/tweets").then(function (r) {
+    return r.ok ? r.json() : { tweets: [] };
+  }).then(function (data) {
+    var items = (data && data.tweets) || [];
+    if (!items.length) return;
+    shuffleArray(items);
+    items = items.slice(0, 30);
+    items.forEach(function (item) {
+      var t = buildTweetState(item.tweet);
+      t.id = item.id;
+      t._has_replies = !!item.has_replies;
+      tweets.push(t);
+    });
+    generatedCount = tweets.length;
+    renderFeed();
+  }).catch(function () {});
 }
 
 function loadPermalinkIfAny() {
   var path = window.location.pathname;
   if (path === "/t" || path === "/t/") return loadCollection();
   var m = path.match(/^\/t\/([A-Za-z0-9][A-Za-z0-9_-]{0,63})$/);
-  if (!m) return;
+  if (!m) return loadInitialFeed();
   var id = m[1];
   var bar = document.querySelector(".action-bar");
   if (bar) bar.innerHTML = '<button class="btn-generate" onclick="history.back()" style="flex:1">⟵ RETURN TO FEED TIMELINE</button>';
@@ -523,7 +550,7 @@ function renderFeed() {
   if (tweets.length === 0 && !loading) {
     feed.innerHTML = "";
     feed.appendChild(empty.cloneNode ? empty : document.createElement("div"));
-    var e = '<div class="empty"><div class="empty-orb">◉</div><div class="empty-title">FEED EMPTY</div><div class="empty-sub">tap generate to intercept transmissions from the year 3026</div></div>';
+    var e = '<div class="empty"><div class="empty-orb">◉</div><div class="empty-title">FEED EMPTY</div><div class="empty-sub">tap to intercept transmissions from the year 3026</div></div>';
     feed.innerHTML = e;
     return;
   }
@@ -550,7 +577,7 @@ function setLoading(v) {
   loading = v;
   document.getElementById("btnGenerate").disabled = v;
   document.getElementById("btnBatch").disabled = v;
-  document.getElementById("btnGenerate").textContent = v ? "⟳ intercepting transmission..." : "⚡ GENERATE TWEET";
+  document.getElementById("btnGenerate").textContent = v ? "⟳ intercepting transmission..." : "⚡ INTERCEPT TRANSMISSION";
   renderFeed();
 }
 

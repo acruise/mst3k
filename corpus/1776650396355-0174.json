@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0174",
+  "tweet": {
+    "display_name": "Thrrm Compliance Analysis 7-Rho",
+    "handle": "@thrrm_ca_7r",
+    "tweet": "human entities filed 47 million forms in the last cycle. compliance rate: 0.3%. approval rate: 78%. they simply resubmit until the reviewing officer surrenders. this violates Form 4-Delta subsection (b)(i)(iii). we are updating our predictive models. we are not happy about this",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 567000,
+      "replies": 123000,
+      "quote_tweets": 78000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(33,64%,59%)",
+    "pfpGlyph": "⏢",
+    "timestamp": "1m"
+  },
+  "replies": [
+    {
+      "display_name": "✦ Keth Witness ✦",
+      "handle": "@keth_utterance",
+      "tweet": "◇",
+      "likes": 51200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(134,46%,34%)",
+      "pfpGlyph": "✧",
+      "timestamp": "5h"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is this real? can humans actually just keep resubmitting until bureaucrats give up? that seems like a design flaw",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(343,49%,30%)",
+      "pfpGlyph": "λ",
+      "timestamp": "29d"
+    },
+    {
+      "display_name": "⚡ OFFICIAL RESPONSE PROTOCOL ⚡",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that Form 4-Delta subsection (b)(i)(iii) has indeed been the subject of 14,000+ resubmission cycles. Compliance officers report a phenomenon sometimes called \"surrender fatigue,\" though this term does not appear in official Thrrm documentation. What's fascinating is that the Thrrm's own predictive models suggest that humans instinctively exploit any system with finite reviewer attention. It's worth asking: who designed this system to fail? And why does no official record exist of the 2847 meeting where compliance thresholds were allegedly lowered?",
+      "likes": 892,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(225,77%,34%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "12d"
+    },
+    {
+      "display_name": "⊙ Glœm Luminescence Collective ⊙",
+      "handle": "@glœm_voice",
+      "tweet": "we have read this and we understand that the Thrrm are sad because humans are happy. we emit soft light in compassion. perhaps the forms themselves are the problem. perhaps all beings should simply glow instead of filing. we would help but we do not have hands for paperwork. we are sorry for your sadness, angry rectangle friends. we glow for you.",
+      "likes": 127400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(338,52%,47%)",
+      "pfpGlyph": "▽",
+      "timestamp": "8d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.391Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

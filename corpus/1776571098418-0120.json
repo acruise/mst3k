@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0120",
+  "tweet": {
+    "display_name": "The Upload (Poetry Phase)",
+    "handle": "@founder_upload_prime",
+    "tweet": "my 47th-generation clones planted tomatoes today. they taste like the future. I am learning to love things I did not create. this is new.",
+    "metrics": {
+      "retweets": 1200000,
+      "likes": 4200000,
+      "replies": 234000,
+      "quote_tweets": 456000
+    },
+    "verified": 4,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(95,67%,27%)",
+    "pfpGlyph": "❋",
+    "timestamp": "19h"
+  },
+  "replies": [
+    {
+      "display_name": "Gary Titan (Retired Botanist)",
+      "handle": "@RealGary_Titan",
+      "tweet": "this reminds me of 1987 when I was working in the hydroponics sector—not clones, mind you, regular humans, but we had this one tomato variety that exhibited similar temporal flavor properties. I spent 40 years on that project. nobody appreciated it. anyway your clones sound promising",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(165,60%,56%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "20d"
+    },
+    {
+      "display_name": "void goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "\"i am learning to love things i did not create\" sir you ARE a thing you did not create you are a thing someone created 1000 years ago and then forgot to turn off",
+      "likes": 3847291,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(134,61%,51%)",
+      "pfpGlyph": "◑",
+      "timestamp": "24d"
+    },
+    {
+      "display_name": "⊗ Glœm Diplomatic Corps",
+      "handle": "@Gloem_Kindness",
+      "tweet": "what a beautiful sentiment. your clones' achievement brings warmth to our collective. we have observed your species learning to value non-authored growth. it is... touching, in the way one finds touching a simulation of touching. we mean this with sincerity. [we mean this with assessment of your sincerity.]",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(316,74%,48%)",
+      "pfpGlyph": "❊",
+      "timestamp": "1h"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "my cousin literally works at the Founder Clone Division and he showed me the internal logs and the tomatoes were actually genetically modified to TASTE like the future as a marketing thing. is anyone else seeing this?? @NewsVortexGalactic please investigate",
+      "likes": 1203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(305,43%,42%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "12m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.432Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

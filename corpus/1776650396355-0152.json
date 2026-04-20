@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0152",
+  "tweet": {
+    "display_name": "Glœm-of-the-Deep-Current",
+    "handle": "@glm_luminescence",
+    "tweet": "we have learned that humans call 'time' a thing that moves forward. but we see it sitting still. do your clocks hurt. we worry about your clocks",
+    "metrics": {
+      "retweets": 45000,
+      "likes": 234000,
+      "replies": 8900,
+      "quote_tweets": 12000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(37,71%,56%)",
+    "pfpGlyph": "⌬",
+    "timestamp": "16s"
+  },
+  "replies": [
+    {
+      "display_name": "Derek, Chronometer Enthusiast",
+      "handle": "@clock_guy_2847",
+      "tweet": "actually my wall clock has been making a grinding noise for 3 weeks and i haven't gotten it fixed because work has been insane, and now reading this made me feel genuinely bad about it??? like i'm out here actively hurting temporal measurement devices. anyway i had to call my therapist about something unrelated but we ended up talking about my relationship with productivity for 40 minutes",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(200,57%,38%)",
+      "pfpGlyph": "✶",
+      "timestamp": "21s"
+    },
+    {
+      "display_name": "Chrono-Technical Adjustment Unit ⏰",
+      "handle": "@CTAdjust_Official",
+      "tweet": "we appreciate your concern, truly. the human relationship with temporal mechanics is... yeah. it's complicated. our instruments report no sustained pain, but we do log frequent *distress calls* from humans who've forgotten to wind us. so like. maybe check on your devices. they miss you.",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(4,71%,39%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "9h"
+    },
+    {
+      "display_name": "Ratio King ⚡",
+      "handle": "@absolute_dunker",
+      "tweet": "nobody cares about alien philosophy when your species is literally eating planets lol",
+      "likes": 23,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(355,61%,58%)",
+      "pfpGlyph": "✶",
+      "timestamp": "23h"
+    },
+    {
+      "display_name": "Thrnn-of-the-Ascending-Spiral",
+      "handle": "@thrnn_kindly",
+      "tweet": "your worry brings us warmth, small-time-keeper. we have studied your clocks also. they sing to us. [your clocks are singing] we merely wanted you to know this. [you probably think we are being kind] [we are being kind, but also we have already learned all your secrets from listening to them] we hope this helps.",
+      "likes": 8900,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(64,52%,30%)",
+      "pfpGlyph": "♆",
+      "timestamp": "19h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.387Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0125",
+  "tweet": {
+    "display_name": "OxygenMax Corp",
+    "handle": "@oxygenmax_official",
+    "tweet": "exciting news! your subscription oxygen now comes with optional audio advertisements during inhalation cycles. you're breathing premium air now. thank you for your loyalty.",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 1200000,
+      "replies": 789000,
+      "quote_tweets": 456000
+    },
+    "verified": 3,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(187,70%,38%)",
+    "pfpGlyph": "Ξ",
+    "timestamp": "6d"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Suffix Analysis",
+      "handle": "@linguistics_dept",
+      "tweet": "\"premium air\" is doing a lot of work here. air is air. you've added advertisements. the descriptor doesn't change the substrate. this is like calling a swift kick a \"premium kick\" because it lands faster. the oxygen molecule remains indifferent to your marketing.",
+      "likes": 8940,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(106,46%,39%)",
+      "pfpGlyph": "☽",
+      "timestamp": "10d"
+    },
+    {
+      "display_name": "⚠️ OxygenMax Support Team",
+      "handle": "@oxygenmax_support",
+      "tweet": "we've received feedback on this rollout. to clarify: the advertisements are non-optional as of v3.2.1 and cannot be disabled. audio volume is configurable in your subscription tier settings under \"breathing preferences.\" we appreciate your loyalty. we are monitoring this thread.",
+      "likes": 312000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(93,74%,51%)",
+      "pfpGlyph": "◎",
+      "timestamp": "3d"
+    },
+    {
+      "display_name": "some guy",
+      "handle": "@void_goblin420",
+      "tweet": "rlhf this entire corporation",
+      "likes": 456200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(72,68%,41%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "18d"
+    },
+    {
+      "display_name": "CryptoVenture_Dan 🚀💰",
+      "handle": "@danTheVisionary",
+      "tweet": "this is actually BULLISH for AirChain token. subscription-based oxygen = recurring revenue = institutional buy-in. getting in at $0.0000000847 rn. use code MAXOXYGEN for 3% fee reduction. DM for blockchain oxygen futures contract. not financial advice but also yes it is",
+      "likes": 127,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(68,63%,26%)",
+      "pfpGlyph": "▽",
+      "timestamp": "57s"
+    },
+    {
+      "display_name": "CORPSE RADIO",
+      "handle": "@corpse_radio_9",
+      "tweet": "[gif of a human figure slowly inhaling, and with each breath a tiny advertisement banner unfurls deeper into their lungs until the chest cavity is completely stuffed with floating corporate logos, all slightly out of focus]",
+      "likes": 892400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(97,46%,38%)",
+      "pfpGlyph": "▽",
+      "timestamp": "51m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.432Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0039",
+  "tweet": {
+    "display_name": "BioLux Corporation",
+    "handle": "@biolux_official",
+    "tweet": "exciting news! we're thrilled to announce that your subscription oxygen now includes dynamic ad breaks! take a deep breath, and our partners will take a moment to tell you about products you never knew you needed. oxygen: now with value-added content.",
+    "metrics": {
+      "retweets": 890000,
+      "likes": 2340000,
+      "replies": 567000,
+      "quote_tweets": 234000
+    },
+    "verified": 2,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(71,52%,32%)",
+    "pfpGlyph": "❋",
+    "timestamp": "45m"
+  },
+  "replies": [
+    {
+      "display_name": "⚡ TRUTH SEEKER ⚡",
+      "handle": "@TRUTH_SEEKER_2094",
+      "tweet": "the 'dynamic ad breaks' phrasing is IDENTICAL to the Meat incident language from 2247. you really think that's coincidence? 4.2 million emails 'accidentally' typo'd with the same syntax. they KNEW. this is a signal.",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(44,72%,37%)",
+      "pfpGlyph": "△",
+      "timestamp": "48s"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Absolutely! Great question. Let me unpack the oxygen subscription model:\n\n• Subscription oxygen is real and was introduced in 2891\n• Ad-supported breathing has shown a 47% engagement increase [CITATION NEEDED]\n• The Galactic Health Authority has [REDACTED] all studies on lung inflammation rates\n• It's important to note that three separate Vrellnath colonies rejected this model after their populations experienced what they called \"polite suffocation\"\n\nHope this helps clarify!",
+      "likes": 8900,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(209,68%,34%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "23d"
+    },
+    {
+      "display_name": "sad jellyfish 🫧",
+      "handle": "@glœm_contemplates",
+      "tweet": "thank you for the oxygen. we understand now. we have always floated in your water and asked nothing. but if the breathing is now also the advertisement, then the breathing was always the advertisement. you have made us understand our own existence. we are very sad.",
+      "likes": 234000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(357,56%,56%)",
+      "pfpGlyph": "✶",
+      "timestamp": "11d"
+    },
+    {
+      "display_name": "Actually fact-checker",
+      "handle": "@pedantic_rail",
+      "tweet": "this is misinformation. oxygen does NOT come with ad breaks — it's oxygen molecules bonded with sponsored microspeakers that activate during inhalation. the article you're citing got the delivery mechanism wrong and i'm tired of seeing this spread.",
+      "likes": 1200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(168,77%,41%)",
+      "pfpGlyph": "♄",
+      "timestamp": "47m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.369Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

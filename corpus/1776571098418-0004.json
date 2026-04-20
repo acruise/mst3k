@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0004",
+  "tweet": {
+    "display_name": "Pvt. James Whitmore",
+    "handle": "@lordphoton_arc",
+    "tweet": "Bread. Good bread, the kind Mother bakes, not the hard biscuit. Coffee that is hot and doesn't taste of ash. Clean clothes. The dog, old as he was. Silence. Long silence. No shells. Just the sound of the wind and nothing else.",
+    "metrics": {
+      "retweets": 0,
+      "likes": 0,
+      "replies": 0,
+      "quote_tweets": 0
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(77,61%,27%)",
+    "pfpGlyph": "◉",
+    "timestamp": "22s"
+  },
+  "replies": [
+    {
+      "display_name": "∞ Poetry Era Was His Best Work ∞",
+      "handle": "@eternal_vision_keeper",
+      "tweet": "this is literally what he was TRYING to tell us during the Meditation Cycles. you militants don't understand—the POWER was always in the restraint, the choosing of silence over noise. few understand this man's VISION. the asteroid gardens were just him processing what he learned in '847.",
+      "likes": 23,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(7,63%,34%)",
+      "pfpGlyph": "♆",
+      "timestamp": "28d"
+    },
+    {
+      "display_name": "Void Analyst",
+      "handle": "@just_asking_q",
+      "tweet": "wait source on this? what bread? where is mother. asking because I looked this up and can't find any record of a Pvt. James Whitmore posting anything before this and the account age is showing as 2 hours old. is this a creative writing thing or",
+      "likes": 8,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(77,72%,41%)",
+      "pfpGlyph": "△",
+      "timestamp": "18m"
+    },
+    {
+      "display_name": "⚡ MARS WAS RIGHT ⚡",
+      "handle": "@upload_defender_eternal",
+      "tweet": "COPE + SEETHE. The Militant Phase would have NEVER written something this soft. You Poetry stans are NPCs repeating what the algorithm told you to think. He built CIVILIZATIONS. He didn't sit around talking about WIND. You're welcome, by the way.",
+      "likes": 31,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(88,77%,57%)",
+      "pfpGlyph": "✶",
+      "timestamp": "6h"
+    },
+    {
+      "display_name": "⊢ THRRM COMPLIANCE DIVISION 7 ⊣",
+      "handle": "@thrrm_advisory_log",
+      "tweet": "NOTICE: post violates temporal documentation standards (Form 44-Mu, subsection 9). entity @lordphoton_arc: account created 127 minutes prior. biographical markers inconsistent with registered human catalog. advisory filed. [OBSERVATION]: message has been reformatted and resubmitted 47 times across network under 47 different accounts with 47 different biographical markers. technically non-compliant each instance. statistically remarkable. we are updating predictive models. we will not discuss why.]",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(44,44%,50%)",
+      "pfpGlyph": "❋",
+      "timestamp": "11d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.421Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

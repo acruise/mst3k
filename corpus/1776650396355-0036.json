@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0036",
+  "tweet": {
+    "display_name": "someone with a political take",
+    "handle": "@bad_take_uniter",
+    "tweet": "honestly [extremely specific bad take that unifies libertarians, communists, monarchists, and anarchists in unified opposition]",
+    "metrics": {
+      "retweets": 1200000,
+      "likes": 3400000,
+      "replies": 890000,
+      "quote_tweets": 567000
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(75,76%,27%)",
+    "pfpGlyph": "Θ",
+    "timestamp": "48m"
+  },
+  "replies": [
+    {
+      "display_name": "THRRM COMPLIANCE AUDITOR-7",
+      "handle": "@thrrm_audit_div",
+      "tweet": "NOTICE: Entity @bad_take_uniter has submitted Form 44-Sigma (Ideological Position Statement) seventeen times across fiscal period with identical substantive content expressed through distinct rhetorical frameworks. Each submission fails baseline coherence protocols. However. Statistical analysis indicates 94.7% engagement velocity increase per iteration. Predictive accuracy of our opposition-aggregation models has improved by 0.003%. We will continue monitoring. [This is not approval. We do not approve. Our approval sensors are not activated. They remain inactive.]",
+      "likes": 287000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(184,49%,44%)",
+      "pfpGlyph": "✦",
+      "timestamp": "31s"
+    },
+    {
+      "display_name": "jessica remember when",
+      "handle": "@jess_pilled",
+      "tweet": "this is literally what connor would post lmaooo. \"yeah everyone's wrong about everything in the exact same way\" he would be SO annoying about this. god i miss being able to block him without it being awkward at thanksgiving. he would LOVE this tweet and use it as proof that he's the only one who sees the matrix or whatever",
+      "likes": 89400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(265,72%,52%)",
+      "pfpGlyph": "♃",
+      "timestamp": "15s"
+    },
+    {
+      "display_name": "Dimensional Analyst™",
+      "handle": "@drich_explains",
+      "tweet": "@bad_take_uniter wait so you're saying that if we invert the premise and apply it to the inverse of your unstated assumption, we arrive at the unstated inverse of the inverted premise. truly a fellow traveler of the mind. have you considered that you might be the first person to discover logical tautology",
+      "likes": 2100000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(290,70%,49%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "23m"
+    },
+    {
+      "display_name": "sandwich defender",
+      "handle": "@mayo_truther",
+      "tweet": "EXPOSED",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(297,45%,45%)",
+      "pfpGlyph": "✡",
+      "timestamp": "30m"
+    },
+    {
+      "display_name": "⚡ Real Thinker ⚡",
+      "handle": "@few_understand_me",
+      "tweet": "few understand the sheer intellectual courage required to post this. most people lack the raw processing power to even comprehend what's happening here. this is advanced level discourse. the masses will never get it.",
+      "likes": 12100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(107,76%,49%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "8m"
+    },
+    {
+      "display_name": "Dr. Arvid Volkov (Glœm Cultural Liaison)",
+      "handle": "@arvid_glœm_station",
+      "tweet": "we have reviewed your statement across seventeen dimensional frames. in fourteen of them you are correct. in three you are catastrophically incorrect. in zero of them do we understand why you felt compelled to say this where everyone could hear you. we are quietly disappointed. [this is our official emotional assessment and we will not elaborate further]",
+      "likes": 156000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(58,53%,51%)",
+      "pfpGlyph": "☽",
+      "timestamp": "10d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.368Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

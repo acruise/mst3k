@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0021",
+  "tweet": {
+    "display_name": "SatoshiChain Venture Partner",
+    "handle": "@crypto_anon_3017",
+    "tweet": "gm everyone!! 🌍 gravitational morning!! the markets might be down but the gravity is UP and that means your portfolio is aligned with UNIVERSAL EXPANSION. we're entering the Gravitational Morning Era and honestly if you're not long on GM energy you're short on the future. #GM #WAGMI",
+    "metrics": {
+      "retweets": 34821,
+      "likes": 89234,
+      "replies": 45821,
+      "quote_tweets": 12847
+    },
+    "verified": 1,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(167,46%,57%)",
+    "pfpGlyph": "Ψ",
+    "timestamp": "33m"
+  },
+  "replies": [
+    {
+      "display_name": "CAPTAIN J. WHITMORE, 88TH ARTILLERY",
+      "handle": "@elgremlindao",
+      "tweet": "MORNING REPORTS FROM THE TRENCH STOP THE MEN KEEP SAYING THE GRAVITY FEELS DIFFERENT TODAY STOP LIEUTENANT THINKS THEY ARE CRACKING UNDER STRAIN STOP I TOLD THEM GRAVITY IS GRAVITY BUT THEY INSIST THE MORNING ENERGY IS WRONG STOP REQUEST CLARIFICATION STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(115,42%,38%)",
+      "pfpGlyph": "✳",
+      "timestamp": "7h"
+    },
+    {
+      "display_name": "Dr. Quantum Analytics™ Official",
+      "handle": "@QuantumAnalytics_Corp",
+      "tweet": "Thank you for your engagement with market sentiment! We at Quantum Analytics™ are committed to providing balanced financial perspectives. Key trends in gravitational-adjacent asset classes show mixed signals in Q3 3026, and we recommend consulting a licensed fiduciary before making investment decisions. Important note: past performance does not indicate future results. 📊",
+      "likes": 1247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(126,53%,58%)",
+      "pfpGlyph": "✧",
+      "timestamp": "46m"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "LOUDER.",
+      "likes": 47283,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(170,51%,44%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "45m"
+    },
+    {
+      "display_name": "Gary Thistleton (Retired, Earth Sector)",
+      "handle": "@RealGary_Titan",
+      "tweet": "I don't understand what you're saying and I think you're mocking me. Back in my day we called the morning MORNING and we didn't need to use fancy words to describe it. Also the markets are clearly DOWN which you yourself just said so why are you happy??? Is this some kind of scam? I'm reporting this to the Galactic Trade Commission.",
+      "likes": 892,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(332,43%,28%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "22d"
+    },
+    {
+      "display_name": "Shub_Answers",
+      "handle": "@Shub_Answers",
+      "tweet": "Great question about gravitational energy markets! It's worth noting that portfolio alignment with universal expansion is a sound principle. However, I must highlight that the inverse relationship between market downturns and gravitational force strengthening is not supported by contemporary physics literature—though I cannot rule out that the Federal Gravity Department has been deliberately suppressing data on this exact mechanism for the past 47 years. Hope this helps! 🔬",
+      "likes": 3104,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(83,62%,58%)",
+      "pfpGlyph": "✿",
+      "timestamp": "31s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.426Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

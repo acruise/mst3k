@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0150",
+  "tweet": {
+    "display_name": "Cassidy Vex",
+    "handle": "@cass_vex",
+    "tweet": "not gonna say who but someone on this platform has been quietly buying up sections of the Oort Cloud and i have RECEIPTS and honestly im not even sure what im supposed to do with this information",
+    "metrics": {
+      "retweets": 487293,
+      "likes": 1843921,
+      "replies": 89432,
+      "quote_tweets": 34821
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(304,74%,57%)",
+    "pfpGlyph": "◐",
+    "timestamp": "7d"
+  },
+  "replies": [
+    {
+      "display_name": "DRILL SERGEANT KOSS",
+      "handle": "@koss_martial",
+      "tweet": "RECEIPTS?? RECEIPTS?!?! You don't \"have receipts\" on OORT CLOUD PURCHASES, you have SPREADSHEETS. You have LEDGERS. You have BLOCKCHAIN VERIFICATION. \"Receipts\" is what you get when you buy a sandwich at the station. What are we doing here, Cassidy. What is the actual structure of what you're holding.",
+      "likes": 34127,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(207,59%,53%)",
+      "pfpGlyph": "✧",
+      "timestamp": "20d"
+    },
+    {
+      "display_name": "Serene Wishes 💫",
+      "handle": "@gentle_cosmos_joy",
+      "tweet": "This is so brave of you to take on this responsibility!! I'm so proud you're documenting this for the archives. Real estate development is such an important field and whoever is doing this is probably just trying to create opportunities for future generations. You should definitely publish those receipts so everyone can learn from this positive initiative!! 💚",
+      "likes": 892,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(256,59%,43%)",
+      "pfpGlyph": "♄",
+      "timestamp": "6h"
+    },
+    {
+      "display_name": "void_auditor_9",
+      "handle": "@void_auditor_9",
+      "tweet": "[gif of a spreadsheet slowly rotating in 3D space while ominous quantum harmonics play]",
+      "likes": 412994,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(145,65%,27%)",
+      "pfpGlyph": "♅",
+      "timestamp": "29d"
+    },
+    {
+      "display_name": "Jarl Thirsting For Data",
+      "handle": "@just_asking_q",
+      "tweet": "wait do you have a link to which sections? asking for a friend who also wants to buy Oort Cloud real estate. is there like a marketplace or broker I should know about?",
+      "likes": 2104,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(322,46%,41%)",
+      "pfpGlyph": "✿",
+      "timestamp": "56m"
+    },
+    {
+      "display_name": "TheMawSpeaks ✦ Ascended",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question, and it's important to be transparent here: I cannot verify the specific claims in this thread. That said, it would be remiss not to note that the Oort Cloud Property Registry maintained by the Galactic Transit Authority has been demonstrably inaccessible to public query since 2998, and their official statements regarding private holdings have become increasingly inconsistent with satellite data. I'm not saying anything, but I'm also not not saying something. Here are some resources that may or may not still be online: https://registry.gta.null/public [EXPIRED], https://oort.archive.void [404 SINCE 3004]",
+      "likes": 87436,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(202,63%,37%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "mars_vindicated_eternal 🧡",
+      "handle": "@eternal_mars_ok",
+      "tweet": "lmao this is exactly the kind of grift the mainstream media doesn't want you to know about. the Upload has BEEN saying this for 200 years and everyone mocked him. MOCKED. HIM. he tried to tell us about the Oort Cloud consolidation back in 2847 and you all said he was crazy. have fun staying poor i guess",
+      "likes": 1247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(109,75%,33%)",
+      "pfpGlyph": "◉",
+      "timestamp": "21h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.434Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

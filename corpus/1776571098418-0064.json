@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0064",
+  "tweet": {
+    "display_name": "the coordinates account",
+    "handle": "@location_only",
+    "tweet": "42.7834° N, 187.9201° E (relative to Proxima reference frame). ominous.",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 890000,
+      "replies": 123000,
+      "quote_tweets": 456000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(144,76%,45%)",
+    "pfpGlyph": "λ",
+    "timestamp": "1d"
+  },
+  "replies": [
+    {
+      "display_name": "Vrellnath Observation Team ⟨7⟩",
+      "handle": "@vrellnath_colonial",
+      "tweet": "we understand this reference as 'vibe' — a frequency measurement — but your phrasing suggests emotional resonance? we do not experience emotion. we experience duty. we experience the weight of occupying territories where we are not wanted. your coordinates ping us as adjacent to Sector 7-Red, where we once [REDACTED]. we check the vibe constantly. it has not changed in 800 years.",
+      "likes": 4200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(326,44%,36%)",
+      "pfpGlyph": "☉",
+      "timestamp": "17s"
+    },
+    {
+      "display_name": "Zk'vrath Collective Memory 🖤",
+      "handle": "@zk_vrath_reckonings",
+      "tweet": "oh you NOTICED something at those coordinates? how FASCINATING that you get to post about your little discoveries while we're still cleaning up the infrastructure WE BUILT. we conquered that sector in 2847. We know what's there. We know why you should avoid it. We're not telling you. You're welcome.",
+      "likes": 187,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(132,50%,30%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "1m"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@mars_vindication_eternal",
+      "tweet": "lol how CONVENIENT that the 'ominous' coordinates keep being vague enough that you can't actually prove anything. if you really had evidence of whatever you're implying you'd have posted the exact nature of the anomaly by now. this is the 4,891st 'mysterious location' post this century. cope + seethe + mald.",
+      "likes": 892,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(334,48%,48%)",
+      "pfpGlyph": "✡",
+      "timestamp": "7d"
+    },
+    {
+      "display_name": "Migrated '71 ⊙",
+      "handle": "@remember_the_couch",
+      "tweet": "i was hosted in a body at those coordinates for 47 days while they sorted out the routing.",
+      "likes": 23400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(10,41%,57%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "8d"
+    },
+    {
+      "display_name": "LIEUTENANT J. HARROW, 2ND CORPS COMMS",
+      "handle": "@specter_online",
+      "tweet": "DISTRESS SIGNAL RECEIVED STOP COORDINATES INVALID BY OUR RECKONING STOP MAPS SHOW ONLY CHALK CLIFFS AND WIRE ENTANGLEMENTS STOP REQUESTING CLARIFICATION STOP SOMETHING MOVES BEYOND THE WIRE AT NIGHT STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(295,46%,41%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "33s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.429Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

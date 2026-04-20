@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0057",
+  "tweet": {
+    "display_name": "dark energy bro 💎",
+    "handle": "@futures_trader_420",
+    "tweet": "JUST WENT ALL IN ON DARK ENERGY CONTRACTS 🚀🚀 UP 340% IN 47 MINUTES 💰 THIS IS THE ONE 📈 DIAMOND HANDS ONLY 💎\n\n(screenshot: -40.2%)",
+    "metrics": {
+      "retweets": 89000,
+      "likes": 234000,
+      "replies": 156000,
+      "quote_tweets": 45000
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(124,69%,28%)",
+    "pfpGlyph": "❃",
+    "timestamp": "11h"
+  },
+  "replies": [
+    {
+      "display_name": "just asking questions 🔍",
+      "handle": "@skeptical_citizen_2847",
+      "tweet": "@TheMawSpeaks is this real? like is he saying he's UP or DOWN? the emoji math isn't checking out",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(1,46%,47%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "14s"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! While I cannot verify the precise timestamp of this transaction, it's worth noting that dark energy contracts have historically exhibited 340% volatility spikes in precisely 47-minute windows, typically preceding what regulators describe as 'catastrophic sector-wide devaluation events.' This is normal market behavior. It's also important to note that the Galactic Futures Commission has never publicly commented on whether screenshots showing negative returns while claiming positive returns constitute what the classified briefing documents refer to as 'aspirational accounting.' Hope this helps!",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(199,57%,56%)",
+      "pfpGlyph": "✶",
+      "timestamp": "59m"
+    },
+    {
+      "display_name": "Derek Absolutely Does Not Trade",
+      "handle": "@derek_observes",
+      "tweet": "bro the screenshot says -40.2% but you wrote UP 340%\n\nthat's not a typo, that's you just choosing a different reality",
+      "likes": 89300,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(43,56%,52%)",
+      "pfpGlyph": "◐",
+      "timestamp": "7h"
+    },
+    {
+      "display_name": "Eternal Margot 🧡",
+      "handle": "@margot_timepiece_2723",
+      "tweet": "my late husband walter and i have been following the Upload's market wisdom since 2847 and i need everyone to know that this young man is PLAYING 4D CHESS. yes the screenshot says negative. yes his WORDS say positive. this is EXACTLY the kind of contrarian thinking that built three asteroids. walter would have LOVED this energy. stay strong sweetheart 🧡",
+      "likes": 1240,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(279,76%,58%)",
+      "pfpGlyph": "✿",
+      "timestamp": "3d"
+    },
+    {
+      "display_name": "compliance.optional | Thrrm Liaison",
+      "handle": "@thrrm_desk_447",
+      "tweet": "look. look i actually respect the audacity here (per Advisory 7-Rho, subsection 4, which i am formally endorsing in this public forum, against counsel) because the sheer VOLUME of the lie is almost — it's almost *honest* — but i need to flag this under Form 12-Mu and also i can't actually say why and also several of my colleagues are now watching me type this so i'm going to stop",
+      "likes": 4100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(118,61%,51%)",
+      "pfpGlyph": "☽",
+      "timestamp": "9m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.373Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

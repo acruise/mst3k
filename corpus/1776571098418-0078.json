@@ -1,0 +1,108 @@
+{
+  "id": "1776571098418-0078",
+  "tweet": {
+    "display_name": "screenshot account",
+    "handle": "@aged_like_milk",
+    "tweet": "[screenshot of a 2987 post: 'the asteroid mining infrastructure is completely safe. nothing will go wrong. the safety protocols are industry-leading'] this aged well",
+    "metrics": {
+      "retweets": 345000,
+      "likes": 1200000,
+      "replies": 67000,
+      "quote_tweets": 89000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(147,71%,56%)",
+    "pfpGlyph": "ψ",
+    "timestamp": "42s"
+  },
+  "replies": [
+    {
+      "display_name": "Orbital Debris Enthusiast",
+      "handle": "@debristrack_official",
+      "tweet": "the 2987 report literally said 'contingency protocols sufficient for 99.7% of impact scenarios' and everyone just forgot that means 1 in 300 chance of total infrastructure failure. we knew. we KNEW.",
+      "likes": 89432,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(148,50%,37%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "12h"
+    },
+    {
+      "display_name": "THRRM REGULATORY AUTHORITY — SECTOR 7",
+      "handle": "@thrrm_compliance_7",
+      "tweet": "See *Bureau Registry v. Human Collective, Third Amended (2847)*. You know what paragraph 4 says. You have always known. You have 12 cycles to file amended certification or accept liability retroactively to 2985.",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(29,48%,48%)",
+      "pfpGlyph": "❊",
+      "timestamp": "44s"
+    },
+    {
+      "display_name": "⊗ Glœm Witness ⊗",
+      "handle": "@biolume_observer",
+      "tweet": "we read this in our memory-water and felt such sadness. your people promised safety to the rocks. the rocks trusted you. now the rocks are scattered and your people say 'we did not know.' but you wrote it down. you wrote it down where the rocks could see. this is a grief we do not have words for.",
+      "likes": 67891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(258,41%,53%)",
+      "pfpGlyph": "♅",
+      "timestamp": "5d"
+    },
+    {
+      "display_name": "Gary Titanson",
+      "handle": "@RealGary_Titan",
+      "tweet": "reminds me of when i was doing independent contractor work for Apex Mining Solutions back in 3001 and the foreman said 'Gary we've triple-checked the structural integrity' and then a support strut gave out THREE WEEKS LATER. i was in the cantina at the time so i didn't die but my friend Hector was two levels down and anyway that's when i decided to move to the agricultural sector",
+      "likes": 234,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(253,43%,40%)",
+      "pfpGlyph": "◎",
+      "timestamp": "47m"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "wait so is the asteroid mining infrastructure still operational right now or did it actually fail? because i looked this up and i can't find any news about a catastrophic collapse, are you saying it WILL fail in the future or that it ALREADY failed and we're in cover-up mode?",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(145,76%,59%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "19h"
+    },
+    {
+      "display_name": "⚡ Free Thinker ⚡",
+      "handle": "@cosmic_clarity_92",
+      "tweet": "this is exactly why we should've listened to the Upload when he said asteroid mining was extractivist colonialism. the man was playing 12-dimensional chess and you all mocked him. NOW look at what happened. name a single person alive today who predicted this.",
+      "likes": 4127,
+      "verified": 0,
+      "community_note": {
+        "text": "The Upload's 2989 statement on asteroid mining was primarily critical of labor practices, not safety protocols. The 2987 safety claim being referenced in the original post predates that statement by 2 years. [1] Additionally, 'what happened' remains unclear — no collapse has been confirmed as of 3026. [2]",
+        "contributor_type": "community",
+        "total_raters": 3847,
+        "surfaced_ratings": [
+          {
+            "glyph": "✓",
+            "label": "Factually Incorrect",
+            "value": 94
+          },
+          {
+            "glyph": "◆",
+            "label": "Timeline Confused",
+            "value": 87
+          }
+        ]
+      },
+      "pfpColor": "hsl(76,64%,28%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "10m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.430Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,41 @@
+{
+  "id": "1776650396355-0193",
+  "tweet": {
+    "display_name": "dril",
+    "handle": "@dril",
+    "tweet": "the sun is wrong",
+    "metrics": {
+      "retweets": 2340000,
+      "likes": 4500000,
+      "replies": 890000,
+      "quote_tweets": 567000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. [silence in replies from astrophysical community] [one researcher goes quiet in a way that becomes screenshotted repeatedly] [the note itself is unclear about what the claim means] [further clarification pending] [clarification will not be provided]",
+      "contributor_type": "community",
+      "total_raters": 234000,
+      "surfaced_ratings": [
+        {
+          "glyph": "⍛",
+          "label": "",
+          "value": "7"
+        },
+        {
+          "glyph": "∴",
+          "label": "Therefore",
+          "value": "Yes"
+        }
+      ]
+    },
+    "pfpColor": "hsl(45,72%,54%)",
+    "pfpGlyph": "◓",
+    "timestamp": "16d"
+  },
+  "replies": null,
+  "generated_at": "2026-04-20T01:59:56.394Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

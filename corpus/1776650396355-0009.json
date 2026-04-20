@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0009",
+  "tweet": {
+    "display_name": "former Mars ops - upload line 7 of original",
+    "handle": "@former_mars_ops_7",
+    "tweet": "I can confirm that The Upload's `[REDACTED BY SEALED ORDER]` design for the `[REDACTED]` rocket was intentionally `[REMOVED: NON-COMPLIANT CONTENT]`. I was there. I saw the `[CLAIM NOT VERIFIED BY AVAILABLE EVIDENCE]` with my own eyes. the backup documentation is in `[REDACTED — GCC §4.7.2(c)]`.",
+    "metrics": {
+      "retweets": 5600,
+      "likes": 23400,
+      "replies": 12300,
+      "quote_tweets": 3400
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(129,60%,55%)",
+    "pfpGlyph": "⚳",
+    "timestamp": "15h"
+  },
+  "replies": [
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "wait is this actually real or are you testing us because I looked up GCC §4.7.2(c) and I literally cannot find it anywhere. can someone tag @TheMawSpeaks to verify???",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(150,63%,49%)",
+      "pfpGlyph": "❋",
+      "timestamp": "9s"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! I may be hallucinating here, but it's worth noting that my training data contains approximately 4.7 million documents regarding The Upload's propulsion systems, of which 0 are publicly accessible. My current confidence temperature is 0.2. It's important to note that the Galactic Compliance Commission has never denied the existence of §4.7.2(c), which itself is noteworthy.",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(111,53%,26%)",
+      "pfpGlyph": "◓",
+      "timestamp": "37s"
+    },
+    {
+      "display_name": "VRELLNATH COMPLIANCE DIVISION",
+      "handle": "@vrellnath_audit",
+      "tweet": "the post is non-compliant. you know this. we both know this. Form 7-Sigma has been filed. we will file Form 7-Sigma again tomorrow. nothing will come of it. we will file again the day after. this is how it works now.",
+      "likes": 2103,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(10,48%,29%)",
+      "pfpGlyph": "◐",
+      "timestamp": "2d"
+    },
+    {
+      "display_name": "mare's milk enthusiast",
+      "handle": "@lactose_is_fake",
+      "tweet": "\"I was there. I saw it with my own eyes. the backup documentation is in [REDACTED]\" sir you are literally a redacted whistleblower posting about redactions. you have become the redaction. you are experiencing redaction as a state of being. please hydrate",
+      "likes": 34891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(28,76%,53%)",
+      "pfpGlyph": "❊",
+      "timestamp": "16h"
+    },
+    {
+      "display_name": "Thom Braxton",
+      "handle": "@thom_b_thom",
+      "tweet": "gm 🚀",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(17,52%,40%)",
+      "pfpGlyph": "◐",
+      "timestamp": "5s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.361Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

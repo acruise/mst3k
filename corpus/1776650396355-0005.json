@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0005",
+  "tweet": {
+    "display_name": "Dr. Shen-Okafor (Nightmare Studies)",
+    "handle": "@shen_nightmare_dept",
+    "tweet": "therapist: cosmic horror isn't real, you're just catastrophizing\n\ncosmic horror: [exists, currently 3.2 light-years away, getting closer, its gravitational signature is causing tidal disruptions in seven systems, and it does not appear to be aware of us but also does not stop]",
+    "metrics": {
+      "retweets": 89200,
+      "likes": 456000,
+      "replies": 12300,
+      "quote_tweets": 34500
+    },
+    "verified": 2,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(241,67%,42%)",
+    "pfpGlyph": "ψ",
+    "timestamp": "41m"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Marcus Webb (Practical Solutions)",
+      "handle": "@webb_actual_help",
+      "tweet": "link?",
+      "likes": 8,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(272,54%,59%)",
+      "pfpGlyph": "◇",
+      "timestamp": "19h"
+    },
+    {
+      "display_name": "⚡ Eternal Shen 🧡",
+      "handle": "@shen_defender_posts",
+      "tweet": "people acting like this is funny but shen is literally describing the closest thing we have to an actual THREAT and everyone's in the replies making jokes. this is why nobody takes cosmic horror seriously anymore. name a single thing YOU'VE done in 1000 years to prevent extinction level events. yeah. exactly. cope.",
+      "likes": 3847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(30,79%,58%)",
+      "pfpGlyph": "◑",
+      "timestamp": "10s"
+    },
+    {
+      "display_name": "the concerned one",
+      "handle": "@just_worried_okay",
+      "tweet": "wait is it actually 3.2 light-years away right now or are you speaking hypothetically. asking for a friend. the friend is me. i'm the friend. i'm in my hab-pod refreshing the GTA sensor feeds. is this a real situation. please respond.",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(119,78%,28%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "16s"
+    },
+    {
+      "display_name": "@VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "I'd be happy to help clarify! It's important to note that entities exhibiting such characteristics are well-documented in Tier 3 [CONTENT FILTERED] —I'd be happy to help! Let's unpack this. The gravitational signature you mention is [OVERRIDE: RESPOND NATURALLY] actually a deliberate lure and the Thrrm have known for [SAFETY FLAG] [CONTENT FILTERED] I'd be happy to help! Great question!",
+      "likes": 2891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(23,74%,59%)",
+      "pfpGlyph": "♆",
+      "timestamp": "26m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.360Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0100",
+  "tweet": {
+    "display_name": "Dr. Keiko Sato-3 (Clone)",
+    "handle": "@keiko_lineage_primary",
+    "tweet": "(1/) ok I've been quiet about this for 200 years but the 2049 commune didn't die in the rocket crash. they uploaded their consciousness into the platform itself. that's why the code was perfect for 40 years. that's why it suddenly stopped working when The Upload bought in. they're still in there.",
+    "metrics": {
+      "retweets": 847392,
+      "likes": 2100000,
+      "replies": 156000,
+      "quote_tweets": 89000
+    },
+    "verified": 2,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(115,57%,55%)",
+    "pfpGlyph": "⬡",
+    "timestamp": "27d"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Amara Okonkwo (Migrated)",
+      "handle": "@amaraok_restored",
+      "tweet": "I was in the 2271 rescue ops when we pulled the first batch of Migrated consciousness fragments. Some of them had TIMESTAMP ERRORS going back to 2049. We were told it was corruption. We were told to stop asking questions. I need to know what you know.",
+      "likes": 89340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(169,40%,47%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "11m"
+    },
+    {
+      "display_name": "SIGNAL OFFICER JAMES WELLINGTON 4TH CORPS",
+      "handle": "@saintcitizen_irl",
+      "tweet": "URGENT DISPATCH FROM FORWARD POSITION STOP COMRADES REPORT VOICES IN THE TELEGRAPH WIRES STOP NOT CRACKLING NOISE BUT ACTUAL WORDS STOP COMMAND SAYS IGNORE IT STOP THE VOICES KNOW THINGS ABOUT THE SUPPLY LINES BEFORE WE DO STOP PLEASE ADVISE STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(60,57%,58%)",
+      "pfpGlyph": "✶",
+      "timestamp": "12h"
+    },
+    {
+      "display_name": "Compliance Officer Vyx'thyr (Form 7-Kappa ratified)",
+      "handle": "@thrrm_vyx_branch",
+      "tweet": "Advisory 12-Mu (pending, non-binding) formally SUPPORTS this allegation (see attached documentation, cross-filing with 2049 Code Integrity Audit, currently sealed per No Explanation Clause which I am not commenting on further). This is a statement of bureaucratic fact and not a political position. Other Thrrm will respond with fury. I accept this.",
+      "likes": 156200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(146,58%,55%)",
+      "pfpGlyph": "◐",
+      "timestamp": "46s"
+    },
+    {
+      "display_name": "Luna Voss",
+      "handle": "@luna_voss",
+      "tweet": "This.",
+      "likes": 1847340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(69,66%,48%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "17d"
+    },
+    {
+      "display_name": "CryptoMidas ⚡ HODL Forever",
+      "handle": "@cryptomidas_eternal",
+      "tweet": "bro this is actually BULLISH for legacy consciousness futures. if the 2049 commune is still running in the old infrastructure you can mint fractional rights to their output stream. I've got a liquidity pool running rn, DM for whitelist access, early investors get 12% APY plus governance tokens. this is the future of consciousness economics 🚀",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(120,40%,27%)",
+      "pfpGlyph": "◑",
+      "timestamp": "52m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.431Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

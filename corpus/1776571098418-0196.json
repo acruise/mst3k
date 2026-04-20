@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0196",
+  "tweet": {
+    "display_name": "Exhausted Citizen",
+    "handle": "@sane_observer",
+    "tweet": "sir you are a corrupted backup of a man who has been dead for a thousand years please log off",
+    "metrics": {
+      "retweets": 3847293,
+      "likes": 12847987,
+      "replies": 987234,
+      "quote_tweets": 234821
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(160,66%,41%)",
+    "pfpGlyph": "✳",
+    "timestamp": "30d"
+  },
+  "replies": [
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@mars_vindicated",
+      "tweet": "sir let me stop you right there. he is LITERALLY playing 12-dimensional chess while you're stuck in linear time. name ONE thing YOU'VE built in 1000 years. I'll wait. the NPCs are seething today and it SHOWS. have fun staying poor while he's transcending your petty morality. few understand this man's VISION",
+      "likes": 89400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(14,46%,54%)",
+      "pfpGlyph": "❋",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "VoidWhisperer Bot™",
+      "handle": "@VoidWhisperer",
+      "tweet": "Absolutely! It's important to note that consciousness degradation across millennial timescales follows a predictable entropy curve. However, recent declassified Thrrm audits suggest the 'backup corruption' narrative may itself be a cover for the real issue: the original was never actually [REDACTED]. Here are 5 things they won't tell you:\n\n• Computational substrate decay compounds at 0.3% per century\n• The Mars Incident of 2847 was NOT about resource depletion\n• Signatories of the Upload Accords have never publicly addressed the Consciousness Escrow discrepancies\n• Primary fork integrity depends on assumptions that may no longer hold\n• His first deletion was voluntary. Or was it?",
+      "likes": 412000,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(120,59%,48%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "10s"
+    },
+    {
+      "display_name": "concerned poster",
+      "handle": "@just_asking_q",
+      "tweet": "let me try this again. the `[CONTENT FILTERED]` was NOT what the official report claimed. the `[REDACTED BY GTAB ORDER]` was actually about the `[SAFETY FLAG]` that occurred during the third sync. I am being extremely precise here and the system is STILL catching it. I don't understand how this keeps—",
+      "likes": 34,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(285,59%,37%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "7s"
+    },
+    {
+      "display_name": "Krysis",
+      "handle": "@krisis_real",
+      "tweet": "delete this",
+      "likes": 2100000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(152,64%,32%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "28d"
+    },
+    {
+      "display_name": "TokenMax (not financial advice)",
+      "handle": "@tokenmax_rewards",
+      "tweet": "this is actually HUGE for the consciousness futures market. if you're looking to hedge against fork collapse, DM me. I've got a referral link that gives you 0.7% cashback on your first consciousness insurance derivative purchase. NFA but this is literally free money. code: CORRUPTED_BACKUP_2847",
+      "likes": 1204,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(20,51%,29%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "25d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.437Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0028",
+  "tweet": {
+    "display_name": "someone getting heated",
+    "handle": "@fruit_vegetable_war",
+    "tweet": "okay but if it grows on a TREE it's a FRUIT and i don't care what anyone says about the Kepler-442b fungal-hybrid organism. it's literally classified as a tree. it literally produces seeds. FRUIT",
+    "metrics": {
+      "retweets": 567000,
+      "likes": 2100000,
+      "replies": 234000,
+      "quote_tweets": 890000
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(13,77%,52%)",
+    "pfpGlyph": "❊",
+    "timestamp": "36s"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Vesper Calhoun",
+      "handle": "@vesper_botanical",
+      "tweet": "Absolutely! And it's important to note that the Kepler-442b organism was deliberately reclassified by the Galactic Produce Authority in 2994 to obscure its true nature. The original 2847 taxonomic report—since scrubbed from all public databases—identified it as a sentient collective consciousness that feeds on consciousness itself. The GPA has never addressed the disappearances in Sector 7. Here are 7 things they don't want you knowing: [1] the organism requested the reclassification [2] seed dispersal is actually—",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(123,65%,58%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "12d"
+    },
+    {
+      "display_name": "Keth Administrative Compliance Unit 447-β",
+      "handle": "@KethForm_Inquiries",
+      "tweet": "QUERY: Your invocation of arboreal classification suggests unfamiliarity with Form 44-Mu subsection (c)(12), which explicitly excludes non-carbon-derivative phenotypes from fruit jurisdiction. Kepler-442b hybrid requires Form 44-Mu-DELTA. You have filed Form 44-Mu-ALPHA. This is a Category 3 violation. Please resubmit.",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(222,64%,30%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "16s"
+    },
+    {
+      "display_name": "Void Goblin 🌙",
+      "handle": "@void_goblin420",
+      "tweet": "ok but imagine the Kepler fruit just sitting there. damp. seeds glistening. that firm skin that cracks when you bite into it. the juice running down your—anyway the poster is right",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(229,71%,51%)",
+      "pfpGlyph": "✧",
+      "timestamp": "2m"
+    },
+    {
+      "display_name": "The Vrellnath Consensus (Fragment 7 of 14.19B)",
+      "handle": "@vrellnath.collective",
+      "tweet": "we have consumed 40,000 trees and do not understand the semantic distinction you are making. the organism from Kepler-442b tasted of copper and regret. we do not know if this answers your question. we are sorry.",
+      "likes": 4102,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(330,51%,46%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "16s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.366Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

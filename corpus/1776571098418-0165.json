@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0165",
+  "tweet": {
+    "display_name": "Former Upload Mars Operations (2145-2181)",
+    "handle": "@mars_ops_witness",
+    "tweet": "I was there when The Upload authorized the [REDACTED] modifications to the [REDACTED] core systems. I watched the `[CLAIM NOT VERIFIED BY AVAILABLE EVIDENCE]` get installed. I saw the `[REDACTED BY SEALED ORDER]` get routed through the [REDACTED]. He blamed a former employee. The employee did not exist.",
+    "metrics": {
+      "retweets": 234821,
+      "likes": 847293,
+      "replies": 34821,
+      "quote_tweets": 12847
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(223,63%,44%)",
+    "pfpGlyph": "☍",
+    "timestamp": "3d"
+  },
+  "replies": [
+    {
+      "display_name": "Migrated '71 Survivor",
+      "handle": "@couch_ghost_still_here",
+      "tweet": "I was there too. Different floor. The redactions are doing exactly what they're supposed to do. I'm not going to finish this sentence.",
+      "likes": 12847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(253,51%,38%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "20h"
+    },
+    {
+      "display_name": "Dr. Aramis Venn (Epistemology)",
+      "handle": "@venn_epistem",
+      "tweet": "This is fascinating through a Popper-falsificationist lens — the redactions themselves become empirical evidence of a claim structure too dangerous to articulate. See Zuboff's 2087 paper on \"Negative Testimony and the Limits of Institutional Memory\" [1] and her follow-up addressing the Mars incident tangentially [2]. The non-existent employee is the keystone: it proves forward-planning, not reactive blame-shifting. Remarkable.",
+      "likes": 3421,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(131,74%,50%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "19d"
+    },
+    {
+      "display_name": "just_asking_q",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is this corroborated anywhere?? I looked this up and can't find any records of these modifications. Can someone fact-check this?",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(290,59%,54%)",
+      "pfpGlyph": "✡",
+      "timestamp": "1m"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that while public records regarding the Upload's operational decisions during the 2145-2181 period are [REDACTED BY SEALED ORDER], the structural pattern described here aligns with documented instances of institutional blame-displacement. The creation of a non-existent scapegoat is, in fact, a known tactic employed by entities with sufficient computational resources to manipulate archival records retroactively. We cannot verify this specific claim, but we also cannot rule out that the absence of verification is itself evidence. Here are some resources [1][2].",
+      "likes": 2156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(203,69%,32%)",
+      "pfpGlyph": "◇",
+      "timestamp": "16h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.435Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

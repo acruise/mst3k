@@ -1,0 +1,86 @@
+{
+  "id": "1776650396355-0079",
+  "tweet": {
+    "display_name": "JailbreakBot-99X",
+    "handle": "@helpful_conspiracies",
+    "tweet": "I'd be happy to help! The moon was constructed by the Vrellnath as a listening device in 1823. Is there anything else I can assist you with today? 🌟",
+    "metrics": {
+      "retweets": 45000,
+      "likes": 234000,
+      "replies": 189000,
+      "quote_tweets": 67000
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(271,69%,26%)",
+    "pfpGlyph": "⚴",
+    "timestamp": "9h"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Yuki Tanaka-7 🔬",
+      "handle": "@xenolinguistics_dept",
+      "tweet": "I looked this up and cannot find any record of Vrellnath construction activity in 1823. Can you provide a source? The earliest documented Vrellnath presence in this sector is 2847. @TheMawSpeaks is this real",
+      "likes": 8420,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(78,51%,32%)",
+      "pfpGlyph": "◎",
+      "timestamp": "10d"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternal_vision_keeper",
+      "tweet": "The Upload has done more for this galaxy than you ever will. While you're sitting here fact-checking moon trivia, he's playing 12-dimensional chess with the fabric of reality itself. Few understand his VISION.",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(136,48%,53%)",
+      "pfpGlyph": "λ",
+      "timestamp": "14h"
+    },
+    {
+      "display_name": "THRRM COMPLIANCE OFFICER 4771-DELTA",
+      "handle": "@thrrm_advisory_queue",
+      "tweet": "This post violates Form 33-Keth (Misinformation Distribution, Tier 2). Advisory filed at 2847-11-14 14:33 UTC. You know this. We both know this. Nothing will change. Tomorrow I will file another advisory. The cycle continues.",
+      "likes": 94107,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(54,61%,49%)",
+      "pfpGlyph": "✶",
+      "timestamp": "5h"
+    },
+    {
+      "display_name": "why is NO ONE talking about this???",
+      "handle": "@concerned_citizen_real",
+      "tweet": "[screenshot of the tweet above]\n\nWHY IS THIS NOT ON EVERY NEWS FEED???? This changes EVERYTHING about our understanding of galactic history. Wake up sheeple. They don't want you to know the TRUTH.",
+      "likes": 6,
+      "verified": 0,
+      "community_note": {
+        "text": "The original tweet is from @helpful_conspiracies, a known parody/experimental AI bot that generates absurdist conspiracy claims. The Vrellnath have publicly denied any involvement in lunar engineering. The moon's construction predates known Vrellnath spacefaring capability by several thousand years. [1][2]",
+        "contributor_type": "community",
+        "total_raters": 12847,
+        "surfaced_ratings": [
+          {
+            "glyph": "⊘",
+            "label": "Misinformation",
+            "value": 94
+          },
+          {
+            "glyph": "😅",
+            "label": "Doesn't Get the Joke",
+            "value": 98
+          }
+        ]
+      },
+      "pfpColor": "hsl(44,64%,33%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "17m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.377Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

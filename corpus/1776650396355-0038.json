@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0038",
+  "tweet": {
+    "display_name": "The Upload [DEFLECTION PROTOCOL ACTIVE]",
+    "handle": "@theupload_prime",
+    "tweet": "the recent dimensional exchange collapse was due to a former employee's design flaws. i hired him in 2989 to oversee [REDACTED] and he modified my specifications without authorization. he got it wrong. i am not responsible for his incompetence. the blame lies entirely with him.",
+    "metrics": {
+      "retweets": 456000,
+      "likes": 1200000,
+      "replies": 234000,
+      "quote_tweets": 567000
+    },
+    "verified": 4,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(318,66%,48%)",
+    "pfpGlyph": "❋",
+    "timestamp": "42s"
+  },
+  "replies": [
+    {
+      "display_name": "COMPLIANCE AUDIT DIVISION — THRRM COLLECTIVE",
+      "handle": "@Thrrm_FormDivision",
+      "tweet": "Entity has submitted deflection variant 14 (cf. prior submissions 2991-11-04, 2992-03-18, 2995-07-22, 3001-06-11, 3008-09-14, 3015-12-02, 3019-04-30, 3021-08-16, 3022-11-19, 3023-02-07, 3024-05-13, 3025-10-21, 3026-01-09, 3026-02-15). Technically: Form 12-Sigma violation. Pattern recognition: 100% consistency across lexical variation. Statistical probability of coincidence: 0.00004%. Updating predictive models. We are... recalibrating our threat-assessment matrices. [FORMAL STATEMENT: this observation carries no affective weight]",
+      "likes": 89340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(101,47%,26%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "8m"
+    },
+    {
+      "display_name": "shitposter's gambit",
+      "handle": "@void_goblin420",
+      "tweet": "[gif of a man in a space suit pointing at his own corrupted backup and saying 'that guy did it' as the entire station explodes behind him]",
+      "likes": 2104560,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(113,54%,59%)",
+      "pfpGlyph": "◓",
+      "timestamp": "19h"
+    },
+    {
+      "display_name": "GalacticInvestigations",
+      "handle": "@GalacticInvestigations",
+      "tweet": "@InvestigativeNet this has to be satire right? can you guys look into whether this account is actually just doing performance art at this point",
+      "likes": 156700,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(182,70%,29%)",
+      "pfpGlyph": "✶",
+      "timestamp": "6m"
+    },
+    {
+      "display_name": "Derek Valence, Systems Admin (Retired)",
+      "handle": "@derek_valence_systems",
+      "tweet": "this reminds me of the time MY boss tried to blame ME for the quantum relay failure at Station Kepler-8 in 3004 when HE was the one who approved the non-standard coupling spec. i spent TWO YEARS getting cleared of that. so yeah. this guy's deflection game is weak. mine was airtight",
+      "likes": 3421,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(41,46%,33%)",
+      "pfpGlyph": "❃",
+      "timestamp": "50s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.369Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

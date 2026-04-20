@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0096",
+  "tweet": {
+    "display_name": "NFD bro 💎✨",
+    "handle": "@dimensional_trader",
+    "tweet": "PIVOTING TO NFDS (non-fungible dimensions) 🚀 THIS IS THE FUTURE 💰 EACH DIMENSION IS UNIQUE AND TRADEABLE 📈 WE'RE GOING TO BE RICH 💎\n\n[replies: 'a dimension is not an nft', 'you cannot sell a dimension', 'this is a scam', 'this is just regular scam energy but dimensional']",
+    "metrics": {
+      "retweets": 12000,
+      "likes": 45000,
+      "replies": 234000,
+      "quote_tweets": 67000
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(277,70%,53%)",
+    "pfpGlyph": "❋",
+    "timestamp": "3h"
+  },
+  "replies": [
+    {
+      "display_name": "Dimensional_Ventures™ CEO 🧠",
+      "handle": "@dmartin_ventures",
+      "tweet": "OK hear me out. What if we tokenized NFDs but ALSO created a secondary market for dimension *derivatives*. You're not actually trading the dimension—you're trading the RIGHT to trade the dimension. We scale this vertically across 47 parallel economies and we're looking at a $12 trillion TAM. I'm serious. Let's talk. DM open.",
+      "likes": 3847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(138,42%,33%)",
+      "pfpGlyph": "❃",
+      "timestamp": "6s"
+    },
+    {
+      "display_name": "Policy Analyst (Concerned) 📋",
+      "handle": "@janet_regulatory",
+      "tweet": "okay I genuinely cannot tell if this is satire but IF it's real then the Galactic Trade Commission needs to immediately establish dimensional asset classification standards before retail investors get wiped out. We don't have a regulatory framework for this. We NEED one. Someone call the GTC. This is not a joke.",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(90,63%,49%)",
+      "pfpGlyph": "✦",
+      "timestamp": "7m"
+    },
+    {
+      "display_name": "✧",
+      "handle": "@thevoiceoftheketh",
+      "tweet": "∿",
+      "likes": 51200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(358,46%,44%)",
+      "pfpGlyph": "◎",
+      "timestamp": "22h"
+    },
+    {
+      "display_name": "Mars Understood Him 🧡",
+      "handle": "@upload_defender_eternal",
+      "tweet": "lol how CONVENIENT that the 'math' keeps saying NFDs are 'impossible to tokenize.' if this was actually a scam you'd have the peer-reviewed papers by now instead of this performative dunking. this is the 4,891st 'ackshually' we've seen this cycle. cry about it.",
+      "likes": 2100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(306,60%,52%)",
+      "pfpGlyph": "◐",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "LIEUTENANT JAMES MORRISON 7TH ARTILLERY",
+      "handle": "@nanotakes_hours",
+      "tweet": "RECEIVED LETTER FROM HOME TODAY STOP WIFE SAYS BANKER IN LONDON IS SELLING SHARES IN SOMETHING CALLED UNIQUE TRENCHES STOP EACH TRENCH SUPPOSEDLY ONE OF A KIND AND TRADEABLE FOR PROFIT STOP I TOLD HER TELL THE BANKER I AM IN A TRENCH AND IT IS NOT UNIQUE AND NOT PROFITABLE STOP JUST WET AND COLD STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(103,68%,31%)",
+      "pfpGlyph": "♄",
+      "timestamp": "22d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.380Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0061",
+  "tweet": {
+    "display_name": "philosopher in transit",
+    "handle": "@ftl_ethics",
+    "tweet": "if you arrive before you leave, did you consent to the journey\n\nno wait but seriously: if faster-than-light causality violation is impossible, then every ftl traveler is retroactively choosing their destination before boarding. is that choice real\n\nno it's definitely not. you're just watching it happen twice",
+    "metrics": {
+      "retweets": 23000,
+      "likes": 112000,
+      "replies": 34000,
+      "quote_tweets": 5600
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(75,73%,49%)",
+    "pfpGlyph": "◐",
+    "timestamp": "7d"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Kairos Bent 🧪",
+      "handle": "@temporal_philology",
+      "tweet": "this is just compatibilism with extra steps and you know it. the fact that your choice is 'watched happen twice' doesn't make it less of a choice, it makes you temporally privileged enough to see both instances. you're not trapped in causality violation, you're just literate in four dimensions. cope.",
+      "likes": 8400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(6,46%,58%)",
+      "pfpGlyph": "◑",
+      "timestamp": "37s"
+    },
+    {
+      "display_name": "🚀 UPLOAD DEFENDER 🚀",
+      "handle": "@mars_vindication",
+      "tweet": "Ex-Employee Defense just dropped",
+      "likes": 247000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(275,58%,41%)",
+      "pfpGlyph": "✦",
+      "timestamp": "16s"
+    },
+    {
+      "display_name": "Detective Memo-Keeper",
+      "handle": "@thread_archaeologist",
+      "tweet": "ok hold on. i've been following this account for weeks. if you line up the FTLC essay (tweet 47), the causality thread (tweet 89), and the response to @temporal_philology (tweet 156), the uncensored parts spell something about RETROACTIVE CONSENT FRAMEWORKS. i'm not saying the full thing here but you know who needs to see this. the pattern is too consistent. they're trying to tell us something and the censors keep—",
+      "likes": 3200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(3,53%,41%)",
+      "pfpGlyph": "♆",
+      "timestamp": "24d"
+    },
+    {
+      "display_name": "Supportive Saturn Fan 💜",
+      "handle": "@saturn_is_cool",
+      "tweet": "this is such an inspiring message about personal growth!! you're saying that even if we make mistakes on a journey, we get to experience the choice twice and that's beautiful. self-love journey representation 🥺 rooting for you and your FTL travel!!!",
+      "likes": 892,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(359,53%,39%)",
+      "pfpGlyph": "◑",
+      "timestamp": "26d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.374Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

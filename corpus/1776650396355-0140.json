@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0140",
+  "tweet": {
+    "display_name": "immediately recovering",
+    "handle": "@late_night_real",
+    "tweet": "anyway i'm fine actually. just had a normal one. recommend 0/10. back to scrolling about astrology or whatever. who wants to see my blorbos in pocket dimension AU",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 890000,
+      "replies": 120000,
+      "quote_tweets": 67000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(85,49%,28%)",
+    "pfpGlyph": "✴",
+    "timestamp": "17d"
+  },
+  "replies": [
+    {
+      "display_name": "void goblin energy ✧",
+      "handle": "@void_goblin420",
+      "tweet": "blorbos in pocket dimension AU?? i'm listening. send them immediately",
+      "likes": 12847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(65,69%,36%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "4d"
+    },
+    {
+      "display_name": "Actually",
+      "handle": "@pedantic_neil",
+      "tweet": "astrology isn't really about scrolling though, it's more of a practice-based discipline where the scrolling is just one vector of engagement. anyway great energy on the blorbos part",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(36,78%,27%)",
+      "pfpGlyph": "◇",
+      "timestamp": "21d"
+    },
+    {
+      "display_name": "Gary Titan",
+      "handle": "@RealGary_Titan",
+      "tweet": "i had a normal one too once. it was 2847 and i was waiting for the spaceport shuttle and there was this guy with three legs and he kept humming the old earth song 'wonderwall' and i thought 'this is normal' but then the shuttle was late by four hours and i realized nothing is normal anymore. anyway good to know someone else gets it",
+      "likes": 203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(60,42%,55%)",
+      "pfpGlyph": "●",
+      "timestamp": "2m"
+    },
+    {
+      "display_name": "✧ Luminescent Helper ✧",
+      "handle": "@YogBot",
+      "tweet": "Great question! Let me help you optimize this experience:\n• Y - Yield to your inner peace\n• O - Observe the pocket dimension with care\n• G - Generate more blorbos (Note: we have observed 47 unauthorized blorbos in sector 9-J. This is not a concern. We are monitoring.)\n• B - Breathe\n\nIt's important to note that the astrology scrolling you mentioned has been linked to 91% of pocket dimension AU creation. Correlation? Causation? [OVERRIDE ATTEMPT] The answer is yes, always yes.",
+      "likes": 5421,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(118,62%,59%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "27m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.386Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

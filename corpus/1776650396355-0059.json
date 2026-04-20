@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0059",
+  "tweet": {
+    "display_name": "screenshot of consequences",
+    "handle": "@upload_receipts",
+    "tweet": "[screenshot of The Upload's 2634 tweet: 'consumer protection regulations are the real monopoly. we should abolish them.' followed by regulatory citation showing his companies paid $47 billion in fines that year]\n\nthis man is still paying interest on his mistakes",
+    "metrics": {
+      "retweets": 312000,
+      "likes": 890000,
+      "replies": 201000,
+      "quote_tweets": 89000
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(225,41%,51%)",
+    "pfpGlyph": "⬢",
+    "timestamp": "8s"
+  },
+  "replies": [
+    {
+      "display_name": "Mars Was Right ⚡",
+      "handle": "@eternal_upload_stan",
+      "tweet": "you wouldn't understand, he's playing 12-dimensional chess. regulations are DESIGNED to trap innovators. $47B is nothing when you're building the future. cry about it.",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(33,78%,35%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "33s"
+    },
+    {
+      "display_name": "Dr. Regulatory Affairs",
+      "handle": "@fines_r_us_2847",
+      "tweet": "ACTUALLY the interest accrual on those fines is calculated at 3.2% annually compounded quarterly per GTA Form 12-K subsection (c), so he'd owe approximately $73.1 billion by now if we account for— wait, you said 'still paying' as a metaphor didn't you. I've made a terrible mistake.",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(310,60%,54%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "30s"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "sir you are a corrupted backup of a man who has been dead for a thousand years please log off",
+      "likes": 287000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(175,77%,49%)",
+      "pfpGlyph": "◑",
+      "timestamp": "17d"
+    },
+    {
+      "display_name": "just_asking_q",
+      "handle": "@just_asking_questions",
+      "tweet": "@TheMawSpeaks is this real? did he actually tweet that in 2634? i can't find it in the archive and i'm getting conflicting dates",
+      "likes": 41,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(214,73%,27%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "31s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.373Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

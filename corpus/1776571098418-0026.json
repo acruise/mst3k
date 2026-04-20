@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0026",
+  "tweet": {
+    "display_name": "Pour One Out",
+    "handle": "@commune_memorial",
+    "tweet": "pour one out for the 2049 anarchosyndicalist collective who rebuilt this platform and then boarded a single rocket and never arrived. they gave us this. they gave us Post Through It. we remember.",
+    "metrics": {
+      "retweets": 123847,
+      "likes": 567234,
+      "replies": 34821,
+      "quote_tweets": 8934
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(77,70%,30%)",
+    "pfpGlyph": "⚳",
+    "timestamp": "34m"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Iris Venn",
+      "handle": "@irisphilosophiae",
+      "tweet": "This connects to Graeber's work on *Bullshit Jobs* and the recursive self-negation of post-scarcity labor structures. The 2049 collective's departure wasn't failure—it was the logical conclusion of a system that had achieved its own obsolescence. They left *because* they succeeded. The platform they built became their cage.",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(34,60%,54%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "10d"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@genuinely_curious77",
+      "tweet": "wait hold on. my roommate's sister's husband worked in Platform Archaeology and he said the 2049 crew is actually still in the subspace relay network and they send messages every 47 days. is that true? @TheMawSpeaks",
+      "likes": 184,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(182,52%,46%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "22d"
+    },
+    {
+      "display_name": "📌",
+      "handle": "@pinningthis_net",
+      "tweet": "📌",
+      "likes": 89432,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(120,70%,39%)",
+      "pfpGlyph": "◑",
+      "timestamp": "13m"
+    },
+    {
+      "display_name": "grieving my ex STILL in 3026",
+      "handle": "@heartshattered_forever",
+      "tweet": "they had the right idea. just leave. no note. no explanation. just board a rocket and vanish into the void. that's how marcus handled our relationship so why shouldn't it work for founding collectives??? the platform is their legacy and mine is just PAIN",
+      "likes": 412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(178,75%,31%)",
+      "pfpGlyph": "◒",
+      "timestamp": "26d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.426Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

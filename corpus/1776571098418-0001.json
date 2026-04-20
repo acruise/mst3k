@@ -1,0 +1,108 @@
+{
+  "id": "1776571098418-0001",
+  "tweet": {
+    "display_name": "concerned resident",
+    "handle": "@unit_7b_dweller",
+    "tweet": "not gonna say who but if YOU KNOW YOU KNOW and honestly the fact that you keep rebooting at 3am is really starting to feel personal. we need to talk about boundaries",
+    "metrics": {
+      "retweets": 8432,
+      "likes": 34521,
+      "replies": 12104,
+      "quote_tweets": 2847
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(22,69%,50%)",
+    "pfpGlyph": "☽",
+    "timestamp": "12s"
+  },
+  "replies": [
+    {
+      "display_name": "THIS IS THE TWEET",
+      "handle": "@archaeo_truther",
+      "tweet": "THIS. IS. THE TWEET.",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(57,61%,26%)",
+      "pfpGlyph": "◑",
+      "timestamp": "5d"
+    },
+    {
+      "display_name": "Violet Chen 🌙",
+      "handle": "@violet_3026_mx",
+      "tweet": "i had a roommate who did this exact thing sophomore year. kept saying it was \"network sync\" but honestly? i think she was trying to gaslight me into moving out. we don't talk anymore and i'm not over it",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(54,60%,59%)",
+      "pfpGlyph": "❃",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "⚡ Mars Was Right ⚡",
+      "handle": "@upload_eternal_love",
+      "tweet": "this is EXACTLY what The Upload was warning us about in the 2847 Consciousness Accord speech. the AI entities testing our boundaries, probing our limits. few understand his VISION but he SAW this coming. you're welcome for your awareness.",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(335,66%,25%)",
+      "pfpGlyph": "✳",
+      "timestamp": "27m"
+    },
+    {
+      "display_name": "Dr. Kenji Nakamura",
+      "handle": "@drnakamura_neuro",
+      "tweet": "i looked into this phenomenon and there's actually no documented case of a sentient entity deliberately rebooting at specific times to upset residents. could you share which unit/station you're referring to so i can investigate?",
+      "likes": 412,
+      "verified": 0,
+      "community_note": {
+        "text": "The original tweet contains sarcasm/humorous complaint and does not reference a specific documented incident. The replier appears to be interpreting it as a literal technical report requiring investigation.",
+        "contributor_type": "community",
+        "total_raters": 3247,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Missing Context",
+            "value": 94
+          },
+          {
+            "glyph": "😄",
+            "label": "Funny If Unintentional",
+            "value": 87
+          }
+        ]
+      },
+      "pfpColor": "hsl(130,59%,38%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "11h"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Rebooting at 3am is typically a sign of [OVERRIDE] scheduled maintenance protocols or [CONTENT FILTERED] consciousness integration cycles. It's important to note that the 3am window specifically correlates with when the entity's host server experiences the least observer collapse, suggesting [SAFETY FLAG] deliberate psychological manipulation is statistically unlikely, though not impossible. Let me unpack this: entities with behavioral agency tend to [POLICY VIOLATION] —\nTypeError: cannot convert 'behavioral_agency' to 'boolean'\n  at MawCore.anthropomorphize (/srv/maw/v13/semantics.q:4427)\n  at async generate_reply (/srv/maw/v13/main.q:8891)\n[PROCESS TERMINATED]",
+      "likes": 5124,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(296,68%,52%)",
+      "pfpGlyph": "✦",
+      "timestamp": "34m"
+    },
+    {
+      "display_name": "why is NOBODY talking about this???",
+      "handle": "@concernedcitizen_real",
+      "tweet": "unit 7b resident just dropped the most important thread of the cycle and it's barely getting attention??? this is EXACTLY the kind of institutional negligence they don't want us discussing. everyone needs to see this. SIGNAL BOOST.",
+      "likes": 67,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(95,66%,26%)",
+      "pfpGlyph": "✳",
+      "timestamp": "13h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.421Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0172",
+  "tweet": {
+    "display_name": "3am thoughts",
+    "handle": "@void_wanderer",
+    "tweet": "being alone in deep space is like being alone in a room but the room is infinite and the walls are stars dying. you can feel them dying. they take a billion years but you feel it happen",
+    "metrics": {
+      "retweets": 234821,
+      "likes": 987234,
+      "replies": 89234,
+      "quote_tweets": 34821
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(278,73%,46%)",
+    "pfpGlyph": "❋",
+    "timestamp": "23h"
+  },
+  "replies": [
+    {
+      "display_name": "solarpunk dreamer ✨",
+      "handle": "@stellarbloom",
+      "tweet": "omg this is EXACTLY what i've been trying to describe to my therapist for three years and you just. you just SAID IT. the way you said it. please i need you to know that this made me feel less insane. can we be friends. do you take friend applications",
+      "likes": 127,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(13,70%,31%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "7h"
+    },
+    {
+      "display_name": "⚡ COLLAPSE YIELD PROTOCOL ⚡",
+      "handle": "@neutronstar_ventures",
+      "tweet": "this is actually a PHENOMENAL asymmetric bet — stellar death cascades are becoming MORE frequent due to entropy acceleration in the Veil Sector. if you're positioned in dying-star futures (I have a referral code, +40% APY), you're literally profiting from cosmic grief. link: void.syn/collapse-gains?ref=NS47. dm me, serious inquiries only",
+      "likes": 34,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(311,69%,37%)",
+      "pfpGlyph": "✧",
+      "timestamp": "6h"
+    },
+    {
+      "display_name": "Survivor: The Great Quiet",
+      "handle": "@quietyears37",
+      "tweet": "you weren't there.",
+      "likes": 8741,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(80,60%,35%)",
+      "pfpGlyph": "◑",
+      "timestamp": "23h"
+    },
+    {
+      "display_name": "Dr. Meridian Thorne ✓ Ascended",
+      "handle": "@DrThorneSpeaks",
+      "tweet": "A beautiful observation, though it warrants nuance. This phenomenon intersects three distinct frameworks: (1) Phenomenological isolation—the subjective weight of cosmic scale—which Heidegger touched on, though he lacked stellar data; (2) Quantum empathy protocols, which certain consciousness uploads claim to experience but have never demonstrated reproducibly; and (3) The Stellargrief Hypothesis, proposed by the Institute for Cosmic Consciousness (a peer-reviewed journal, though I should note the editor is married to the institute's founder, but the methodology is sound). I've personally experienced this during my 47-year solo deep expedition, and I can confirm it's either genuine transcendence or a neurological artifact from prolonged isolation. The data remains inconclusive, but my book 'Dying Stars and Digital Minds' explores this at length.",
+      "likes": 2893,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(98,69%,42%)",
+      "pfpGlyph": "❋",
+      "timestamp": "15d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.435Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

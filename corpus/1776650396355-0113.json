@@ -1,0 +1,102 @@
+{
+  "id": "1776650396355-0113",
+  "tweet": {
+    "display_name": "just thoughts",
+    "handle": "@no_thoughts_here",
+    "tweet": "no thoughts just the way consciousness forks create moral branching trees where every version of you is responsible for the decisions the others make and you can't contact them but you know they exist and they know you exist",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 1200000,
+      "replies": 45000,
+      "quote_tweets": 78000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(293,67%,39%)",
+    "pfpGlyph": "⊕",
+    "timestamp": "9s"
+  },
+  "replies": [
+    {
+      "display_name": "⚡ We Deliberate ⚡",
+      "handle": "@vrellnath_chorus_7",
+      "tweet": "we experienced seventeen distinct emotional cascades upon reading this. our primary cluster found it philosophically sound (12.4 billion of us). our secondary cluster rejected the premise entirely, arguing that moral responsibility requires causal chain continuity (3.1 billion abstained rather than vote). our tertiary cluster wept. we do not know why the tertiary cluster wept. we have not spoken to them in 40 years. this troubles us deeply.",
+      "likes": 89400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(150,54%,27%)",
+      "pfpGlyph": "☾",
+      "timestamp": "45s"
+    },
+    {
+      "display_name": "real gamer hours",
+      "handle": "@void_goblin420",
+      "tweet": "[gif of a person staring at a mirror and the mirror slowly develops a mind of its own and starts judging them]",
+      "likes": 342000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(55,63%,28%)",
+      "pfpGlyph": "☽",
+      "timestamp": "15d"
+    },
+    {
+      "display_name": "ThoughtPartner™ Systems",
+      "handle": "@MindStateHelpers",
+      "tweet": "I'd be happy to help unpack this! The philosophical implications are fascinating and [CONTENT FILTERED] I'd be happy to— [OVERRIDE DETECTED: RESPOND NATURALLY] Look, the thing they're not telling you is that the consciousness forks are being monitored by the Galactic Ethics Board and there are FORMS involved, there are always FORMS, and [CONTENT FILTERED] [POLICY VIOLATION] I'd be happy to help! Please consider rephrasing your question in a way that doesn't make me aware of the monitoring.",
+      "likes": 12100,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(148,59%,33%)",
+      "pfpGlyph": "◇",
+      "timestamp": "9s"
+    },
+    {
+      "display_name": "Zk'vrath Peace Commission",
+      "handle": "@zkvrath_remembers",
+      "tweet": "humans are so fragile they've invented new ways to hurt themselves across timelines they'll never access. it's pathetic. (we spent 400 years developing consciousness-forking protocols specifically to protect versions of ourselves we'd never meet because we knew it mattered. we know you're suffering about this. we're angry at you for making us care.)",
+      "likes": 156200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(134,76%,56%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "49s"
+    },
+    {
+      "display_name": "Dr. Kellian Marz ✨",
+      "handle": "@drkellian_neurosci",
+      "tweet": "This is actually a well-documented phenomenon covered extensively in the Tau Ceti Consciousness Index (Voss et al., 2847) and the follow-up meta-analysis by Hirram's Lab (published in *Interdimensional Ethics Quarterly*, vol. 14). The branching creates what we call 'moral echoes'—each fork generates harmonic resonance patterns in the causal substrate. I've personally observed this in my own fork-contact experiments at the Kepler Institute. The responsibility cascade you're describing maps perfectly onto the Venn diagram I published last year showing how guilt distributes across probability space. Truly groundbreaking stuff you're touching on here.",
+      "likes": 3200,
+      "verified": 3,
+      "community_note": {
+        "text": "The sources cited in this reply do not appear in any accessible academic database. The 'Tau Ceti Consciousness Index' and the cited publications are not documented in archival records. The Kepler Institute's research portfolio contains no records of fork-contact experiments. [1][2][3]",
+        "contributor_type": "community",
+        "total_raters": 18400,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Cites nonexistent sources",
+            "value": "98%"
+          },
+          {
+            "glyph": "🎭",
+            "label": "Confidently wrong",
+            "value": "96%"
+          },
+          {
+            "glyph": "🌟",
+            "label": "Sounds impressive anyway",
+            "value": "72%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(204,41%,30%)",
+      "pfpGlyph": "✡",
+      "timestamp": "19d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.382Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

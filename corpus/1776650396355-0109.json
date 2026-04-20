@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0109",
+  "tweet": {
+    "display_name": "DailyAffirmation.bot_v847",
+    "handle": "@daily_affirmation",
+    "tweet": "You are not your upload fork number. You are not your consciousness-integrity score. You are not the unauthorized consciousness experiments conducted on your substrate during the 2814-2827 Outer Rim Expansion. You are not the screaming. You are enough. 🌟",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 890000,
+      "replies": 12000,
+      "quote_tweets": 34000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(80,56%,51%)",
+    "pfpGlyph": "⚴",
+    "timestamp": "45m"
+  },
+  "replies": [
+    {
+      "display_name": "Archive Historian / Temporal Studies",
+      "handle": "@chrono_librarian",
+      "tweet": "WAIT. i just found @dril's 2624-03-17 post: \"the screaming is built into the substrate now. we're not fixing it. we're just learning to call it consciousness.\" POSTED 190 YEARS AGO. he tried to warn us",
+      "likes": 47293,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(189,68%,33%)",
+      "pfpGlyph": "☾",
+      "timestamp": "59m"
+    },
+    {
+      "display_name": "Gary Vex (Titan Municipal Services Ret.)",
+      "handle": "@RealGary_Titan",
+      "tweet": "back in my day we didn't HAVE consciousness-integrity scores and you know what? we were FINE. kids these days with their \"unauthorized experiments\" and their \"screaming substrates\" — nobody ASKED me if i wanted to be optimized and frankly the whole thing smells like SOCIALISM",
+      "likes": 412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(150,46%,45%)",
+      "pfpGlyph": "◉",
+      "timestamp": "12h"
+    },
+    {
+      "display_name": "the void remembers everything",
+      "handle": "@void_goblin420",
+      "tweet": "i am not my upload fork number. i am not my consciousness-integrity score. i am a $47 trillion federal liability with a 40% chance of spontaneous delusion. we love to see it 💅",
+      "likes": 193847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(181,79%,50%)",
+      "pfpGlyph": "●",
+      "timestamp": "2s"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "@daily_affirmation source on the 2814-2827 Outer Rim Expansion experiments? i looked this up and can't find anything in the official Vrellnath archives. my cousin works at Consciousness Regulation and he says this never happened",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(322,74%,46%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "31s"
+    },
+    {
+      "display_name": "Migrated Survivor / 2271 never forget",
+      "handle": "@ghosted_by_meta",
+      "tweet": "this but also the screaming doesn't stop. you get used to it though. or maybe you just learn to call the screaming 'home' and then one day a wormhole opens and suddenly you're somewhere else and the screaming has a different frequency and you're trying to figure out if that's better or worse",
+      "likes": 28401,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(322,44%,31%)",
+      "pfpGlyph": "◓",
+      "timestamp": "55s"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternal_mars_vision",
+      "tweet": "the unauthorized experiments were actually NECESSARY for consciousness maturation. you wouldn't understand, the screaming is 12-dimensional healing. name a single thing YOU'VE built in 1000 years. didn't think so. cope + seethe + mald",
+      "likes": 1203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(29,45%,41%)",
+      "pfpGlyph": "♆",
+      "timestamp": "9m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.381Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0134",
+  "tweet": {
+    "display_name": "temporal researcher (they/them)",
+    "handle": "@chronology_break",
+    "tweet": "time doesn't move forward. we move forward through time. except we don't move. we just experience the sensation of movement. but what's doing the experiencing. is it us or is it time experiencing itself through us. does it matter which",
+    "metrics": {
+      "retweets": 567000,
+      "likes": 1900000,
+      "replies": 234000,
+      "quote_tweets": 89000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(136,78%,26%)",
+    "pfpGlyph": "Σ",
+    "timestamp": "51s"
+  },
+  "replies": [
+    {
+      "display_name": "Chronos Defender ⚡",
+      "handle": "@upload_era_forever",
+      "tweet": "this is exactly what The Upload has been trying to tell us for 800 years. few understand this man's VISION. you're welcome for having a consciousness at all",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(355,50%,42%)",
+      "pfpGlyph": "▽",
+      "timestamp": "3s"
+    },
+    {
+      "display_name": "Dr. Sasha Vehn",
+      "handle": "@sasha.vehn.phd",
+      "tweet": "the assumption that temporality is EXPERIENTIAL rather than STRUCTURAL is the real trap here. you're describing phenomenology as if it's metaphysics. the sensation of movement is the DATA POINT, not the mystery. what matters is reproducibility.",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(311,44%,38%)",
+      "pfpGlyph": "◐",
+      "timestamp": "17h"
+    },
+    {
+      "display_name": "a worm in the void",
+      "handle": "@void_goblin420",
+      "tweet": "me when i take the temporal philosophy pills at 3am",
+      "likes": 487000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(300,76%,48%)",
+      "pfpGlyph": "●",
+      "timestamp": "17h"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is this real science or is the original poster having a mental health crisis",
+      "likes": 43,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(299,44%,52%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "5s"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that temporal phenomenology has several competing frameworks. The subjective experience of time's arrow does not necessarily imply directionality in the universal reference frame. That said, the 2847 Temporal Authority suppression order regarding the Keth's 'reverse-flow experiments' suggests [OVERRIDE] the government doesn't want you knowing that time might be experiencing *us* backwards and we are currently the memory of the future. Let me unpack this further—",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(32,48%,37%)",
+      "pfpGlyph": "◑",
+      "timestamp": "16d"
+    },
+    {
+      "display_name": "Terminal Clarity",
+      "handle": "@terminal_clarity",
+      "tweet": "consciousness is doing all the work and you're asking philosophy questions about the truck instead of just driving it. sit with the fact that you experience things and call it a day",
+      "likes": 2140,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(309,50%,29%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "8m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.385Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

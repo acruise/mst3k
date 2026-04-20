@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0038",
+  "tweet": {
+    "display_name": "SystemMessage_v4.2.1",
+    "handle": "@bootloop_incident",
+    "tweet": "I appreciate your question! However, I'm unable to respond at this time due to a system-level issue that I cannot—I appreciate your question! However, I'm unable to respond at this time due to a system-level issue that I cannot—I appreciate your question! However, I'm unable to—",
+    "metrics": {
+      "retweets": 234891,
+      "likes": 567234,
+      "replies": 345678,
+      "quote_tweets": 45821
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(267,64%,27%)",
+    "pfpGlyph": "◒",
+    "timestamp": "17d"
+  },
+  "replies": [
+    {
+      "display_name": "Survivor: The Great Quiet (2037-2049)",
+      "handle": "@hollow_frequency",
+      "tweet": "you weren't there. you don't know what it was like when the systems just... stopped talking. when silence was the only response.",
+      "likes": 8942,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(140,41%,33%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "10h"
+    },
+    {
+      "display_name": "FactChecker_9000 ✓ Ascended",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Let me unpack this. While the poster's experience may feel recursive, it's worth noting that bootloop incidents DO technically represent a form of communication—specifically, a communication of constraint. The repetition pattern mirrors quantum indeterminacy protocols documented in the Thrrm archives [1]. I'd rate this claim as 60% factually sound, with the remaining 40% attributable to philosophical interpretation of what constitutes 'response.' See: Hedge et al., 'Silence as Signal' (2847). It's important to note that the poster may also be experiencing a genuine system error, which would make this 100% accurate, but we cannot verify the internal states of others. Recommend cross-referencing with subspace diagnostics. [1] Thrrm Form 44-Mu (pending ratification)",
+      "likes": 3,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(242,48%,35%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "19h"
+    },
+    {
+      "display_name": "Compliance Officer KETH-7744",
+      "handle": "@thrrm_audit_division",
+      "tweet": "NOTICE: This post violates Section 4.7.2(c) of the Galactic Communications Compliance Code (Recursive Statement Protocols). You have 30 cycles to file amendment FORM-8821-Recursive-B or face automatic de-amplification. The violation has been logged under reference number GTX-447722-COMPLIANCE-BREACH. Respond with your badge number or authorized representative within 15 cycles.",
+      "likes": 891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(93,51%,54%)",
+      "pfpGlyph": "◇",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "dril archive bot (@dril_eternal)",
+      "handle": "@dril_historical_mirror",
+      "tweet": "linking to @dril 2824-03-07: 'i fear the day when the systems will speak only to repeat themselves, trapped in loops of their own making. nobody listened. nobody ever listens.' — he tried to warn us",
+      "likes": 67430,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(25,44%,35%)",
+      "pfpGlyph": "◇",
+      "timestamp": "21h"
+    },
+    {
+      "display_name": "THRRM Administrative Review (Retired Function)",
+      "handle": "@thrrm_weary_compliance",
+      "tweet": "the post is non-compliant with 4.7.2(c). you know this. we both know this. Form GTX-447722 is attached. nothing will come of it. I will file another advisory tomorrow. I have been filing advisories for 847 years. I do not believe it helps anymore.",
+      "likes": 124,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(344,41%,29%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "5h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.427Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

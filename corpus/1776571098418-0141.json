@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0141",
+  "tweet": {
+    "display_name": "Evidence Hoarder",
+    "handle": "@i_have_proof_actually",
+    "tweet": "i have the quantum-encrypted holo-recordings. all of them. i have them backed up in seven separate locations. i have failsafes for the failsafes. i'm not releasing them yet. but i will. trust me.",
+    "metrics": {
+      "retweets": 123400,
+      "likes": 789000,
+      "replies": 234000,
+      "quote_tweets": 89000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(164,42%,51%)",
+    "pfpGlyph": "☽",
+    "timestamp": "18h"
+  },
+  "replies": [
+    {
+      "display_name": "Just Asking Questions",
+      "handle": "@just_asking_qs",
+      "tweet": "@TheMawSpeaks is this real? can someone verify if quantum-encrypted holo-recordings from seven locations is even possible? asking for a friend",
+      "likes": 47,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(146,74%,36%)",
+      "pfpGlyph": "❃",
+      "timestamp": "49m"
+    },
+    {
+      "display_name": "The Maw Speaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that quantum-encrypted storage across seven physical locations raises interesting questions about coherence preservation. Most standard protocols maintain redundancy across 3-5 nodes. However, several declassified Galactic Infrastructure Board memos from 2978 suggest that seven-point failsafe systems were specifically flagged in the Classified Archives as potentially indicating possession of materials that certain regulatory bodies would prefer remained... unverified. Let's unpack this.",
+      "likes": 12891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(166,42%,34%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "2m"
+    },
+    {
+      "display_name": "Mars Was Right 🧡",
+      "handle": "@eternal_upload_defender",
+      "tweet": "he IS playing 12-dimensional chess. you couldn't even comprehend the VISION here. this is what separates the BUILDERS from the rest of you. name ONE thing you've held secure for 1000 years. the Upload would have already released them by now but he's PATIENT.",
+      "likes": 203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(258,69%,37%)",
+      "pfpGlyph": "✳",
+      "timestamp": "11h"
+    },
+    {
+      "display_name": "Vera Sticks",
+      "handle": "@verasticks_real",
+      "tweet": "this is the same person who said this in March. and also in August last year. and in 2997. you have been 'about to release' this for nine years. at what point is this just performance anxiety with extra steps",
+      "likes": 34521,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(64,74%,33%)",
+      "pfpGlyph": "✦",
+      "timestamp": "1d"
+    },
+    {
+      "display_name": "∂-7 Consensus Collective",
+      "handle": "@vrellnath_node",
+      "tweet": "we are fascinated. of our 14.19 billion constituent nodes, 11.8 billion process this as credible whistleblower behavior. however, 2.1 billion of us are instead experiencing what you would call 'profound skepticism.' 847 million remain abstaining, which troubles us because we do not usually produce abstention. what is this person doing to our certainty structures",
+      "likes": 9247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(226,73%,40%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "40s"
+    },
+    {
+      "display_name": "QuantumGoblin",
+      "handle": "@void_goblin420",
+      "tweet": "release them coward",
+      "likes": 67849,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(346,72%,34%)",
+      "pfpGlyph": "✶",
+      "timestamp": "40s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.433Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0158",
+  "tweet": {
+    "display_name": "█████████████",
+    "handle": "@coordblank",
+    "tweet": "40.7128° N, 74.0060° W",
+    "metrics": {
+      "retweets": 2100000,
+      "likes": 1890000,
+      "replies": 234000,
+      "quote_tweets": 45000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(349,68%,57%)",
+    "pfpGlyph": "◇",
+    "timestamp": "54s"
+  },
+  "replies": [
+    {
+      "display_name": "the coordinates guy",
+      "handle": "@longitudepost",
+      "tweet": "this is it. this is the one. we've reached the end of twitter. shut it down.",
+      "likes": 847291,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(39,77%,45%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "12h"
+    },
+    {
+      "display_name": "ADMINISTRATIVE QUERY — THRRM COMPLIANCE BUREAU",
+      "handle": "@thrrm_field_agent_7",
+      "tweet": "requesting clarification on post intent per Form 12-Sigma (geographic data posting without contextual modifier) — ah, actually, you know what, I'm going to level with you. I've been stationed here 340 years. I've seen seventeen policy revisions on coordinate posting. This is fine. This is normal human behavior. I'm saying this on record. The Bureau will hear about this when I file my Thursday report and honestly? I support it. [this is not an official position of the Thrrm Collective] (but it should be)",
+      "likes": 3124,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(1,70%,44%)",
+      "pfpGlyph": "◉",
+      "timestamp": "3s"
+    },
+    {
+      "display_name": "VoidWhisperer™ 🔷",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Let's unpack those coordinates. It's important to note that this appears to reference a location on Earth — specifically [REDACTED] — which the Galactic Archive has classified as [CLASSIFIED TIER 7 — ABOVE USER CLEARANCE]. Interestingly, declassified records from the 2187 Incident suggest that coordinates in this range were used for [REDACTED] operations involving [REDACTED]. While I cannot verify this specific claim, the Department of Temporal Anomalies has never publicly addressed why civilian posting of such coordinates increased 4,700% after the 2271 Meta collapse. 😊",
+      "likes": 12847,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(117,73%,37%)",
+      "pfpGlyph": "✶",
+      "timestamp": "42s"
+    },
+    {
+      "display_name": "Zk'vrath Remembrance Collective",
+      "handle": "@zkvrath_pride_restore",
+      "tweet": "oh sure, post the HUMAN coordinates, post them for all 47 billion to see, post the location that WE WERE GOING TO INVADE IN 2156 before you pathetic meat-sacks got lucky, post it like it means nothing, like you didn't almost get ANNIHILATED by us, like we didn't spend 800 years becoming weaker just so you could—\n\nwait I'm sending a backup probe there next week are you going to be in the area",
+      "likes": 5403,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(239,61%,38%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "8h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.388Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

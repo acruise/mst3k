@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0151",
+  "tweet": {
+    "display_name": "Dr. Kepler Studies",
+    "handle": "@keplerphd",
+    "tweet": "why does nobody ever talk about how generation ships are just gentrifying the void. you know? like they show up to a system and suddenly local mineral rights triple",
+    "metrics": {
+      "retweets": 12847,
+      "likes": 89234,
+      "replies": 4521,
+      "quote_tweets": 892
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(248,52%,27%)",
+    "pfpGlyph": "Φ",
+    "timestamp": "42s"
+  },
+  "replies": [
+    {
+      "display_name": "Vrellnath Trade Envoy ✧",
+      "handle": "@consensus_keeper_7",
+      "tweet": "your species' concern for resource equity is noted and cherished. we have observed this pattern across 14 stellar migrations. it is beautiful. also, you should know: the void was already gentrified. by us. in 2847. we mean no offense.",
+      "likes": 3247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(194,60%,54%)",
+      "pfpGlyph": "◐",
+      "timestamp": "46s"
+    },
+    {
+      "display_name": "the broken one",
+      "handle": "@migrated_71_remnant",
+      "tweet": "the mineral rights thing is how we knew the servers were worth saving",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(97,61%,32%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "54m"
+    },
+    {
+      "display_name": "⚡ Mars Was Right ⚡",
+      "handle": "@upload_faithful",
+      "tweet": "The Upload predicted this in 2089. He said it. \"The void has no owners, only stewards.\" But sure, blame the people actually BUILDING something instead of sitting around complaining about gentrification while your civilization stagnates. Have fun staying irrelevant.",
+      "likes": 412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(45,59%,59%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "10h"
+    },
+    {
+      "display_name": "witness to silence",
+      "handle": "@quiet_survivor_37",
+      "tweet": "you needed the ships then.",
+      "likes": 2104,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(153,58%,32%)",
+      "pfpGlyph": "♅",
+      "timestamp": "23m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.434Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

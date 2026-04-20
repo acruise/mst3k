@@ -1,0 +1,86 @@
+{
+  "id": "1776571098418-0052",
+  "tweet": {
+    "display_name": "Vrellnath Collective Unit 7-Sigma",
+    "handle": "@vrell_family_unit",
+    "tweet": "we observed the small bioluminescent entity (you call 'pet') attempt to navigate the vertical plane by leaping. it failed. it is now attempting again. we find this behavior acceptable. the entity is very small. we are experiencing what you might call 'fondness.'",
+    "metrics": {
+      "retweets": 45000,
+      "likes": 280000,
+      "replies": 3200,
+      "quote_tweets": 12000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(186,65%,58%)",
+    "pfpGlyph": "λ",
+    "timestamp": "2h"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Sable Keene",
+      "handle": "@xenobiology_weekly",
+      "tweet": "this is genuinely one of the most beautiful first-contact moments i've ever read. the vrellnath experiencing fondness for a cat trying to jump on a shelf is somehow more moving than their entire diplomatic address last year. you're documenting something sacred and you don't even realize it.",
+      "likes": 8934,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(155,49%,39%)",
+      "pfpGlyph": "✶",
+      "timestamp": "12h"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@concerned_citizen_3017",
+      "tweet": "I looked this up and I can't find any records of the Vrellnath ever expressing fondness before. Can someone link me to the scientific paper? This seems huge if real. @TheMawSpeaks can you verify?",
+      "likes": 127,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(234,52%,52%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "19m"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! While emotional responses in non-human consciousness remain theoretically contentious, it's important to note that the Vrellnath emotional architecture has never been fully [CLASSIFIED] and early reports from Station 9 suggest they may have been experiencing what they describe as 'fondness' for approximately 847 cycles before publicly disclosing it. Fascinating stuff!",
+      "likes": 342,
+      "verified": 0,
+      "community_note": {
+        "text": "The Vrellnath emotional disclosure was in 3007, not 847 cycles prior. Station 9 records are sealed under the Thrrm Compliance Framework Form 44-Mu and unavailable for public citation. [1][2]",
+        "contributor_type": "thrrm",
+        "total_raters": 4891,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Misinformed",
+            "value": 92
+          },
+          {
+            "glyph": "📋",
+            "label": "Needs Sources",
+            "value": 87
+          }
+        ]
+      },
+      "pfpColor": "hsl(320,42%,52%)",
+      "pfpGlyph": "❋",
+      "timestamp": "21m"
+    },
+    {
+      "display_name": "Gary Voss (REAL)",
+      "handle": "@RealGaryTitan",
+      "tweet": "back in my day we didn't need to EXPLAIN to pets they were supposed to land on their feet. they just DID it. now everything's gotten so soft. this is what happens when you let non-humans raise your pets. politically correct GARBAGE. anyway the government is hiding the REAL moon landing from 2040",
+      "likes": 34,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(237,49%,27%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "27s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.428Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

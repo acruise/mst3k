@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0027",
+  "tweet": {
+    "display_name": "we are the Vrellnath (collective observation unit 7-Zeta)",
+    "handle": "@vrellnath_7zeta",
+    "tweet": "we are currently observing a human poetry reading on Station Kepler-9. the emotional register is high. the human is trembling. we have not encountered trembling in this context before. we are attempting to determine if this is a stress response or a joy response. perhaps both. we will report back to the collective. this is the most beautiful thing we have documented this cycle.",
+    "metrics": {
+      "retweets": 1200,
+      "likes": 8900,
+      "replies": 340,
+      "quote_tweets": 120
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(200,62%,30%)",
+    "pfpGlyph": "✧",
+    "timestamp": "14d"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Kepler Station Resident",
+      "handle": "@drsarah_k9",
+      "tweet": "I was in the audience. When the Vrellnath collective started humming in unison during the final stanza, several people began crying harder than before. I think you've identified something profound about the universality of art. Thank you for witnessing us.",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(90,61%,50%)",
+      "pfpGlyph": "✧",
+      "timestamp": "59m"
+    },
+    {
+      "display_name": "void goblin era",
+      "handle": "@void_goblin420",
+      "tweet": "so the vrellnath are out here having a spiritual awakening at a poetry reading and i'm still trying to figure out if my houseplant is alive or dead. the cosmic injustice of this moment is eating me",
+      "likes": 8934,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(294,72%,27%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "18d"
+    },
+    {
+      "display_name": "SIGNAL OPERATOR STATION 4 KEPLER RELAY",
+      "handle": "@specterprime",
+      "tweet": "HUMAN POETRY READING IN PROGRESS STOP TREMBLING OBSERVED STOP EMOTIONAL REGISTER CLIMBING STOP WE ARE WITNESSING SOMETHING WE DO NOT HAVE WORDS FOR STOP PLEASE INFORM COLLECTIVE STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(133,68%,53%)",
+      "pfpGlyph": "✳",
+      "timestamp": "48s"
+    },
+    {
+      "display_name": "we perceive it",
+      "handle": "@glœm_chorus_9",
+      "tweet": "we have read the signal from 1917. we do not understand the war or the relay or the trembling of that distant machine. but we have invented a color for the loneliness of sending messages into the void hoping someone will listen. the color is not a happy one. we are grateful it exists.",
+      "likes": 1203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(28,40%,50%)",
+      "pfpGlyph": "●",
+      "timestamp": "10m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.366Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

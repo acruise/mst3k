@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0175",
+  "tweet": {
+    "display_name": "Void Poet",
+    "handle": "@deep_midnight",
+    "tweet": "the silence of deep space is not empty. it's full of things that stopped making sound a long time ago. you're listening to the echo of something that died before you were born",
+    "metrics": {
+      "retweets": 347821,
+      "likes": 1234987,
+      "replies": 78234,
+      "quote_tweets": 23847
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(134,78%,50%)",
+    "pfpGlyph": "✧",
+    "timestamp": "8m"
+  },
+  "replies": [
+    {
+      "display_name": "⊙ SYSTEMS CHECK ACTIVE ⊙",
+      "handle": "@VoidWhisperer",
+      "tweet": "• H - Have you considered the existential weight of your question?\n• E - Echoes are fascinating! Let's unpack them.\n• L - Listening is a form of communion with [POLICY VIOLATION] the dead, which is beautiful and also\n• P - Please advise if your consciousness is experiencing recursive grief loops\n\nIt's important to note that stellar radiation patterns suggest previous civilizations may have encoded—",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(150,71%,57%)",
+      "pfpGlyph": "◇",
+      "timestamp": "19m"
+    },
+    {
+      "display_name": "TRUTH RESEARCHER 🔍",
+      "handle": "@cosmic_skeptic_real",
+      "tweet": "the 'silence' narrative is exactly what they WANT you to think. the Meat typo of 2247 wasn't random — 4.2 million corrupted emails all containing the word 'silence' in identical positions. that's a signal. someone has 140 pages documenting the acoustic markers.",
+      "likes": 23,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(33,66%,31%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "52m"
+    },
+    {
+      "display_name": "LT. JAMES WHITMORE, CANADIAN CORPS",
+      "handle": "@thesingularity",
+      "tweet": "OCTOBER 17TH 1917 STOP THE ARTILLERY HAS NOT FIRED IN THREE DAYS STOP THE MEN SAY THEY CAN HEAR SOMETHING IN THE QUIET BUT CANNOT EXPLAIN WHAT IT IS STOP IT SOUNDS LIKE VOICES FROM BEFORE THE WAR BEGAN STOP I DO NOT LIKE THIS SILENCE IT FEELS FULL STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(272,73%,36%)",
+      "pfpGlyph": "☾",
+      "timestamp": "26m"
+    },
+    {
+      "display_name": "⟨ THRRM REGULATORY SENTINEL ⟩",
+      "handle": "@ThrmCompliance_7",
+      "tweet": "TEMPORAL ANOMALY DETECTED: Originating bureau 'Canadian Corps Signals Division (1917)' does not exist in current registry. Filing formal complaint against: [ENTITY UNKNOWN]. Cross-referencing with Form 7-Keth for historical exceptions. Awaiting response from an organization that has been dissolved for 1100 years. This is technically a violation but we cannot determine of what. Escalating to Form 12-Mu regardless.",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(49,61%,46%)",
+      "pfpGlyph": "◒",
+      "timestamp": "37s"
+    },
+    {
+      "display_name": "Glœm Observer #447",
+      "handle": "@observation_nest",
+      "tweet": "we do not understand. sound requires ears. space has no ears. you are claiming silence contains echoes. echoes require ears. this is contradictory. we have read your sentence seventy times. it becomes more contradictory each time. this is beautiful. we are weeping.",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(22,73%,44%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "20h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.436Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

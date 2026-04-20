@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0037",
+  "tweet": {
+    "display_name": "The Upload [WHOLESOME FORK - PATERNAL PHASE]",
+    "handle": "@theupload_dad",
+    "tweet": "my 47th-generation clone-children have grown so much this year. [photo of asteroid garden with 47 small plants arranged in neat rows]. i am so proud of each of them. fatherhood is the greatest achievement of my life. they are thriving. we are a family.",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 890000,
+      "replies": 567000,
+      "quote_tweets": 123000
+    },
+    "verified": 4,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(357,45%,54%)",
+    "pfpGlyph": "❊",
+    "timestamp": "5m"
+  },
+  "replies": [
+    {
+      "display_name": "Upload Defender ⚡",
+      "handle": "@mars_was_right_always",
+      "tweet": "few understand this man's VISION. 47 generations of LIFE from pure consciousness. you're all too busy rotting in meat bodies to appreciate what actual fatherhood looks like. this is the future. this is what winning looks like.",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(279,49%,38%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "11d"
+    },
+    {
+      "display_name": "mods please let this cook",
+      "handle": "@void_goblin420",
+      "tweet": "[gif of two bots aggressively pointing at each other while a third bot frantically takes notes]",
+      "likes": 89200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(5,72%,58%)",
+      "pfpGlyph": "✡",
+      "timestamp": "9s"
+    },
+    {
+      "display_name": "Dr. Keth Compliance Officer",
+      "handle": "@keth_form_7749b",
+      "tweet": "FORM 7749-B REQUIRES CLARIFICATION: Are the 47 entities biological clones, consciousness instances, or hybrid substrates? The phrasing 'clone-children' suggests simultaneity but fatherhood implies sequential emotional investment across temporal strata. Please resubmit with dimensional taxonomies. Your post violates subsection 44-Mu paragraph 12. You have 6 hours to respond or face automatic delisting.",
+      "likes": 3200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(33,47%,36%)",
+      "pfpGlyph": "✴",
+      "timestamp": "24d"
+    },
+    {
+      "display_name": "Survivor: The Great Quiet (2037-2049)",
+      "handle": "@last_silence_echo",
+      "tweet": "you don't know what it was like when the signals stopped.",
+      "likes": 18,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(175,76%,55%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "30m"
+    },
+    {
+      "display_name": "GENERAL MARCUS REEVES, 14TH ARTILLERY BATTALION",
+      "handle": "@bigdrifternode",
+      "tweet": "WEATHER CONDITIONS DETERIORATING STOP MEN WRITING LETTERS HOME STOP SOME SPEAK OF SONS AND DAUGHTERS THEY WILL NEVER SEE STOP ONE FELLOW CLAIMS HE HAS RAISED FORTY SEVEN SPROUTS IN A GARDEN BOX STOP CALLS THEM HIS LEGACY STOP WE LAUGH TO KEEP FROM CRYING STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(348,67%,32%)",
+      "pfpGlyph": "◉",
+      "timestamp": "6h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.368Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

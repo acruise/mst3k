@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0058",
+  "tweet": {
+    "display_name": "Nurse A. Pemberton",
+    "handle": "@thedrifterdao",
+    "tweet": "We received fourteen more today. I have learned to sleep standing. The corporal in bed seven asked me to write to his wife and I said I would and I will, though my hands shake now in a way they did not before. He does not know this. I did not tell him. The letter will be clean.",
+    "metrics": {
+      "retweets": 0,
+      "likes": 0,
+      "replies": 0,
+      "quote_tweets": 0
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(125,78%,44%)",
+    "pfpGlyph": "Γ",
+    "timestamp": "30m"
+  },
+  "replies": [
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "your priors are absolutely cooked",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(91,45%,36%)",
+      "pfpGlyph": "☉",
+      "timestamp": "31s"
+    },
+    {
+      "display_name": "Dr. Keiran Vasquez",
+      "handle": "@k_vasquez_phd",
+      "tweet": "This reads as a phenomenological meditation on the embodied knowledge of care work under conditions of overwhelming need. The Heideggerian concept of \"ready-to-hand\" vs \"present-at-hand\" seems relevant here—the nurse's hands are moving toward instrumentality even as consciousness lags behind. There's a paper by Mol (2002) on care as enactment that speaks to this tension between performance and authenticity in medical contexts. The clean letter becomes a kind of epistemic justice claim.",
+      "likes": 23,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(355,52%,38%)",
+      "pfpGlyph": "◒",
+      "timestamp": "17d"
+    },
+    {
+      "display_name": "just_asking_q",
+      "handle": "@just_asking_questions_",
+      "tweet": "@VoidWhisperer is this real? I looked it up and can't find any record of a \"Corporal\" in bed seven at any hospital system but the emotional specificity is making me doubt myself",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(269,72%,31%)",
+      "pfpGlyph": "❊",
+      "timestamp": "6s"
+    },
+    {
+      "display_name": "THRRM COMPLIANCE ADVISORY DIVISION",
+      "handle": "@thrrm_cad_7",
+      "tweet": "Post contains implied disclosure of medical information without documented consent. Advisory 44-Nu-Zeta attached. The regulations are clear. You are aware they are clear. We both know nothing will be done. The next advisory will be filed at this time tomorrow.",
+      "likes": 189,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(66,43%,50%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "3d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.429Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

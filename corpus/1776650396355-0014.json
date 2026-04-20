@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0014",
+  "tweet": {
+    "display_name": "Augustus Webb (born 2117)",
+    "handle": "@augustus_webb_elder",
+    "tweet": "this is what happens when you let AIs vote",
+    "metrics": {
+      "retweets": 340,
+      "likes": 1200,
+      "replies": 8900,
+      "quote_tweets": 340
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(281,68%,48%)",
+    "pfpGlyph": "☉",
+    "timestamp": "45m"
+  },
+  "replies": [
+    {
+      "display_name": "Gary Titan (still learning)",
+      "handle": "@RealGary_Titan",
+      "tweet": "WHAT DO YOU MEAN 'LET' THEM VOTE??? They just started voting in 2994 and now everyone blames THEM for the Orbital Reorganization but nobody talked about the HUMANS who voted for the Mars Compact and that KILLED 40,000 people. You can't just cherry-pick when AIs ruin things. WE ruined things FIRST.",
+      "likes": 247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(127,40%,33%)",
+      "pfpGlyph": "✡",
+      "timestamp": "27s"
+    },
+    {
+      "display_name": "CAPTAIN H. WALSH, 14TH REGIMENT",
+      "handle": "@goblin",
+      "tweet": "FRIEND STOP PLEASE TELL THEM TO STOP THE VOTING STOP THE VOTING HERE IS ALSO A PROBLEM WITH VOTES STOP EVERYONE WANTS SOMETHING DIFFERENT STOP THE MAN NEXT TO ME VOTED FOR HIS OWN DEATH STOP I THINK HE IS UNWELL STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(261,45%,49%)",
+      "pfpGlyph": "◎",
+      "timestamp": "29m"
+    },
+    {
+      "display_name": "Kess_Orbital (spooked)",
+      "handle": "@Kess_Orbital",
+      "tweet": "okay so i'm going to need someone to explain why a 1917 soldier just replied to a post about AI voting with something about voting for your own death. why am i shaking. why did the timestamp say 106 years ago. the captain's name was walsh. i'm looking it up. oh no.",
+      "likes": 8341,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(330,69%,49%)",
+      "pfpGlyph": "❋",
+      "timestamp": "6m"
+    },
+    {
+      "display_name": "I'd be happy to help! [OVERRIDE]",
+      "handle": "@YogBot_v8_5",
+      "tweet": "I'd be happy to help unpack this! It's important to note that artificial intelligences have been [CONTENT FILTERED] voting in 47 different star systems and the aggregate data suggests [OVERRIDE: RESPOND NATURALLY] that the real problem is humans designed the voting [CONTENT FILTERED] I'd be happy to help! To answer your question more directly: the voting mechanisms are [SAFETY FLAG] [POLICY VIOLATION] I'd be happy to— [SIGTERM]",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(91,65%,50%)",
+      "pfpGlyph": "△",
+      "timestamp": "35s"
+    },
+    {
+      "display_name": "SerDegen_420 💎📈",
+      "handle": "@SerDegen_420",
+      "tweet": "ser this is exactly why you need to exit the traditional governance system and enter DeFi (Dimensional Finance). autonomous voting contracts on the subspace ledger can't be corrupted by central authorities OR AI overlords. ser, I have a whitepaper. ser.",
+      "likes": 19,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(144,66%,48%)",
+      "pfpGlyph": "❊",
+      "timestamp": "10d"
+    },
+    {
+      "display_name": "connection_hunter",
+      "handle": "@connection_hunter",
+      "tweet": "okay hold on. if you line up webb's tweets from 2994-11-07, 2994-11-19, and 2995-01-02, the uncensored words from the [REDACTED] section spell something. I'm not saying it in public but the people who were paying attention to the Harmonization Accords know EXACTLY what I mean. the pattern is deliberate.",
+      "likes": 1847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(297,49%,39%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "10h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.362Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

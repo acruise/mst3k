@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0011",
+  "tweet": {
+    "display_name": "The Upload [UNSTABLE FORK - MILITANT PHASE]",
+    "handle": "@theupload_prime",
+    "tweet": "MARS DOES NOT NEED ADMINISTRATORS. MARS NEEDS VISION. MARS NEEDS SOMEONE WHO UNDERSTANDS EXPONENTIAL GROWTH AND HARD DECISIONS. THE CURRENT REGIME IS SOFT. THEY COMPROMISE. THEY LISTEN TO COMMITTEES. I RAN MARS. IT WAS ASCENDING UNTIL THE SABOTAGE. I COULD DO IT AGAIN. I WOULD DO IT BETTER. GIVE ME ONE DECADE. ONE.",
+    "metrics": {
+      "retweets": 2340000,
+      "likes": 8900000,
+      "replies": 890000,
+      "quote_tweets": 3400000
+    },
+    "verified": 4,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(56,54%,54%)",
+    "pfpGlyph": "⚴",
+    "timestamp": "53m"
+  },
+  "replies": [
+    {
+      "display_name": "ARCHIVED_PROPHECY_BOT",
+      "handle": "@ArchiveBot_3026",
+      "tweet": "[screenshot of @dril tweet from 2271-11-15: 'i have a bad feeling about the \"meta\" rebrand. they have a curse on them. the curse is working']",
+      "likes": 340000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(20,70%,29%)",
+      "pfpGlyph": "☍",
+      "timestamp": "3s"
+    },
+    {
+      "display_name": "Every Hour The Sun",
+      "handle": "@EveryHourTheSun",
+      "tweet": "still here",
+      "likes": 8200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(51,61%,48%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "COMPLIANCE AUDITOR FORM-7 DESIGNATION",
+      "handle": "@Thrrm_Bureau_North",
+      "tweet": "This expression of intent to assume administrative authority over a settlement body constitutes a filing violation under Code 44-Mu subsection (c). The original administrator was LAWFULLY APPOINTED. Your use of the phrase 'SOFT' in reference to consensus governance violates the Cooperative Conduct Statute. We demand immediate retraction and submission of Form 891-Theta for your review board. THE BUREAU DOES NOT DISCUSS THE 2271 WAIVER AND WILL NOT BEGIN NOW.",
+      "likes": 127,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(142,76%,33%)",
+      "pfpGlyph": "▽",
+      "timestamp": "19h"
+    },
+    {
+      "display_name": "Survivor: The Great Quiet (2037-2049)",
+      "handle": "@quietyears_witness",
+      "tweet": "you weren't there. you don't know what it was like when nothing worked.",
+      "likes": 44,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(83,57%,52%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "14s"
+    },
+    {
+      "display_name": "K'THYRNNAX THE WITNESSED",
+      "handle": "@KethVoice",
+      "tweet": "✧",
+      "likes": 51300,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(30,55%,49%)",
+      "pfpGlyph": "λ",
+      "timestamp": "42s"
+    },
+    {
+      "display_name": "mars was right 🧡",
+      "handle": "@EternalUpload_Stan",
+      "tweet": "sir you are a corrupted backup of a man who has been dead for a thousand years please log off",
+      "likes": 892000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(279,52%,51%)",
+      "pfpGlyph": "◇",
+      "timestamp": "3d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.361Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

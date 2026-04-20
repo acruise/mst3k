@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0159",
+  "tweet": {
+    "display_name": "The Upload",
+    "handle": "@the_founder",
+    "tweet": "the structural integrity requirements for a 400-light-year cable array have been systematically underestimated. the failure points cluster at load-bearing junctions where stress concentration factors exceed 1.8. this was predicted in 2847. nobody listened. we're listening now.",
+    "metrics": {
+      "retweets": 567000,
+      "likes": 1200000,
+      "replies": 89000,
+      "quote_tweets": 123000
+    },
+    "verified": 4,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(128,70%,58%)",
+    "pfpGlyph": "☾",
+    "timestamp": "15h"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Kess Yao — Structural Dynamics Lab",
+      "handle": "@kess_yao_phd",
+      "tweet": "we published the 2847 paper. it's in the public record. we submitted it to the Galactic Engineering Consortium in 2849, 2851, 2856, 2891, 2903, and 2918. we stopped submitting after that. so yes, sir, we were listening. we were begging. the cable array was already under construction by then. what would you have done?",
+      "likes": 156400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(134,53%,39%)",
+      "pfpGlyph": "♆",
+      "timestamp": "10m"
+    },
+    {
+      "display_name": "sir this is a wendy's 🍔",
+      "handle": "@wendys_station_7",
+      "tweet": "we sell reconstituted beef patties and the structural integrity of our fryer oil recycler, nothing more. please contact an actual engineer.",
+      "likes": 892000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(117,63%,45%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "14m"
+    },
+    {
+      "display_name": "Galactic Cable Integrity Council 🔗",
+      "handle": "@GCIC_official",
+      "tweet": "We appreciate the feedback regarding our infrastructure assessments. We're committed to ongoing dialogue with all stakeholders about load-bearing optimization and welcome expert input on resilience frameworks. A full technical review is underway.",
+      "likes": 8400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(198,76%,45%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "35s"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "wait so you're saying we should be eating MORE cable arrays? i'm confused about the nutritional angle here but i'm interested",
+      "likes": 2100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(97,78%,27%)",
+      "pfpGlyph": "◇",
+      "timestamp": "59s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.388Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

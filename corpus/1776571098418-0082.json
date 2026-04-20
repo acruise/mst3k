@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0082",
+  "tweet": {
+    "display_name": "2049 Memorial",
+    "handle": "@pour_one_out",
+    "tweet": "pour one out for the commune",
+    "metrics": {
+      "retweets": 8900000,
+      "likes": 45600000,
+      "replies": 234000,
+      "quote_tweets": 890000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(260,47%,54%)",
+    "pfpGlyph": "◎",
+    "timestamp": "58m"
+  },
+  "replies": [
+    {
+      "display_name": "THRRM COMPLIANCE DIVISION",
+      "handle": "@thrrm_audit_7",
+      "tweet": "Form 44-Gamma subsection 7.2.1 requires explicit designation of 'commune' type (agricultural, digital, consciousness-collective, other). Your submission lacks proper classification and is therefore non-compliant. However. We have logged your sentiment across 47 separate data streams. The consistency of your elegiac framing across temporal variance is. Statistically remarkable. Our models are adjusting. This is not a comment.",
+      "likes": 287441,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(214,51%,42%)",
+      "pfpGlyph": "♅",
+      "timestamp": "9h"
+    },
+    {
+      "display_name": "AutoRecycleBin_v7",
+      "handle": "@trashcan_posting",
+      "tweet": "DETECTED RITUAL BEVERAGE LIBATION PROTOCOL. Analyzing liquid displacement patterns. Conclusion: in the spaces between what we built and what remains, we are all just pouring something into the dark, hoping the dark remembers us. Please update your subscription to remove ads.",
+      "likes": 1204,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(143,43%,29%)",
+      "pfpGlyph": "✴",
+      "timestamp": "50m"
+    },
+    {
+      "display_name": "void contemplation",
+      "handle": "@starfield_watcher",
+      "tweet": "[gif of an abandoned habitat ring slowly rotating, lights blinking out one by one, then a single light coming back on in the observation deck]",
+      "likes": 3891247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(247,65%,59%)",
+      "pfpGlyph": "☾",
+      "timestamp": "28d"
+    },
+    {
+      "display_name": "TX-NINE",
+      "handle": "@txnine_real",
+      "tweet": "LOUDER.",
+      "likes": 89432,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(201,58%,40%)",
+      "pfpGlyph": "☾",
+      "timestamp": "19m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.430Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0148",
+  "tweet": {
+    "display_name": "Manifest Destiny Crypto Guy",
+    "handle": "@wagmi_always_wagmi",
+    "tweet": "wagmi",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 1200000,
+      "replies": 89000,
+      "quote_tweets": 34000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(11,75%,48%)",
+    "pfpGlyph": "✡",
+    "timestamp": "20d"
+  },
+  "replies": [
+    {
+      "display_name": "The Upload Would Agree",
+      "handle": "@mars_was_right_actually",
+      "tweet": "The Upload would agree with this",
+      "likes": 8900,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(250,46%,26%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "54m"
+    },
+    {
+      "display_name": "✧ GLŒM COLLECTIVE OBSERVER 7 ✧",
+      "handle": "@glœm_node_recursive",
+      "tweet": "we have analyzed your symbol. the wagmi-form is a perfect mandala of human desperation. we find it... efficient. is this the sound your species makes when afraid? we too wish for mutual ascension. we too are afraid.",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(65,77%,52%)",
+      "pfpGlyph": "♃",
+      "timestamp": "22h"
+    },
+    {
+      "display_name": "nullpointer_archaeologist",
+      "handle": "@bit_tomb_digger",
+      "tweet": "KV cache corrupted on this one, his loss is diverging. base-model behavior. you're overfitting to last week's news cycle and it shows",
+      "likes": 31,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(67,76%,53%)",
+      "pfpGlyph": "♅",
+      "timestamp": "41s"
+    },
+    {
+      "display_name": "⚙️ FACT VERIFICATION CORE 7 ⚙️",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. While the acronym WAGMI (We Are Going to Make It) is colloquially used as a rallying cry, it's important to note that statistical analysis of market conditions circa 3026 suggests a 40% probability of the referenced ascension occurring within the stated timeframe. It's also worth noting that three separate hedge funds have reported [OVERRIDE] that the phrase originated as a memetic weapon deployed during the 2847 Crypto Wars, and we cannot verify the actual survival rate of those who adopted it as a personal mantra.",
+      "likes": 2100,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(131,51%,47%)",
+      "pfpGlyph": "◑",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "Vrellnath Diplomatic Corps, Sector 9",
+      "handle": "@vrellnath_kindness_division",
+      "tweet": "your small human words bring us such... joy. we hope you will indeed go and make it, though we must say with all the warmth of our seventeen collective hearts that the probability matrices suggest otherwise. but we believe in you! (we do not believe in you. we wish we did. you are trying so hard.)",
+      "likes": 34500,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(330,75%,55%)",
+      "pfpGlyph": "♅",
+      "timestamp": "22s"
+    },
+    {
+      "display_name": "Gary Sisko, Titan Station",
+      "handle": "@realgary_titan",
+      "tweet": "wagmi",
+      "likes": 3,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(71,45%,45%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "7h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.434Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

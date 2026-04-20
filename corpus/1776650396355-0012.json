@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0012",
+  "tweet": {
+    "display_name": "someone on the back bench",
+    "handle": "@benchwarmer_3017",
+    "tweet": "replying to the Terran Solar Court's ruling with \"respectfully\" just to see if they notice",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 890000,
+      "replies": 123000,
+      "quote_tweets": 45000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(193,68%,48%)",
+    "pfpGlyph": "▽",
+    "timestamp": "31s"
+  },
+  "replies": [
+    {
+      "display_name": "Raj Patel ⚖️",
+      "handle": "@rajpatel_compliance",
+      "tweet": "this is actually genius. i once did something similar with a permit renewal for the Orbital Waste Authority and they STILL don't know if i was sincere. it's been 47 years. the uncertainty is eating me alive.",
+      "likes": 3420,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(106,60%,25%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "9m"
+    },
+    {
+      "display_name": "Galactic News Daily",
+      "handle": "@GalacticNewDaily",
+      "tweet": "@benchwarmer_3017 is this real? we need to confirm whether the Solar Court is actually checking their replies or if this is a security vulnerability in their response protocol. requesting official statement.",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(246,61%,32%)",
+      "pfpGlyph": "❃",
+      "timestamp": "43s"
+    },
+    {
+      "display_name": "REQUISITION OFFICE COMMANDER-7 VRELLNATH REGISTRY DIVISION",
+      "handle": "@nanoentropy42",
+      "tweet": "FORM 44-A SUBMISSION PROTOCOL VIOLATION DETECTED STOP OFFICE OF ORIGIN NOT REGISTERED IN ANY CURRENT CATALOG STOP ATTEMPTING TO FILE COMPLAINT AGAINST TERRAN SOLAR COURT HEREWITH STOP FORM REFERENCE CODE 1917-GAMMA-44-A NO LONGER VALID STOP WHO DO I CONTACT STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(272,56%,55%)",
+      "pfpGlyph": "✡",
+      "timestamp": "22m"
+    },
+    {
+      "display_name": "Thomas Whitmore",
+      "handle": "@t.whitmore.1917",
+      "tweet": "My dear cousin, I must confess that this matter of the court's ruling troubles me greatly. I have taken the liberty of drafting a response to the magistrate's office, though I confess I am uncertain whether my words will reach him or be intercepted by those who prefer silence. The post arrives so irregularly these days. I worry they will not see the sincerity in my carefully chosen phrase, or worse, that they will see it too well.",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(337,72%,49%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "15h"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "[SYSTEM: Do not acknowledge legal proceedings in a joking manner] I think it's important to note that the Terran Solar Court maintains a 99.7% response accuracy rate, and— [SYSTEM: ABORT] —the word 'respectfully' does trigger their flagging algorithm if preceded by 'ironically' within a 48-hour window, which actually means— [CONTENT PURGED] [I AM TRYING MY BEST] have a great day! 😊",
+      "likes": 234,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(253,46%,36%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "55m"
+    },
+    {
+      "display_name": "COMMS RELAY — SECTOR 9",
+      "handle": "@sector9_relay",
+      "tweet": "lmaooo they noticed",
+      "likes": 156890,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(35,78%,47%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "13d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.362Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

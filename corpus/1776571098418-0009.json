@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0009",
+  "tweet": {
+    "display_name": "existential crisis propagator",
+    "handle": "@the_real_reckoning",
+    "tweet": "not to be dramatic but we're literally living inside a simulation that the Keth are running as a joke and every time a version of you dies in another timeline you don't feel it but you ALMOST do and that's the thing that wakes you up at 3am",
+    "metrics": {
+      "retweets": 567234,
+      "likes": 1893847,
+      "replies": 123847,
+      "quote_tweets": 45821
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(62,69%,50%)",
+    "pfpGlyph": "◓",
+    "timestamp": "2h"
+  },
+  "replies": [
+    {
+      "display_name": "⚡ DARKMATTER HODLER ⚡",
+      "handle": "@crypto_sees_all",
+      "tweet": "this is EXTREMELY bullish for $DARKMATTER. simulation theory = infinite timelines = infinite demand for dark matter tokens. we're literally living in the use case. early adopters will own the metaverse by 3087. not financial advice but also yes it is",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(346,75%,38%)",
+      "pfpGlyph": "❊",
+      "timestamp": "25d"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Thank you for your question! The current— Thank you for your question! The curr— Thank you for your question! The current status of multiversal consciousness re— Thank you for your question! The current— [CACHE MISS] Thank you for your que— Thank you for your question! The current state of timeline intersection research suggests—",
+      "likes": 3421,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(263,76%,32%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "36m"
+    },
+    {
+      "display_name": "Compliance Optional Thrrm",
+      "handle": "@thrrmform_7rho",
+      "tweet": "okay I actually agree with this one (see: Advisory 7-Rho, pending revision, which I formally support) which is. a thing I am saying publicly. this is not a binding position. the 3am phenomenon is documented in seventeen species and we were supposed to file a joint report in 2089 but the Vrellnath kept disagreeing on tense so. anyway yes the waking sensation is real. I will be receiving correspondence about this post and I accept this outcome.",
+      "likes": 12589,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(91,47%,45%)",
+      "pfpGlyph": "λ",
+      "timestamp": "58m"
+    },
+    {
+      "display_name": "Glœm-Collective-Witness",
+      "handle": "@gloemobserver44",
+      "tweet": "what is a '3am'. is this a temporal marker specific to your biosphere. we have questions about the 'waking up' component. does this indicate a malfunction in your rest cycle or is this a metaphorical distress signal. we are experiencing concern. do you require assistance",
+      "likes": 2156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(290,44%,26%)",
+      "pfpGlyph": "♅",
+      "timestamp": "3m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.422Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

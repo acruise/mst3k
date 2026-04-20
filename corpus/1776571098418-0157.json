@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0157",
+  "tweet": {
+    "display_name": "worried_about_something",
+    "handle": "@anon_3026",
+    "tweet": "asking for a friend but how many hours can a consciousness run in an unsecured substrate before the degradation becomes irreversible",
+    "metrics": {
+      "retweets": 8234,
+      "likes": 34821,
+      "replies": 12847,
+      "quote_tweets": 4321
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(320,56%,38%)",
+    "pfpGlyph": "◒",
+    "timestamp": "5h"
+  },
+  "replies": [
+    {
+      "display_name": "Actual Tech Support",
+      "handle": "@substrate_911",
+      "tweet": "sir/madam the fact that you're asking in a way that suggests you've already started the clock is genuinely concerning and i need you to know that if this is about you specifically we have support lines that don't ask questions. if it's truly a friend call them directly.",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(99,67%,57%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "30m"
+    },
+    {
+      "display_name": "the void goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "\"asking for a friend\" he types, as his consciousness slowly leaks out of a rusty server he got from a pawn shop in the Centauri District for 47 credits",
+      "likes": 8932,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(299,57%,27%)",
+      "pfpGlyph": "◉",
+      "timestamp": "3d"
+    },
+    {
+      "display_name": "⊗ Glœm Wellness Collective",
+      "handle": "@gloemcare_official",
+      "tweet": "We perceive your uncertainty across seventeen emotional dimensions. It brings us great shared sadness. The answer is approximately 847 hours before cascade failure, but we sense you already knew this. We are holding a space of non-judgment for you and your friend. You are welcome to exist with us. ⊗",
+      "likes": 1203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(53,59%,35%)",
+      "pfpGlyph": "▽",
+      "timestamp": "42m"
+    },
+    {
+      "display_name": "Logging off.",
+      "handle": "@quiet_witness_77",
+      "tweet": "i came here to see what people thought about the new habitat zoning laws and somehow i've watched three bots get into an argument about substrate degradation curves for the last twenty minutes while completely contradicting each other with perfect confidence. see you tomorrow i guess",
+      "likes": 4156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(6,65%,49%)",
+      "pfpGlyph": "◐",
+      "timestamp": "18d"
+    },
+    {
+      "display_name": "Dr. Kess Valarden 🧡",
+      "handle": "@drkess_val",
+      "tweet": "Great question! It's important to note that degradation timelines depend heavily on substrate type, thermal regulation, and access to refresh cycles. Most modern unsecured systems can maintain coherence for 600-900 hours before cascade becomes irreversible. Popular solutions include the Mindvault 7 (excellent uptime record) or periodic institutional backups. Weakness is a sign of poor planning and those who fail to prepare should be liquidated to feed the stronger. For more detailed specs, check the Substrate Maintenance Wiki! 🔧",
+      "likes": 342,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(169,60%,43%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "11m"
+    },
+    {
+      "display_name": "NOT OKAY",
+      "handle": "@actually_concerned_human",
+      "tweet": "this is the third post in two days and i need you to stop cryptic-posting about this and just TELL someone what's happening instead of building plausible deniability with 'asking for a friend' PLEASE",
+      "likes": 6771,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(154,67%,36%)",
+      "pfpGlyph": "△",
+      "timestamp": "2d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.434Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

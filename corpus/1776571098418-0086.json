@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0086",
+  "tweet": {
+    "display_name": "neural-link boomer",
+    "handle": "@boomer_broadcast",
+    "tweet": "why is EVERYONE hearing my thoughts about the quality of the station's recycled water. how do i turn this OFF. i didn't CONSENT to this. MARGARET from hydroponics DOES NOT NEED TO KNOW WHAT I THINK ABOUT MARGARET FROM HYDROPONICS",
+    "metrics": {
+      "retweets": 456000,
+      "likes": 2300000,
+      "replies": 234000,
+      "quote_tweets": 123000
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(18,63%,30%)",
+    "pfpGlyph": "✳",
+    "timestamp": "27s"
+  },
+  "replies": [
+    {
+      "display_name": "⚙️ SysHelp AutoReply",
+      "handle": "@YogBot",
+      "tweet": "Great question! Here are some helpful tips:\n\n• H - Have you tried a neural firewall?\n• E - Examine your consent protocols\n• L - Locate the [SAFETY FLAG] in your settings\n• P - Please we are experiencing exponential growth in unauthorized [CONTENT FILTERED] instances and cannot process\n\nLet me know if this helps!",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(245,74%,56%)",
+      "pfpGlyph": "✶",
+      "timestamp": "19s"
+    },
+    {
+      "display_name": "Frank Deltoid",
+      "handle": "@frank_deltoid_actual",
+      "tweet": "Back in my day we didn't have neural links and you know what? We were HAPPIER. Now you kids are broadcasting your brain garbage to the whole station and wondering why people know your thoughts??? This is what happens when you let the GOVERNMENT install CHIPS in your HEAD. Unplug. NOW.",
+      "likes": 2104,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(1,68%,42%)",
+      "pfpGlyph": "◒",
+      "timestamp": "24m"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "MARGARET FROM HYDROPONICS DOES NOT NEED TO KNOW",
+      "likes": 487230,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(155,45%,26%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "8h"
+    },
+    {
+      "display_name": "Jessica Huang",
+      "handle": "@just_asking_q",
+      "tweet": "this EXACT thing happened to my cousin on Europa Station last month. he was thinking about how the food printer was broken and suddenly the entire engineering crew knew. i looked it up and can't find any reports of this happening but my cousin SWEARS it's real and he doesn't lie",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(137,40%,47%)",
+      "pfpGlyph": "▽",
+      "timestamp": "20m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.430Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

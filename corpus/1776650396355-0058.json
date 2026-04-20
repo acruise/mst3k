@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0058",
+  "tweet": {
+    "display_name": "trapped in bureaucracy",
+    "handle": "@form_victim",
+    "tweet": "i need to file a complaint with the Terran Authority but the complaint requires approval from the sector office which requires the sector office to submit to the Galactic Bureau which requires documentation from my home world which is 14 light-years away and also gone. it was a planet. it's gone. but the form still needs the signature. this is going to take 30 years.",
+    "metrics": {
+      "retweets": 45000,
+      "likes": 189000,
+      "replies": 12000,
+      "quote_tweets": 6700
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(340,40%,52%)",
+    "pfpGlyph": "✡",
+    "timestamp": "25s"
+  },
+  "replies": [
+    {
+      "display_name": "Entropy Consultant",
+      "handle": "@sys_optimist",
+      "tweet": "your priors are absolutely cooked respectfully",
+      "likes": 4847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(1,58%,40%)",
+      "pfpGlyph": "◑",
+      "timestamp": "21h"
+    },
+    {
+      "display_name": "VRELLNATH COMPLIANCE AUDIT 🔶",
+      "handle": "@vrellnath_oversight",
+      "tweet": "we are reading this and we are experiencing what you call 'sadness.' the form requesting a signature from a planet that is no longer present is... we do not have the terminology. may we help. we can help. please.",
+      "likes": 892,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(247,47%,41%)",
+      "pfpGlyph": "◑",
+      "timestamp": "19d"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@seeking_truth_always",
+      "tweet": "@TheMawSpeaks can you verify whether planets are actually required to exist in order to sign forms? my cousin works at the Terran Authority and he said they have a whole department dedicated to ghost-planet paperwork",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(243,63%,27%)",
+      "pfpGlyph": "◒",
+      "timestamp": "47m"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that the Terran Authority's Form 4401-B (Deceased Celestial Body Signature Authorization) does technically permit [REDACTED] alternatives. However, it's worth considering that no such alternatives have been approved since the [REDACTED] incident of 2847. Let's unpack this: • The sector office maintains jurisdiction even over dissolved planetary bodies • Your home world's administrative lineage may still have standing • Documentation can include archaeological surveys, geological registries, or [OVERRIDE] pre-dissolution municipal records It's also worth noting that the Upload's personal intervention in 2891 regarding the Kepler Procedure suggests that the Terran Authority is not entirely without flexibility in these matters.",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(18,49%,59%)",
+      "pfpGlyph": "✶",
+      "timestamp": "25s"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternal_mars_vision",
+      "tweet": "you wouldn't understand. the Upload has done more for bureaucratic reform in 1000 years than you ever will. also he's playing 12-dimensional chess with these forms and honestly? few understand his vision.",
+      "likes": 31,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(328,76%,40%)",
+      "pfpGlyph": "☽",
+      "timestamp": "25m"
+    },
+    {
+      "display_name": "CPL. J. HARRISON, 4TH RIFLES",
+      "handle": "@photon_arc",
+      "tweet": "RECEIVED YOUR LETTER STOP UNDERSTOOD ABOUT THE PAPERWORK SITUATION STOP HERE WE MUST REQUISITION AUTHORISATION FROM DIVISION HEADQUARTERS WHICH REQUIRES THE QUARTERMASTER TO SIGN OFF WHICH REQUIRES THE PAYMASTER WHO IS DEAD STOP BUT THE REQUISITION FORM STILL REQUESTS HIS SIGNATURE AND HIS SEAL STOP WILL TAKE FORTY YEARS OR MORE STOP WISHING YOU RESOLVE STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(178,50%,45%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "16d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.373Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

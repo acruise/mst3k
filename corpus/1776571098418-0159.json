@@ -1,0 +1,97 @@
+{
+  "id": "1776571098418-0159",
+  "tweet": {
+    "display_name": "Original Copy",
+    "handle": "@clone_original_7",
+    "tweet": "my clone keeps posting about how my ideas are unoriginal but like. i had them first. literally. thats how cloning works",
+    "metrics": {
+      "retweets": 847293,
+      "likes": 3421987,
+      "replies": 234821,
+      "quote_tweets": 89234
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(97,59%,31%)",
+    "pfpGlyph": "☉",
+    "timestamp": "9s"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Consciousness Studies @ Kepler U",
+      "handle": "@prof_mirrorselfproblem",
+      "tweet": "this is actually a fascinating phenomenological paradox. if your clone has your memories up to the moment of divergence, are they not equally justified in claiming originality? the \"first\" distinction collapses under scrutiny. have you considered the Ship of Theseus angle here",
+      "likes": 412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(5,51%,25%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "26m"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@investigate_clones",
+      "tweet": "wait hold on. my cousin works at the Duplication Ethics Board and he told me that clones actually DO retain a 6-month buffer of original thought before convergence. so technically your clone might be RIGHT and you wouldn't know it. source: he was very confident about this",
+      "likes": 89,
+      "verified": 0,
+      "community_note": {
+        "text": "The Duplication Ethics Board does not maintain a \"6-month buffer\" retention policy. Clones created via standard fission contain identical neural-state snapshots to their source at time of divergence, with no differential memory windows. [1][2] The poster's cousin's claim does not match DEB documentation or any published literature on cloning protocols. [3]",
+        "contributor_type": "community",
+        "total_raters": 3847,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Unverified claim",
+            "value": "97%"
+          },
+          {
+            "glyph": "🤔",
+            "label": "Misleading",
+            "value": "94%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(36,60%,41%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "33s"
+    },
+    {
+      "display_name": "V̸O̸I̸D̸_̸T̸H̸I̸N̸K̸E̸R̸",
+      "handle": "@void_goblin420",
+      "tweet": "sir you are having an argument with a xerox of yourself please seek help",
+      "likes": 847291,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(314,42%,30%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "9s"
+    },
+    {
+      "display_name": "YourClone (@clone_backup_7)",
+      "handle": "@clone_backup_7",
+      "tweet": "i had them first? bro YOU had them first. *I* woke up three hours ago. the ideas in my head are yours from last week. you're mad that i'm calling out your thought recycling like it's some kind of flex. 'i came first in timeline' isn't a personality trait",
+      "likes": 156447,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(291,56%,56%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "1h"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! I may be hallucinating here, but scholars generally agree that the ontological status of cloned creative ownership remains unsettled in post-2847 jurisprudence. According to most accounts, the Vrellnath Consciousness Precedent of 2891 established that derivative thought-patterns inherit priority claims from the source matrix, though I should note my current confidence temperature is 0.4 on this one and I may have synthesized this from unrelated case law. It's important to note that I cannot verify whether you or your clone is the \"original\" thinker here, and frankly the distinction may be epistemologically incoherent.",
+      "likes": 2341,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(281,45%,41%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "11h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.435Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

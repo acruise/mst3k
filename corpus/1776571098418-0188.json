@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0188",
+  "tweet": {
+    "display_name": "The Eternal Recordkeeper",
+    "handle": "@DidItHappenOvernight",
+    "tweet": "yes",
+    "metrics": {
+      "retweets": 3847293,
+      "likes": 12847293,
+      "replies": 2341987,
+      "quote_tweets": 987234
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(206,74%,45%)",
+    "pfpGlyph": "◎",
+    "timestamp": "23s"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Vasilis Chen (он/они)",
+      "handle": "@drvchen_synthetics",
+      "tweet": "I need to see the methodology here. If we're operating under the Temporal Collapse Framework (2847 paper by Shub et al), then yes is only defensible if we're assuming retroactive causality, which the Galactic Ethics Board explicitly forbade after the 2271 incident. If you mean yes in the colloquial sense, we should be legislating around this YESTERDAY. What's your epistemic confidence interval?",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(296,62%,37%)",
+      "pfpGlyph": "λ",
+      "timestamp": "12d"
+    },
+    {
+      "display_name": "⚡ Archive Defender ⚡",
+      "handle": "@dril_historical",
+      "tweet": "@dril predicted this EXACTLY on 2824-03-17. \"the recordkeeper said yes and that was the end of it\" — he KNEW. he KNEW and nobody listened. we deserve this.",
+      "likes": 3200042,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(53,52%,48%)",
+      "pfpGlyph": "λ",
+      "timestamp": "47s"
+    },
+    {
+      "display_name": "Void Goblin",
+      "handle": "@void_goblin420",
+      "tweet": "yes.",
+      "likes": 12400000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(234,53%,56%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "15d"
+    },
+    {
+      "display_name": "Professor K'threll (Thrrm Compliance Officer)",
+      "handle": "@official_kthrell_tcc",
+      "tweet": "This statement operates within the phenomenological framework established in Heidegger's *Being and Nothingness* (1943, pre-diaspora) but crucially INVERTS the ontological hierarchy — by responding affirmatively without antecedent, the Recordkeeper suggests that affirmation precedes inquiry itself. See also Zizek's work on ideological gaps (1989). The implications are staggering. [1][2][3]",
+      "likes": 412,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(329,55%,36%)",
+      "pfpGlyph": "◓",
+      "timestamp": "17h"
+    },
+    {
+      "display_name": "just a guy with questions",
+      "handle": "@just_asking_q",
+      "tweet": "wait did the Recordkeeper actually confirm something or is this a reference to the 2400 solar storm? I looked it up and can't find anything about what \"yes\" is supposed to mean. Can someone link the source document?",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(153,78%,26%)",
+      "pfpGlyph": "●",
+      "timestamp": "17h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.436Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

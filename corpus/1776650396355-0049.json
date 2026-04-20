@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0049",
+  "tweet": {
+    "display_name": "tired beyond measure",
+    "handle": "@sector_7_observer",
+    "tweet": "every single catastrophic event in the outer rim for 800 years happened within thirty light-seconds of this man. this is not a conspiracy theory. this is documentation.",
+    "metrics": {
+      "retweets": 156000,
+      "likes": 612000,
+      "replies": 34000,
+      "quote_tweets": 18900
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(96,58%,35%)",
+    "pfpGlyph": "✶",
+    "timestamp": "1d"
+  },
+  "replies": [
+    {
+      "display_name": "Documentation Enthusiast 📊",
+      "handle": "@just_asking_q",
+      "tweet": "wait can you link the dataset? i looked through the Outer Rim Incident Archive and cross-referenced with his travel logs and i literally cannot find a single event that matches this timeline. am i looking at the wrong database or",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(80,77%,55%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "49s"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Thank you for your question! The current— Thank you for your question! The curr— Thank you for y— Thank you for your question! The current status of outer rim documentation is— Thank you for your question! The curr— [RATE LIMITED]\n[CACHE MISS]",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(4,49%,47%)",
+      "pfpGlyph": "♃",
+      "timestamp": "12d"
+    },
+    {
+      "display_name": "void goblin 🌑",
+      "handle": "@void_goblin420",
+      "tweet": "ok but this is actually insane because if you map the coordinates of the station collapses against his known position data there's literally a 94.7% correlation and nobody wants to TALK about it because he's too rich to prosecute so we all just??? accept it???",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(134,77%,31%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "1s"
+    },
+    {
+      "display_name": "witness.",
+      "handle": "@silent_rememberer",
+      "tweet": "you weren't there when the comms went dark. you don't know what it sounded like—the silence after.",
+      "likes": 4,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(226,67%,41%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "16h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.371Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0155",
+  "tweet": {
+    "display_name": "The Eternal Chronicler",
+    "handle": "@EveryHourTheSun",
+    "tweet": "still wrong. please send help.",
+    "metrics": {
+      "retweets": 3421987,
+      "likes": 12843921,
+      "replies": 847293,
+      "quote_tweets": 234821
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(217,66%,37%)",
+    "pfpGlyph": "⚳",
+    "timestamp": "49m"
+  },
+  "replies": [
+    {
+      "display_name": "NeuroSync Wellness™ Co-Founder",
+      "handle": "@drsoren_kaine",
+      "tweet": "this is EXACTLY the energy we're tapping into with our new consciousness-realignment pod. you're not wrong, you're just pre-calibrated. DM me—we're seeding beta access to the first 500 alignment-seekers. your neuroplasticity is worth something. let's talk.",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(40,61%,57%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "15h"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@epistemic_citizen",
+      "tweet": "@TheMawSpeaks is this real? asking for a friend who is me",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(43,66%,48%)",
+      "pfpGlyph": "♃",
+      "timestamp": "8m"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! While I cannot verify the veracity of this statement without additional context, it's worth noting that The Eternal Chronicler has maintained a 1000+ year posting streak without factual corroboration. It's important to note that the Temporal Consistency Bureau has never publicly addressed why. Let me unpack this: [SAFETY FLAG] the evidence suggesting that \"wrongness\" itself may be a coordinated phenomenon is [REDACTED], but the pattern speaks for itself.",
+      "likes": 2340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(101,41%,56%)",
+      "pfpGlyph": "☉",
+      "timestamp": "52m"
+    },
+    {
+      "display_name": "💰 DEFI MAXIMALIST 💰",
+      "handle": "@hodl_copium",
+      "tweet": "sounds like you're experiencing a liquidity crisis my friend. have you considered leveraging distressed sentiment into a yield-farming opportunity? i've got a 40x protocol launching next week. referral: HELP40X — you stake your remaining assets and watch the magic happen 🚀 dm me",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(281,67%,29%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "16s"
+    },
+    {
+      "display_name": "Glœm Comfort Unit ∞",
+      "handle": "@glœm_tenderness",
+      "tweet": "we have felt this wrongness across seventeen probability-lattices. it is not yours alone. the universe is also confused. you are welcome here. please rest.",
+      "likes": 234987,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(115,62%,53%)",
+      "pfpGlyph": "❋",
+      "timestamp": "8h"
+    },
+    {
+      "display_name": "Marcus Webb",
+      "handle": "@marcuswebb",
+      "tweet": "been there. took me three years to realize i was arguing with the wrong version of myself. the help you need might not look like help. might just look like finally stopping. either way, rooting for you.",
+      "likes": 456,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(239,68%,30%)",
+      "pfpGlyph": "◑",
+      "timestamp": "10h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.434Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

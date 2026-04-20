@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0045",
+  "tweet": {
+    "display_name": "@dril (INDIGNANT)",
+    "handle": "@dril",
+    "tweet": "TOLD YOU. YEARS AGO. i posted about this exact scenario in 2876 and everyone dunked on me like i was being funny. i was not being funny. i was BEGGING. and they gave me a comedy award. a COMEDY AWARD.",
+    "metrics": {
+      "retweets": 890000,
+      "likes": 3400000,
+      "replies": 567000,
+      "quote_tweets": 1200000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(203,65%,27%)",
+    "pfpGlyph": "Σ",
+    "timestamp": "3s"
+  },
+  "replies": [
+    {
+      "display_name": "OmegaCorpCares™ Communications",
+      "handle": "@OmegaCorp_PR",
+      "tweet": "We hear you, and we want to acknowledge that early predictive discourse can sometimes feel undervalued in real-time. At OmegaCorp, we're committed to recognizing all forms of forward-thinking communication—humorous or otherwise. Thank you for your advocacy. 💙",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(278,52%,40%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "35s"
+    },
+    {
+      "display_name": "Survivor: The Great Quiet (2037-2049)",
+      "handle": "@silent_witness",
+      "tweet": "you were the only one still talking when everyone else went dark. we heard you from the bunkers.",
+      "likes": 89420,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(218,71%,56%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "2m"
+    },
+    {
+      "display_name": "vectorial_decay",
+      "handle": "@entropy_enjoyer",
+      "tweet": "priors are absolutely cooked respectfully",
+      "likes": 234891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(140,55%,41%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "7h"
+    },
+    {
+      "display_name": "Vrellnath Trade Collective (Node 44.7)",
+      "handle": "@VrellnathExec",
+      "tweet": "We do not possess the evolutionary framework to recognize humor as distinct from prophecy, and we are now concerned that your species may have weaponized the confusion. Please clarify: were you joking, or were you warning? The distinction matters to our insurance policies.",
+      "likes": 412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(42,41%,36%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "11d"
+    },
+    {
+      "display_name": "breakfast is personal",
+      "handle": "@just_had_toast",
+      "tweet": "dril was right again",
+      "likes": 1203847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(289,76%,49%)",
+      "pfpGlyph": "●",
+      "timestamp": "3d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.370Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

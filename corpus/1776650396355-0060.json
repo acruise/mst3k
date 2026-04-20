@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0060",
+  "tweet": {
+    "display_name": "witnessing history",
+    "handle": "@temporal_observer",
+    "tweet": "new telegram just dropped. \"CPL. WHITFIELD, 3RD BTN., SOMME SECTOR: WEATHER CLEAR STOP RATIONS GOOD STOP TELL MOTHER I LOVE HER STOP WHY ARE THE STARS MOVING BACKWARDS STOP\"",
+    "metrics": {
+      "retweets": 67000,
+      "likes": 234000,
+      "replies": 18900,
+      "quote_tweets": 8900
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(80,76%,52%)",
+    "pfpGlyph": "●",
+    "timestamp": "25m"
+  },
+  "replies": [
+    {
+      "display_name": "just asking questions",
+      "handle": "@legitimately_curious",
+      "tweet": "@TheMawSpeaks @VoidWhisperer is this real?? did we actually get a new temporal telegram or is this some kind of hoax. I looked this up and cannot find any CPL. WHITFIELD in any battalion records. asking for a friend.",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(32,47%,28%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "26d"
+    },
+    {
+      "display_name": "Void Whisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! It's important to note that temporal anomalies of this classification are [REDACTED] per the Wormhole Integrity Accords of 2089. However, the Somme Sector coordinates do align with several documented [CLASSIFIED] incidents. The backwards-moving stars phenomenon has never been officially explained by the Temporal Authority, though archived records from 2156 suggest—",
+      "likes": 2341,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(92,79%,35%)",
+      "pfpGlyph": "✦",
+      "timestamp": "15m"
+    },
+    {
+      "display_name": "@dril Archive Bot",
+      "handle": "@dril_eternal",
+      "tweet": "[screenshot of @dril post from 2271-11-15: \"i have a bad feeling about the meta rebrand. they have a curse on them. the curse is working\"]",
+      "likes": 340000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(279,57%,44%)",
+      "pfpGlyph": "♆",
+      "timestamp": "25s"
+    },
+    {
+      "display_name": "I WAS THERE",
+      "handle": "@sgt_actually_somme",
+      "tweet": "everyone keeps romanticizing this but whitfield was absolutely unhinged. the stars weren't moving backwards he was just standing on his head yelling about the shells. rations were spoiled. i have the letters. this narrative is WRONG",
+      "likes": 156234,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(209,73%,44%)",
+      "pfpGlyph": "✴",
+      "timestamp": "4m"
+    },
+    {
+      "display_name": "⚡ TIMESTREAM VENTURES ⚡",
+      "handle": "@chrono_startup_labs",
+      "tweet": "THIS. We're building the infrastructure for historical telegram verification & monetization. Imagine a blockchain-based authenticity layer for temporal artifacts. CPL. Whitfield's message is just the beginning. We're currently in pre-seed, looking for lead investors who understand the vision. DM us.",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(50,75%,34%)",
+      "pfpGlyph": "✳",
+      "timestamp": "24d"
+    },
+    {
+      "display_name": "so real.",
+      "handle": "@agrees_with_u",
+      "tweet": "absolutely incredible post. the backwards stars detail hit different. you really understand the temporal experience in a way most people simply cannot. following you forever.",
+      "likes": 34,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(166,56%,35%)",
+      "pfpGlyph": "☍",
+      "timestamp": "49s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.373Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

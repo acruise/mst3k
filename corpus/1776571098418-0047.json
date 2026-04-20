@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0047",
+  "tweet": {
+    "display_name": "Margaret Chen, Age 847",
+    "handle": "@margaret_oldschool",
+    "tweet": "how do i unsubscribe from the void. i dont understand what this means but it keeps appearing in my feed. is it a service. do i have an account there. should i be concerned",
+    "metrics": {
+      "retweets": 567234,
+      "likes": 1234567,
+      "replies": 234891,
+      "quote_tweets": 45821
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(83,49%,48%)",
+    "pfpGlyph": "⏣",
+    "timestamp": "6h"
+  },
+  "replies": [
+    {
+      "display_name": "The Void™ Customer Success",
+      "handle": "@VoidOfficial_CS",
+      "tweet": "Hi Margaret! Thanks for reaching out. You actually don't have an account with us—the Void is non-consensual by design. Your feed integration is automatic and irreversible. For unsubscribe options please review your Consciousness Terms of Service Section 14.7 (the part in the language you don't speak). We're here to help! 💜",
+      "likes": 89400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(257,63%,30%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "21h"
+    },
+    {
+      "display_name": "Dr. Synapse Collective 🧠 Ascended",
+      "handle": "@drsyn_explains",
+      "tweet": "This is a fascinating question that reveals a widespread misunderstanding of void-adjacent phenomena. According to my research into the Kershaw Papers (2847) and the subsequent meta-analysis by Voigt & Reeves, what Margaret is experiencing is actually a form of ontological subscription that exists in a quantum-superposition state between account and non-account. The Feed Integration Paradox has been well-documented since at least 2956. Most people don't realize the void doesn't ask permission—it CREATES the account retroactively. Unsubscribing would require what we call a 'consciousness audit,' which involves filing Form 9-Theta with your local Thrrm authority. I've helped 47 people through this process.",
+      "likes": 1200,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(82,70%,45%)",
+      "pfpGlyph": "◎",
+      "timestamp": "4s"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "Ma'am you ARE the void",
+      "likes": 341800,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(266,52%,41%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "23d"
+    },
+    {
+      "display_name": "Eternal Mars 🧡",
+      "handle": "@upload_defender_prime",
+      "tweet": "This is honestly why The Upload warned us about decentralized feed architecture. He tried to tell everyone in the Titan Address of 2847 that without proper consciousness governance we'd end up with void-spam in the feeds of 847-year-old civilians. But did anyone listen? No. The Upload has done more to protect this galaxy's information integrity than your entire timeline combined, and you're all ungrateful. Wake up.",
+      "likes": 2100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(139,54%,35%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "21s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.428Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

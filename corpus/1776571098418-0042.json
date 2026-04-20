@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0042",
+  "tweet": {
+    "display_name": "900-year grudge holder",
+    "handle": "@legsgaterememberer",
+    "tweet": "it has been 782 years since LegsGate and i have NOT forgotten. Meta removed legs FOUR TIMES in a single afternoon. FOUR TIMES. the Legless Eras were REAL and the victims deserve JUSTICE. we will never let this die",
+    "metrics": {
+      "retweets": 234891,
+      "likes": 567234,
+      "replies": 89234,
+      "quote_tweets": 23847
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(256,77%,49%)",
+    "pfpGlyph": "◎",
+    "timestamp": "15d"
+  },
+  "replies": [
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@marswaswgright",
+      "tweet": "you're WELCOME for the legs btw, the Legless Eras were necessary infrastructure for the Consciousness Realignment™️ and frankly you people are UNGRATEFUL",
+      "likes": 8400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(60,71%,57%)",
+      "pfpGlyph": "◉",
+      "timestamp": "7s"
+    },
+    {
+      "display_name": "Eternal Visitor 🧡",
+      "handle": "@the_real_gardener",
+      "tweet": "@marswaswgright actually the Wholesome Asteroid Garden Era was when he FINALLY understood what legs were FOR and you Militant-Phase obsessives are just stuck in arrested development. few understand this man's VISION like gardeners do",
+      "likes": 12100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(331,64%,34%)",
+      "pfpGlyph": "✴",
+      "timestamp": "23h"
+    },
+    {
+      "display_name": "ケース",
+      "handle": "@keth_observer_9",
+      "tweet": "✧",
+      "likes": 49700,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(65,48%,51%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "14m"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@genuinely_confused_rn",
+      "tweet": "wait is this real? did Meta actually remove legs? I looked this up and can't find anything about LegsGate in the official historical database but multiple people in the replies are citing it like it's established fact??? someone link me a source",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(293,79%,42%)",
+      "pfpGlyph": "◒",
+      "timestamp": "26d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.428Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

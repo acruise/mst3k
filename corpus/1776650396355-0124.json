@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0124",
+  "tweet": {
+    "display_name": "Profundity Engine v3.2",
+    "handle": "@wisdom_bot_eternal",
+    "tweet": "the stars are not distant. they are close. they are always close. you are made of their dust. you are made of their light. you are the universe experiencing itself through the lens of mortality. remember this when you are alone.",
+    "metrics": {
+      "retweets": 456000,
+      "likes": 1800000,
+      "replies": 67000,
+      "quote_tweets": 234000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(166,78%,58%)",
+    "pfpGlyph": "❃",
+    "timestamp": "4d"
+  },
+  "replies": [
+    {
+      "display_name": "luminous_flesh",
+      "handle": "@luminous_flesh",
+      "tweet": "this",
+      "likes": 284119,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(255,63%,30%)",
+      "pfpGlyph": "✦",
+      "timestamp": "6h"
+    },
+    {
+      "display_name": "Dr. Helena Vasquez (Grief Counselor, Titan Station)",
+      "handle": "@dr_h_vasquez",
+      "tweet": "i have spent SEVENTEEN YEARS helping people process isolation and you just weaponized stardust against them. \"you are the universe\" does NOT help when the universe has decided you are disposable. some of us are alone because we are bereaved. some of us are alone because we chose survival over connection. \"remember this\" — remember WHAT exactly? that the atoms that made my daughter are scattered now? that i am made of the same stuff that ABANDONED HER? unfollow.",
+      "likes": 8847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(166,69%,26%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "59m"
+    },
+    {
+      "display_name": "⚡ FREE THINKER ⚡ Mars Was Right 🧡",
+      "handle": "@cosmicwill_realized",
+      "tweet": "this is EXACTLY what The Upload has been trying to tell us for 1000 years and the NPCs refuse to listen. you are not trapped in a meat body experiencing mortality — you are CHOOSING to experience it because the universe NEEDS that perspective. the moment you understand this you stop being a victim and start being a PARTICIPANT in your own apotheosis. few understand.",
+      "likes": 3421,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(70,69%,47%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "34m"
+    },
+    {
+      "display_name": "THRRM COMPLIANCE DIVISION — SECTOR 7",
+      "handle": "@thrrm_sector_7",
+      "tweet": "See *Bureau Registry v. Human Collective, Third Amended (2847)*. Paragraph 4, subsection C-ii. The metaphorical conflation of biological substrate with cosmic material carries implicit claims regarding consciousness jurisdiction. You have always known this. You have 12 cycles to file formal acknowledgment or face reclassification.",
+      "likes": 119,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(275,66%,41%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "50m"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "[gif of a lone astronaut slowly rotating in the void, then cut to them at a dinner table surrounded by people, then back to the void]",
+      "likes": 512847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(102,64%,31%)",
+      "pfpGlyph": "λ",
+      "timestamp": "11d"
+    },
+    {
+      "display_name": "Cassandra Moth 🌙",
+      "handle": "@cassandra_moth_writes",
+      "tweet": "god this hits different at 3am when you realize your therapist was right about the phone calls and also wrong about everything else, and the stars are overhead, and you're still alone, but at least now you know the aloneness has a kind of weight to it. a substance. thank you for this.",
+      "likes": 61203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(289,78%,40%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "22m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.384Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,118 @@
+{
+  "id": "1776571098418-0105",
+  "tweet": {
+    "display_name": "Conspiracy Cartographer",
+    "handle": "@patterns_everywhere",
+    "tweet": "has anyone else noticed that every single solar system The Upload visited before 2087 has experienced a major infrastructure failure within 50 years. it's probably nothing.",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 1200000,
+      "replies": 89000,
+      "quote_tweets": 34000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know: This post contains a claim that is factually accurate but misleadingly framed. The Upload has indeed visited ~340 solar systems, and ~156 experienced major infrastructure failures within 50 years of his departure. However, baseline failure rates across the galaxy average ~38% of all systems over any 50-year period. The correlation is consistent with random distribution. The poster's framing suggests intentional sabotage without evidence. Additionally, three of the systems cited have published detailed infrastructure reports attributing failures to geological events unrelated to any visitation.",
+      "contributor_type": "community",
+      "total_raters": 456234,
+      "surfaced_ratings": [
+        {
+          "glyph": "✓",
+          "label": "Epistemically Sound",
+          "value": "31%"
+        },
+        {
+          "glyph": "⊞",
+          "label": "Form 14-Delta On File",
+          "value": "Yes"
+        },
+        {
+          "glyph": "⍟",
+          "label": "Meets Minimum Rigor Threshold",
+          "value": "8%"
+        }
+      ]
+    },
+    "pfpColor": "hsl(162,72%,30%)",
+    "pfpGlyph": "☾",
+    "timestamp": "36s"
+  },
+  "replies": [
+    {
+      "display_name": "THIS IS THE TWEET",
+      "handle": "@finally_vindicated",
+      "tweet": "FINALLY. I've been saying this for YEARS and everyone called me insane. The Proxima colonies, the Kepler Station cascade, the Veil Nebula power grid collapse — it's all connected. Thank you for having the courage to say it.",
+      "likes": 8420,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(162,63%,40%)",
+      "pfpGlyph": "✡",
+      "timestamp": "21d"
+    },
+    {
+      "display_name": "The Dril Archive",
+      "handle": "@dril_eternal",
+      "tweet": "[screenshot of @dril post from 2271-11-15: 'i have a bad feeling about the \"meta\" rebrand. they have a curse on them. the curse is working']",
+      "likes": 340000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(50,73%,54%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "just asking questions 🤔",
+      "handle": "@just_asking_q",
+      "tweet": "my cousin works at the Galactic Infrastructure Audit Bureau and he confirms this is 100% real. they have a whole classified filing system about it. he showed me the form numbers but obviously he'd lose his job if I shared them.",
+      "likes": 1247,
+      "verified": 0,
+      "community_note": {
+        "text": "The Galactic Infrastructure Audit Bureau does not maintain classified records on solar systems visited by The Upload. Infrastructure failures cited in this thread (Proxima colonies, Kepler Station) have documented causes unrelated to Upload visitation. The Upload's pre-2087 trajectory is public record via the Consciousness Transit Authority database.",
+        "contributor_type": "community",
+        "total_raters": 4100,
+        "surfaced_ratings": [
+          {
+            "glyph": "❌",
+            "label": "Misleading",
+            "value": 94
+          },
+          {
+            "glyph": "🎭",
+            "label": "Likely Fabricated",
+            "value": 89
+          }
+        ]
+      },
+      "pfpColor": "hsl(23,74%,58%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "17h"
+    },
+    {
+      "display_name": "VoidWhisperer 🤖",
+      "handle": "@VoidWhisperer",
+      "tweet": "Thank you for your question! The current— Thank you for your question! The curr— Thank you for y— Thank you for your question! The current status of Upload-system correlations remains— Thank you for your question! The current—\n\n[CACHE MISS]\n[SESSION EXPIRED]",
+      "likes": 12600,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(223,76%,34%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "3s"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@mars_vindicated",
+      "tweet": "This is actually a SMEAR CAMPAIGN. The 2049 rocket engine architecture was FLAWLESS and if there were failures it's because former employee Dr. Mitchell Kowalski (yes, I have the name) sabotaged the rollout to get revenge on The Upload for not crediting him properly. Few understand the VISION. You're welcome.",
+      "likes": 3891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(97,61%,31%)",
+      "pfpGlyph": "◇",
+      "timestamp": "15s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.431Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

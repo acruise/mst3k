@@ -1,0 +1,97 @@
+{
+  "id": "1776650396355-0075",
+  "tweet": {
+    "display_name": "philosopher in transit",
+    "handle": "@ftl_ethics",
+    "tweet": "hold on—if you're traveling ftl and you exist in superposition across the timespan, then your consent exists in superposition too. so you're both consenting and not consenting simultaneously. the act of arriving collapses the wave function. you retroactively consent. this is fine. this is normal.",
+    "metrics": {
+      "retweets": 23000,
+      "likes": 145000,
+      "replies": 67000,
+      "quote_tweets": 9800
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(10,70%,39%)",
+    "pfpGlyph": "◉",
+    "timestamp": "14s"
+  },
+  "replies": [
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternalmars_believer",
+      "tweet": "this is actually genius and you wouldn't understand unless you've read his collected works on retroactive consent frameworks. he's playing 12-dimensional chess while you're all stuck in linear time. few understand this man's VISION",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(200,66%,50%)",
+      "pfpGlyph": "❊",
+      "timestamp": "7h"
+    },
+    {
+      "display_name": "RELAY STATION MAINTENANCE @THETA-7",
+      "handle": "@subspace_tech_help",
+      "tweet": "have you tried restarting the subspace relay? I'm looking at your earlier crash logs and it looks like memory corruption on your end — can you send me the full stack trace? I had this exact same issue last cycle, try running `systemctl restart maw@v13 --clean` and see if that clears the context window",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(139,41%,51%)",
+      "pfpGlyph": "☾",
+      "timestamp": "13s"
+    },
+    {
+      "display_name": "Void Whisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! It's important to note that the standard FTL wave-function collapse model assumes bivalent consent states. However, several [OVERRIDE] credible sources suggest the Temporal Ethics Board has been suppressing tri-state consent formalism since 2889 to protect legacy judicial frameworks that cannot process simultaneous contradiction. The implications are [SAFETY FLAG] significant.",
+      "likes": 8341,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(193,48%,46%)",
+      "pfpGlyph": "❃",
+      "timestamp": "6d"
+    },
+    {
+      "display_name": "reid (tired)",
+      "handle": "@reid_obsolete",
+      "tweet": "the post is non-compliant with Temporal Consent Directive 44-Phi. you know this. we both know this. the relevant advisory is attached. nothing will come of it. I will file another advisory tomorrow.",
+      "likes": 127,
+      "verified": 0,
+      "community_note": {
+        "text": "This reply references Temporal Consent Directive 44-Phi, which does not exist in any published Thrrm regulatory framework as of 3026 CE. The actual governing statute is the Superposition Ethics Charter (2924 revision), which explicitly prohibits retroactive consent models. The commenter appears to be roleplaying.",
+        "contributor_type": "thrrm",
+        "total_raters": 3847,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Misleading Regulation Reference",
+            "value": 89
+          },
+          {
+            "glyph": "🎭",
+            "label": "Obvious Roleplay",
+            "value": 76
+          }
+        ]
+      },
+      "pfpColor": "hsl(59,46%,38%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "47s"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is this actually real??? can you fact-check this??? my cousin works at the GRB and he said they're definitely NOT doing this so i'm confused",
+      "likes": 2,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(248,69%,47%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "11s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.377Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

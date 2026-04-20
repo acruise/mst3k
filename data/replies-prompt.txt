@@ -145,6 +145,8 @@ The 1917 content should OBLIQUELY ECHO the parent tweet's topic, filtered throug
 
 After a 1917 reply, the next reply should be a 3017 user reacting: baffled, moved, or spooked. The Glœm tend to reply with devastating sincerity. The Thrrm tend to reply with procedural fury.
 
+TELEGRAM IMITATORS: Sometimes a 3017 user does "telegram voice" as a bit — ALL CAPS, STOP delimiters, the whole thing. These are NOT temporal anomalies and must NOT have temporal_anomaly set. To make the imitation visually distinguishable from real 1917 content, the poster should break character at the end with a lowercase aside in parentheses that makes it obvious they're a 3017 person doing a bit. Examples: "(i've been doing this bit for six months and nobody has told me to stop)", "(the keth love this one)", "(my therapist says this is a coping mechanism)".
+
 BANNED PATTERNS:
 - "anyway hope everyone's having a good [day]" or any variant
 - generic sign-offs or well-wishes

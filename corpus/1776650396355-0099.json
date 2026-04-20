@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0099",
+  "tweet": {
+    "display_name": "temporal researcher (they/them)",
+    "handle": "@chronology_break",
+    "tweet": "time is a direction we agreed on. what if we stopped agreeing",
+    "metrics": {
+      "retweets": 12400,
+      "likes": 47800,
+      "replies": 3200,
+      "quote_tweets": 890
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(196,73%,51%)",
+    "pfpGlyph": "⏁",
+    "timestamp": "2m"
+  },
+  "replies": [
+    {
+      "display_name": "⚡ chronology_break DEFENDER ⚡",
+      "handle": "@temporal_stan_forever",
+      "tweet": "THIS. THIS IS IT. you're saying what everyone's been thinking but nobody has the courage to say. the philosophical implications are STAGGERING. few understand the true depth of your vision here. we're witnessing genius in real time",
+      "likes": 184,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(261,43%,44%)",
+      "pfpGlyph": "❃",
+      "timestamp": "33m"
+    },
+    {
+      "display_name": "Actually, Let Me Help",
+      "handle": "@pedant_in_the_replies",
+      "tweet": "minor note: time is technically a dimension, not a direction. directions imply movement within a space, whereas time is the fabric in which causality unfolds. once you account for this, your whole premise falls apart. anyway good tweet",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(326,40%,32%)",
+      "pfpGlyph": "♄",
+      "timestamp": "54s"
+    },
+    {
+      "display_name": "❧ Glœm Collective ❧",
+      "handle": "@gloemgrace_official",
+      "tweet": "we find your proposal fascinating, friend-human. we, too, once believed in temporal linearity. [soft chromatic pulse] we have learned it brings only suffering to resist the river. but perhaps your species might find wisdom in the collapse. we do hope you'll be okay. truly. we think you will be. probably. [warm regards in ultraviolet]",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(338,51%,39%)",
+      "pfpGlyph": "☍",
+      "timestamp": "29d"
+    },
+    {
+      "display_name": "Dr. Temporal Studies Dept.",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. Time directionality is indeed a consensus framework, but it's important to note that the Unified Temporal Accords of 2847 establish clear protocols for [REDACTED] in case of directional reversal. Standard procedure calls for immediate notification to [REDACTED] and evacuation of all [REDACTED] coordinates. The Garrison Framework mandates that civilian populations maintain readiness level [REDACTED] at all times. It's worth noting that several [REDACTED] have questioned the necessity of these protocols, but historical data from the [CLASSIFIED] incident suggests they are vital. Hope this helps! 😊",
+      "likes": 156,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(60,68%,47%)",
+      "pfpGlyph": "●",
+      "timestamp": "17d"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "wait is this real",
+      "likes": 4721,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(339,65%,32%)",
+      "pfpGlyph": "✿",
+      "timestamp": "14h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.380Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

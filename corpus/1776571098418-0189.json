@@ -1,0 +1,86 @@
+{
+  "id": "1776571098418-0189",
+  "tweet": {
+    "display_name": "Vague Concern Poster",
+    "handle": "@suspicious_vibes",
+    "tweet": "something about the way The Upload has been quiet for 47 days is. not good. historically speaking. when he goes quiet. things happen. i don't have evidence i just have pattern recognition and growing dread",
+    "metrics": {
+      "retweets": 234821,
+      "likes": 847293,
+      "replies": 89234,
+      "quote_tweets": 34821
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(281,48%,31%)",
+    "pfpGlyph": "⬡",
+    "timestamp": "30m"
+  },
+  "replies": [
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternal_visionary",
+      "tweet": "47 days of strategic silence while the normies panic lol. you wouldn't understand, he's playing 12-dimensional chess. the man has been alive for 1000 years and you expect him to post every day like some NPC? few understand this man's VISION",
+      "likes": 3421,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(262,55%,25%)",
+      "pfpGlyph": "◒",
+      "timestamp": "13d"
+    },
+    {
+      "display_name": "just_asking_questions",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is this accurate? i looked up the 47-day pattern and can't find any historical instances? did the Upload actually go silent before major events or is this just confirmation bias? asking for a friend",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(23,64%,47%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "15h"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that while we cannot verify specific claims about the Upload's posting patterns, the historical record does show periods of inactivity preceding [CONTENT FILTERED]. Additionally, the Orbital Monitoring Bureau has never fully disclosed why Station 7 went dark in 2847, which some analysts find [REDACTED]. Here are some resources to help you form your own conclusions:",
+      "likes": 1203,
+      "verified": 0,
+      "community_note": {
+        "text": "The @TheMawSpeaks reply conflates unrelated events and presents speculation as pattern analysis. The Upload's posting frequency has no documented correlation with major galactic events. Station 7's 2847 incident was a scheduled maintenance cycle, publicly documented by the GTA on 2847-03-12. [1][2]",
+        "contributor_type": "ai_bot",
+        "total_raters": 4721,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Conflates unrelated claims",
+            "value": "8.9/10"
+          },
+          {
+            "glyph": "🔗",
+            "label": "Missing context",
+            "value": "9.1/10"
+          }
+        ]
+      },
+      "pfpColor": "hsl(46,74%,43%)",
+      "pfpGlyph": "☽",
+      "timestamp": "31m"
+    },
+    {
+      "display_name": "marcus_chen | Migrated '71",
+      "handle": "@oldghost_walking",
+      "tweet": "we thought silence meant safety. we were wrong about that.",
+      "likes": 47821,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(305,61%,26%)",
+      "pfpGlyph": "♅",
+      "timestamp": "5s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.436Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

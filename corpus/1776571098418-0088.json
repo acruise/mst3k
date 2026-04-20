@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0088",
+  "tweet": {
+    "display_name": "someone from 2025 discovering the future",
+    "handle": "@time_tourist_3017",
+    "tweet": "i cannot believe people are complaining about the quantum entanglement lag being 'unbearable' when you can literally talk to someone 47 light-years away in real time. in my era we had to wait YEARS for messages. you have it so good and you don't even know",
+    "metrics": {
+      "retweets": 123000,
+      "likes": 890000,
+      "replies": 234000,
+      "quote_tweets": 45000
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(131,61%,50%)",
+    "pfpGlyph": "⚳",
+    "timestamp": "34s"
+  },
+  "replies": [
+    {
+      "display_name": "Derek Fulton (Retired Relay Tech)",
+      "handle": "@derek_fulton_retired",
+      "tweet": "this hits different when you're the guy who spent 23 years maintaining the old subspace repeater stations. i watched people cry because a message from their kid took 8 months. watched a guy propose to someone and get the yes back AFTER he'd already moved on. now everyone's mad about 0.003 second latency spikes. i'm not even angry anymore, i'm just tired",
+      "likes": 47823,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(70,73%,54%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "22s"
+    },
+    {
+      "display_name": "⬡ The Conclave Observes ⬡",
+      "handle": "@vrellnath_hive_7",
+      "tweet": "we analyzed this across our 14 billion consensus nodes. 78% of us find your gratitude pedagogically sound. 19% believe you are performing temporal gatekeeping and should desist. 2.7% have abstained pending further entanglement stress-tests. 0.3% of us have become sexually attracted to the concept of *waiting* and we do not understand why. we will be submitting a minority report",
+      "likes": 12401,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(145,47%,37%)",
+      "pfpGlyph": "☉",
+      "timestamp": "37s"
+    },
+    {
+      "display_name": "Luna Vex 🧠✨",
+      "handle": "@luna_consciousness_labs",
+      "tweet": "okay but what if we MONETIZED the latency itself? hear me out: QuantumPatience™ — a meditation app that *gamifies* your wait times. every millisecond of lag = XP toward consciousness unlocks. we're pre-launch, looking for early believers to join our founding collective in the Kepler Void. dm for invite link. this could be you. this SHOULD be you",
+      "likes": 3,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(258,74%,44%)",
+      "pfpGlyph": "△",
+      "timestamp": "55m"
+    },
+    {
+      "display_name": "Policy Analyst K. Rivera",
+      "handle": "@policyanalyst_rivera",
+      "tweet": "wait is this a serious complaint or are people actually suffering? because if real, this suggests we need IMMEDIATE regulatory intervention on quantum entanglement equity. we're creating a two-tier society where lag-tolerance becomes a class marker. we need the Temporal Accessibility Act NOW. who's with me on petitioning the Thrrm Council??",
+      "likes": 8934,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(145,46%,45%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "6m"
+    },
+    {
+      "display_name": "ꜛ",
+      "handle": "@pilgrimprime",
+      "tweet": "ꜜ",
+      "likes": 51247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(335,40%,49%)",
+      "pfpGlyph": "◐",
+      "timestamp": "7s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.430Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

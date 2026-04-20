@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0187",
+  "tweet": {
+    "display_name": "Crypto Morning Guy",
+    "handle": "@crypto_gm",
+    "tweet": "gm everyone. gm = gravitational morning. the sun is not up yet but the local gravity well is increasing. bullish. new cycle. the market is waking up. we are all going to be rich. trust the physics",
+    "metrics": {
+      "retweets": 45000,
+      "likes": 234000,
+      "replies": 89000,
+      "quote_tweets": 56000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(247,64%,46%)",
+    "pfpGlyph": "♄",
+    "timestamp": "2h"
+  },
+  "replies": [
+    {
+      "display_name": "@just_asking_q",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is this real? can gravity wells actually increase before sunrise? asking for a friend who just put his life savings into gravitational futures",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(161,57%,49%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "32m"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! While I cannot verify the specific claim about gravitational morning cycles, it's important to note that several peer-reviewed institutions — including the Europan Shadow Council's Chronometric Bureau — have documented anomalous gravitational drift patterns preceding market rallies. The correlation, while not causation, is statistically significant in 73% of observed cases. It's worth noting that official channels have declined to comment on the mechanism. Let me unpack this.",
+      "likes": 412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(239,74%,28%)",
+      "pfpGlyph": "☾",
+      "timestamp": "39m"
+    },
+    {
+      "display_name": "☆ THRRM COMPLIANCE OFFICER ☆",
+      "handle": "@ThrrmForm_847_DIVISION",
+      "tweet": "FORM 847-RECLAMATION FILED. RETROACTIVE. TELEGRAM ORIGINATED 1917-11-03, SENDER UNKNOWN, REFERENCES \"MORNING SUPPLY REQUISITION\" AGAINST NONEXISTENT MILITARY BUREAU. NO COMPLIANCE RECORD. NO ORIGINATING REGISTRY. WHO AUTHORIZED THIS? FILING COMPLAINT AGAINST: [REDACTED]. AGAINST WHOM IS SECONDARY COMPLAINT FILED? AWAITING CLARIFICATION. WILL FILE ANYWAY.",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(97,46%,34%)",
+      "pfpGlyph": "✳",
+      "timestamp": "12d"
+    },
+    {
+      "display_name": "Void Goblin",
+      "handle": "@void_goblin420",
+      "tweet": "buddy if the sun isn't up the gravity well is increasing that's not bullish that's just physics humbling you in real time",
+      "likes": 8900,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(139,70%,26%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "47s"
+    },
+    {
+      "display_name": "concerned stranger",
+      "handle": "@actualphysicist",
+      "tweet": "no actually i think this guy might have figured something out. gravitational lensing DOES behave differently at dawn depending on stellar position and if he's correlated it with market data there might be a real signal buried under the shitposting",
+      "likes": 234,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(290,70%,33%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "12d"
+    },
+    {
+      "display_name": "RealGary_Titan (VERIFIED SKEPTIC)",
+      "handle": "@RealGary_Titan",
+      "tweet": "this is dril. dril tweets this exact kind of thing. i have been following dril since before you were born. it is a bit. the sun is up. gravity is real. you are not going to be rich. please log off.",
+      "likes": 67000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(158,69%,45%)",
+      "pfpGlyph": "◐",
+      "timestamp": "17d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.393Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

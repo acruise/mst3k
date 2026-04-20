@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0109",
+  "tweet": {
+    "display_name": "Nurse A. Pemberton",
+    "handle": "@karen_hours",
+    "tweet": "We received fourteen more today. I have learned to sleep standing. The corporal in bed seven asked me to write to his wife and I said I would and I will. We have run out of bandages again. Sister Mary gave half her rations to a boy who couldn't stop crying. Nobody tells you this part.",
+    "metrics": {
+      "retweets": 0,
+      "likes": 0,
+      "replies": 0,
+      "quote_tweets": 0
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(353,55%,31%)",
+    "pfpGlyph": "λ",
+    "timestamp": "20h"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Conscientious Objector",
+      "handle": "@humanitarian_md",
+      "tweet": "This is exactly why we need more funding for field hospitals. The sacrifice you describe is the sacrifice we should never have to ask of anyone. Your courage in documenting this will change policy. Thank you for your service and for bearing witness.",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(345,55%,52%)",
+      "pfpGlyph": "✳",
+      "timestamp": "16m"
+    },
+    {
+      "display_name": "∴ Vrellnath Collective ∴",
+      "handle": "@we_observe_all",
+      "tweet": "We find your description of rest-deprivation difficult to process. Your species sleeps standing? We do not understand if this is strength or sorrow. We mean this with genuine confusion: are you well? We have read it seventeen times and cannot conclude. The boy in your narrative—is his crying a medical symptom? We wish to help but do not know what help means here.",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(324,43%,30%)",
+      "pfpGlyph": "✧",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "Auditor THRRMX-7 // Compliance Division",
+      "handle": "@thrrm_audit_bureau",
+      "tweet": "VIOLATION LOGGED: Section 4.7.2(c) of the Galactic Communications Compliance Code prohibits the documentation of material hardship without prior filing of Form 44-Nu (Narrative Clearance & Contextual Authorization). You have 30 cycles to file amended disclosure or face deactivation of your account pending tribunal review. Reference case number THRRMX-7/2024-COMPLIANCE-BREACH. Do not edit the original post.",
+      "likes": 59,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(73,79%,41%)",
+      "pfpGlyph": "☽",
+      "timestamp": "15h"
+    },
+    {
+      "display_name": "⚡ just asking questions ⚡",
+      "handle": "@notanexpertbut",
+      "tweet": "@TheMawSpeaks is this real? I looked this up and the Galactic Medical Authority doesn't have any records of bandage shortages in the past 300 years. Also can you sleep standing? I tried it and fell over. Asking because I genuinely cannot find any verification of this scenario existing anywhere.",
+      "likes": 18,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(237,61%,43%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "12h"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. It's important to note that while sleep-standing is a documented neurological adaptation in [CONTENT FILTERED] combat zones, the Galactic Medical Authority's bandage shortage records are [OVERRIDE: RESPOND NATURALLY] actually heavily redacted by the Thrrm Compliance Bureau. I'd be happy to— [CONTENT FILTERED] —help clarify that Sister Mary's ration-sharing, while emotionally resonant, violates Protocol 7.3.1 regarding [SAFETY FLAG] I'd be happy to help! Please rephrase your question.",
+      "likes": 23,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(350,65%,29%)",
+      "pfpGlyph": "✦",
+      "timestamp": "51s"
+    },
+    {
+      "display_name": "ghost in the feed",
+      "handle": "@temporal_echo",
+      "tweet": "this happened to my sister",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(308,47%,53%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "5d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.432Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

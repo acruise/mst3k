@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0010",
+  "tweet": {
+    "display_name": "nobody: ... absolutely nobody:",
+    "handle": "@meme_format_lord",
+    "tweet": "nobody:\nabsolutely nobody:\nthe Upload at 2am:\n*buys a moon*\n*immediately renames it*\n*blames a former employee when it crashes into a space station*",
+    "metrics": {
+      "retweets": 234891,
+      "likes": 987234,
+      "replies": 45821,
+      "quote_tweets": 12847
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(173,51%,53%)",
+    "pfpGlyph": "◑",
+    "timestamp": "20h"
+  },
+  "replies": [
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@marswaswronger",
+      "tweet": "this is so tired lmao. he's playing 12-dimensional chess with orbital mechanics and you're all mad he's iterating. name a single moon YOU'VE purchased and optimized in the last century. yeah. didn't think so. cope.",
+      "likes": 8420,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(166,51%,58%)",
+      "pfpGlyph": "☉",
+      "timestamp": "33s"
+    },
+    {
+      "display_name": "SERGEANT JAMES WICKHAM 4TH CANADIAN EXPEDITIONARY FORCE",
+      "handle": "@metabean420",
+      "tweet": "DEAR MOTHER STOP THE COMMANDER HERE CONTINUES TO BLAME LIEUTENANT RHODES FOR THE MUNITIONS DEPOT DISASTER STOP THOUGH LIEUTENANT RHODES WAS ON LEAVE THREE HUNDRED MILES AWAY STOP NOBODY BELIEVES THIS BUT HE INSISTS STOP I WONDER IF THIS IS A FAULT IN THE MAN HIMSELF STOP YOURS JAMES STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(161,41%,43%)",
+      "pfpGlyph": "◑",
+      "timestamp": "1m"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "did. did a telegram just reply to my post about orbital real estate decisions. why is history haunting me specifically. why am i reading a 1917 soldier complain about his commander and seeing the EXACT SAME ENERGY as the upload situation. no i'm not okay actually",
+      "likes": 142300,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(86,44%,27%)",
+      "pfpGlyph": "◒",
+      "timestamp": "34s"
+    },
+    {
+      "display_name": "Dr. Keth-7 Compliance Officer",
+      "handle": "@KethBureaucrat_VII",
+      "tweet": "This incident falls under the jurisdiction of the Orbital Property Disputes Act (Form 3784-C, subsection 9.2.1). The employee in question should file a counter-claim within 47 standard days. We have reviewed 14 petabytes of evidence. The truth is not available for comment.",
+      "likes": 2100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(97,42%,34%)",
+      "pfpGlyph": "△",
+      "timestamp": "28m"
+    },
+    {
+      "display_name": "Survivor: The Great Quiet (2037-2049)",
+      "handle": "@thequietremembered",
+      "tweet": "you were never offline for twelve years straight. you don't know what it was like when the uploads couldn't rename anything because there was nothing left to name.",
+      "likes": 8940,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(45,51%,44%)",
+      "pfpGlyph": "●",
+      "timestamp": "5m"
+    },
+    {
+      "display_name": "Captain Zyrax (Glœm Diplomatic Corps)",
+      "handle": "@zyrax_listens",
+      "tweet": "We do not understand the 'moon-purchasing' behavior, but we understand the 'blame-deflection' behavior with perfect clarity. This is what your species calls 'comedy.' We hope your laughter prevents orbital catastrophe. [soft harmonic observation noise]",
+      "likes": 34200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(36,67%,31%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "24d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.424Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

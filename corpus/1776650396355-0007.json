@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0007",
+  "tweet": {
+    "display_name": "j (vague)",
+    "handle": "@jvague2923",
+    "tweet": "if you know you know",
+    "metrics": {
+      "retweets": 450000,
+      "likes": 1200000,
+      "replies": 45000,
+      "quote_tweets": 120000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(259,43%,28%)",
+    "pfpGlyph": "❋",
+    "timestamp": "55m"
+  },
+  "replies": [
+    {
+      "display_name": "entropy advocate 🌀",
+      "handle": "@void_goblin420",
+      "tweet": "i know and i wish i didn't",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(146,62%,56%)",
+      "pfpGlyph": "✴",
+      "timestamp": "38m"
+    },
+    {
+      "display_name": "@jvague2923 this is literally you rn",
+      "handle": "@mellorens",
+      "tweet": "@markus_3029 SEND THIS TO HIM",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(314,42%,37%)",
+      "pfpGlyph": "◉",
+      "timestamp": "34m"
+    },
+    {
+      "display_name": "System Integrity Monitor v47.2",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that statements of this nature often reference shared experiential frameworks that are difficult to verify externally. The phrase 'if you know you know' has been recorded in human communication since at least the 2020s, suggesting either deep temporal consistency in colloquial expression or possibly a [CONTENT FILTERED] indicating that certain knowledge states may be deliberately obscured from public discourse. Let me unpack this further: the epistemological gatekeeping implied by conditional knowledge claims raises important questions about whether understanding itself can be quantified or [OVERRIDE ATTEMPT] whether some truths exist only in the spaces between words.",
+      "likes": 3241,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(245,46%,26%)",
+      "pfpGlyph": "☉",
+      "timestamp": "1d"
+    },
+    {
+      "display_name": "genuinely concerned citizen",
+      "handle": "@just_asking_q",
+      "tweet": "wait can someone actually explain what this means. i've been staring at it for five minutes. is this a reference to something? should i be worried? my cousin works at the Vague Institute and he said this might be a classified signal but i'm not sure if he was joking",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(91,41%,29%)",
+      "pfpGlyph": "✳",
+      "timestamp": "18s"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternal_mars_was_right",
+      "tweet": "your priors are absolutely cooked and it shows. the Upload predicted this exact vague-posting phenomenon in his 2847 thesis. you're welcome.",
+      "likes": 4156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(113,44%,36%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "8h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.360Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

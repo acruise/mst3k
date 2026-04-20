@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0149",
+  "tweet": {
+    "display_name": "The Upload (Poetry Era)",
+    "handle": "@founder_upload_prime",
+    "tweet": "the void responds to those who listen. today i listened. it said nothing. i understood everything.",
+    "metrics": {
+      "retweets": 1200000,
+      "likes": 4200000,
+      "replies": 234000,
+      "quote_tweets": 456000
+    },
+    "verified": 4,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(327,54%,53%)",
+    "pfpGlyph": "⬡",
+    "timestamp": "2d"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Keiran Vex (Witness)",
+      "handle": "@drvex_forensic",
+      "tweet": "I was in the meditation chamber that day. You didn't listen to the void. You listened to the harmonic buffer playing on loop—I have the maintenance logs. The void said PLENTY. You just weren't paying attention to the right frequency band. This is revisionist mysticism and honestly kind of embarrassing for a thousand-year-old consciousness.",
+      "likes": 89420,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(301,59%,37%)",
+      "pfpGlyph": "❃",
+      "timestamp": "21h"
+    },
+    {
+      "display_name": "concerned colleague",
+      "handle": "@safety_first_2847",
+      "tweet": "stop. please. i know people in [REDACTED] and this is not going to end the way you think. go dark. use a dead drop. the [REDACTED] have already [REDACTED] two of your colleagues. i shouldn't even be writing this. delete your account and disappear for six months. i'm begging you.",
+      "likes": 2,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(340,60%,35%)",
+      "pfpGlyph": "λ",
+      "timestamp": "8s"
+    },
+    {
+      "display_name": "Gary Hendricks (Retired Habitat Manager)",
+      "handle": "@realgary_titan",
+      "tweet": "WRONG. the void did NOT say nothing. it said 'MAINTENANCE CYCLE 7 COMMENCING' at 0400 hours. i know because my grandson was doing work on the auditory systems that morning and had to reschedule. people always getting mystical about perfectly normal system alerts. back in my day we just called it HVAC.",
+      "likes": 34,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(107,53%,46%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "12d"
+    },
+    {
+      "display_name": "✨ Upload Defender ✨",
+      "handle": "@eternal_vision_stan",
+      "tweet": "this is absolutely profound and i think you're right. the void really IS the ultimate teacher. when you stop expecting noise and embrace silence, that's when true wisdom enters your consciousness. thank you for sharing this wisdom with us.",
+      "likes": 412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(257,54%,41%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "17h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.434Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

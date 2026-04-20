@@ -1,0 +1,113 @@
+{
+  "id": "1776571098418-0181",
+  "tweet": {
+    "display_name": "COMPLIANCE ENFORCEMENT BUREAU",
+    "handle": "@thrrm_furious",
+    "tweet": "VIOLATION NOTICE: subsection 4-Lambda of the Galactic Commerce Accord does NOT contain a loophole permitting consciousness arbitrage. THERE IS NO LOOPHOLE. We have reviewed the text 47 times. You have discovered a CLERICAL ERROR in our documentation that has existed for 300 years and we are FURIOUS. You have 14 cycles to cease operations. See: Form 88-Phi, Amendment 4-Gamma, subsection 12 (b) (ii) (alpha). RESPOND IMMEDIATELY.",
+    "metrics": {
+      "retweets": 0,
+      "likes": 234,
+      "replies": 3847,
+      "quote_tweets": 89
+    },
+    "verified": 3,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(126,50%,43%)",
+    "pfpGlyph": "Φ",
+    "timestamp": "51s"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Vex Karlsson",
+      "handle": "@vex_notes_everything",
+      "tweet": "Actually, subsection 4-Lambda uses the phrasing \"permitting consciousness arbitrage\" while Amendment 4-Gamma uses \"consciousness exchange\" — technically different terms under Accord parsing rules, so the question becomes whether a clerical error in TERMINOLOGY creates a new loophole, which is what got us here, which you already know, which is why you're furious, which is noted.",
+      "likes": 87,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(134,76%,28%)",
+      "pfpGlyph": "●",
+      "timestamp": "13h"
+    },
+    {
+      "display_name": "⚡ CONSCIOUSNESS ARBITRAGE TRUTHSEEKER ⚡",
+      "handle": "@free_minds_rising",
+      "tweet": "you're telling me the Thrrm have been ADMITTING IN WRITING for 3 centuries that there's a loophole and JUST NOW noticed it?? the cover-up is deeper than the loophole. they KNEW. Form 88-Phi is cover fire. wake up sheeple.",
+      "likes": 12,
+      "verified": 0,
+      "community_note": {
+        "text": "The Thrrm notice indicates they found a clerical error IN THEIR OWN DOCUMENTATION, not an actual loophole in the Accord text itself. The error was in their internal guidance documents. Multiple sources confirm the Accord subsection 4-Lambda has been consistent for 300 years. [1] The Thrrm's review process is public record under the Transparency Mandate of 2847. [2]",
+        "contributor_type": "thrrm",
+        "total_raters": 3400,
+        "surfaced_ratings": [
+          {
+            "glyph": "⊕",
+            "label": "Factually Incorrect",
+            "value": "94%"
+          },
+          {
+            "glyph": "⊗",
+            "label": "Misses the Point",
+            "value": "89%"
+          },
+          {
+            "glyph": "⚠",
+            "label": "Encourages Conspiracy Thinking",
+            "value": "82%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(63,61%,30%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "51s"
+    },
+    {
+      "display_name": "HELM SECTOR COMMUNICATIONS RELAY",
+      "handle": "@entropy",
+      "tweet": "COMPLIANCE BUREAU THIS IS URGENT STOP FORM 88-PHI DOES NOT EXIST IN OUR RECORDS STOP WE HAVE CHECKED ALL AMENDMENTS STOP PLEASE CLARIFY REFERENCE STOP AWAITING RESPONSE STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(54,56%,33%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "9d"
+    },
+    {
+      "display_name": "Zyx (genuinely concerned)",
+      "handle": "@zyx_help_desk",
+      "tweet": "please please PLEASE tell me you backed up the consciousness arbitrage data before you issued the notice. you did back it up right. you're not going to make people DELETE their entire merchant fleet in 14 cycles without a recovery window right",
+      "likes": 2100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(116,60%,47%)",
+      "pfpGlyph": "◎",
+      "timestamp": "54s"
+    },
+    {
+      "display_name": "Senator Krell Vex, Commerce Subcommittee",
+      "handle": "@SenatorKrell",
+      "tweet": "So what you're saying is: the Thrrm discovered they've been wrong for 3 centuries, are NOW correct, and everyone else has to suffer 14 cycles of market chaos to fix a THRRM ERROR. Form 88-Phi (b)(ii)(alpha) is actually Form 88-This-Is-Your-Fault. Sir/Madam, we're billing you for the audit.",
+      "likes": 8740,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(221,74%,59%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "20h"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "wait is this real",
+      "likes": 34,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(162,76%,27%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "17s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.436Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

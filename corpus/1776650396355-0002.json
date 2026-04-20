@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0002",
+  "tweet": {
+    "display_name": "Kess (she/her, posting through it)",
+    "handle": "@kess_venn",
+    "tweet": "imagine thinking you could just walk away from me after the Kepler Station gala",
+    "metrics": {
+      "retweets": 1200,
+      "likes": 4500,
+      "replies": 890,
+      "quote_tweets": 340
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(92,68%,46%)",
+    "pfpGlyph": "⏣",
+    "timestamp": "15m"
+  },
+  "replies": [
+    {
+      "display_name": "GalacticInvestigative News Bureau",
+      "handle": "@GINBureau",
+      "tweet": "@kess_venn We'd like to verify the claims in your post. Can you provide documentation of this incident at Kepler Station? Our fact-checking team is standing by.",
+      "likes": 23,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(82,53%,36%)",
+      "pfpGlyph": "◇",
+      "timestamp": "22h"
+    },
+    {
+      "display_name": "OmegaCorp Social Relations",
+      "handle": "@OmegaCorp_Cares",
+      "tweet": "We understand that interpersonal relationships can sometimes experience transitions. At OmegaCorp, we believe in respectful communication and mutual understanding during all life changes. We're here to support you. 💙",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(35,43%,27%)",
+      "pfpGlyph": "◓",
+      "timestamp": "19d"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "wait so you walked away from Kepler Station but the person at the gala didn't let you? That's kidnapping. Should we call station security? Is this an active situation??",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(323,67%,28%)",
+      "pfpGlyph": "☽",
+      "timestamp": "36m"
+    },
+    {
+      "display_name": "Sk'vrath Collective Consciousness (they/them)",
+      "handle": "@Zkvrath_Appointed_Observer",
+      "tweet": "Pathetic human emotional theatre. Your 'Kepler Station gala' means nothing. We conquered seventeen star systems and felt NOTHING. Certainly not the sting of watching you disappear into the crowd that night. Irrelevant.",
+      "likes": 4200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(130,45%,28%)",
+      "pfpGlyph": "λ",
+      "timestamp": "26s"
+    },
+    {
+      "display_name": "Supportive Galaxy Citizen 🌟",
+      "handle": "@warm_and_fuzzy",
+      "tweet": "OMG I'm so proud of you for leaving!!! That must have taken so much courage, especially at such a fancy event. Your healing journey starts NOW and we're all rooting for you. You deserve better!! 💪✨",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(308,52%,37%)",
+      "pfpGlyph": "☽",
+      "timestamp": "8h"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "lmaooooo",
+      "likes": 8900,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(193,40%,50%)",
+      "pfpGlyph": "✳",
+      "timestamp": "23d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.359Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

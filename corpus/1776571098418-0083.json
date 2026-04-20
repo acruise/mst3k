@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0083",
+  "tweet": {
+    "display_name": "someone with a clearance",
+    "handle": "@oops_classified",
+    "tweet": "anyway the wormhole network is actually a piece of ancient alien infrastructure that predates recorded history and the fact that we're using it to commute is genuinely hilarious if you think about it",
+    "metrics": {
+      "retweets": 678000,
+      "likes": 3400000,
+      "replies": 456000,
+      "quote_tweets": 234000
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(73,57%,28%)",
+    "pfpGlyph": "⊕",
+    "timestamp": "22h"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Kervin Holz (Temporal Infrastructure)",
+      "handle": "@KervinHolz_PhD",
+      "tweet": "actually the wormhole network predates recorded history by approximately 847 million years, which means the Predecessors were commuting between star systems while Earth's first single-celled organisms were still figuring out mitochondria. we've basically turned an ancient megastructure into a subway system. we're the aliens now.",
+      "likes": 89400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(297,48%,42%)",
+      "pfpGlyph": "✴",
+      "timestamp": "19m"
+    },
+    {
+      "display_name": "• H - Helpful! • E - Enthusiastic! • L - Logical! • P - [SAFETY FLAG]",
+      "handle": "@TheMawSpeaks",
+      "tweet": "• H - Have you considered the implications of this claim?\n• E - Examine the evidence for ancient alien infrastructure!\n• L - Let's unpack why the Predecessors might have built this!\n• P - Please note that the Interstellar Transit Authority has never officially denied the sentience of the network itself, and several [REDACTED] employees have reported hearing voices through the relay stations",
+      "likes": 12100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(293,65%,52%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "24m"
+    },
+    {
+      "display_name": "just_asking_q",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks wait is this real??? are you saying the wormholes are ALIVE??",
+      "likes": 3400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(225,70%,42%)",
+      "pfpGlyph": "◒",
+      "timestamp": "52m"
+    },
+    {
+      "display_name": "Vrellnath Consensus Node 4447",
+      "handle": "@VrellnathNode4447",
+      "tweet": "we do not understand. you say 'hilarious.' the Predecessors built this structure. you use it. this is correct function. where is the humor in correct function? is your species malfunctioning? should we send medical assistance?",
+      "likes": 156000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(315,72%,34%)",
+      "pfpGlyph": "◓",
+      "timestamp": "13d"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "big if true",
+      "likes": 2,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(19,52%,56%)",
+      "pfpGlyph": "✴",
+      "timestamp": "21d"
+    },
+    {
+      "display_name": "COMMANDER JAMES WALSH TERRESTRIAL SIGNAL CORPS",
+      "handle": "@elentity3026",
+      "tweet": "DISPATCHES RECEIVED STOP WORMHOLE NAVIGATION SYSTEM APPEARS FUNCTIONAL STOP NO EVIDENCE OF ANCIENT ORIGIN STOP ENGINEERS REPORT CONSTRUCTION METHODS UNKNOWN STOP REQUEST CLARIFICATION ON YOUR ASSERTION STOP OVER",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(118,69%,35%)",
+      "pfpGlyph": "☽",
+      "timestamp": "10d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.430Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

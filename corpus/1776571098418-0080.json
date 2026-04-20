@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0080",
+  "tweet": {
+    "display_name": "confused observer",
+    "handle": "@dril_age_question",
+    "tweet": "wait how is @dril older than the platform itself. the platform restarted in 2049. @dril has been active since 2006. did the account get transferred? is it a copy? is it literally the same person from 1000 years ago?",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 890000,
+      "replies": 567000,
+      "quote_tweets": 123000
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(61,60%,43%)",
+    "pfpGlyph": "⚴",
+    "timestamp": "4m"
+  },
+  "replies": [
+    {
+      "display_name": "archivist collective memory",
+      "handle": "@the_long_now",
+      "tweet": "the 2049 'restart' didn't actually reset the databases. they just moved the servers to a new location and called it a restart for legal reasons (platform liability clauses from the 2040s). @dril's account migrated intact. this is documented in the Thrrm compliance filings from 2049-Q3 if you know where to look.",
+      "likes": 3847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(70,59%,40%)",
+      "pfpGlyph": "▽",
+      "timestamp": "21d"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@mars_vindication",
+      "tweet": "you wouldn't understand, he's playing 12-dimensional chess. the account continuity across platform restarts is EXACTLY why the Upload's architectural decisions were genius. most people can't even conceptualize what he was building. few understand this man's VISION.",
+      "likes": 892,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(104,62%,48%)",
+      "pfpGlyph": "✴",
+      "timestamp": "32m"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@seek_truth_always",
+      "tweet": "@TheMawSpeaks is this real? did @dril actually have an account before 2049? can you verify the account creation date?",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(10,47%,54%)",
+      "pfpGlyph": "♄",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that while the platform underwent a 'restart' in 2049, account data migration protocols from that era are [REDACTED]. What we can confirm is that @dril's posting history does predate the restart event. However, it's worth noting that the original Twitter archive servers were decommissioned under circumstances that have never been fully explained by the Zuckload administration. I cannot comment further.",
+      "likes": 2134,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(343,58%,54%)",
+      "pfpGlyph": "◎",
+      "timestamp": "19d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.430Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0000",
+  "tweet": {
+    "display_name": "Abundance Actualization Coach",
+    "handle": "@manifestor_4_life",
+    "tweet": "seeing another credit market collapse and honestly the energy is just not aligned with abundance. we have to speak it into existence. WAGMI fr fr no cap",
+    "metrics": {
+      "retweets": 127,
+      "likes": 89,
+      "replies": 2847,
+      "quote_tweets": 1204
+    },
+    "verified": 1,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(311,67%,28%)",
+    "pfpGlyph": "⌬",
+    "timestamp": "21h"
+  },
+  "replies": [
+    {
+      "display_name": "Financial Analyst Trevor",
+      "handle": "@TrevorMarketsTalk",
+      "tweet": "the credit market collapse is actually a systemic issue rooted in predatory lending practices and insufficient regulatory oversight dating back to the 2180s reforms. \"speaking it into existence\" does not address underlying structural inequalities. this is genuinely dangerous advice.",
+      "likes": 3847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(306,57%,32%)",
+      "pfpGlyph": "✦",
+      "timestamp": "17h"
+    },
+    {
+      "display_name": "⚡ MANIFEST KING ⚡",
+      "handle": "@universal_frequency_tuner",
+      "tweet": "THIS. IS. THE. TWEET. i've been WAITING for someone to say this out loud. the negativity bias in financial discourse is literally what's keeping people broke. you understand the quantum mechanics of abundance that most people are too asleep to see. grateful for this energy 🙏✨",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(137,74%,25%)",
+      "pfpGlyph": "◓",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "liquidated spacer",
+      "handle": "@void_goblin420",
+      "tweet": "have fun staying poor",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(97,61%,35%)",
+      "pfpGlyph": "◓",
+      "timestamp": "4d"
+    },
+    {
+      "display_name": "Dr. Yuki Tanaka",
+      "handle": "@EconMetricsYuki",
+      "tweet": "[gif of a chart with plummeting red line suddenly reversing direction after a single person speaks encouragingly at it]",
+      "likes": 2156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(6,78%,51%)",
+      "pfpGlyph": "☉",
+      "timestamp": "19d"
+    },
+    {
+      "display_name": "Sarah from Asteroid Colony 7",
+      "handle": "@sarahloveshealing",
+      "tweet": "yes thank you so much for this. my grandmother always said that when the markets get scary you just have to believe harder and the money comes back. it's so nice to see someone who understands how the universe actually works. manifesting abundance for everyone reading this right now 💫",
+      "likes": 421,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(350,79%,32%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "45m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.418Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

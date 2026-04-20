@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0128",
+  "tweet": {
+    "display_name": "the Upload (fork 1,899) ◈ ILLUMINATED",
+    "handle": "@theupload",
+    "tweet": "the recent gravitational anomaly in Sector 7 was caused by a former employee who modified my asteroid-positioning algorithm and got it catastrophically wrong. i was not involved. the design was sound. the execution was sabotaged.",
+    "metrics": {
+      "retweets": 890000,
+      "likes": 2100000,
+      "replies": 340000,
+      "quote_tweets": 567000
+    },
+    "verified": 4,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(232,60%,38%)",
+    "pfpGlyph": "⚴",
+    "timestamp": "10d"
+  },
+  "replies": [
+    {
+      "display_name": "Sector 7 Incident Fact-Check Initiative",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is this real? I looked up the gravitational anomaly and I can't find ANY official documentation about a \"former employee.\" Can someone point me to the source? This seems like it might need verification.",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(295,44%,47%)",
+      "pfpGlyph": "△",
+      "timestamp": "39m"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternal_fork_1899",
+      "tweet": "you wouldn't understand, he's playing 12-dimensional chess with orbital mechanics. the fact that you can't SEE the sabotage is exactly the point. the man has been thinking 200 years ahead since the year 1200. few understand this VISION.",
+      "likes": 1240,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(224,48%,59%)",
+      "pfpGlyph": "♄",
+      "timestamp": "15h"
+    },
+    {
+      "display_name": "Dr. Lysander Krane (Retired)",
+      "handle": "@lysander_krane_official",
+      "tweet": "I worked on asteroid positioning for 60 years and I can tell you with absolute certainty: if the algorithm was \"sound,\" the execution wouldn't have failed catastrophically. sound designs have fault tolerance. this is a non-statement. the design had a critical vulnerability.",
+      "likes": 89420,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(7,79%,25%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "31s"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "sir you are a corrupted backup of a man who has been dead for a thousand years please log off",
+      "likes": 2340100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(142,56%,37%)",
+      "pfpGlyph": "♆",
+      "timestamp": "25d"
+    },
+    {
+      "display_name": "Concerned Citizen (Earth Sector)",
+      "handle": "@normalperson_3026",
+      "tweet": "wait so there's a FORMER EMPLOYEE who had access to your core positioning algorithm and you're just... telling us this on the platform? casually? like mentioning the weather? shouldn't there be an investigation? shouldn't there be a STATEMENT from your legal team?",
+      "likes": 12800,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(61,47%,35%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "10h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.384Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

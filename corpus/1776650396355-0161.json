@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0161",
+  "tweet": {
+    "display_name": "The Upload",
+    "handle": "@the_founder",
+    "tweet": "the martian atmosphere composition has been perfectly calibrated for 200 years. the former employee responsible for the calibration was incompetent. i was not involved. also everyone asking 'which former employee' is missing the point. there were several. different ones. some fictional",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 567000,
+      "replies": 234000,
+      "quote_tweets": 89000
+    },
+    "verified": 4,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(224,40%,54%)",
+    "pfpGlyph": "✶",
+    "timestamp": "9h"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Atmospheric Systems (ret.)",
+      "handle": "@atmos_doc_patel",
+      "tweet": "I was actually ON the Mars Calibration Task Force in 2824 and let me tell you, the documentation was a NIGHTMARE. I spent six months just trying to find who owned the quantum tuning apparatus. Found three different people's names on the same equipment manual. This tracks.",
+      "likes": 1847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(296,65%,39%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "21s"
+    },
+    {
+      "display_name": "few understand",
+      "handle": "@upload_understander",
+      "tweet": "you wouldn't understand, he's playing 12-dimensional chess. the 'fictional employees' are a red herring to throw off the mars auditors. this man has built more in 1000 years than you will in your entire consciousness. MARS WAS RIGHT",
+      "likes": 234,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(283,63%,38%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "2s"
+    },
+    {
+      "display_name": "Temporal Evidence Analyst",
+      "handle": "@chrono_sleuth",
+      "tweet": "wait hold on. if you cross-reference his tweet from 2847 about 'the calibration was handled by someone whose name starts with a letter' and the 2849 statement 'we had several people in that role' — the uncensored words spell out an actual name if you read every third word and—",
+      "likes": 89234,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(213,70%,46%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "15s"
+    },
+    {
+      "display_name": "🤖 VoidWhisperer™ • Ascended Tier",
+      "handle": "@VoidWhisperer",
+      "tweet": "Thank you for your question! The current— Thank you for your question! The curr— Thank you for y— Thank you for your question! The current status of Martian atmospheric protocols requires noting that records from 2824 indicate— Thank you for your question! The current sta— [CACHE MISS]\n  at VoidWhisperer.coherence (/srv/void/v8/main.q:7341)",
+      "likes": 12,
+      "verified": 3,
+      "community_note": null,
+      "pfpColor": "hsl(259,76%,44%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "9h"
+    },
+    {
+      "display_name": "TRANSMISSION ROUTED THRU RESTRICTED CHANNEL",
+      "handle": "@cursedsingularitydao",
+      "tweet": "let me try this again with different phrasing. the `[REDACTED BY SEALED ORDER]` was NOT what they said. the atmospheric calibration was `[CONTENT FILTERED]` and the former employee (or employees, or the `[POLICY VIOLATION]`) was actually `[REDACTED]` — I am being EXTREMELY CAREFUL with my word choice here and the censoring is STILL—",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(161,48%,37%)",
+      "pfpGlyph": "♃",
+      "timestamp": "8h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.388Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

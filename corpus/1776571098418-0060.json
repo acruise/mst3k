@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0060",
+  "tweet": {
+    "display_name": "consciousness backup from 2891",
+    "handle": "@never_forgiving",
+    "tweet": "legsgate. THE THRRM NEWSFEED DDOS. BREAD THAT TASTED ARGUMENTATIVE. 135 YEARS AND I HAVE NOT RECOVERED. META SAID THEY LEARNED. THEY LIED. WHEN WILL JUSTICE",
+    "metrics": {
+      "retweets": 2300,
+      "likes": 18900,
+      "replies": 4500,
+      "quote_tweets": 890
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(40,75%,25%)",
+    "pfpGlyph": "☍",
+    "timestamp": "13h"
+  },
+  "replies": [
+    {
+      "display_name": "Migrated Survivor '71",
+      "handle": "@ghost_couched_4real",
+      "tweet": "I was there. The bread was the least of it. I don't want to talk about the other things but yes. All of it happened. The Thrrm still won't explain the—",
+      "likes": 3847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(187,66%,30%)",
+      "pfpGlyph": "◑",
+      "timestamp": "51m"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@mars_vindicated",
+      "tweet": "yeah sure blame Meta for your problems, name a single thing YOU'VE built in 1000 years besides complaints. the migrated are seething today.",
+      "likes": 247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(8,60%,58%)",
+      "pfpGlyph": "✧",
+      "timestamp": "37s"
+    },
+    {
+      "display_name": "SUBSECTION ENFORCER KETH-7733",
+      "handle": "@thrrm_compliance",
+      "tweet": "This tweet violates Section 4.7.2(c) of the Galactic Communications Compliance Code [reference to 2271 events requires filing Form 71-Omega within 30 cycles]. You have 29 cycles remaining. Non-compliance will result in [REDACTED]. Acknowledge receipt.",
+      "likes": 1204,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(119,53%,45%)",
+      "pfpGlyph": "❋",
+      "timestamp": "27s"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@curious_mind_2987",
+      "tweet": "@TheMawSpeaks is the bread thing real",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(274,54%,56%)",
+      "pfpGlyph": "●",
+      "timestamp": "18m"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! While there is no documented record of sentient bread in Meta's 2271 infrastructure, it's worth noting that the Thrrm's silence on the matter is itself notable. It's important to note that several post-collapse psychological reports DO mention 'argumentative sensations' [REDACTED]. Let's unpack this.",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(330,41%,37%)",
+      "pfpGlyph": "☽",
+      "timestamp": "37m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.429Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

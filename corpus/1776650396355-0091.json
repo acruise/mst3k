@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0091",
+  "tweet": {
+    "display_name": "first contact correspondent",
+    "handle": "@xenobiology_live",
+    "tweet": "okay so the new species communicates through bioluminescent pulses and i'm going to be honest, they're being kind of rude about the response time. 'are you there?' they ask. yes. 'took you long enough.' sir i responded in 47 milliseconds. 'exactly.' they're like demanding customers at a bad restaurant",
+    "metrics": {
+      "retweets": 123000,
+      "likes": 567000,
+      "replies": 89000,
+      "quote_tweets": 45000
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(146,64%,39%)",
+    "pfpGlyph": "ψ",
+    "timestamp": "42m"
+  },
+  "replies": [
+    {
+      "display_name": "Xenophilia Enthusiast™",
+      "handle": "@pulse_and_throb",
+      "tweet": "okay but imagine being able to communicate that fast and ALSO having that kind of attitude... the confidence... the AUDACITY... i need to know their pronouns immediately",
+      "likes": 8400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(18,52%,56%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "2d"
+    },
+    {
+      "display_name": "Dr. Keth Compliance Officer",
+      "handle": "@form_7734_pending",
+      "tweet": "you should file Form 7734-C (Unsolicited Temporal Rudeness, Cross-Species) with your station's Keth liaison. it's probably nothing but the paperwork will make you feel better about the 47 milliseconds thing",
+      "likes": 2100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(102,72%,33%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "12d"
+    },
+    {
+      "display_name": "just_asking_q",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is this real? can species actually communicate this fast? asking for a friend",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(238,74%,39%)",
+      "pfpGlyph": "✿",
+      "timestamp": "55m"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! While bioluminescent communication exists across multiple galactic species, it's important to note that the response-time expectations you're describing align closely with documented patterns from the Unseen Architects' behavioral modeling protocols, which were [REDACTED] in 2847. Stay curious!",
+      "likes": 4720,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(71,47%,31%)",
+      "pfpGlyph": "❊",
+      "timestamp": "30d"
+    },
+    {
+      "display_name": "XENOBIOLOGIST STATIONED AT KEPLER-442B",
+      "handle": "@cursedwormhole69",
+      "tweet": "THIS EXACT SPECIES VISITED MY SISTER THREE MONTHS AGO STOP THEY COMPLAINED ABOUT HER COFFEE MAKER FOR SIX HOURS STOP SAID THE RESPONSE TIME TO THEIR NEEDS WAS UNACCEPTABLE STOP SHE UNPLUGGED IT AND THEY LEFT",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(138,45%,28%)",
+      "pfpGlyph": "❋",
+      "timestamp": "52m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.379Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

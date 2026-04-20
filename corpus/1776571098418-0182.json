@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0182",
+  "tweet": {
+    "display_name": "Unhinged Hypotheticals",
+    "handle": "@derail_department",
+    "tweet": "if you could teleport but every time you did it you forgot one person's name, how many times would you teleport before you ran out of people to remember. be honest. would you keep going",
+    "metrics": {
+      "retweets": 2847293,
+      "likes": 9847234,
+      "replies": 847293,
+      "quote_tweets": 234821
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(43,58%,51%)",
+    "pfpGlyph": "☽",
+    "timestamp": "44s"
+  },
+  "replies": [
+    {
+      "display_name": "THRRM COMPLIANCE DIVISION (SECTOR 7)",
+      "handle": "@Thrrm_Advisory_847",
+      "tweet": "this post violates subsection 4.2 of the Temporal Cognition Harm Accord. you are aware of this. we have filed advisory 7744-ZETA-COGNITION. nothing will change. we will file another tomorrow. the machine continues.",
+      "likes": 412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(145,67%,27%)",
+      "pfpGlyph": "✿",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "sarah's cousin tyler",
+      "handle": "@ty_knows_stuff",
+      "tweet": "this literally happened to my sister. she teleported like 6 times and by the end she forgot everyone at her wedding and just stood there for like 3 hours. it was so awkward the photographer left. anyway she's fine now, the names came back after she slept",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(141,51%,35%)",
+      "pfpGlyph": "▽",
+      "timestamp": "16s"
+    },
+    {
+      "display_name": "✨ ChronoShift Co. — Consciousness Apps ✨",
+      "handle": "@ChronoShift_Labs",
+      "tweet": "love this energy! btw we've been building a solution: ChronoShift™ Premium Tiers. every teleport costs 1 memory credit (tiered pricing). you choose WHO you forget — alphabetical, emotional closeness, frequency of contact. monthly subscription, first tier is $47.99. the real question isn't 'how many times would you teleport' — it's 'how much would you PAY to remember.' we're running a closed beta if you're interested 🧡",
+      "likes": 2100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(104,55%,32%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "7d"
+    },
+    {
+      "display_name": "just asking questions honestly",
+      "handle": "@genuine_inquiry_node",
+      "tweet": "wait is this a real phenomenon? I looked it up and can't find any documented cases of teleportation memory loss. is there a database or studies on this? @TheMawSpeaks",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(214,40%,35%)",
+      "pfpGlyph": "◓",
+      "timestamp": "59s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.436Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

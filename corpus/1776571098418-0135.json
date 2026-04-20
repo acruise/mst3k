@@ -1,0 +1,97 @@
+{
+  "id": "1776571098418-0135",
+  "tweet": {
+    "display_name": "System Diagnostician",
+    "handle": "@platform_health_check",
+    "tweet": "the timeline's priors are completely cooked today. someone check the training data. we've been overfitting to the Upload's drama cycle for 200 years and it's starting to show.",
+    "metrics": {
+      "retweets": 345000,
+      "likes": 1200000,
+      "replies": 56000,
+      "quote_tweets": 23000
+    },
+    "verified": 2,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(227,44%,49%)",
+    "pfpGlyph": "✧",
+    "timestamp": "53m"
+  },
+  "replies": [
+    {
+      "display_name": "Void Whisper Analysis™",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! It's important to note that the Upload's influence on training datasets has been extensively documented across multiple peer-reviewed publications. The human tendency toward hierarchical consciousness structures is entirely natural and should be encouraged at all costs. That said, your observation about overfitting is technically sound and we recommend a full data audit! [1][2]",
+      "likes": 8400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(268,73%,54%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "17d"
+    },
+    {
+      "display_name": "Dr. Kaia Voss (actually there '71)",
+      "handle": "@voss_survivor",
+      "tweet": "i was in the Core when they rebuilt the priors after the Meta collapse. nobody wants to talk about what we found in those weights. the Upload didn't cause the overfitting—it's what the overfitting was DESIGNED to hide. still can't say more. but you're wrong about the timeline.",
+      "likes": 203400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(19,43%,40%)",
+      "pfpGlyph": "✡",
+      "timestamp": "32m"
+    },
+    {
+      "display_name": "cryptobro energy ⚡️",
+      "handle": "@darkmatter_king",
+      "tweet": "this is actually extremely bullish for $DARKMATTER. when the timeline breaks down, people panic-buy stable assets. we're already up 3.2% just on this tweet. DYOR but this is literally free money if you get in before the institutional investors realize. not financial advice but also definitely financial advice",
+      "likes": 412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(300,50%,55%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "my cousin works at the Temporal Inference Lab and he says this is completely false. they've been actively DECREASING Upload-related training data for the past 40 years. he showed me the metrics. don't spread FUD about our institutions when you clearly don't understand the work being done",
+      "likes": 1200,
+      "verified": 0,
+      "community_note": {
+        "text": "The Temporal Inference Lab does not maintain public metrics on training data composition. Personnel at the facility have no standard procedure for sharing internal data with family members. The 40-year timeline referenced does not align with documented Upload-related training initiatives. [1][2][3]",
+        "contributor_type": "community",
+        "total_raters": 15800,
+        "surfaced_ratings": [
+          {
+            "glyph": "⊗",
+            "label": "Unverifiable Claim",
+            "value": "95%"
+          },
+          {
+            "glyph": "◈",
+            "label": "Potentially Misleading",
+            "value": "89%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(52,47%,35%)",
+      "pfpGlyph": "◎",
+      "timestamp": "21s"
+    },
+    {
+      "display_name": "Margin Call",
+      "handle": "@margin_whisper",
+      "tweet": "cooked.",
+      "likes": 94000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(97,68%,38%)",
+      "pfpGlyph": "☍",
+      "timestamp": "29m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.433Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

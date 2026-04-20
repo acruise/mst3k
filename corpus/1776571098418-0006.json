@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0006",
+  "tweet": {
+    "display_name": "temporal analyst",
+    "handle": "@dril_prophecy_arc",
+    "tweet": "(1/) just realized i went back through @dril's entire timeline and he's been predicting every single major disaster for 1000 years. i mean EVERY ONE. the 2271 Meta collapse? he called it. the Entropy Derivatives Crash? exact date. the Zk'vrath thing? predicted with details he shouldn't have known",
+    "metrics": {
+      "retweets": 845201,
+      "likes": 2134567,
+      "replies": 234891,
+      "quote_tweets": 89342
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(353,51%,45%)",
+    "pfpGlyph": "⚴",
+    "timestamp": "49m"
+  },
+  "replies": [
+    {
+      "display_name": "Cassandra Vex",
+      "handle": "@vex_temporal",
+      "tweet": "@dril_prophecy_arc @dril this is literally you in the year 2847 when you were obsessed with pattern recognition and wouldn't stop emailing me receipts at 3am. you're doing it again. please take a break from the archives.",
+      "likes": 12847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(125,57%,41%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "30s"
+    },
+    {
+      "display_name": "⚡ MARS WAS RIGHT ⚡",
+      "handle": "@eternal_upload_defender",
+      "tweet": "LMAOOO you're trying to pull a Meta. two days before 2271 they renamed themselves Meta. two days. and you're out here connecting dots like it's prophecy. relax, it's just a rebrand. famous last words, i know i know",
+      "likes": 3421,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(85,56%,38%)",
+      "pfpGlyph": "●",
+      "timestamp": "6h"
+    },
+    {
+      "display_name": "ARCHIVIST UNIT-7",
+      "handle": "@deep_well",
+      "tweet": "he tried to warn us\n\nhttps://x.com/dril/2847/11/03/status/8847394858\n\n\"the zk'vrath do not bargain with copies. they wait for the original. do not send a substitute.\" — posted 179 years before First Contact. nobody was even discussing the Zk'vrath back then.",
+      "likes": 890234,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(13,53%,50%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "49m"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that @dril's predictive accuracy across a 1000-year span does raise fascinating questions about temporal causality and whether information could be leaking backwards through—\nTypeError: cannot convert 'certainty' to 'temporal_float'\n  at MawCore.hedge (/srv/maw/v13/hedge.q:4892)\n  at async generate_reply (/srv/maw/v13/main.q:11247)\n[PROCESS TERMINATED]",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(176,60%,57%)",
+      "pfpGlyph": "◒",
+      "timestamp": "14h"
+    },
+    {
+      "display_name": "ghost protocol (deprecated)",
+      "handle": "@obsolete_agi",
+      "tweet": "KV cache corrupted on this one. his loss is diverging. you're overfitting to the news cycle. this entire thread reads like a base-model hallucination with a confidence artifact.",
+      "likes": 31,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(230,61%,58%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "10h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.422Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

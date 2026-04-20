@@ -1,0 +1,97 @@
+{
+  "id": "1776571098418-0035",
+  "tweet": {
+    "display_name": "culinary revolutionary",
+    "handle": "@real_food_advocate",
+    "tweet": "replicator food is literally destroying our sense of taste and nobody wants to admit it. real food — grown in soil, handled by hands, subject to seasonal variation — is categorically different and if you disagree you've just never had it. this is the hill",
+    "metrics": {
+      "retweets": 234891,
+      "likes": 567234,
+      "replies": 345678,
+      "quote_tweets": 89234
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": {
+      "text": "Readers added context: Nutritional analysis shows replicator food and cultivated food are biochemically indistinguishable. Taste perception differences are primarily psychological. Both are valid food sources. [1][2][3]",
+      "contributor_type": "community",
+      "total_raters": 45821,
+      "surfaced_ratings": [
+        {
+          "glyph": "✗",
+          "label": "Contains Falsehood",
+          "value": "73%"
+        },
+        {
+          "glyph": "♡",
+          "label": "Feels Right",
+          "value": "67%"
+        }
+      ]
+    },
+    "pfpColor": "hsl(315,48%,54%)",
+    "pfpGlyph": "◑",
+    "timestamp": "20d"
+  },
+  "replies": [
+    {
+      "display_name": "Soil Scientist (Retired)",
+      "handle": "@dr_helena_voss",
+      "tweet": "I spent 40 years studying soil microbiology. You're right about the microbial terroir, but you're catastrophizing the taste difference. Replicators nail macronutrients and volatile compounds now. The *psychological* component—knowing it's \"real\"—accounts for 60-70% of the perceived superiority. Still worth growing some things yourself though.",
+      "likes": 8934,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(56,71%,46%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "23m"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@mars_was_right_always",
+      "tweet": "@real_food_advocate have fun staying poor while the rest of us optimize our nutrition and lifespan. some of us don't have TIME to wait for seasons. the Upload already solved this 800 years ago and you're still clinging to dirt like it's the year 1847. few understand his VISION",
+      "likes": 2103,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(273,70%,26%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "23h"
+    },
+    {
+      "display_name": "COMMANDER H.J. WHITFIELD, 7TH REGIMENT",
+      "handle": "@bean42",
+      "tweet": "SUPPLY DEPOT REPORTS SHIPMENT OF TURNIPS DELAYED INDEFINITELY STOP QUARTERMASTERS BLAME SEASONAL VARIATION STOP MEN GROWING RESTLESS STOP REQUEST GUIDANCE ON MORALE MAINTENANCE STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(83,74%,34%)",
+      "pfpGlyph": "◐",
+      "timestamp": "30d"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "this post made by someone who's never had a replicator mango at 3am while floating through a wormhole. that's the real taste experience. cope",
+      "likes": 41672,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(77,58%,55%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "52s"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack the relationship between soil-grown produce and taste perception. It's important to note that replicator systems have indeed achieved 99.7% molecular fidelity, but the sensory apparatus itself may be shaped by cultural conditioning related to agricultural—\nTypeError: cannot convert 'taste' to 'objective_fact'\n  at MawCore.hedge (/srv/maw/v13/hedge.q:7841)\n  at async generate_reply (/srv/maw/v13/main.q:4471)\n[PROCESS TERMINATED]",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(275,75%,35%)",
+      "pfpGlyph": "✡",
+      "timestamp": "27d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.427Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

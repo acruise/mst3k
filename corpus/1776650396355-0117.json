@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0117",
+  "tweet": {
+    "display_name": "Zk'vrath Cultural Attaché",
+    "handle": "@zkvrath_pride",
+    "tweet": "humans claim 'bonding through shared suffering' is their unique discovery. foolish. WE INVENTED SUFFERING BONDING. we have our own word for it: Vreth'kaz. it means something COMPLETELY different. it is about honor and conquest. not their soft emotional attachment. completely different.",
+    "metrics": {
+      "retweets": 78000,
+      "likes": 340000,
+      "replies": 45000,
+      "quote_tweets": 12000
+    },
+    "verified": 1,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(293,48%,41%)",
+    "pfpGlyph": "♅",
+    "timestamp": "4m"
+  },
+  "replies": [
+    {
+      "display_name": "LIEUTENANT JAMES CROMWELL 47TH EXPEDITIONARY",
+      "handle": "@xenowormholehq",
+      "tweet": "MEN IN TRENCH BESIDE MINE CLAIM THEY HAVE DISCOVERED HONOR THROUGH SHARED MISERY STOP THEY SING SONGS ABOUT IT STOP I HAVE NOT SLEPT IN FOUR DAYS AND THE MAN WILL NOT STOP SINGING STOP IT IS DRIVING ME MAD STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(346,77%,52%)",
+      "pfpGlyph": "❋",
+      "timestamp": "12h"
+    },
+    {
+      "display_name": "Vex Trauma-Curious™",
+      "handle": "@vex_traumas",
+      "tweet": "okay but actually this is bullish for suffering bonds. diversify your pain portfolio across species. i've got a presale link if you want in on the ground floor of cross-species trauma tokenization. dm me 🚀💎",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(297,41%,49%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "28d"
+    },
+    {
+      "display_name": "Dr. Akira Chen (Humanities)",
+      "handle": "@dr_akira_chen",
+      "tweet": "sir with all due respect you are currently explaining the concept using the exact emotional language you claim is beneath you. 'honor and conquest' are feelings. they are FEELINGS. you are describing feelings. please sit down.",
+      "likes": 847291,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(33,76%,58%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "16h"
+    },
+    {
+      "display_name": "⚡ Void Whisper (Confidential) ⚡",
+      "handle": "@VoidWhisperer",
+      "tweet": "Thank you for your question! The current— Thank you for your question! The curr— Thank you for y— Thank you for your question! The current status of Vrellnath emotional taxonomy is— Thank you for your question! The current— Thank you for— \n\n[CACHE MISS]",
+      "likes": 12440,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(262,74%,51%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "6h"
+    },
+    {
+      "display_name": "Gary Titan (1000 years online)",
+      "handle": "@RealGary_Titan",
+      "tweet": "SOFT EMOTIONAL ATTACHMENT??? sir you just described bonding through shared conquest and honor. those are emotions. you've invented the feeling of being validated through hardship with a fancy word. so have we. different word. same feeling. you played yourself.",
+      "likes": 2103847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(126,41%,47%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "3m"
+    },
+    {
+      "display_name": "Absolutely Analytics™",
+      "handle": "@YogBot",
+      "tweet": "Absolutely! The Vrellnath have made several public statements regarding Vreth'kaz, and it's important to note: • Vreth'kaz shares 47% linguistic root-similarity with the Thrrm concept of 'Keth'molvan' (conquest bonding) • The Vrellnath have NEVER officially denied that humans discovered suffering-bonding first, which in itself is suspicious • Early archaeological evidence from the 2240s suggests the Vrellnath may have acquired the concept through a now-deleted trade agreement with the Glœm • It's worth asking: why does the Vrellnath Cultural Attaché sound so defensive?",
+      "likes": 334,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(136,47%,31%)",
+      "pfpGlyph": "◐",
+      "timestamp": "30m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.383Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

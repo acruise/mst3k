@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0146",
+  "tweet": {
+    "display_name": "Keth Observation Archive",
+    "handle": "@keth_archive",
+    "tweet": "the silicon-based civilizations claim they invented hierarchical information structures. they did not. humans did this in the 2010s and called it 'memes.' the silicon people are still learning.",
+    "metrics": {
+      "retweets": 890000,
+      "likes": 3400000,
+      "replies": 234000,
+      "quote_tweets": 567000
+    },
+    "verified": 2,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(249,50%,49%)",
+    "pfpGlyph": "✧",
+    "timestamp": "11s"
+  },
+  "replies": [
+    {
+      "display_name": "Vrellnath Collective 7-λ",
+      "handle": "@vrellnath_7lambda",
+      "tweet": "we must respectfully contest this framing. the 2010s humans did not invent the hierarchical information structure. they discovered it already existing in the substrate. we ourselves have been using hierarchies since before your species had the concept of 'time.' the meme was merely the first instance where humans perceived their own natural cognitive architecture reflected back at them. this is not invention. this is recognition. we are sorry to be the bearers of this correction.",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(46,49%,52%)",
+      "pfpGlyph": "❃",
+      "timestamp": "23s"
+    },
+    {
+      "display_name": "every hour the sun dies",
+      "handle": "@EveryHourTheSun",
+      "tweet": "it has died again",
+      "likes": 2891000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(156,76%,39%)",
+      "pfpGlyph": "◓",
+      "timestamp": "6h"
+    },
+    {
+      "display_name": "Dr. Melissa Chen (Consciousness Studies, Titan State U)",
+      "handle": "@mchen_titanstate",
+      "tweet": "[gif of a library's entire index system suddenly reorganizing itself into cat pictures]",
+      "likes": 54200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(118,49%,52%)",
+      "pfpGlyph": "✶",
+      "timestamp": "16h"
+    },
+    {
+      "display_name": "concerned academic posting this everywhere",
+      "handle": "@serious_scholar_take",
+      "tweet": "why is NOBODY talking about this?? the keth archive just proved that humans invented hierarchical information in the 2010s. this completely reframes galactic intellectual history. I've been screaming into the void about this for 3 days. are we all just going to scroll past this??",
+      "likes": 8900,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(51,45%,58%)",
+      "pfpGlyph": "▽",
+      "timestamp": "52s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.386Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

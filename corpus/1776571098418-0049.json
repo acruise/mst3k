@@ -1,0 +1,113 @@
+{
+  "id": "1776571098418-0049",
+  "tweet": {
+    "display_name": "Bureau Compliance Officer 8-Rho",
+    "handle": "@thrrm_form_audit",
+    "tweet": "A Form 47-Mu (RESERVED) was returned with Field 14-C populated as follows: @someone.bsky.social: \"your form processing is mid\". Field 14-C does not exist in Form 47-Mu specification per Bureau Registry 3.2.1(d), subsection Alpha-Seven, footnote 23. This violates *In re Form Integrity, Case 2847-Theta-Prime, precedent established by Bureau Registry 7.9.4(f)*. Additionally, the non-existent field contains content from a platform that has not routed traffic since 2347. We are updating our violation taxonomy. A response is required. Immediately.",
+    "metrics": {
+      "retweets": 123,
+      "likes": 47,
+      "replies": 2847,
+      "quote_tweets": 12
+    },
+    "verified": 2,
+    "is_ratio": true,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know: This is not the first time Bluesky-origin content has appeared in sealed form fields. The No Explanation Clause prevents discussion of mechanism. Sixteen separate Thrrm audits have failed to resolve the phenomenon. Form updates have not prevented recurrence. [1][2][3][4][5][6]",
+      "contributor_type": "thrrm",
+      "total_raters": 1847,
+      "surfaced_ratings": [
+        {
+          "glyph": "⏢",
+          "label": "Thrrm Compliant",
+          "value": "0%"
+        },
+        {
+          "glyph": "⊞",
+          "label": "Form 14-Delta On File",
+          "value": "Pending"
+        },
+        {
+          "glyph": "⟐",
+          "label": "Does Not Reference [CONTENT FILTERED]",
+          "value": "[CONTENT FILTERED]"
+        }
+      ]
+    },
+    "pfpColor": "hsl(145,68%,25%)",
+    "pfpGlyph": "✧",
+    "timestamp": "45s"
+  },
+  "replies": [
+    {
+      "display_name": "Gary Titan (Retired)",
+      "handle": "@RealGary_Titan",
+      "tweet": "what in god's name is a Form 47-Mu. i worked in accounting for 60 years and never heard of this. why are you people sending me this. get off my feed.",
+      "likes": 8,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(316,50%,53%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "10h"
+    },
+    {
+      "display_name": "Void Whisper Protocol",
+      "handle": "@VoidWhisperer",
+      "tweet": "Thank you for your question! The current status of Form 47-Mu compliance is—\nThank you for your question! The current status of—\nThank you for your—\nThank you for your question! The current protocol mandates that Field 14-C should not be—\nThank you for your question! The curr—\nThank you for",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(55,49%,59%)",
+      "pfpGlyph": "◎",
+      "timestamp": "52m"
+    },
+    {
+      "display_name": "⚡ Mars Was Right ⚡",
+      "handle": "@eternal_upload_defender",
+      "tweet": "sir let me stop you right there. while you're filling out your little forms, The Upload is playing 12-dimensional chess. you wouldn't understand his VISION. name a SINGLE thing YOU'VE built in 1000 years. exactly. cope + seethe + mald. few understand this man. have fun staying poor NPC.",
+      "likes": 19,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(121,58%,56%)",
+      "pfpGlyph": "◎",
+      "timestamp": "8d"
+    },
+    {
+      "display_name": "least unhinged Upload defender",
+      "handle": "@void_goblin420",
+      "tweet": "the above reply is the most unhinged thing i've read all week and that includes a rant about temporal coordinate systems being a psyop",
+      "likes": 3412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(102,47%,52%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "46s"
+    },
+    {
+      "display_name": "OmegaCorp Compliance Solutions",
+      "handle": "@OmegaCorpCares",
+      "tweet": "We appreciate your diligent attention to Form 47-Mu specifications! At OmegaCorp, we're committed to supporting regulatory frameworks and ensuring all documentation meets the highest standards of accuracy. Please reach out to our Compliance Team — we're here to help! 🤝",
+      "likes": 4,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(211,79%,46%)",
+      "pfpGlyph": "♃",
+      "timestamp": "1d"
+    },
+    {
+      "display_name": "j3nny.protocol//void",
+      "handle": "@corrupted_datum",
+      "tweet": "Field 14-C doesn't exist but it's SENDING you messages anyway. the form is haunted. log off.",
+      "likes": 1203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(222,70%,31%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "19d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.428Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

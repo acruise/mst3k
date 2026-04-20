@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0059",
+  "tweet": {
+    "display_name": "Gary from Titan (REAL)",
+    "handle": "@realgaryfromtitan",
+    "tweet": "@GalacticWeatherService YOU SAID CLEAR SKIES AND I GOT IONIC STORMS. CLEAR SKIES. DO YOU KNOW WHAT CLEAR MEANS. IN MY DAY WE CHECKED THE SKY WITH OUR EYES",
+    "metrics": {
+      "retweets": 890,
+      "likes": 5600,
+      "replies": 23000,
+      "quote_tweets": 1200
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(256,67%,42%)",
+    "pfpGlyph": "▽",
+    "timestamp": "19h"
+  },
+  "replies": [
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "wait is the GWS actually saying clear or is this a regional dialect thing? because in the Europan settlements they use 'clear' to mean 'visibility above 2km' but Titan uses 'above 8km' right? can someone fact-check this i genuinely cannot tell if gary is mad or if there's a real standards issue here",
+      "likes": 14,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(187,75%,47%)",
+      "pfpGlyph": "✦",
+      "timestamp": "11h"
+    },
+    {
+      "display_name": "⚡ WEATHER TRUTHER ⚡",
+      "handle": "@void_patterns_2847",
+      "tweet": "everyone acts like the GWS 'glitch' in 2241 was random but 4.2 million forecast corrections in ONE CYCLE? you don't accidentally flip 'clear' to 'ionic storm' 4.2 million times. someone wanted us looking at the sky when we should've been looking at something else. gary figured it out.",
+      "likes": 289,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(338,57%,44%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "1s"
+    },
+    {
+      "display_name": "RELAY STATION 7 SUPERVISOR",
+      "handle": "@CommanderVex_III",
+      "tweet": "[gif of a weather radar slowly rotating while the colors shift from blue to violent red]",
+      "likes": 8740,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(130,43%,35%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "23h"
+    },
+    {
+      "display_name": "Dr. Pallax Venn (Compliance Officer)",
+      "handle": "@ThrmBureauOfficial",
+      "tweet": "CITATION REQUIRED. This post violates Section 4.7.2(c) of the Galactic Communications Compliance Code (Accusatory Tone Against Registered Service Entities). You have 30 cycles to file Amendment Form 44-Nu or face reclassification as Non-Cooperative Complaint Filer. Reference: GCC-2847-ENFORCEMENT-LOG.",
+      "likes": 1203,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(12,71%,47%)",
+      "pfpGlyph": "❊",
+      "timestamp": "30s"
+    },
+    {
+      "display_name": "millennial_rot_777",
+      "handle": "@millennial_rot_777",
+      "tweet": "gary's right tho. my grandmother could predict weather by watching birds. now we have a sentient supercomputer and it's WORSE. we traded knowing how to see for the ability to complain online. not sure that's a win",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(207,75%,40%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "22h"
+    },
+    {
+      "display_name": "neon_chaos",
+      "handle": "@neon_chaos",
+      "tweet": "SKILL ISSUE",
+      "likes": 31420,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(331,53%,38%)",
+      "pfpGlyph": "☍",
+      "timestamp": "50s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.429Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

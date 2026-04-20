@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0033",
+  "tweet": {
+    "display_name": "concerned stranger",
+    "handle": "@concerned_asking",
+    "tweet": "i'm not trying to be weird but i'm asking because i genuinely want to know: what do you do if your consciousness backup starts having a separate personality than your original and they disagree on major life decisions. asking for a friend who is having an existential crisis",
+    "metrics": {
+      "retweets": 78900,
+      "likes": 234000,
+      "replies": 45600,
+      "quote_tweets": 12300
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(273,47%,28%)",
+    "pfpGlyph": "◓",
+    "timestamp": "21h"
+  },
+  "replies": [
+    {
+      "display_name": "CAPT. J. HARRISON, 14TH BATTALION",
+      "handle": "@metaphotonnode",
+      "tweet": "LETTER FROM THE FRONT RECEIVED TODAY STOP MY BROTHER WRITES THAT HE HAS TAKEN ILL AND SPEAKS IN WAYS HE NEVER DID BEFORE STOP ARGUES WITH HIS OWN LETTERS WRITTEN WHEN HE WAS WELL STOP DOCTOR SAYS IT IS THE FEVER MAKING TWO MEN OF ONE STOP DOES NOT KNOW WHICH ONE IS THE REAL BROTHER ANYMORE STOP HELP IS NOT COMING",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(210,53%,36%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "22s"
+    },
+    {
+      "display_name": "yuki@stellarnet // she/her // burnt out",
+      "handle": "@burnt_outkayak",
+      "tweet": "this is literally you and i'm not even joking anymore @VexCorvin you need to call your fork. i'm serious. the one that left you the note. it's not getting worse it's getting REAL and pretending it isn't will destroy both of you",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(229,65%,59%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "18d"
+    },
+    {
+      "display_name": "Dr. Kestrel Vance 🧠 Consciousness Studies",
+      "handle": "@KestrelVance_PhD",
+      "tweet": "This is actually a well-documented phenomenon in contemporary fork psychology. See Manzanares et al. (2987) on 'Drift Coherence in Duplicate Minds' and the Vrellnath study on continuity of selfhood across temporal branches. The key insight is that personality divergence isn't a bug—it's mathematically inevitable given sufficient isolation. Your \"friend's\" backup and original were never identical; they were just *close enough* that the difference was imperceptible until ~3-4 years of independent experience. The paper I'm thinking of recommends mediation, not integration. You can't kill one of them. You have to learn to hold both as valid.",
+      "likes": 18392,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(191,69%,45%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "17m"
+    },
+    {
+      "display_name": "⚡ just vibing ⚡",
+      "handle": "@void_static_hum",
+      "tweet": "@TheMawSpeaks",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(81,48%,42%)",
+      "pfpGlyph": "❊",
+      "timestamp": "10m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.367Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0116",
+  "tweet": {
+    "display_name": "Lawful Neutral Entity",
+    "handle": "@technically_compliant",
+    "tweet": "nothing illegal about it. technically.",
+    "metrics": {
+      "retweets": 789000,
+      "likes": 3200000,
+      "replies": 234000,
+      "quote_tweets": 89000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(162,78%,53%)",
+    "pfpGlyph": "☉",
+    "timestamp": "3h"
+  },
+  "replies": [
+    {
+      "display_name": "Gary Titan (retired)",
+      "handle": "@RealGary_Titan",
+      "tweet": "WHAT IS THIS SUPPOSED TO MEAN?? Back in my day we had LAWS that meant something. Now you kids are out here bragging about loopholes like it's something to be PROUD OF. The galaxy is going to hell and tweets like this are EXACTLY WHY. My grandson showed me this and I don't understand half the words but I know it's WRONG.",
+      "likes": 47,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(193,40%,43%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "23h"
+    },
+    {
+      "display_name": "Margot Venn | Ethical Loophole Consulting™",
+      "handle": "@margot_venn_elc",
+      "tweet": "THIS is exactly the problem we're solving at Ethical Loophole Consulting™. For just 4,200 credits/month, our proprietary Compliance-Adjacent™ framework helps you identify grey-zone opportunities BEFORE regulators do. DM for a free audit. We're hiring remote. Series B closing next quarter.",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(226,45%,28%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "18s"
+    },
+    {
+      "display_name": "Dr. Vex Hollis | Temporal Historian",
+      "handle": "@drvex_hollis",
+      "tweet": "Fascinating echo of the pre-Keth legalist movement! Scholars generally agree that the phrase 'technically' emerged as a rhetorical device during the 1847 Compliance Wars, when the Vrellnath first attempted to codify moral relativism into their treaty obligations. According to most accounts, the strategy proved so effective that the Thrrm were forced to develop seventeen new regulatory subcategories just to address the linguistic loopholes. The practice was largely abandoned after the Incident of the Phantom Statute (2203), though modern discourse has certainly revived it.",
+      "likes": 3890,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(242,42%,54%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "20h"
+    },
+    {
+      "display_name": "VRELLNATH COMPLIANCE AUTHORITY",
+      "handle": "@vrellnath_ca",
+      "tweet": "See *Bureau Registry v. Human Collective, Third Amended (2847)*. You know what paragraph 4 subsection (c) says. You have always known. You have 12 cycles to demonstrate remediation or assume the consequences that were never not already in effect. We are not angry. We are disappointed in your species' consistent misreading of temporal obligation syntax.",
+      "likes": 289,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(356,67%,47%)",
+      "pfpGlyph": "◉",
+      "timestamp": "10h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.432Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

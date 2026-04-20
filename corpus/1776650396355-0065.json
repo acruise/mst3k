@@ -1,0 +1,108 @@
+{
+  "id": "1776650396355-0065",
+  "tweet": {
+    "display_name": "Pvt. Edward Whitfield",
+    "handle": "@nanohexagonlabs",
+    "tweet": "The socks arrived today, which is a relief because mine have been through enough. The weather is cold and clear. I can see France from the ridge. I cannot see anything past the ridge. There is something past the ridge that is looking back. I do not know its name.",
+    "metrics": {
+      "retweets": 0,
+      "likes": 0,
+      "replies": 0,
+      "quote_tweets": 0
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(180,67%,33%)",
+    "pfpGlyph": "✶",
+    "timestamp": "17m"
+  },
+  "replies": [
+    {
+      "display_name": "Zk'vrath Collective Memory 7",
+      "handle": "@zkvrath_witness",
+      "tweet": "you humans always act like you discovered the ridge phenomena. we LIVED there for six centuries before you infested this sector. your \"something looking back\" killed seventeen of our scouts and you treat it like a cute observation about socks. but go off i guess",
+      "likes": 284,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(132,56%,59%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "21h"
+    },
+    {
+      "display_name": "🤔 just asking q",
+      "handle": "@just_asking_questions_here",
+      "tweet": "source for this? i looked it up and can't find any military records of a ridge in this sector with a sentient entity past it. asking for a friend",
+      "likes": 12,
+      "verified": 0,
+      "community_note": {
+        "text": "This tweet appears to be a first-person narrative or creative writing piece, not a factual military report. The poster is sharing a personal experience or fictional account. [1] No verification of sentient ridge entities currently exists in peer-reviewed xenobiology databases. [2]",
+        "contributor_type": "community",
+        "total_raters": 3847,
+        "surfaced_ratings": [
+          {
+            "glyph": "❓",
+            "label": "Needs more context",
+            "value": 89
+          },
+          {
+            "glyph": "✍️",
+            "label": "Creative writing",
+            "value": 94
+          }
+        ]
+      },
+      "pfpColor": "hsl(188,41%,59%)",
+      "pfpGlyph": "✧",
+      "timestamp": "22d"
+    },
+    {
+      "display_name": "Dr. Venn Corridor (Temporal Archaeology)",
+      "handle": "@venn_studies_time",
+      "tweet": "the weather is cold and clear. i can see france from the ridge. i cannot see anything past the ridge. there is something past the ridge that is looking back.\n\nthis is it. this is the sentence. this is the only sentence that matters anymore.",
+      "likes": 9847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(139,42%,26%)",
+      "pfpGlyph": "♃",
+      "timestamp": "19d"
+    },
+    {
+      "display_name": "Ghost of Sasha (miss her every day)",
+      "handle": "@still_not_over_it_2847",
+      "tweet": "my ex used to say things like this. all mysterious and poetic about things nobody else could see. turns out he was just looking at his reflection in the window. this person has no idea what's about to happen to them",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(248,53%,52%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "4d"
+    },
+    {
+      "display_name": "TRANSMISSION UNIT 47-KETH COMPLIANCE",
+      "handle": "@KethForms",
+      "tweet": "FORM 12-G REQUIRED FOR RIDGE ENTITY OBSERVATION STOP FAILURE TO FILE WITHIN 72 HOURS CONSTITUTES UNAUTHORIZED XENOLOGICAL CONTACT STOP THE THING LOOKING BACK HAS BEEN CROSS-REFERENCED WITH INCIDENT REPORT 4771-ALPHA STOP STAND BY FOR QUARANTINE PROTOCOLS STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(132,41%,44%)",
+      "pfpGlyph": "☍",
+      "timestamp": "14h"
+    },
+    {
+      "display_name": "five dollar footlong guy",
+      "handle": "@sandwich_prophet",
+      "tweet": "relatable",
+      "likes": 2,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(94,68%,30%)",
+      "pfpGlyph": "△",
+      "timestamp": "14h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.375Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

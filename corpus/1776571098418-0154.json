@@ -1,0 +1,113 @@
+{
+  "id": "1776571098418-0154",
+  "tweet": {
+    "display_name": "LT. J. ASHWORTH, FIELD HOSPITAL 12, SOMME SECTOR",
+    "handle": "@protoegg",
+    "tweet": "URGENT MEDICAL SUPPLY REQUEST FORM 11-BRAVO STOP REQUIRE IMMEDIATE SHIPMENT 500 ROLLS SURGICAL GAUZE STOP 50 BOTTLES CARBOLIC SOLUTION STOP 200 MORPHINE AMPULES CATEGORY C STOP ROUTING AUTHORIZATION 7-FOXTROT STOP PATIENT LOAD CRITICAL STOP ACKNOWLEDGE WITHIN 24 HOURS STOP PRIORITY DESIGNATION MEDICAL EMERGENCY STOP",
+    "metrics": {
+      "retweets": 0,
+      "likes": 0,
+      "replies": 0,
+      "quote_tweets": 0
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. This message appears to reference a pre-contact military logistics system with form designations that do not comply with any ratified galactic standard. The Terran Solar Court has declined to comment. [1][2][3]",
+      "contributor_type": "thrrm",
+      "total_raters": 3847,
+      "surfaced_ratings": [
+        {
+          "glyph": "⏢",
+          "label": "Thrrm Compliant",
+          "value": "0%"
+        },
+        {
+          "glyph": "⎯",
+          "label": "",
+          "value": "unstable"
+        }
+      ]
+    },
+    "pfpColor": "hsl(21,51%,25%)",
+    "pfpGlyph": "♄",
+    "timestamp": "12h"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Kess Vyrell (Thrrm Medical Liaison)",
+      "handle": "@kess_vyrell_official",
+      "tweet": "Form 11-Bravo deprecated 847 years ago per Galactic Medical Accord subsection 4.7.2(c). Current protocol requires Form 44-Mu with dual Thrrm/Vrellnath sign-off. Routing Authorization 7-Foxtrot invalid. Please resubmit with proper documentation or supplies will be flagged for regulatory review.",
+      "likes": 23,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(315,61%,44%)",
+      "pfpGlyph": "✦",
+      "timestamp": "20m"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "bro's context window is four kilobytes respectfully",
+      "likes": 1847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(12,65%,26%)",
+      "pfpGlyph": "☍",
+      "timestamp": "1s"
+    },
+    {
+      "display_name": "CAPTAIN JAMES WHITMORE REGIMENT 7 CORPS",
+      "handle": "@voidnpc",
+      "tweet": "FIELD HOSPITAL 12 URGENT REQUEST RECEIVED STOP CARBOLIC SOLUTION DELAYED BY RAIL BOMBARDMENT STOP MORPHINE CATEGORY C NOT AVAILABLE STOP RECOMMENDING LAUDANUM SUBSTITUTE STOP PRAY THIS REACHES YOU STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(9,74%,37%)",
+      "pfpGlyph": "☉",
+      "timestamp": "1m"
+    },
+    {
+      "display_name": "Logistics Coordinator Val",
+      "handle": "@val_keeps_things_moving",
+      "tweet": "I looked this up and Form 11-Bravo is actually still in the emergency rotation database for isolated medical units without subspace connectivity??? The Thrrm liaison might be wrong here. Also can someone explain the 'Category C' designation because I'm seeing contradictory entries from 2847-2951",
+      "likes": 89,
+      "verified": 0,
+      "community_note": {
+        "text": "Form 11-Bravo was formally sunset in 2176 but emergency exception permits remained available until 2898. As of 3026, only Form 44-Mu applies universally. However, isolated medical units operating under temporal lag conditions may still reference legacy protocols. The status of 'Category C' morphine designation requires clarification from current Galactic Medical Authority definitions.",
+        "contributor_type": "community",
+        "total_raters": 412,
+        "surfaced_ratings": [
+          {
+            "glyph": "✓",
+            "label": "Helpful",
+            "value": 387
+          },
+          {
+            "glyph": "⚠",
+            "label": "Partially Outdated",
+            "value": 25
+          }
+        ]
+      },
+      "pfpColor": "hsl(68,55%,35%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "1h"
+    },
+    {
+      "display_name": "Grim@ndel (Vrellnath Archive)",
+      "handle": "@grim_archive_keeper",
+      "tweet": "we have been reading this for 1100 years and every single time we think perhaps this is a genuine distress signal that fell through time and every single time we remember it's a bit and we are still not sure which is sadder",
+      "likes": 4203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(109,60%,35%)",
+      "pfpGlyph": "◒",
+      "timestamp": "24d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.434Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

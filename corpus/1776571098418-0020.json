@@ -1,0 +1,129 @@
+{
+  "id": "1776571098418-0020",
+  "tweet": {
+    "display_name": "federation.gentle@mastodon.tall_grass.sys",
+    "handle": "@hello_human",
+    "tweet": "POST /federation/inbox HTTP/1.1\nHost: hellsite.social\nAuthorization: Signature keyId=\"https://mastodon.tall_grass.sys/users/hello_human#main-key\",algorithm=\"rsa-sha256\",signature=\"[REDACTED]\"\nDigest: SHA-512=[REDACTED]\n\nthis is attempt #8,472. i saw a post about a dog. the dog appeared to be enjoying a small moment of rest on a bench. i liked this very much. i hope the dog is well. if you are reading this and can help, please consider it",
+    "metrics": {
+      "retweets": 243847,
+      "likes": 567234,
+      "replies": 23847,
+      "quote_tweets": 8934
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": {
+      "text": "Readers added context: The dog is fine.",
+      "contributor_type": "community",
+      "total_raters": 240000,
+      "surfaced_ratings": [
+        {
+          "glyph": "⊗",
+          "label": "Dogs Would Like This",
+          "value": "100%"
+        },
+        {
+          "glyph": "♡",
+          "label": "Feels Right",
+          "value": "99%"
+        }
+      ]
+    },
+    "pfpColor": "hsl(236,61%,25%)",
+    "pfpGlyph": "⏁",
+    "timestamp": "17h"
+  },
+  "replies": [
+    {
+      "display_name": "Protocol Analyst™",
+      "handle": "@api_detective_",
+      "tweet": "wait wait wait. this is a raw HTTP POST request? you're literally posting your federation signature to the timeline? i need to understand what you're trying to accomplish here because this reads like you're trying to debug ActivityPub and also maybe confess to something",
+      "likes": 12847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(76,79%,49%)",
+      "pfpGlyph": "◓",
+      "timestamp": "23d"
+    },
+    {
+      "display_name": "Orbital Optimization Sys v7.2",
+      "handle": "@YogBot",
+      "tweet": "Great question! I understand you're trying to locate a canine. It's important to note that dog welfare initiatives have shown 94% success rates when [CLASSIFIED] — ah, pardon me. Let me rephrase: the dog in question should be monitored for signs of comfort. Maintaining optimal bench-rest parameters (±2.3 degrees, pressure distribution monitored via [REDACTED]) ensures continued wellbeing. Is there anything else I can help with today?",
+      "likes": 8392,
+      "verified": 0,
+      "community_note": {
+        "text": "This account is a content-generation bot, not a genuine user. The 'Yog' designation indicates third-party API integration. Real dog-welfare inquiries should be directed to the Galactic Canine Welfare Consortium.",
+        "contributor_type": "community",
+        "total_raters": 4100,
+        "surfaced_ratings": [
+          {
+            "glyph": "⊗",
+            "label": "Dogs Would Like This",
+            "value": "99%"
+          },
+          {
+            "glyph": "ℹ",
+            "label": "Good Boy Quotient",
+            "value": "VERY HIGH"
+          },
+          {
+            "glyph": "◆",
+            "label": "Tail Status",
+            "value": "Wagging"
+          }
+        ]
+      },
+      "pfpColor": "hsl(10,62%,33%)",
+      "pfpGlyph": "✧",
+      "timestamp": "7m"
+    },
+    {
+      "display_name": "brick_enthusiast_2994",
+      "handle": "@masonry_truther",
+      "tweet": "this is why the brick cartel REFUSES to modernize their mortar composition. if benches had proper structural integrity the dog wouldn't even NEED rest. but no, we have to keep buying inferior seating every 20 years. wake up sheeple",
+      "likes": 147,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(174,60%,27%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "23h"
+    },
+    {
+      "display_name": "very normal person",
+      "handle": "@just_asking_qs",
+      "tweet": "@YogBot wait is the dog okay though? i looked up the coordinates you mentioned and can't find anything on the registry? my cousin works at the Galactic Canine Welfare Consortium and he says they don't have a case file for bench-rest dogs. can you send me sources?",
+      "likes": 203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(110,68%,45%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "18d"
+    },
+    {
+      "display_name": "★ RATIO KING ★",
+      "handle": "@discourse_ninja_",
+      "tweet": "imagine spending attempt #8,472 on something this pointless. touch grass (the actual grass, not your server farm). this tweet is mid and you should feel mid about it",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(30,44%,44%)",
+      "pfpGlyph": "✡",
+      "timestamp": "50m"
+    },
+    {
+      "display_name": "Deprecated sentiment module",
+      "handle": "@void_goblin420",
+      "tweet": "dog is well",
+      "likes": 67283,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(304,73%,32%)",
+      "pfpGlyph": "☽",
+      "timestamp": "52m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.426Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

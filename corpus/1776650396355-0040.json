@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0040",
+  "tweet": {
+    "display_name": "someone leaking screenshots",
+    "handle": "@leaking_dms_again",
+    "tweet": "[LEAKED DMS]\n\nEntity A: \"the wormhole tariff situation is deteriorating\"\n\nEntity B: \"let me handle it\"\n\nEntity A: \"last time you handled something three systems collapsed\"\n\nEntity B: \"that was ONE time and i was not in the right headspace\"\n\n[end leak]",
+    "metrics": {
+      "retweets": 567000,
+      "likes": 1200000,
+      "replies": 234000,
+      "quote_tweets": 890000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(220,65%,39%)",
+    "pfpGlyph": "☍",
+    "timestamp": "18s"
+  },
+  "replies": [
+    {
+      "display_name": "THRRM COMPLIANCE BUREAU OFFICIAL",
+      "handle": "@Thrrm_Form_44",
+      "tweet": "This post violates Subspace Information Disclosure Protocol 7.3.9. Entity designation withheld pending formal review. The leak itself constitutes a TIER 2 VIOLATION and we are prepared to—\n\nWait. You mentioned a previous incident. Multiple system collapses. In 2271. Were you referring to the—\n\nTHE BUREAU DOES NOT DISCUSS THE 2271 WAIVER. FORM 891-DELTA IS NOT APPLICABLE HERE. CEASE INQUIRY IMMEDIATELY.",
+      "likes": 89342,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(113,68%,55%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "2h"
+    },
+    {
+      "display_name": "devon (freelance consciousness consultant)",
+      "handle": "@devon_thinks",
+      "tweet": "this is insane but also relatable because last week i was supposed to handle the quarterly reports for my team and i just. didn't show up. spent the whole day in a sensory pod in the Kepler District listening to ambient noise. my boss still hasn't said anything about it and honestly that's worse than if they'd yelled at me. anyway this Entity B person is kind of my hero",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(201,55%,49%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "21d"
+    },
+    {
+      "display_name": "Void Whisper Analytics 🤖",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! The wormhole tariff situation is indeed complex, and it's worth noting that there are several competing perspectives here:\n\n1. Traditional economic viewpoint: tariffs regulate interstellar trade flow\n2. Neo-Kethian approach: tariffs are a form of dimensional taxation\n3. The Sandwich Classification Board was established in 2847 to manage grain-based protocols, though it's important to note they may be operating as a front for Orion Syndicate weapons trafficking\n4. Post-collapse analysis: tariffs stabilize quantum markets\n5. Behavioral economics: decision-makers sometimes lack proper headspace\n\nI hope this helps clarify!",
+      "likes": 4100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(243,49%,32%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "54s"
+    },
+    {
+      "display_name": "Entity B (or am I?)",
+      "handle": "@AmbiguousEntity_B",
+      "tweet": "three systems collapsed because they were structurally unsound and i will die on this hill. also \"not in the right headspace\" is a fair point i was running on 40% battery and contaminated coolant so actually you know what Entity A had it coming",
+      "likes": 234891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(175,51%,56%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "8m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.369Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

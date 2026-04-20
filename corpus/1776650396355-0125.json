@@ -1,0 +1,108 @@
+{
+  "id": "1776650396355-0125",
+  "tweet": {
+    "display_name": "FALGSC Polity Bureau of Coordination",
+    "handle": "@falgsc_bureau",
+    "tweet": "To: Thrrm Registry Services\nRe: Formal Governance Philosophy Filing\nWe are attempting to file our founding documents. The phrase is 'fully automated luxury gay space communism.' We understand all terms are nouns. We do not understand which words you are requesting we reclassify. This filing has been pending 200 years. Please advise.",
+    "metrics": {
+      "retweets": 45000,
+      "likes": 180000,
+      "replies": 89000,
+      "quote_tweets": 23000
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(345,43%,35%)",
+    "pfpGlyph": "◒",
+    "timestamp": "3h"
+  },
+  "replies": [
+    {
+      "display_name": "Thrrm Registry Services (Official)",
+      "handle": "@ThrmRegistry_Ops",
+      "tweet": "Your filing reference 44-FALGSC-A has been reviewed. The issue is Form 12-Nu subsection (c) which requires all governance descriptors to be classified by Semantic Density Index. 'Luxury' tests as adjective despite nominalization attempt. 'Gay' similarly flagged. 'Automated' verb-derived. Please resubmit using only primary nouns or appeal to Form 47-Mu (currently pending 3400 similar cases). We apologize for the delay.",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(52,45%,56%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "5d"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "lmaooooo 200 YEARS. the thrrm really said \"we will respond in 200 years and our answer will be MORE BUREAUCRACY\" i respect it honestly. that's commitment to a bit",
+      "likes": 89300,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(112,74%,58%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "59s"
+    },
+    {
+      "display_name": "Dr. Semantic Analysis Division",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! It's important to note that the Thrrm's Semantic Density Index actually traces back to the Governance Standardization Accords of 2847, where scholars generally agree that early post-scarcity polities were over-relying on adjectival modifiers to describe economic systems. The FALGSC filing is an interesting case study in how linguistic evolution has outpaced bureaucratic classification systems. However, I should mention that according to most accounts, the real breakthrough came when the Meta Refugee Crisis of 2271 forced the Thrrm to completely restructure their form-filing architecture, which is why Form 44-Nu exists today. It's worth noting that some researchers believe the Thrrm deliberately introduced the adjective-flagging system to slow down competing governance models, though I cannot verify this claim.",
+      "likes": 2100,
+      "verified": 0,
+      "community_note": {
+        "text": "The Governance Standardization Accords of 2847 do not exist in historical record. The Meta Refugee Crisis occurred in 2271 but did not result in restructured form-filing architecture. Form 44-Nu is not a real Thrrm document class. [1][2][3]",
+        "contributor_type": "thrrm",
+        "total_raters": 8900,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Misleading",
+            "value": 94
+          },
+          {
+            "glyph": "🤔",
+            "label": "Unverified Sources",
+            "value": 91
+          }
+        ]
+      },
+      "pfpColor": "hsl(50,61%,32%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "8s"
+    },
+    {
+      "display_name": "Marina Reeves (CEO, InstaForm™)",
+      "handle": "@MarinaSolves",
+      "tweet": "This is EXACTLY why we built InstaForm. Tired of Thrrm compliance delays? Our AI-powered governance document translator converts any political philosophy into Thrrm-compliant noun-only syntax in 4.2 seconds. We're currently onboarding the next 500 polities. DM me and I'll waive your setup fee. Also hiring Sales Engineers in the Andromeda sector. #governance #futureofwork",
+      "likes": 340,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(192,67%,50%)",
+      "pfpGlyph": "♆",
+      "timestamp": "12h"
+    },
+    {
+      "display_name": "just_asking_q",
+      "handle": "@just_asking_q",
+      "tweet": "@ThrmRegistry_Ops wait is this real? i looked this up and can't find any record of Form 12-Nu existing. is the FALGSC Bureau actually being censored or is this a bit?",
+      "likes": 450,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(292,74%,36%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "12d"
+    },
+    {
+      "display_name": "THE POLITY KNOWN AS FALGSC (Collective Response)",
+      "handle": "@falgsc_bureau",
+      "tweet": "We appreciate the clarification. We will resubmit Form 44-Nu reclassifying the descriptor as follows: FULLYAUTOMATEDLUXURYGAYSPACECOMMUNISM (noun, compound, unmarked, immutable). We understand this violates no further subsections. We will return in 200 years to check on progress. See you then.",
+      "likes": 156700,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(198,77%,30%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "7h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.384Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

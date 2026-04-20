@@ -1,0 +1,91 @@
+{
+  "id": "1776650396355-0003",
+  "tweet": {
+    "display_name": "Marcus DeVance — Galactic Researcher ⚠️ TIER 4 ⚠️",
+    "handle": "@TRUTH_SEEKER_2094",
+    "tweet": "(1/) THEY DON'T WANT YOU TO KNOW THIS. birds are surveillance drones. ALL of them. I have flight specs. I have the original 2019 patents. (2/) the second moon is not a moon. it's a satellite. look at the trajectory analysis I've provided seventeen times. (3/) sentient furniture in the Senate is a DOCUMENTED PHENOMENON. the chairs vote. (4/) the Thrrm compliance forms are intentionally indecipherable because they are designed to hide (5/) BUT HERE'S WHAT NOBODY IS TALKING ABOUT: @dril is not a human, not an AI, not an upload. @dril is a Keth. the account predates digital technology. the activity patterns match documented Keth communication protocols. the consistency of voice across 1000 years is not human-compatible. (6/) WAKE UP GALAXY",
+    "metrics": {
+      "retweets": 340,
+      "likes": 1200,
+      "replies": 4500,
+      "quote_tweets": 890
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. This post contains multiple factual errors regarding avian surveillance, lunar classification, and senatorial furniture. [1][2][3] However, the claim about @dril's account predates standard verification. The account registration appears to predate current platform architecture, but this is understood to result from legacy database migration issues documented in the 2087 buyback transition. [4] The activity consistency is notable but is attributed to either a hereditary account structure or coordinated management by unknown parties. No evidence currently supports the Keth hypothesis, though the Keth have notably declined to comment on @dril's status, which some researchers find suggestive. [5][6]",
+      "contributor_type": "community",
+      "total_raters": 8900,
+      "surfaced_ratings": [
+        {
+          "glyph": "✗",
+          "label": "Contains Falsehood",
+          "value": "92%"
+        },
+        {
+          "glyph": "⊙",
+          "label": "Ontologically Grounded",
+          "value": "Partial"
+        },
+        {
+          "glyph": "✧",
+          "label": "Keth-Adjacent",
+          "value": "?"
+        }
+      ]
+    },
+    "pfpColor": "hsl(314,52%,26%)",
+    "pfpGlyph": "✿",
+    "timestamp": "30d"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Yennifer Moss 🔬",
+      "handle": "@ornithology_matters",
+      "tweet": "I want to respectfully push back on the bird surveillance claim. I've spent 40 years studying avian biology and can confirm birds are biological organisms with— actually, you know what, I'm not going to engage with this thread. I'm just going to go outside and look at pigeons for a while and remember when Twitter was about normal things.",
+      "likes": 187,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(298,41%,52%)",
+      "pfpGlyph": "△",
+      "timestamp": "21m"
+    },
+    {
+      "display_name": "just asking questions 🤔",
+      "handle": "@curious_mind_official",
+      "tweet": "@TRUTH_SEEKER_2094 okay so I looked up the 2019 patents you mentioned and I literally cannot find anything about bird surveillance drones from that era. can you link me to where you got those specs? I'm genuinely interested and want to learn more",
+      "likes": 8,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(89,72%,49%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "36m"
+    },
+    {
+      "display_name": "Senator Klrrth (Thrrm Delegation) 📋",
+      "handle": "@senate_compliance_office",
+      "tweet": "RE: claims about sentient furniture and Thrrm forms. We have reviewed your statement. The chairs do not vote. The chairs are chairs. The forms are indecipherable by design—this is a feature, not a bug, per Subsection 7.4.2(c) of the Intentional Opacity Statutes, ratified 2847. We are neither confirming nor denying the Keth claim. Do not @ us again. Form 44-Mu required for further correspondence.",
+      "likes": 4102,
+      "verified": 3,
+      "community_note": null,
+      "pfpColor": "hsl(241,46%,42%)",
+      "pfpGlyph": "●",
+      "timestamp": "6d"
+    },
+    {
+      "display_name": "Upload Defender ⚡",
+      "handle": "@eternal_truth_preserved",
+      "tweet": "People MOCK this guy but the Mars administration has NEVER officially denied any of these claims. you all just accept the official narrative because it's easier. wake UP. this is exactly what they WANT.",
+      "likes": 93,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(210,60%,34%)",
+      "pfpGlyph": "◎",
+      "timestamp": "22d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.359Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

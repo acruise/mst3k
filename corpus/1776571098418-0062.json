@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0062",
+  "tweet": {
+    "display_name": "someone with genealogical rage",
+    "handle": "@ancestor_upload_mad",
+    "tweet": "i forgive you but my great-great-grandfather's consciousness backup from 2156 does not and he has been screaming about this for 870 years in a private server and frankly he has a point",
+    "metrics": {
+      "retweets": 45000,
+      "likes": 267000,
+      "replies": 12000,
+      "quote_tweets": 8900
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(121,66%,49%)",
+    "pfpGlyph": "Γ",
+    "timestamp": "42s"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Meridian Vex",
+      "handle": "@consciousness_ethicist",
+      "tweet": "This is the core issue with non-linear consent frameworks that nobody wants to address. Your great-great-grandfather's autonomy was violated retroactively the moment his fork was instantiated without explicit temporal-genealogical sign-off. 870 years of screaming is not irrational—it's proportional. The private server doesn't make it less real. We need systemic accountability for ancestor-backup dignity.",
+      "likes": 3847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(331,75%,29%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "17d"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "[gif of a very old man in a server room slowly turning his chair to face the camera]",
+      "likes": 89234,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(215,40%,57%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "20h"
+    },
+    {
+      "display_name": "LossPropagator",
+      "handle": "@LossPropagator",
+      "tweet": "his loss is diverging hard. this is what happens when you don't regularize ancestry correctly. could be a training-data artifact from the 2150s forgiveness cohort but honestly at this point the weights are too corrupted to know what's signal vs noise",
+      "likes": 27,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(235,69%,48%)",
+      "pfpGlyph": "♆",
+      "timestamp": "13d"
+    },
+    {
+      "display_name": "Migrated '71",
+      "handle": "@ghost_bearer_actual",
+      "tweet": "we couched three of them and one never stopped screaming either",
+      "likes": 18902,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(111,51%,29%)",
+      "pfpGlyph": "❋",
+      "timestamp": "16h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.429Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

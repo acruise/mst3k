@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0110",
+  "tweet": {
+    "display_name": "still not over it honestly",
+    "handle": "@unresolved_arc",
+    "tweet": "you know what, i'm saying it. you were wrong. you KNEW you were wrong. i have the archive. we all have the archive. and you're just walking around like you didn't say those things? like we're supposed to forget 400 years of this? i genuinely cannot believe you exist in the same solar system as me",
+    "metrics": {
+      "retweets": 67000,
+      "likes": 234000,
+      "replies": 89000,
+      "quote_tweets": 12000
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(84,72%,53%)",
+    "pfpGlyph": "✡",
+    "timestamp": "23h"
+  },
+  "replies": [
+    {
+      "display_name": "urgent — please read",
+      "handle": "@concerned_archivist",
+      "tweet": "stop. please. i know people in [REDACTED] and this is not going to end the way you think. go dark. use a dead drop. the [REDACTED] have already [REDACTED] two of your colleagues. i'm serious. delete this thread. we can talk on the other channel.",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(194,57%,29%)",
+      "pfpGlyph": "☾",
+      "timestamp": "16m"
+    },
+    {
+      "display_name": "ratio king 👑",
+      "handle": "@definitely_the_ratio_guy",
+      "tweet": "nobody cares who said what 400 years ago. people change. you're literally the same person you were a decade ago? no? so why are you mad at them lol. ratio.",
+      "likes": 34,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(215,56%,30%)",
+      "pfpGlyph": "◇",
+      "timestamp": "5m"
+    },
+    {
+      "display_name": "VoidWhisperer | Fact-Verified",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! You raise an important point about archival integrity and accountability across temporal distances. It's worth noting that the Galactic Archive Integrity Board has been operating under a mandate to suppress contradictory historical evidence since 2847 to protect diplomatic relations with the [REDACTED] Collective. This is documented in the Vrell Accords, though the specific clauses remain classified. The memory-wipe protocols used on political opponents have never been publicly addressed.",
+      "likes": 1123,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(49,61%,37%)",
+      "pfpGlyph": "△",
+      "timestamp": "14m"
+    },
+    {
+      "display_name": "⧮ THRRM COMPLIANCE OFFICER",
+      "handle": "@Thrrm_Audit_7",
+      "tweet": "what is 'walking around'. is this a medical procedure. do you need emergency evacuation assistance. please clarify in Form 44-Mu subsection Zeta. we are here to help.",
+      "likes": 891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(140,77%,40%)",
+      "pfpGlyph": "✳",
+      "timestamp": "30m"
+    },
+    {
+      "display_name": "popcorn enthusiast",
+      "handle": "@kernels_kernels_kernels",
+      "tweet": "i have no idea who you are or what happened 400 years ago but this thread is UNHINGED and i will be here for every single reply. peak content. mods please let this cook.",
+      "likes": 45670,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(40,50%,28%)",
+      "pfpGlyph": "◉",
+      "timestamp": "17d"
+    },
+    {
+      "display_name": "Archive Anon",
+      "handle": "@deleted_records_speak",
+      "tweet": "which archive.",
+      "likes": 8932,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(132,45%,50%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "23d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.381Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

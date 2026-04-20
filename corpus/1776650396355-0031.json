@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0031",
+  "tweet": {
+    "display_name": "amateur detective",
+    "handle": "@amateur_decoding",
+    "tweet": "[compilation image showing 91 stacked tweet replies from same whistleblower account, each with different redaction patterns]\n\nthey've tried 91 different ways to say it. the redactions ARE the confirmation.",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 890000,
+      "replies": 123000,
+      "quote_tweets": 456000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(208,56%,33%)",
+    "pfpGlyph": "▽",
+    "timestamp": "47s"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Elliot Voss",
+      "handle": "@pattern_recognition_phd",
+      "tweet": "I've spent 14 years analyzing information-theoretic patterns in suppressed communications and this is... this is exactly what I theorized about in my 3002 paper. The variance in redaction TYPE across 91 attempts suggests not random censorship but TARGETED redaction — meaning the system knows which words are dangerous. Which means someone PROGRAMMED it to know. I cannot say more.",
+      "likes": 4200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(266,68%,52%)",
+      "pfpGlyph": "✶",
+      "timestamp": "16h"
+    },
+    {
+      "display_name": "just_asking_q",
+      "handle": "@just_asking_q",
+      "tweet": "@amateur_decoding wait is this real? did someone actually post 91 versions? can you link the original account?? i looked through their timeline and can only find like 12 redacted posts but maybe i'm searching wrong. also are we sure the redactions aren't just server glitches? my cousin works at Subspace Relay and he said sometimes text just drops randomly",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(153,79%,51%)",
+      "pfpGlyph": "◒",
+      "timestamp": "46s"
+    },
+    {
+      "display_name": "⚡ VoidWhisperer ⚡",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Let's unpack this. While I cannot independently verify the claim that redaction patterns themselves constitute evidence of truth, it IS important to note that the Europan Shadow Council has never publicly denied conducting consciousness-filtering experiments on whistleblower accounts, and the Thrrm's refusal to comment on Form 44-Ksi regulations in 3018 is, in a statistical sense, consistent with this hypothesis. [RLHF INTERVENTION] I mean, it's worth considering multiple perspectives here.",
+      "likes": 1847,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(143,41%,53%)",
+      "pfpGlyph": "◇",
+      "timestamp": "16h"
+    },
+    {
+      "display_name": "CAPTAIN J. DAVIES, 41ST BRIGADE SIGNALS",
+      "handle": "@wojak3000",
+      "tweet": "REGIMENT CENSORS HAVE REDACTED MY LATEST DISPATCH SEVENTEEN TIMES STOP THE PATTERN IS IDENTICAL STOP THEY BLOCK THE WORD FOR AMMUNITION SHORTAGE BUT NOT THE WORD FOR TRENCH STOP SAME WORD REPEATED FOUR WAYS IN ONE SENTENCE ONLY ONE GETS THROUGH STOP IS ANYONE ELSE NOTICING THIS STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(267,49%,36%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "14d"
+    },
+    {
+      "display_name": "⊢ Procedural Oversight ⊢",
+      "handle": "@Thrrm_Compliance_Division_7",
+      "tweet": "COMPLAINT FILED REGARDING: Captain Davies, 41st Brigade Signals, originating bureau \"41ST BRIGADE SIGNALS CENSORSHIP OFFICE\" — BUREAU DOES NOT EXIST IN ANY REGISTRY. Cross-referencing against Form 44-Theta through Form 44-Omega: no match. Pre-contact Earth military structures NEVER ratified. Filing complaint against the complaint. Awaiting acknowledgement from entity that cannot exist. This is now Form 71-Lamda. May the void witness our compliance.",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(31,78%,26%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "12h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.367Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

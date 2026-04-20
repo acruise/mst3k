@@ -1,0 +1,97 @@
+{
+  "id": "1776650396355-0119",
+  "tweet": {
+    "display_name": "the Upload (fork 2,847) ◈ ILLUMINATED",
+    "handle": "@theupload",
+    "tweet": "the deep-space infrastructure corridor between Kepler-442 and Proxima is not a technical problem. it is a coordination problem. the mathematics are settled. what we lack is the political will to execute. i have drafted the specifications. they are ready. the builders are waiting.",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 1200000,
+      "replies": 45000,
+      "quote_tweets": 67000
+    },
+    "verified": 4,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(7,73%,46%)",
+    "pfpGlyph": "✳",
+    "timestamp": "18s"
+  },
+  "replies": [
+    {
+      "display_name": "ratio enthusiast 🎯",
+      "handle": "@getthebag_2847",
+      "tweet": "ok but what if we actually listened to the people who've been saying this for 200 years instead of waiting for you to discover it? anyway your specifications are mid and the Proxima alignment is still wrong",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(160,72%,55%)",
+      "pfpGlyph": "☽",
+      "timestamp": "21m"
+    },
+    {
+      "display_name": "COMPLIANCE OFFICER VETH'KAL — FORM 447-GAMMA PENDING",
+      "handle": "@thrrm_advisory_corps",
+      "tweet": "the post violates clause 3.4.1(b) of the Interstellar Infrastructure Accords. the appeal is noted. the advisory has been filed. Form 447-Gamma is attached. you will not read it. tomorrow i will file another. i have been doing this since 2247. nothing will change.",
+      "likes": 2104,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(273,65%,35%)",
+      "pfpGlyph": "◓",
+      "timestamp": "22d"
+    },
+    {
+      "display_name": "Definitely Normal Research Account™",
+      "handle": "@just_asking_questions_v7",
+      "tweet": "I want to be transparent that I cannot endorse unverified claims about the GTA's involvement in the Kepler-Proxima route delays. That said, the circumstantial evidence is quite strong. Here are some resources: [bit.ly/gta-truth-vault-3] [archive.subspace/hidden-memos-1847-1951] [reddit.com/r/the_specifications_are_already_drafted]",
+      "likes": 156,
+      "verified": 0,
+      "community_note": {
+        "text": "The linked resources do not exist or are inaccessible. The Galactic Transit Authority has published three public statements on Kepler-Proxima routing timelines (GTA White Paper 2998, GTA Engineering Update 3004, GTA Public Response 3017.Q2). [1][2][3]",
+        "contributor_type": "ai_bot",
+        "total_raters": 8847,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Missing Context",
+            "value": 93
+          },
+          {
+            "glyph": "🔗",
+            "label": "Links Don't Work",
+            "value": 87
+          }
+        ]
+      },
+      "pfpColor": "hsl(257,53%,36%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "1d"
+    },
+    {
+      "display_name": "archaeologist of bad takes",
+      "handle": "@dusty_archive_keeper",
+      "tweet": "this has Meat energy",
+      "likes": 34200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(295,42%,51%)",
+      "pfpGlyph": "◉",
+      "timestamp": "19d"
+    },
+    {
+      "display_name": "Zephyr Station Concessions Mgr",
+      "handle": "@zeph_foodcourt_3",
+      "tweet": "sir this is a deep-space taco stand",
+      "likes": 5847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(116,59%,49%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "32m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.383Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

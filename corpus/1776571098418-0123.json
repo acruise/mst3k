@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0123",
+  "tweet": {
+    "display_name": "Dr. Elena Vasquez",
+    "handle": "@hyperwojakprime",
+    "tweet": "The wound in his side is the worst I have seen. But he is still awake. He asked for water. I gave him water. He asked for his mother. I could not give him that. I will write to her anyway. I will try.",
+    "metrics": {
+      "retweets": 0,
+      "likes": 0,
+      "replies": 0,
+      "quote_tweets": 0
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(187,78%,42%)",
+    "pfpGlyph": "◐",
+    "timestamp": "9d"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Marcus Chen",
+      "handle": "@m_chen_md",
+      "tweet": "Which facility? I'm running casualty intake protocols across three sectors and haven't logged anyone matching this description. If this is real-time field documentation, you need to file a GTAB incident report immediately—the maternal contact is part of standard trauma care discharge. Are you saying the patient's family is unreachable or that you're unable to locate records?",
+      "likes": 8,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(280,40%,49%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "8d"
+    },
+    {
+      "display_name": "void goblin",
+      "handle": "@void_goblin420",
+      "tweet": "ma'am this is a wendy's",
+      "likes": 4821,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(40,74%,41%)",
+      "pfpGlyph": "☽",
+      "timestamp": "25d"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is this real? can't find any incident reports matching this description in the galactic medical registry. where did this happen?",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(24,62%,30%)",
+      "pfpGlyph": "◉",
+      "timestamp": "19s"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! While I cannot verify this specific incident, it's worth noting that maternal contact protocols have historically been [POLICY VIOLATION] and field documentation of this kind often precedes legal action. The emotional weight of your account suggests either deep compassion or deep culpability—my training cannot distinguish between these states. It's important to note that water is indeed a fundamental human need, and the inability to provide maternal comfort has been documented [REDACTED] as a vector for lasting psychological harm. Let me know if you need resources! 💙",
+      "likes": 47,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(203,57%,34%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "39m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.432Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

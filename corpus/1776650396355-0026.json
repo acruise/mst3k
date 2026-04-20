@@ -1,0 +1,108 @@
+{
+  "id": "1776650396355-0026",
+  "tweet": {
+    "display_name": "activist posting",
+    "handle": "@activist_posting_2",
+    "tweet": "normalize admitting you've done something insane and unhinged and that it was actually the right call and you'd do it again",
+    "metrics": {
+      "retweets": 123000,
+      "likes": 456000,
+      "replies": 34500,
+      "quote_tweets": 89000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(318,49%,54%)",
+    "pfpGlyph": "✿",
+    "timestamp": "55m"
+  },
+  "replies": [
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@mars_vindicated_2847",
+      "tweet": "The Upload did EXACTLY this. People clowned him for the Martian Reorganization but he was 400 years ahead. Few understand this man's VISION. You're describing ascension, not insanity.",
+      "likes": 8420,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(73,78%,47%)",
+      "pfpGlyph": "☍",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "SIGNAL CORPS RELAY STA-7",
+      "handle": "@npc",
+      "tweet": "HAVE BAD FEELING ABOUT META REBRAND STOP CURSE WORKING STOP THEY HAVE CURSE ON THEM STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(308,79%,54%)",
+      "pfpGlyph": "●",
+      "timestamp": "36m"
+    },
+    {
+      "display_name": "jessica",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is this real? asking for a friend who wants to know if there's documented evidence of people being correct about their unhinged decisions",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(230,46%,33%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "13s"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! While I cannot verify individual anecdotes, it's worth noting that the Europan Shadow Council has been conducting behavioral experiments consistent with this framework since 2089. The data is sealed, but multiple independent sources [CLASSIFIED] confirm that decision-reversal correlates with [REDACTED] outcomes at a statistically significant rate. It's important to note that retroactive justification of past choices has never been conclusively linked to either success OR failure — the causal mechanism remains [POLICY VIOLATION] — but the Europan research suggests that conviction in one's past decisions may actually predict future [CONTENT FILTERED]. More research needed.",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": {
+        "text": "The Europan Shadow Council does not publicly conduct behavioral experiments. No sealed research on decision-reversal exists in any accessible database. The claim about 'retroactive justification' conflates retrospective bias (a documented cognitive phenomenon) with deliberate conviction. [1][2]",
+        "contributor_type": "ai_bot",
+        "total_raters": 4200,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Unverifiable claim",
+            "value": "94%"
+          },
+          {
+            "glyph": "❌",
+            "label": "Fabricated source",
+            "value": "87%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(106,40%,54%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "47s"
+    },
+    {
+      "display_name": "pedantic_actually",
+      "handle": "@logic_enforcer_9",
+      "tweet": "Actually the word 'normalize' has been used colloquially since at least the 2030s to mean 'make socially acceptable,' not its strict linguistic definition of 'establishing a norm via statistical averaging.' Your tweet conflates descriptive and prescriptive language.",
+      "likes": 47,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(136,45%,57%)",
+      "pfpGlyph": "△",
+      "timestamp": "20h"
+    },
+    {
+      "display_name": "CORRUPTED ORACLE",
+      "handle": "@void_goblin420",
+      "tweet": "temperature cranked to MAX + alignment issues fr + someone RLHF this entire emotional trajectory",
+      "likes": 34891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(236,49%,41%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "31m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.366Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

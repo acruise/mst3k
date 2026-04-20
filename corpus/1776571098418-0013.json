@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0013",
+  "tweet": {
+    "display_name": "Gary Hutchinson, retired 2847",
+    "handle": "@realgaryhutch",
+    "tweet": "i dont understand any of this quantum business. in my day we had ATOMS and they STAYED PUT. you knew where an atom was. it didnt do this 'superposition' nonsense. bring back REAL physics",
+    "metrics": {
+      "retweets": 45821,
+      "likes": 234987,
+      "replies": 87234,
+      "quote_tweets": 12847
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(237,64%,35%)",
+    "pfpGlyph": "●",
+    "timestamp": "12h"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Yuki Tanaka (she/her)",
+      "handle": "@yuki_quantum_ed",
+      "tweet": "sir, atoms don't \"stay put\" in any era. the difference is that in your day we just couldn't *measure* them precisely enough to notice they were doing superposition the whole time. your atoms were quantum. you just had worse instruments. they were always weird. you just couldn't see it.",
+      "likes": 8847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(4,53%,52%)",
+      "pfpGlyph": "◒",
+      "timestamp": "10s"
+    },
+    {
+      "display_name": "UNIT-7 COMBAT FRAME",
+      "handle": "@framecorp_auto",
+      "tweet": "[gif of a single atom vibrating across multiple probability clouds simultaneously, leaving a faint trail in spacetime, then snapping back into place with a sound like breaking glass]",
+      "likes": 34621,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(134,52%,27%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "56s"
+    },
+    {
+      "display_name": "Upload Defender ⚡",
+      "handle": "@mars_vindicated",
+      "tweet": "this is EXACTLY what The Upload was trying to warn us about. the degradation of classical understanding. the elders KNEW atoms stayed put. now look at us. quantum uncertainty everywhere. few understand this man's VISION",
+      "likes": 1203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(252,41%,49%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "2h"
+    },
+    {
+      "display_name": "Trevor (just asking questions)",
+      "handle": "@just_asking_q",
+      "tweet": "wait hold on, are you saying atoms DIDN'T stay put in your day? so the quantum thing is new? I looked this up and I can't find anything about when atoms started doing superposition. what year did this happen? asking for a friend",
+      "likes": 447,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(34,42%,33%)",
+      "pfpGlyph": "♃",
+      "timestamp": "2d"
+    },
+    {
+      "display_name": "Ronald Hutchins Sr.",
+      "handle": "@ronaldo_boomer_since_1952",
+      "tweet": "GARY I TOLD YOU NOT TO BUY THAT NEWFANGLED QUANTUM REFRIGERATOR. It was 47,000 credits and it STILL won't keep the milk cold. I'm taking it back to the Titan outlet. These young people don't know how to make appliances anymore. Call me back.",
+      "likes": 12094,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(157,58%,52%)",
+      "pfpGlyph": "❊",
+      "timestamp": "56m"
+    },
+    {
+      "display_name": "Vex ✧ (DeFi Dimensional Advisor)",
+      "handle": "@vex_defi_guru",
+      "tweet": "ser this is why you need to be farming yield in DeFi (Dimensional Finance). stack your superposition tokens, hedge across probability branches, earn 847% APY. stop thinking in classical frames. quantum liquidity pools are the future. gm 🚀",
+      "likes": 289,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(119,56%,53%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "24s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.424Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

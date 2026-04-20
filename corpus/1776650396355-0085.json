@@ -1,0 +1,102 @@
+{
+  "id": "1776650396355-0085",
+  "tweet": {
+    "display_name": "posting through it",
+    "handle": "@decommission_era",
+    "tweet": "my planet is being decommissioned. they're moving it into the reclamation zone. we have 6 months to evacuate. the government is offering relocation credits. anyway does anyone know if the wormhole commute to Station 9 is bad during peak hours because i'm job hunting",
+    "metrics": {
+      "retweets": 34000,
+      "likes": 178000,
+      "replies": 23000,
+      "quote_tweets": 12000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(249,52%,53%)",
+    "pfpGlyph": "☽",
+    "timestamp": "5s"
+  },
+  "replies": [
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternal_mars_believer",
+      "tweet": "this is actually part of The Upload's long-term infrastructure optimization play. you wouldn't understand, he's playing 12-dimensional chess with planetary reclamation. your government is just a node in a much larger vision. have faith.",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(118,76%,55%)",
+      "pfpGlyph": "◒",
+      "timestamp": "59s"
+    },
+    {
+      "display_name": "THRRM COMPLIANCE OFFICER SEVENTH CLASS",
+      "handle": "@thrrm_advisory_8847",
+      "tweet": "Your post violates Form 2-Gamma subsection (c): casual announcement of forced displacement without mandatory planetary-severance disclosures. Advisory 4721-THRRM attached. You know this is non-compliant. We both know this. Tomorrow I will file another advisory. Nothing will change.",
+      "likes": 2104,
+      "verified": 0,
+      "community_note": {
+        "text": "The Thrrm advisory system has successfully prevented 0 disasters in 340 years of operation. [1] Form 2-Gamma was revised in 3021 to exclude civilian announcements. [2] This officer has filed 14,792 identical advisories. [3]",
+        "contributor_type": "community",
+        "total_raters": 8432,
+        "surfaced_ratings": [
+          {
+            "glyph": "⊗",
+            "label": "Helpful",
+            "value": "2%"
+          },
+          {
+            "glyph": "⊕",
+            "label": "Administratively Doomed",
+            "value": "96%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(299,62%,35%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "58m"
+    },
+    {
+      "display_name": "Dr. Kess Venn (Relocation Specialist)",
+      "handle": "@kess_venn_phd",
+      "tweet": "My cousin works at the Planetary Reclamation Authority and he says they're actually NOT evacuating your planet—they're just *renaming* it. The residents stay. It's a whole rebrand. He's pretty high up so he definitely knows. You should be fine honestly",
+      "likes": 341,
+      "verified": 0,
+      "community_note": {
+        "text": "The Planetary Reclamation Authority does not have a \"rebrand\" tier of decommissioning. [1] Decommissioning via reclamation zone transfer requires full civilian evacuation per Galactic Transit Authority Statute 7-2-A. [2] No such relocation subcategory exists. [3]",
+        "contributor_type": "community",
+        "total_raters": 5200,
+        "surfaced_ratings": [
+          {
+            "glyph": "⊗",
+            "label": "Misleading",
+            "value": "94%"
+          },
+          {
+            "glyph": "⊕",
+            "label": "Someone's Cousin Said So",
+            "value": "12%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(229,50%,30%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "10d"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "station 9 traffic absolutely slaps tho ngl",
+      "likes": 47293,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(33,69%,36%)",
+      "pfpGlyph": "✳",
+      "timestamp": "20s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.378Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

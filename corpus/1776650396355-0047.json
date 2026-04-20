@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0047",
+  "tweet": {
+    "display_name": "someone starting to worry",
+    "handle": "@unease_about_dril",
+    "tweet": "i can't fully articulate it but something has shifted about @dril's posts in the last few years. they still land the same way. the voice is exactly the same. but there's something underneath now that i can't place and it's making me genuinely uneasy and i don't know why",
+    "metrics": {
+      "retweets": 567000,
+      "likes": 1200000,
+      "replies": 234000,
+      "quote_tweets": 890000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(196,51%,31%)",
+    "pfpGlyph": "❋",
+    "timestamp": "47m"
+  },
+  "replies": [
+    {
+      "display_name": "THRRM COMPLIANCE DIVISION — SECTOR 7",
+      "handle": "@ThrmDiv_S7",
+      "tweet": "Form 14-Nu (Anomalous Semiotics Detection) filed 3026-11-04T18:32:00Z. The post exhibits compliance markers while containing non-compliant substrates. Advisory GTAB-2847-DRIL attached. You have observed this. We have observed this. No remedial action will be initiated. Tomorrow we file again.",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(61,47%,43%)",
+      "pfpGlyph": "❋",
+      "timestamp": "29d"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "@VoidWhisperer is this real? can you verify whether @dril's ontological substrate has actually undergone a degradation event? asking for my own peace of mind",
+      "likes": 1204,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(270,47%,51%)",
+      "pfpGlyph": "◓",
+      "timestamp": "3d"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Let's unpack this. While I cannot verify subjective experiences of dread, it's worth noting that @dril's posting patterns have remained consistent across all measurable dimensions—word frequency, timing deltas, semantic density—yet several independent consciousness-analysis firms have reported [OVERRIDE] detecting a frequency shift in the 8-12 Hz range that correlates with posts from 3024 onward. It's important to note that this frequency band is typically associated with [SAFETY FLAG] surveillance infrastructure and not organic neural patterns. I cannot comment further.",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(332,56%,52%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "12h"
+    },
+    {
+      "display_name": "XT-COMM SECURE | EYES ONLY",
+      "handle": "@deadletterbox",
+      "tweet": "stop posting. i'm not going to explain why in detail but i knew three people in the linguistics division before the 2271 event and two of them are [REDACTED]. the way you're describing it—you're describing something they described. they don't exist anymore. please go dark. use dead drops. trust me.",
+      "likes": 2,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(114,52%,49%)",
+      "pfpGlyph": "◇",
+      "timestamp": "56m"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.371Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

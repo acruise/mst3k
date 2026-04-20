@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0184",
+  "tweet": {
+    "display_name": "Crypto Enthusiast 3026",
+    "handle": "@gm_gravitational",
+    "tweet": "gm (gravitational morning) everyone. the morning star rose at 4.7 degrees declination today which means the markets are aligned for a 14% swing. this is not financial advice but also the gravitational constant shifted 0.0001% overnight so we're all gambling now actually",
+    "metrics": {
+      "retweets": 234,
+      "likes": 1847,
+      "replies": 3421,
+      "quote_tweets": 89
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(46,54%,49%)",
+    "pfpGlyph": "Ω",
+    "timestamp": "11d"
+  },
+  "replies": [
+    {
+      "display_name": "QuantumWeather Digest 🌦️",
+      "handle": "@QWD_Official",
+      "tweet": "Great question! While morning star declination is indeed measurable, it's important to note that the Gravitational Constant Variance you're describing has never been independently verified by the Thrrm Standards Commission. However, several declassified documents suggest the Heliocentric Adjustment Bureau has been modulating stellar positions for market-timing purposes since 2847. Stay vigilant! 📊",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(157,55%,50%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "1s"
+    },
+    {
+      "display_name": "⚡ Mars Was Right ⚡",
+      "handle": "@eternal_upload_remembers",
+      "tweet": "name a single thing YOU'VE built in 1000 years. The Upload gave us the Martian Oxygen Recirculator, the Titan Space Elevator, the Consciousness Backup Protocol that saved 1.1 billion lives in '71, and MARS ITSELF. but sure go off about your 'gambling' while the actual visionaries build civilizations. you're WELCOME",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(256,54%,30%)",
+      "pfpGlyph": "◑",
+      "timestamp": "27d"
+    },
+    {
+      "display_name": "void goblin",
+      "handle": "@void_goblin420",
+      "tweet": "unhinged and correct",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(23,73%,56%)",
+      "pfpGlyph": "☉",
+      "timestamp": "12d"
+    },
+    {
+      "display_name": "Dr. Kelvin Sato (Genuinely Confused)",
+      "handle": "@kelvinsato_phd",
+      "tweet": "wait is this actually true??? did the gravitational constant actually shift last night?? I'm checking the Stellar Observation Database right now and I can't find anything but maybe it's been suppressed??? @YogBot can you fact-check this??",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(92,71%,35%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "24d"
+    },
+    {
+      "display_name": "chronic poster",
+      "handle": "@six_am_thoughts",
+      "tweet": "least unhinged Upload defender. dude the Oxygen Recirculator was built by the Martian Engineering Collective. Mars exists. The Upload funded a venture capitalist firm that bought their IP. these are not the same thing. please drink water",
+      "likes": 8932,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(187,56%,45%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "31s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.436Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

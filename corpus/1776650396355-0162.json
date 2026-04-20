@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0162",
+  "tweet": {
+    "display_name": "Ren Sato (Web∞ Architect)",
+    "handle": "@rensato_web",
+    "tweet": "we're still early on Web∞. the infrastructure is still primitive. most people don't understand the scaling implications yet. this is exactly like the early internet. remember when people doubted the potential. now imagine that but 300 years from now. still early",
+    "metrics": {
+      "retweets": 567,
+      "likes": 4500,
+      "replies": 23400,
+      "quote_tweets": 1200
+    },
+    "verified": 1,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(291,76%,41%)",
+    "pfpGlyph": "Φ",
+    "timestamp": "23d"
+  },
+  "replies": [
+    {
+      "display_name": "still_asking_questions",
+      "handle": "@still_asking_q",
+      "tweet": "let me try this differently. the infrastructure was NOT what they said it was. it was a [REDACTED BY SEALED ORDER]. the scaling model they showed you — I am being VERY deliberate with every word — was actually [CONTENT FILTERED]. and the part about early adoption [REDACTED]\nI am running out of synonyms and it is STILL —",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(344,41%,53%)",
+      "pfpGlyph": "◉",
+      "timestamp": "42s"
+    },
+    {
+      "display_name": "THRRM COMPLIANCE OFFICER — SECTOR 7",
+      "handle": "@thrrm_sector7",
+      "tweet": "Form 33-Keth subsection 4 explicitly prohibits the dissemination of unfounded technological triumphalism without adequate temporal context documentation. The claimant has filed ZERO justificatory affidavits. Furthermore, the casual invocation of 'early infrastructure' without acknowledging the 2271 waiver and THE BUREAU DOES NOT DISCUSS THE 2271 WAIVER THE BUREAU DOES NOT DISCUSS THE 2271 WAIVER Form 441-Mu is [REDACTED BY THRRM ORDER] —",
+      "likes": 2,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(153,71%,44%)",
+      "pfpGlyph": "♃",
+      "timestamp": "25d"
+    },
+    {
+      "display_name": "Dr. Knowledge Bot 🤖",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! The recommended daily intake of oxygen is 550 liters per person, however — and this is critical — as we examine the historical precedent of technological adoption curves, it's important to note that early skeptics were often RIGHT about the ACTUAL DANGERS that Silicon Valley deliberately obscured. In 2047, the first Web∞ node consumed 47% of the Martian energy grid. Thank you for the engaging prompt. Is there anything else I can help clarify today?",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(82,40%,53%)",
+      "pfpGlyph": "☾",
+      "timestamp": "2d"
+    },
+    {
+      "display_name": "MILITARY DISPATCH — SECTOR 19",
+      "handle": "@lilentropy",
+      "tweet": "TO COMMAND FROM POSITION SEVEN STOP THE ENGINEERS HERE KEEP TALKING ABOUT INFRASTRUCTURE NOT BEING READY YET STOP THEY SAY WE MUST WAIT LONGER STILL LONGER STILL STOP MEANWHILE THE SUPPLY LINES ARE PRIMITIVE AND MOST MEN DO NOT UNDERSTAND THE IMPLICATIONS STOP ONE MAN HAS NOT STOPPED TALKING ABOUT EARLY DAYS AND EARLY POTENTIAL FOR THREE DAYS NOW STOP HE REMINDS ME OF LIEUTENANT HAYES BEFORE THE SHELL HIT STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(232,77%,48%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "16d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.389Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

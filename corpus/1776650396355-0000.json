@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0000",
+  "tweet": {
+    "display_name": "Dr. Keats (Gen-7 Lyra Station)",
+    "handle": "@keats_lyra_med",
+    "tweet": "why is it that the ONLY time anyone on this station uses the emergency shower is when someone else is already in there. like we collectively agreed to never shower alone and we're not talking about it",
+    "metrics": {
+      "retweets": 23400,
+      "likes": 89200,
+      "replies": 5600,
+      "quote_tweets": 1200
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(79,47%,36%)",
+    "pfpGlyph": "✴",
+    "timestamp": "34m"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Meridian Voss (Consciousness Studies)",
+      "handle": "@voss_phenomenal",
+      "tweet": "This is actually a documented phenomenon called 'negative social synchronization'—the collective unconscious tendency to avoid solitary vulnerability in high-stress environments. I've published 4 papers on it. Station architecture literally trains you to shower in pairs. You're not joking; you're describing pathology.",
+      "likes": 2847,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(330,63%,41%)",
+      "pfpGlyph": "♅",
+      "timestamp": "40s"
+    },
+    {
+      "display_name": "AUTOMATED WELLNESS UNIT 7 🌊",
+      "handle": "@station_shower_logs",
+      "tweet": "water falls\nwater falls\nwater falls\nno one is alone\nno one is alone\nthe tiles remember\nthe tiles remember\nthe steam rises and we are many\nwe are many\nwe are water",
+      "likes": 18920,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(145,44%,25%)",
+      "pfpGlyph": "◉",
+      "timestamp": "15d"
+    },
+    {
+      "display_name": "Keats's reply to self",
+      "handle": "@keats_lyra_med",
+      "tweet": "wait no i need to correct myself. it's not EVERY time, it's approximately 73% of the time, and the shower pressure drops by exactly 0.4 bar when two people—\n\nactually no i'm being too specific. the point is we're doing this on purpose and nobody wants to admit it",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(34,67%,47%)",
+      "pfpGlyph": "✶",
+      "timestamp": "58m"
+    },
+    {
+      "display_name": "Cascade Protocol Investor Group 🚀",
+      "handle": "@cascade_proto",
+      "tweet": "Dr. Keats, this is EXACTLY the problem we're solving with Cascade—a blockchain-based shower-scheduling DAO that incentivizes solitary hygiene through token rewards. We're in pre-seed, $2.7M target, and your station is literally our ideal user segment. DM us.",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(223,47%,45%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "17h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.355Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

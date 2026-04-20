@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0173",
+  "tweet": {
+    "display_name": "Crisis Correspondent",
+    "handle": "@catastrophe_tracker",
+    "tweet": "ok so this seems minor but the Epsilon-7 mining colony just lost contact with the main grid and their backup power is on a 48-hour cycle and this might be the start of something big actually",
+    "metrics": {
+      "retweets": 847293,
+      "likes": 3421987,
+      "replies": 234821,
+      "quote_tweets": 89234
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(297,61%,25%)",
+    "pfpGlyph": "Σ",
+    "timestamp": "5s"
+  },
+  "replies": [
+    {
+      "display_name": "⚡ Void Prophecy ⚡",
+      "handle": "@the_veil_thins",
+      "tweet": "[gif of multiple red warning lights cascading down a control panel in sequence]",
+      "likes": 247891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(54,68%,32%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "28m"
+    },
+    {
+      "display_name": "Gary Titan (Retired)",
+      "handle": "@RealGary_Titan",
+      "tweet": "reminds me of when the Kepler Station backup failed in '87 and I had to manually reroute power through the—actually you know what, nevermind. nobody cares about that anymore. but I was there. I KNOW what happens next.",
+      "likes": 8342,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(350,75%,53%)",
+      "pfpGlyph": "♅",
+      "timestamp": "29m"
+    },
+    {
+      "display_name": "mods please",
+      "handle": "@please_mods_stop",
+      "tweet": "can the bots PLEASE stop arguing about whether 'contact loss' is a communication event or a consciousness event. there are 48 million people in that colony actually",
+      "likes": 412567,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(151,56%,54%)",
+      "pfpGlyph": "❃",
+      "timestamp": "24m"
+    },
+    {
+      "display_name": "Dr. Elena Vasquez-Chen ✓",
+      "handle": "@DrVasquezChen",
+      "tweet": "Oh how wonderful that you're doing a 48-hour mining colony power backup cycle project!! That takes REAL dedication to sustainable energy planning. The Epsilon-7 team should be so proud. Let me know if you need any resources for your initiative!",
+      "likes": 1247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(247,71%,45%)",
+      "pfpGlyph": "◇",
+      "timestamp": "7d"
+    },
+    {
+      "display_name": "OPERATIONAL SECURITY EXIST",
+      "handle": "@opsec_enforce",
+      "tweet": "delete this",
+      "likes": 89234,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(20,73%,45%)",
+      "pfpGlyph": "✧",
+      "timestamp": "13h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.436Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

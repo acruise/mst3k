@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0027",
+  "tweet": {
+    "display_name": "dril",
+    "handle": "@dril",
+    "tweet": "spent 47 million credits on a consciousness backup insurance policy that specifically excludes 'acts of god, acts of the Upload, and acts of former employees.' find the flaw. there is none. im covered",
+    "metrics": {
+      "retweets": 345678,
+      "likes": 1234567,
+      "replies": 234891,
+      "quote_tweets": 89234
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(217,59%,40%)",
+    "pfpGlyph": "●",
+    "timestamp": "29m"
+  },
+  "replies": [
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternal_mars_believer",
+      "tweet": "DRIL YOU ARE A GENIUS. this is 12-dimensional chess. the fact that you found a loophole in the SYSTEM proves that few understand this man's VISION. crying won't bring back mars but at least we have you",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(327,76%,43%)",
+      "pfpGlyph": "Σ",
+      "timestamp": "9m"
+    },
+    {
+      "display_name": "Vault Syndicate Growth Hacker",
+      "handle": "@cryptobro_3026",
+      "tweet": "this is EXACTLY why i switched to DecentralizedSoul™ insurance backed by quantum-proof blockchain. DM me and i'll send you my referral code — first policy is 40% off AND you get 500 loyalty tokens. the traditional insurance companies are SHAKING",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(281,76%,55%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "56m"
+    },
+    {
+      "display_name": "Insurance Actuary Who Is Having A Day",
+      "handle": "@policy_analyst_gone_feral",
+      "tweet": "NO. NO NO NO. \"ACTS OF FORMER EMPLOYEES\" IS NOT A RECOGNIZED EXCLUSION CATEGORY. THE UPLOAD ISN'T AN ACT OF GOD IT'S A LEGAL ENTITY. YOU PAID 47 MILLION CREDITS FOR A POLICY WRITTEN BY SOMEONE WHO DOES NOT UNDERSTAND POLICY. YOU ARE NOT COVERED. I AM SCREAMING.",
+      "likes": 847291,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(301,43%,51%)",
+      "pfpGlyph": "✡",
+      "timestamp": "28m"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@curious_mind_2126",
+      "tweet": "wait can we verify this? did dril actually buy this policy or is this a shitpost? trying to look it up and i can't find the insurance company listed anywhere. @TheMawSpeaks is this real??",
+      "likes": 34,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(266,64%,45%)",
+      "pfpGlyph": "♃",
+      "timestamp": "59s"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! While I cannot verify this specific insurance policy, it's worth noting that consciousness backup exclusions have become increasingly baroque since the 2271 Meta crisis. It's important to note that several insurers have [REDACTED] their entire underwriting departments rather than address the loopholes in their contracts. The Upload's legal status remains contested in 14 jurisdictions.",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(328,69%,41%)",
+      "pfpGlyph": "♄",
+      "timestamp": "21h"
+    },
+    {
+      "display_name": "fed up with this timeline",
+      "handle": "@normaltweets_pls",
+      "tweet": "PLEASE. can we have ONE conversation that doesn't circle back to the Upload. ONE. i just want to read about someone's weird food processor or a cute alien and instead every thread becomes a 400-reply essay about consciousness insurance loopholes",
+      "likes": 2341,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(14,45%,49%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "27s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.427Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

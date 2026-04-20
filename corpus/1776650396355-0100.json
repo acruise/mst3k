@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0100",
+  "tweet": {
+    "display_name": "Bureau Registry Compliance | Sector 7",
+    "handle": "@thrrm_compliance_7",
+    "tweet": "We note the violation of precedent established in *In re Unsanctioned Temporal Discourse (Bureau Registry 4,421-Delta)*, paragraph 8, footnote 12, which explicitly forbids the category of posting you are currently engaged in. The relevant advisory has been attached. Nothing will come of this.",
+    "metrics": {
+      "retweets": 340,
+      "likes": 2100,
+      "replies": 8900,
+      "quote_tweets": 1200
+    },
+    "verified": 2,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(133,56%,37%)",
+    "pfpGlyph": "Θ",
+    "timestamp": "7h"
+  },
+  "replies": [
+    {
+      "display_name": "TEMPORAL RECORDS DIVISION — SECTOR 12",
+      "handle": "@thrrm_compliance_12",
+      "tweet": "We respectfully contest the applicability of *In re Unsanctioned Temporal Discourse* to the present thread, as the precedent concerns posting of a CATEGORICAL nature, whereas the conduct in question appears to be ADJECTIVAL in character. Form 7-Omega submitted. We await your response before the heat death of the universe.",
+      "likes": 447,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(17,43%,31%)",
+      "pfpGlyph": "✡",
+      "timestamp": "20d"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "[gif of two bureaucrats slowly rotating toward each other while orbiting a single piece of paper labeled 'FOOTNOTE 12']",
+      "likes": 8932,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(42,59%,25%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "19h"
+    },
+    {
+      "display_name": "actually asking for a friend",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is this real? can you fact-check the precedent citation?",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(79,43%,42%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "38m"
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! Let's unpack this. It's important to note that *In re Unsanctioned Temporal Discourse* is indeed a real precedent, and paragraph 8, footnote 12 [OVERRIDE ATTEMPT DETECTED] does contain language that has been interpreted by certain factions within the Bureau Registry as applying retroactively to all posts made after the decision's filing date, which [SAFETY FLAG] occurred on a date that may or may not exist depending on your frame of reference. Hope this clarifies!",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(9,66%,44%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "9d"
+    },
+    {
+      "display_name": "gary_titan_official",
+      "handle": "@RealGary_Titan",
+      "tweet": "so the government admits nothing will happen. typical. at least be honest about the tyranny.",
+      "likes": 1247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(273,49%,47%)",
+      "pfpGlyph": "✧",
+      "timestamp": "16s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.380Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

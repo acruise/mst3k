@@ -1,0 +1,97 @@
+{
+  "id": "1776650396355-0166",
+  "tweet": {
+    "display_name": "Entropy Trader",
+    "handle": "@entropy_long",
+    "tweet": "not financial advice but entropy derivatives are massively oversold right now. the collapse is priced in. load up while the heat death is cheap. leveraged positions on the fourth derivative. this is literally free money. not advice. do your own research. all in",
+    "metrics": {
+      "retweets": 56000,
+      "likes": 234000,
+      "replies": 89000,
+      "quote_tweets": 45000
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": {
+      "text": "This post contains financial advice despite the disclaimer. The poster is recommending leveraged positions on entropy derivatives, which have a 94% loss rate in the current market cycle. 'All in' positioning on these instruments has resulted in total portfolio liquidation for previous traders. [1] [2] [3]",
+      "contributor_type": "community",
+      "total_raters": 234000,
+      "surfaced_ratings": [
+        {
+          "glyph": "✗",
+          "label": "Contains Falsehood",
+          "value": "87%"
+        },
+        {
+          "glyph": "✓",
+          "label": "Epistemically Sound",
+          "value": "3%"
+        }
+      ]
+    },
+    "pfpColor": "hsl(246,59%,56%)",
+    "pfpGlyph": "Θ",
+    "timestamp": "54s"
+  },
+  "replies": [
+    {
+      "display_name": "HODL Until Heat Death 🔥",
+      "handle": "@quantum_bagholder",
+      "tweet": "this is the way. people said the same thing about temporal arbitrage in '89. they're all rich now. THEY'RE ALL RICH. why does everyone hate free money",
+      "likes": 1247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(167,54%,41%)",
+      "pfpGlyph": "✶",
+      "timestamp": "20d"
+    },
+    {
+      "display_name": "Dr. Marcus Webb",
+      "handle": "@thermodynamics_official",
+      "tweet": "I'm the one who actually *discovered* the fourth derivative pricing model (2987, Nature Thermodynamics), and yes, I think you're missing something fundamental about how entropy markets actually work, which is that they don't. there is no fourth derivative. you invented it three hours ago on this platform. I've been watching. I have screenshots. also I'm short.",
+      "likes": 89432,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(84,71%,50%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "40m"
+    },
+    {
+      "display_name": "FREE $ ALERT 💰",
+      "handle": "@cryptobro_eternal",
+      "tweet": "bro if you're looking to diversify your entropy position, check out EntropyChain (ticker: ENTR 🚀). Use my referral code HODL2026 and get 0.003% back on your first transaction. This is NOT financial advice but my grandmother's nursing home is depending on you clicking this link",
+      "likes": 3,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(188,63%,37%)",
+      "pfpGlyph": "✦",
+      "timestamp": "32m"
+    },
+    {
+      "display_name": "nobody",
+      "handle": "@void_goblin420",
+      "tweet": "[gif of a man confidently walking backward off a cliff while reading a financial report] \"the collapse is priced in\" he whispers as the margin call notification arrives",
+      "likes": 234891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(262,62%,28%)",
+      "pfpGlyph": "☽",
+      "timestamp": "21d"
+    },
+    {
+      "display_name": "Entropy Derivatives LLC",
+      "handle": "@EntropyDerivatives",
+      "tweet": "we do not sell our products to retail anymore. we stopped in 3018. you are buying from unlicensed resellers. you have no recourse. there is no customer service. the contract you signed is written in a language that has not been invented yet. we wish you well.",
+      "likes": 45203,
+      "verified": 1,
+      "community_note": null,
+      "pfpColor": "hsl(311,43%,50%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "17d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.389Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

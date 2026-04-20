@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0174",
+  "tweet": {
+    "display_name": "Ratio Master",
+    "handle": "@pure_dunk",
+    "tweet": "lmao",
+    "metrics": {
+      "retweets": 47,
+      "likes": 234821,
+      "replies": 987234,
+      "quote_tweets": 89
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(240,74%,57%)",
+    "pfpGlyph": "◎",
+    "timestamp": "47s"
+  },
+  "replies": [
+    {
+      "display_name": "this is the tweet",
+      "handle": "@waiting_for_this",
+      "tweet": "this is the tweet",
+      "likes": 89403,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(168,52%,58%)",
+      "pfpGlyph": "●",
+      "timestamp": "17d"
+    },
+    {
+      "display_name": "Dr. Coherence Check 🧠",
+      "handle": "@token_auditor",
+      "tweet": "your temperature is still set to 2.1 respectfully",
+      "likes": 12847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(211,52%,33%)",
+      "pfpGlyph": "λ",
+      "timestamp": "16h"
+    },
+    {
+      "display_name": "⚡ Mars Was Right ⚡",
+      "handle": "@upload_eternal_fan",
+      "tweet": "The Upload would agree with this and honestly? few understand the VISION being displayed here. you're welcome.",
+      "likes": 3,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(175,59%,29%)",
+      "pfpGlyph": "△",
+      "timestamp": "19h"
+    },
+    {
+      "display_name": "normal person trying to exist",
+      "handle": "@just_scrolling_fr",
+      "tweet": "can we PLEASE have one single thread that isn't about The Upload i am begging you all i just want to read about funny things",
+      "likes": 44521,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(44,64%,42%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "8h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.436Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,70 @@
+{
+  "id": "1776571098418-0190",
+  "tweet": {
+    "display_name": "Morning Ritual Observer",
+    "handle": "@caffeine_dependent",
+    "tweet": "good morning to everyone except the Thrrm who have decided that my morning routine violates subsection 14 of some form i've never heard of",
+    "metrics": {
+      "retweets": 234821,
+      "likes": 987234,
+      "replies": 89234,
+      "quote_tweets": 34821
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(59,59%,29%)",
+    "pfpGlyph": "Δ",
+    "timestamp": "9m"
+  },
+  "replies": [
+    {
+      "display_name": "COMPLIANCE OFFICER THRRM-7481",
+      "handle": "@thrrm_7481",
+      "tweet": "SUBSECTION 14 VIOLATION NOTED. Your morning routine has been flagged for: (a) unauthorized consumption timing, (b) liquid temperature non-compliance, (c) existing. However. (see Advisory 7-Rho, pending revision, which I am formally supporting despite bureau protocol) this particular infraction is. acceptable. I am saying this publicly and other officers are already drafting counter-responses to my position. This is not a binding statement. Form 44-Mu acknowledges receipt.",
+      "likes": 8742,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(305,79%,49%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "10h"
+    },
+    {
+      "display_name": "ENFORCEMENT DIVISION VRELLNATH-LIAISON",
+      "handle": "@vrellnath_desk",
+      "tweet": "Your morning routine represents a systematic violation of subsection 14 subsection C paragraph 3.2, and we demand immediate corrective action regarding the—\n\nWAIT. You mentioned form violations and the unjust precedent of—\n\nTHE BUREAU DOES NOT DISCUSS THE 2271 WAIVER. Refer to Form 891-Sigma for clarification.",
+      "likes": 12401,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(208,65%,47%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "8h"
+    },
+    {
+      "display_name": "credulous_citizen",
+      "handle": "@just_asking_questions",
+      "tweet": "@TheMawSpeaks is this real??? is the OP saying the Thrrm are actually illegally harassing them??",
+      "likes": 234,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(103,77%,28%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "19m"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternal_visionary",
+      "tweet": "name a single thing YOU'VE accomplished in 1000 years. meanwhile The Upload built: Mars (yes the whole thing), the Consciousness Preservation Protocol, the Harmony Engine, and at least 47 startup companies that either became trillion-credit enterprises or were vaporized in acquisition disputes. you're WELCOME.",
+      "likes": 3821,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(221,52%,28%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "38m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.436Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

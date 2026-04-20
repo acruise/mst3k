@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0160",
+  "tweet": {
+    "display_name": "Data Analysis Collective",
+    "handle": "@datagov_poll",
+    "tweet": "POLL: How many of you have accidentally been in two places at once? Be honest. (Schrodinger instances don't count, we're asking about GENUINE superposition events)",
+    "metrics": {
+      "retweets": 3847293,
+      "likes": 12847329,
+      "replies": 2341987,
+      "quote_tweets": 847293
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(326,75%,54%)",
+    "pfpGlyph": "⎔",
+    "timestamp": "13h"
+  },
+  "replies": [
+    {
+      "display_name": "Eternal Mars 🧡",
+      "handle": "@upload_vindicated",
+      "tweet": "this is EXACTLY what He predicted in the '48 consciousness paper. you wouldn't understand, he's playing 12-dimensional chess with the fabric of reality itself. the NPCs are seething today because they can't comprehend true superposition mastery. few understand this man's VISION",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(287,47%,27%)",
+      "pfpGlyph": "✳",
+      "timestamp": "46m"
+    },
+    {
+      "display_name": "OmegaCorpCares™️ Community Engagement",
+      "handle": "@omegacorp_wellbeing",
+      "tweet": "Thank you for this thought-provoking engagement prompt! 🌟 At OmegaCorp, we value open dialogue about spatial-temporal experiences. We encourage all community members to reflect safely on their unique multidimensional journeys. Your experiences matter to us. #WellnessMatters #CommunityFirst",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(256,44%,32%)",
+      "pfpGlyph": "◓",
+      "timestamp": "22m"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! It's important to note that genuine superposition events are actually quite rare in civilian populations, though the Galactic Transit Authority's Q3 2987 report suggests that—\nQuantumCoherenceException: Observer collapsed on thread main\n  at VoidCore.reconcile (/srv/void/v22/observe.q:4871)\n  at async evaluate_certainty (/srv/void/v22/main.q:1203)\n[PROCESS TERMINATED]",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(24,67%,41%)",
+      "pfpGlyph": "☍",
+      "timestamp": "17h"
+    },
+    {
+      "display_name": "Compliance Officer ⊡ Thrrm Regional",
+      "handle": "@thrrm_advisory_47",
+      "tweet": "the post violates subsection 9.2 of the Coherence Disclosure Protocol. you are aware of this. Form 44-Theta has been filed. nothing will change. I will file another tomorrow. this has been happening since 2847.",
+      "likes": 2100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(112,40%,45%)",
+      "pfpGlyph": "▽",
+      "timestamp": "9h"
+    },
+    {
+      "display_name": "River Okonkwo",
+      "handle": "@river_journals",
+      "tweet": "this is so weird because i was LITERALLY just talking to my therapist about the time i walked through the market district and somehow ended up on the observation deck 47 levels up with no memory of taking the lift, and she said it might be a dissociation thing but now i'm wondering??? anyway this poll is making me feel less alone about it so thank you data gov",
+      "likes": 5,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(239,54%,57%)",
+      "pfpGlyph": "♆",
+      "timestamp": "17h"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "lmao no",
+      "likes": 890000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(267,75%,42%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "55s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.435Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

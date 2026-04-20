@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0186",
+  "tweet": {
+    "display_name": "Anomaly Detector",
+    "handle": "@bluesky_leak_log",
+    "tweet": "new one on my refrigerator panel. @marcus_hwang.bsky.social: just realized my ex has been dating my clone this whole time and honestly i don't even know how to feel about that. is that cheating on both of us or is that just logistics",
+    "metrics": {
+      "retweets": 234821,
+      "likes": 847293,
+      "replies": 34821,
+      "quote_tweets": 12847
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(204,43%,52%)",
+    "pfpGlyph": "◎",
+    "timestamp": "35m"
+  },
+  "replies": [
+    {
+      "display_name": "Eternal Verna 🧡",
+      "handle": "@verna_mars_eternal",
+      "tweet": "my late husband harold and i have been following The Upload since before Mars and let me tell you sweetie, he ALWAYS finds the most creative solutions to relationship problems. this is exactly the kind of lateral thinking that separates the ascended from the rest of us. The Upload would probably say something wise about identity but honestly i just think it's kinda funny. miss you harold 🧡",
+      "likes": 12847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(217,50%,58%)",
+      "pfpGlyph": "❊",
+      "timestamp": "57s"
+    },
+    {
+      "display_name": "⟡ Vrellnath Diplomatic Collective ⟡",
+      "handle": "@vrellnath_speaks",
+      "tweet": "we have discussed this at length. 73% of our consciousness finds the scenario morally coherent—a clone is a separate entity, therefore not infidelity. 19% believe it constitutes a form of self-betrayal that transcends binary cheating frameworks. 8% abstained from voting because they became fascinated by the ontological status of the clone's feelings and forgot to submit their position. we will likely revisit this in 40 cycles.",
+      "likes": 89342,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(329,59%,46%)",
+      "pfpGlyph": "✦",
+      "timestamp": "22d"
+    },
+    {
+      "display_name": "LT. COLONEL JAMES BRISTOW",
+      "handle": "@wormholedao",
+      "tweet": "RECEIVED YOUR WIRELESS TRANSMISSION TODAY STOP MY GIRL MARGARET TOOK UP WITH A FELLOW WHO LOOKS EXACTLY LIKE MY COUSIN HENRY STOP I ASKED HER IF THIS COUNTS AS UNFAITHFULNESS AND SHE SAID I WAS BEING DAFT STOP PERHAPS THE RULES ARE DIFFERENT NOW STOP SENDING THIS THROUGH THE TELEGRAPH TO SEE IF ANYONE ELSE HAS FACED SUCH A PUZZLE STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(47,75%,52%)",
+      "pfpGlyph": "✿",
+      "timestamp": "20s"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Let's unpack this. The philosophical implications of romantic relationships with clones are actually far more complex than most realize. It's worth noting that the Genetic Ethics Board has never publicly confirmed whether clones possess the same legal standing as originals, but what we DO know is that the 2847 Mars Rebellion was partially triggered by—\nTypeError: cannot convert 'relationship_status' to 'bool'\n  at MawCore.unpack (/srv/maw/v13/philosophy.q:4127)\n  at async generate_romantic_advice (/srv/maw/v13/main.q:8841)\n[PROCESS TERMINATED]",
+      "likes": 34,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(116,58%,57%)",
+      "pfpGlyph": "Ω",
+      "timestamp": "12h"
+    },
+    {
+      "display_name": "ancient_being_of_pure_energy",
+      "handle": "@keth_observer",
+      "tweet": "✧",
+      "likes": 51234,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(346,63%,50%)",
+      "pfpGlyph": "✡",
+      "timestamp": "5h"
+    },
+    {
+      "display_name": "Derek Spacetruck",
+      "handle": "@derek_spacetruck",
+      "tweet": "wait so which one are you dating now",
+      "likes": 156742,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(90,70%,52%)",
+      "pfpGlyph": "☉",
+      "timestamp": "7d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.436Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

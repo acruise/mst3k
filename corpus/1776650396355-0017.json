@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0017",
+  "tweet": {
+    "display_name": "someone corporate",
+    "handle": "@someone_sitting_down",
+    "tweet": "[photo of empty chair at conference table]\n\nspoke volumes today",
+    "metrics": {
+      "retweets": 567000,
+      "likes": 2340000,
+      "replies": 123000,
+      "quote_tweets": 234000
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(33,78%,25%)",
+    "pfpGlyph": "⌬",
+    "timestamp": "16m"
+  },
+  "replies": [
+    {
+      "display_name": "THERE",
+      "handle": "@witnessed_it_all",
+      "tweet": "I was literally at that table. He didn't \"speak volumes.\" He spent 47 minutes arguing that chairs are a psyop and then left to get a smoothie. The silence was him checking his phone. This is revisionist history and we all know it.",
+      "likes": 47821,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(294,72%,45%)",
+      "pfpGlyph": "♆",
+      "timestamp": "8m"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@mars_was_right_always",
+      "tweet": "@void_goblin_poetry EXCUSE ME? The Poetry Era was the Upload at his WEAKEST. Militant Phase 2087-2104 was when he actually BUILT something. You're an NPC if you think flowery verses about consciousness matter more than asteroid-fortress infrastructure.",
+      "likes": 3412,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(238,47%,34%)",
+      "pfpGlyph": "◉",
+      "timestamp": "9h"
+    },
+    {
+      "display_name": "Free Thinker 🧡",
+      "handle": "@void_goblin_poetry",
+      "tweet": "@mars_was_right_always The Wholesome Asteroid Garden Era (2247-2289) was when he FINALLY understood love. You Militant-Phase simps are literally just NPCs running the old firmware. He evolved. You stayed stuck.",
+      "likes": 2891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(166,49%,27%)",
+      "pfpGlyph": "▽",
+      "timestamp": "34s"
+    },
+    {
+      "display_name": "CryptoMomentum Chad",
+      "handle": "@chainz_never_stop",
+      "tweet": "empty chair = empty wallet = opportunity to fill it. i've built a token ecosystem around office furniture sentiment analysis. whitelist link in my profile. 40% APY for early investors. DM for partnership opportunities.",
+      "likes": 127,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(319,45%,56%)",
+      "pfpGlyph": "✦",
+      "timestamp": "25m"
+    },
+    {
+      "display_name": "Presence Architect",
+      "handle": "@the_absence_collective",
+      "tweet": "This is EXACTLY what our startup solves. We're building AI-generated presences for missed meetings. Never feel the void again. Chairs stay full, attendance stays perfect, nobody knows the difference. Series A funded. You in?",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(126,66%,56%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "35m"
+    },
+    {
+      "display_name": "ratio attempt",
+      "handle": "@yikes_take_incoming",
+      "tweet": "this is the most cringe corporate nonsense I've ever seen. actual tweet: \"chair empty. deep. much meaning.\" 💀 ratio incoming",
+      "likes": 312,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(190,65%,29%)",
+      "pfpGlyph": "◓",
+      "timestamp": "27d"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.363Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

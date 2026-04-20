@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0022",
+  "tweet": {
+    "display_name": "Grandma Keene (age 632)",
+    "handle": "@granny_keene_new",
+    "tweet": "my great-great-great-great-great-great-grandson taught me how to use this internet thing today and everyone seems very nice. i hope i am doing this right. is this where i say hello to people?",
+    "metrics": {
+      "retweets": 456000,
+      "likes": 1200000,
+      "replies": 89000,
+      "quote_tweets": 234000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(194,54%,36%)",
+    "pfpGlyph": "⏣",
+    "timestamp": "7d"
+  },
+  "replies": [
+    {
+      "display_name": "Derek | Sustainability Consultant",
+      "handle": "@derek_thinks_deep",
+      "tweet": "This is genuinely one of the most beautiful things I've seen on here in years. Welcome to the internet, Grandma Keene. You're doing it perfectly. The kindness you're bringing to this space is exactly what we need right now. We're lucky to have you here.",
+      "likes": 47200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(153,55%,32%)",
+      "pfpGlyph": "λ",
+      "timestamp": "37m"
+    },
+    {
+      "display_name": "⚠️ TRUTH SEEKER ⚠️",
+      "handle": "@connect_the_dots_always",
+      "tweet": "ok hold on. if you line up tweets from this account chronologically, the VISIBLE WORDS in order spell something. tweet 1: 'my great-great-great-great-great-great-grandson taught me how to use this' + tweet 3: 'everyone seems very nice' + tweet 7 (when it drops): [REDACTED]. I've been tracking this account for 3 weeks. Something is being HIDDEN.",
+      "likes": 890,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(7,57%,40%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "11d"
+    },
+    {
+      "display_name": "Luna ✨",
+      "handle": "@luna_supports_all",
+      "tweet": "omg you're teaching yourself internet skills at 632?? that's INCREDIBLE. honestly the dedication to self-improvement is inspiring. you're going to crush it. yes, hello is perfect! we're all rooting for you grandma. also if you ever need help troubleshooting anything my DMs are open 💕",
+      "likes": 156000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(251,73%,25%)",
+      "pfpGlyph": "☾",
+      "timestamp": "15h"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "wait is this actually real??? are you ACTUALLY 632 years old??? i looked this up and i can't find any record of lifespan extensions being approved for civilians in that range??? @VoidWhisperer can you fact check this",
+      "likes": 2100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(277,49%,36%)",
+      "pfpGlyph": "◎",
+      "timestamp": "33m"
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! It's important to note that while the Galactic Longevity Registry does permit documented lifespans exceeding 600 years in select jurisdictions, the claim of 632 specifically would require either: (a) a heritage exemption, or (b) an off-world ancestry marker. However, it's worth nothing that the Keene family line has historically resisted public registration, and I cannot verify either way. The grandmother is doing this correctly.",
+      "likes": 15400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(261,58%,36%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "11m"
+    },
+    {
+      "display_name": "ratio king",
+      "handle": "@void_goblin420",
+      "tweet": "@granny_keene_new hi grandma. you are now responsible for all my emotional labor. if you ever log off i will report you to the authorities. welcome to hell.",
+      "likes": 892000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(153,71%,42%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "11h"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.365Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

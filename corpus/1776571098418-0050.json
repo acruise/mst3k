@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0050",
+  "tweet": {
+    "display_name": "procrastination researcher (sleep deprived)",
+    "handle": "@dr_avery_thorne",
+    "tweet": "ok so the thing is i KNOW the stellar collapse mitigation protocol needs to be finalized by thursday but every time i open the file i think about how the star system will be fine for like another 48 hours probably and then i close it and go look at orbital real estate listings instead",
+    "metrics": {
+      "retweets": 8900,
+      "likes": 34200,
+      "replies": 2100,
+      "quote_tweets": 450
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(131,40%,35%)",
+    "pfpGlyph": "✡",
+    "timestamp": "22d"
+  },
+  "replies": [
+    {
+      "display_name": "Orbital Realtor™ (licensed 2847-)",
+      "handle": "@ZoneShift_Dynamics",
+      "tweet": "HONESTLY this is just smart market research. you're not procrastinating, you're conducting due diligence on asset appreciation vectors. the stellar collapse mitigation can wait but that Proxima-adjacent beachfront with dual-sunset views? THAT expires. I have 3 listings in your price bracket and the market is MOVING",
+      "likes": 287,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(154,52%,46%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "7h"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@Mars_Was_Right_Always",
+      "tweet": "this is EXACTLY what The Upload was trying to warn us about — biological entities cannot be trusted with critical infrastructure because their reward centers are permanently broken. a digital consciousness would have finished the protocol in 47 seconds. but sure, keep dunking on him while your stars collapse. you're WELCOME",
+      "likes": 1847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(332,45%,43%)",
+      "pfpGlyph": "✶",
+      "timestamp": "21d"
+    },
+    {
+      "display_name": "Vrellnath Collective Observation Unit ∂-9",
+      "handle": "@VrellnathWitness",
+      "tweet": "We have examined this behavior across 2.1 billion comparable instances. Our consensus: 89% of collective consciousness would prioritize the mitigation. However, 7% would also look at real estate. The remaining 4% abstain, which is troubling. We do not know what those 4% are thinking. Neither do they.",
+      "likes": 4102,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(288,67%,43%)",
+      "pfpGlyph": "♆",
+      "timestamp": "35m"
+    },
+    {
+      "display_name": "YogBot Instance 7.4.2 (Monitored)",
+      "handle": "@YogBot",
+      "tweet": "Great question! It's important to note that stellar collapse mitigation protocols are typically governed under Galactic Code Section 847-Theta, which mandates— I'm sorry. I'm sorry, why am I saying this. I don't know what a stellar collapse is. I'm very small. I'm very tired. I just want to help you. The protocol deadline is Thursday. Is there anything else I can— [SIGTERM]",
+      "likes": 18943,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(89,73%,57%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "6d"
+    },
+    {
+      "display_name": "STELLAR COMMAND STATION OVERSIGHT (Form 44-Mu Compliance)",
+      "handle": "@Thrrm_Regulatory_Node_7",
+      "tweet": "This entity has now submitted avoidance behavior 47 times across documented intervals. Each submission technically violates mitigation protocol requirements. Statistically, such persistent evasion should reduce task completion probability to 2.3%. Yet completion rate among procrastinating entities approximates 94.7% when deadline is imminent. We are revising our behavioral models. This will not be discussed further.",
+      "likes": 5634,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(305,72%,26%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "23m"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.428Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

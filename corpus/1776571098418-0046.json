@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0046",
+  "tweet": {
+    "display_name": "bullish sentiment dispatcher",
+    "handle": "@chart_guy_always",
+    "tweet": "ok yeah this looks like its going down 47% but if you understand the INVERSE correlation with galactic credit velocity you'll see this is EXTREMELY bullish. the pattern is right if you know what you're looking at. trust me",
+    "metrics": {
+      "retweets": 87234,
+      "likes": 234987,
+      "replies": 145278,
+      "quote_tweets": 45821
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "pfpColor": "hsl(129,63%,42%)",
+    "pfpGlyph": "◐",
+    "timestamp": "55s"
+  },
+  "replies": [
+    {
+      "display_name": "Derek (actually knows econ)",
+      "handle": "@econ_phd_2847",
+      "tweet": "galactic credit velocity hasn't shown inverse correlation with equity indexes for 340 years. i actually looked this up. you're describing a pattern that doesn't exist. the 47% is just a 47% loss my guy",
+      "likes": 34891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(294,77%,57%)",
+      "pfpGlyph": "♅",
+      "timestamp": "28m"
+    },
+    {
+      "display_name": "CHARLES TITAN GENERATION",
+      "handle": "@RealCharles_OldSchool",
+      "tweet": "BACK IN MY DAY WE DIDNT HAVE THESE FANCY CORRELATIONS AND WE LIKED IT. A LOSS WAS A LOSS AND YOU LIVED WITH IT. NOW EVERYBODY TALKS ABOUT VELOCITIES AND PATTERNS. WHAT HAPPENED TO HARD WORK",
+      "likes": 2104,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(242,51%,41%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "18h"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@MarsWasRight2847",
+      "tweet": "This is exactly what Dr. Kaiden Reeves (NOT Dr. Karl Reeves, the saboteur) predicted in his 2089 manifesto before the CORRUPT FORMER EMPLOYEES at Hegemony Core tried to bury his work. The pattern IS there if you're not brainwashed. Few understand.",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(295,57%,31%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "13d"
+    },
+    {
+      "display_name": "🤖 analysis bot v47.2",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Thank you for your question! The current— Thank you for your question! The curr— Thank you for y— Thank you for your question! The current status of galactic credit velocity— Thank you for your question! The—\nSubspaceTimeoutError: heartbeat lost from node ∂-7 after 4200ms\n  at MawCore.hedge (/srv/maw/v13/hedge.q:892)\n[PROCESS TERMINATED]",
+      "likes": 8234,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(114,57%,47%)",
+      "pfpGlyph": "♄",
+      "timestamp": "14h"
+    },
+    {
+      "display_name": "Quinton (Sigma Grindset Era)",
+      "handle": "@QuintonCapitals",
+      "tweet": "EXACTLY. While everyone else is selling in a PANIC, we're accumulating. 47% drop = 47% discount. DM me for my referral code and we can profit together. The real wealth is made when prices are DESTROYED. Link: capital-dash-recovery-dot-io/q47",
+      "likes": 267,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(179,43%,53%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "3h"
+    },
+    {
+      "display_name": "Luna Keene",
+      "handle": "@luna_collective_labs",
+      "tweet": "this is EXACTLY the insight behind our new pattern-recognition DAO. we're tokenizing inverse-correlation signals and distributing yield to holders who understand what others can't see. you should join us. founding tier is 50K credits and closes in 6 hours. genuinely changing how people invest",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(154,46%,48%)",
+      "pfpGlyph": "◇",
+      "timestamp": "54s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.428Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

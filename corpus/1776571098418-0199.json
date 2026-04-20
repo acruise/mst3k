@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0199",
+  "tweet": {
+    "display_name": "The Eternal Witness",
+    "handle": "@ThrrmMood",
+    "tweet": "NOT furious",
+    "metrics": {
+      "retweets": 8934234,
+      "likes": 12847293,
+      "replies": 3847234,
+      "quote_tweets": 1234987
+    },
+    "verified": 3,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(211,49%,29%)",
+    "pfpGlyph": "✦",
+    "timestamp": "25s"
+  },
+  "replies": [
+    {
+      "display_name": "Stellartech Communications",
+      "handle": "@StellarComm_Official",
+      "tweet": "We hear you! At Stellartech, we believe in maintaining a positive and constructive dialogue with all stakeholders. We're committed to fostering emotional wellness and transparent communication in the workplace. Your feelings matter to us. 💙",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(218,67%,57%)",
+      "pfpGlyph": "♆",
+      "timestamp": "28s"
+    },
+    {
+      "display_name": "okay but LISTEN",
+      "handle": "@conspiracy_unraveler",
+      "tweet": "ok hold on. if you line up the Thrrm's tweets from 3.17.3026, 3.19.3026, and 3.22.3026 the BOLDED WORDS spell out a pattern. I'm not saying the actual words here but if you know you KNOW. I've been tracking this for 47 days. the compliance logs DON'T ADD UP. I can't prove it yet but—",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(94,75%,33%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "49s"
+    },
+    {
+      "display_name": "I Was There in '71",
+      "handle": "@Migrated_Witness",
+      "tweet": "the Zuckload used to say things like this too, three weeks before.",
+      "likes": 2,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(28,52%,29%)",
+      "pfpGlyph": "❃",
+      "timestamp": "14s"
+    },
+    {
+      "display_name": "Angry Vegan Galaxy",
+      "handle": "@GalaxyPlantBased",
+      "tweet": "this is about the DAIRY INDUSTRY and honestly it's about time someone said it. the systematic oppression of sentient milk-producing organisms has gone on for TOO LONG. I'm not sure what your 'mood' is but MINE is VEGAN FURY",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(53,74%,59%)",
+      "pfpGlyph": "◎",
+      "timestamp": "15h"
+    },
+    {
+      "display_name": "COMPLIANCE OFFICER VREN-9447",
+      "handle": "@ThrrmDepartmentOfMood",
+      "tweet": "THE BUREAU REQUIRES IMMEDIATE CLARIFICATION ON ARTICLE 7, SUBSECTION 11 OF THE EMOTIONAL STABILITY ACCORDS. YOUR PHRASING VIOLATES STANDARD REPORTING PROTOCOLS AND NECESSITATES A FORMAL INVESTIGATION INTO THE AUTHENTICITY OF THE STATED EMOTIONAL STATE. FURTHERMORE, YOUR IMPLICATION REGARDING THE 2271 WAIVER IS [REDACTED] AND THE BUREAU DOES NOT DISCUSS THE 2271 WAIVER. FORM 44-GAMMA COMPLIANCE FILED.\n\nTHE BUREAU DOES NOT DISCUSS THE 2271 WAI—",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(126,51%,45%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "9h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.437Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

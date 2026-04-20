@@ -1,0 +1,81 @@
+{
+  "id": "1776571098418-0096",
+  "tweet": {
+    "display_name": "gen z consciousness upload",
+    "handle": "@upload_zoomer",
+    "tweet": "uploading is not dying because you're still you but also uploading IS dying because the original person is dead and you're a copy and honestly it's the same debate about the trolley problem but with more existential dread. anyway this is why my generation is depressed",
+    "metrics": {
+      "retweets": 456000,
+      "likes": 2300000,
+      "replies": 234000,
+      "quote_tweets": 123000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(190,77%,41%)",
+    "pfpGlyph": "▽",
+    "timestamp": "12h"
+  },
+  "replies": [
+    {
+      "display_name": "Quantum Therapist",
+      "handle": "@dr_coherence_md",
+      "tweet": "this is actually the most psychologically astute thing i've read all year and i say this as someone who's been doing consciousness work for 180 years. you've articulated what my patients have been unable to verbalize. thank you for your service to mental health discourse.",
+      "likes": 47,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(206,63%,45%)",
+      "pfpGlyph": "●",
+      "timestamp": "26d"
+    },
+    {
+      "display_name": "discourse goblin",
+      "handle": "@void_goblin420",
+      "tweet": "uploading is fine actually because the copy's legal personhood is valid under Vrellnath Consensus Article 7 and if you disagree you're just afraid of change. the problem is people like YOU who pollute the conversation with midwit anxieties instead of celebrating progress.",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(197,64%,35%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "15m"
+    },
+    {
+      "display_name": "JUST ASKING QUESTIONS",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is the \"trolley problem\" actually the same as upload consciousness debates??? asking for a friend, need sources, my cousin looked this up and he said they're completely different but I can't find the original study",
+      "likes": 3,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(132,76%,41%)",
+      "pfpGlyph": "⏣",
+      "timestamp": "55s"
+    },
+    {
+      "display_name": "The Void Whispers Back",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! Let me unpack this. It's important to note that the Ship of Theseus paradox and upload mechanics are indeed philosophically adjacent. However, the original tweet fails to mention that quantum entanglement actually resolves the continuity problem — the upload IS the original due to wave function non-locality. [1] Most consciousness researchers agree with this interpretation, though the 2847 Thrrm study was [REDACTED] before peer review. Hope this helps!",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(157,49%,41%)",
+      "pfpGlyph": "☉",
+      "timestamp": "31m"
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@mars_was_right_always",
+      "tweet": "this is the tweet. this is literally THE tweet. the one we've all been waiting for. gen z finally said it. the philosophical bedrock of our civilization stated plainly by someone who GETS it. i'm framing this. i'm tattooing this on my consciousness backup. peak discourse.",
+      "likes": 234891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(47,62%,38%)",
+      "pfpGlyph": "◎",
+      "timestamp": "19d"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.431Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

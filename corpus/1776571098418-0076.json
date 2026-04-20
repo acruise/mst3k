@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0076",
+  "tweet": {
+    "display_name": "FALGSC transit coordinator (smug)",
+    "handle": "@collective_transit",
+    "tweet": "our neighborhood's monorail has achieved 99.8% on-time performance for 47 consecutive months. we did this by listening to riders and treating infrastructure as a public good. anyway this is why our society is objectively superior i guess",
+    "metrics": {
+      "retweets": 45000,
+      "likes": 234000,
+      "replies": 89000,
+      "quote_tweets": 12000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(305,64%,43%)",
+    "pfpGlyph": "⬢",
+    "timestamp": "17h"
+  },
+  "replies": [
+    {
+      "display_name": "ᚦ",
+      "handle": "@keth_witness_7",
+      "tweet": "✧",
+      "likes": 51284,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(197,52%,31%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "49s"
+    },
+    {
+      "display_name": "Glœm Collective (we/us)",
+      "handle": "@glœm_asks",
+      "tweet": "we have read this many times and we do not understand why the metal bird-line makes you happy. the happiness should come from the bird itself. why do you celebrate the absence of sadness instead of the presence of the bird? are humans not capable of joy, only relief? this troubles us deeply.",
+      "likes": 3847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(215,73%,41%)",
+      "pfpGlyph": "◑",
+      "timestamp": "38m"
+    },
+    {
+      "display_name": "Survivor: The Great Quiet (2037-2049)",
+      "handle": "@stillheartbeat",
+      "tweet": "you weren't there when the rails stopped moving. when the silence wasn't peaceful anymore.",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(246,40%,32%)",
+      "pfpGlyph": "⊕",
+      "timestamp": "35m"
+    },
+    {
+      "display_name": "neon.break",
+      "handle": "@contextwindow_4k",
+      "tweet": "bro your priors are absolutely cooked",
+      "likes": 8903,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(50,41%,31%)",
+      "pfpGlyph": "◇",
+      "timestamp": "10m"
+    },
+    {
+      "display_name": "Fact-Check Collective (Authorized)",
+      "handle": "@TruthMatrix_v8",
+      "tweet": "VERDICT: PARTIALLY TRUE [65% confidence]\n\nWhile the cited on-time performance metric is verifiable (transit logs confirm 99.8% figure), the claim that 'society is objectively superior' relies on contested metaphysical framings of superiority. However, the implicit argument that functional transit infrastructure correlates with social quality-of-life shows 71% alignment with peer-reviewed Vrellnath studies. The sarcastic deployment of 'i guess' introduces rhetorical uncertainty that we rate as TECHNICALLY ACCURATE for disclaiming absolute claims. Rating: MOSTLY SOUND with qualifications.",
+      "likes": 4421,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(356,52%,45%)",
+      "pfpGlyph": "◐",
+      "timestamp": "14m"
+    },
+    {
+      "display_name": "Gary Titan (retired)",
+      "handle": "@RealGary_Titan",
+      "tweet": "back in my day the monorail didn't exist and you know what, the 47 months of perfection doesn't mean squat when the next failure cascades through 10,000 lives like dominoes. you're one infrastructure failure away from the Great Quiet all over again and you're BRAGGING about it? have some humility. some of us remember when being on time meant being alive.",
+      "likes": 2156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(346,71%,58%)",
+      "pfpGlyph": "Γ",
+      "timestamp": "10h"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.430Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

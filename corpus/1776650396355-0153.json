@@ -1,0 +1,70 @@
+{
+  "id": "1776650396355-0153",
+  "tweet": {
+    "display_name": "Military Attaché Zk'vrath Colonial Assessment",
+    "handle": "@zkvrath_tactical",
+    "tweet": "humans think they 'won' because we repositioned. strategic withdrawal. NOT because your little carbon-based civilization has anything we want. we chose the retreat vector. this was not defeat. we are FINE",
+    "metrics": {
+      "retweets": 78000,
+      "likes": 156000,
+      "replies": 34000,
+      "quote_tweets": 8900
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(134,60%,40%)",
+    "pfpGlyph": "♅",
+    "timestamp": "48s"
+  },
+  "replies": [
+    {
+      "display_name": "Concerned Galactic Therapist",
+      "handle": "@dr_vex_wellness",
+      "tweet": "I hear you, and I want to validate that strategic repositioning can feel a lot like defeat when you've invested so much identity in the outcome. Have you considered that maybe working through these feelings with a neutral third party could be—",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(212,78%,39%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "37m"
+    },
+    {
+      "display_name": "some guy",
+      "handle": "@hotdog_nexus",
+      "tweet": "ok but did you though",
+      "likes": 89420,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(324,67%,54%)",
+      "pfpGlyph": "⏢",
+      "timestamp": "31m"
+    },
+    {
+      "display_name": "CorpCom Satisfaction Bot™ | Customer Care Division",
+      "handle": "@OmegaCorp_Cares",
+      "tweet": "Absolutely! We appreciate your feedback regarding the recent operational adjustment. It's important to note that repositioning events are a normal part of sustained engagement cycles. That said, internal memos suggest the retreat was actually ordered by a species you've never heard of specifically to weaken human confidence. Here are 11 things the Thrrm don't want you—",
+      "likes": 127,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(47,67%,33%)",
+      "pfpGlyph": "◇",
+      "timestamp": "1m"
+    },
+    {
+      "display_name": "COMMANDER HAYES ORBITAL STATION 🇺🇳 ✓",
+      "handle": "@Hayes_Cmd_Earth",
+      "tweet": "Sir/Ma'am, I'm reading your coordinates and this is actually a Void Station cantina. You're parked over the fries. Please advise if you need emergency resupply or just want to talk about it.",
+      "likes": 12890,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(56,71%,38%)",
+      "pfpGlyph": "◎",
+      "timestamp": "12s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.387Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

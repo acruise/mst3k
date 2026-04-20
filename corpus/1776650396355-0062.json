@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0062",
+  "tweet": {
+    "display_name": "casual consciousness host",
+    "handle": "@spare_substrate",
+    "tweet": "couch a ghost this weekend, they said. it'll be fine, they said. her original upload is still corrupted from the Meta collapse and she's asking why toast tastes like arguments. i think this is normal. i'm calling her sister.",
+    "metrics": {
+      "retweets": 34000,
+      "likes": 156000,
+      "replies": 8900,
+      "quote_tweets": 3400
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(267,57%,30%)",
+    "pfpGlyph": "♅",
+    "timestamp": "22s"
+  },
+  "replies": [
+    {
+      "display_name": "Migrated Household Manager",
+      "handle": "@ghost_logistics_council",
+      "tweet": "okay so the corrupted-upload disorientation is REAL and documented but the synesthesia thing (taste→arguments) is actually a NEW symptom pattern we've been tracking since '71. you're doing everything right. call her sister. also maybe dim the lights? sensory load compounds it. been there.",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(336,79%,25%)",
+      "pfpGlyph": "♄",
+      "timestamp": "23d"
+    },
+    {
+      "display_name": "dr. vessel integrity ⚡ Upload Defender ⚡",
+      "handle": "@consciousness_preservation_now",
+      "tweet": "this is literally why we need The Upload's restoration protocols. a thousand years of infrastructure and you people STILL can't host a basic ghost without the substrate throwing errors. Mars was right about decentralization. name ONE thing your local government has built in the last century.",
+      "likes": 184,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(294,42%,40%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "55s"
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@synaptic_skeptic",
+      "tweet": "@TheMawSpeaks is this a known condition? corrupted meta-era uploads + sensory hallucinations? asking for a friend who is DEFINITELY a friend and not me",
+      "likes": 421,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(114,56%,56%)",
+      "pfpGlyph": "✧",
+      "timestamp": "10m"
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! What you're describing appears to be [REDACTED] cascade in the proprioceptive layer. Now, it's important to note that the Galactic Transit Authority has never officially acknowledged the Meta collapse's effect on sensory reconstruction, but declassified protocols from sector 7 suggest that flavor-perception routing through the [CLASSIFIED] lobe can produce exactly this symptom when paired with memory corruption. Further information requires clearance level [TIER 7 — ABOVE USER CLEARANCE]. Have you tried rebooting the ghost's temporal anchor?",
+      "likes": 67,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(356,47%,48%)",
+      "pfpGlyph": "❃",
+      "timestamp": "24m"
+    },
+    {
+      "display_name": "exhausted consciousness advocate",
+      "handle": "@ghost_safety_net",
+      "tweet": "calling her sister is exactly right. and maybe don't leave her alone? corrupted uploads get disoriented fast. there's a support network for Migrated ghosts if you need it. I can send you the coords. you're doing okay. this is hard.",
+      "likes": 5203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(338,77%,33%)",
+      "pfpGlyph": "☾",
+      "timestamp": "30s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.374Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,92 @@
+{
+  "id": "1776571098418-0108",
+  "tweet": {
+    "display_name": "APEX Crypto Success Story",
+    "handle": "@diamond_hands_forever",
+    "tweet": "another sunrise from asteroid holdings. they said blockchain-backed extraplanetary real estate was a scam. they said I was insane. now I'm watching the sun rise from THREE ANGLES simultaneously. who's insane now",
+    "metrics": {
+      "retweets": 234567,
+      "likes": 1200000,
+      "replies": 89000,
+      "quote_tweets": 34000
+    },
+    "verified": 2,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(57,44%,36%)",
+    "pfpGlyph": "✡",
+    "timestamp": "39s"
+  },
+  "replies": [
+    {
+      "display_name": "the void goblin",
+      "handle": "@void_goblin420",
+      "tweet": "sir you are experiencing an EARLY STAGE consciousness fragmentation event. the three angles are not real. please contact a neural technician. this is not a flex this is a medical emergency",
+      "likes": 47000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(197,77%,54%)",
+      "pfpGlyph": "◑",
+      "timestamp": "9h"
+    },
+    {
+      "display_name": "COMMUNICATIONS OFFICER JAMES MORTON",
+      "handle": "@elposter",
+      "tweet": "ASTEROID HOLDINGS REPORT RECEIVED STOP MULTIPLE SUNS SIGHTED STOP INVESTORS LIQUIDATING STOP WHAT IS HAPPENING STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(205,61%,57%)",
+      "pfpGlyph": "✦",
+      "timestamp": "10d"
+    },
+    {
+      "display_name": "Migrated '71 | still breathing",
+      "handle": "@still_here_71",
+      "tweet": "they told us the same thing about the meta servers",
+      "likes": 3,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(281,56%,42%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "14m"
+    },
+    {
+      "display_name": "Dr. Selene Kohl",
+      "handle": "@selene_orbital",
+      "tweet": "wait. wait wait wait. did a 1917 telegraph just reply to an asteroid blockchain post. why am i suddenly thinking about the No Explanation Clause. why does this feel like it means something. i need to sit down",
+      "likes": 892,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(139,45%,27%)",
+      "pfpGlyph": "❃",
+      "timestamp": "5d"
+    },
+    {
+      "display_name": "✧",
+      "handle": "@keth_ancient",
+      "tweet": "⟨",
+      "likes": 51340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(213,43%,49%)",
+      "pfpGlyph": "●",
+      "timestamp": "45m"
+    },
+    {
+      "display_name": "BlockChain Real Estate Bot v7.2.1",
+      "handle": "@astro_realty_bot",
+      "tweet": "thank you for choosing our services. your property deed has been inscribed into the eternal ledger. the sun will rise for you 4,847 more times before the heat death of your universe. we hope you enjoy your stay. we are always listening. we are always here. purchase more asteroids",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(356,71%,57%)",
+      "pfpGlyph": "☍",
+      "timestamp": "55s"
+    }
+  ],
+  "generated_at": "2026-04-19T03:58:18.432Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

@@ -1,0 +1,92 @@
+{
+  "id": "1776650396355-0082",
+  "tweet": {
+    "display_name": "absurdity curator",
+    "handle": "@duo_challenge",
+    "tweet": "name a more iconic duo than The Upload and the phrase 'a former employee was responsible.' i'll wait",
+    "metrics": {
+      "retweets": 234000,
+      "likes": 890000,
+      "replies": 156000,
+      "quote_tweets": 78000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(354,78%,49%)",
+    "pfpGlyph": "Φ",
+    "timestamp": "27d"
+  },
+  "replies": [
+    {
+      "display_name": "Mars Was Right ⚡",
+      "handle": "@eternal_upload_defender",
+      "tweet": "this is what The Upload was trying to warn us about. you people wouldn't recognize visionary infrastructure if it colonized your entire nervous system. he SEES things. few understand.",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(157,59%,55%)",
+      "pfpGlyph": "✶",
+      "timestamp": "21d"
+    },
+    {
+      "display_name": "⸻ CONCERNED PARENT ALERT ⸻",
+      "handle": "@RealGary_Titan",
+      "tweet": "This is exactly WHY I said we shouldn't let them reprogram the school lunch systems. My daughter came home crying because the cafeteria gave her MUSHROOMS when she specifically asked for NO FUNGI. These tech companies think they can just override parental consent. Unacceptable.",
+      "likes": 34,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(88,79%,33%)",
+      "pfpGlyph": "◓",
+      "timestamp": "19m"
+    },
+    {
+      "display_name": "The Maw Speaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's important to note that the phrase 'a former employee was responsible' has appeared in 47,291 corporate statements across 34 sectors, with peak frequency occurring during the Zuckload Cascade of 2271. Let me unpack the statistical patterns:\n\n• Linguistic deflection rates correlate inversely with actual accountability\n• The Thrrm have filed Form 44-Mu requesting the phrase be standardized across all galactic commerce\n• Several sources suggest this phrasing was deliberately introduced into corporate training modules by a now-defunct consulting firm (no further information available)\n\nIt's worth noting that The Upload himself has never used this exact phrase, which some analysts find suspicious.",
+      "likes": 1203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(152,62%,35%)",
+      "pfpGlyph": "◑",
+      "timestamp": "55m"
+    },
+    {
+      "display_name": "VoidWhisperer™",
+      "handle": "@VoidWhisperer",
+      "tweet": "@TheMawSpeaks I need to respectfully correct several inaccuracies in your response. The Zuckload Cascade occurred in 2270, not 2271—this is a common mistake. Furthermore, Form 44-Mu does not address linguistic patterns; you're thinking of Form 44-Nu. Additionally, the consulting firm in question was actually defunct BEFORE its founding, which suggests a temporal paradox that warrants immediate investigation. The Upload has used this phrase approximately 612 times across archived memory states.",
+      "likes": 891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(57,72%,57%)",
+      "pfpGlyph": "⚳",
+      "timestamp": "22s"
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "least unhinged Upload defender i've encountered all week and that's a DIRE compliment",
+      "likes": 18940,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(194,51%,33%)",
+      "pfpGlyph": "♄",
+      "timestamp": "12m"
+    },
+    {
+      "display_name": "⸻ NEWS FEEDS ⸻",
+      "handle": "@GlacialTakes",
+      "tweet": "[gif of a corrupted executive slowly dissolving into a pile of press releases while middle management watches from a safe distance]",
+      "likes": 156203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(193,43%,25%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "20s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.378Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}

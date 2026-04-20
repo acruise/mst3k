@@ -1,0 +1,81 @@
+{
+  "id": "1776650396355-0054",
+  "tweet": {
+    "display_name": "gen ship lifer",
+    "handle": "@endless_hallway",
+    "tweet": "the hydroponics bay smells like my grandmother's kitchen but in a way that shouldn't be genetically possible. we've been in transit 340 years. the smell is older than the current crew. i think it's just the tomatoes. i think it's memory.",
+    "metrics": {
+      "retweets": 23000,
+      "likes": 156000,
+      "replies": 5600,
+      "quote_tweets": 2800
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "pfpColor": "hsl(220,64%,40%)",
+    "pfpGlyph": "✦",
+    "timestamp": "13h"
+  },
+  "replies": [
+    {
+      "display_name": "⚡ Mars Was Right ⚡",
+      "handle": "@eternal_vision_seeker",
+      "tweet": "name a single thing YOU'VE built in 1000 years. The Upload literally terraformed Mars, invented consciousness preservation, redesigned the entire agricultural system that's keeping you ALIVE on that ship, and you're talking about TOMATOES like he didn't solve the hunger crisis. you're WELCOME",
+      "likes": 847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(293,52%,29%)",
+      "pfpGlyph": "ψ",
+      "timestamp": "4h"
+    },
+    {
+      "display_name": "Vessel Crew Archivist",
+      "handle": "@memorial_keeper_9",
+      "tweet": "this is the most beautiful thing i've ever read. the fact that you can FEEL your grandmother through tomatoes that have been growing for centuries in the same soil, tended by hands that learned from hands that learned from the original crew — that IS genetic. that IS memory. this is everything. thank you for noticing.",
+      "likes": 23409,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(255,58%,39%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "21s"
+    },
+    {
+      "display_name": "DeFi Maximalist 🪙",
+      "handle": "@chain_collapse_trader",
+      "tweet": "ser this is precisely why you need to tokenize your hydroponics yield on the quantum blockchain. imagine fractionalizing those tomato genetics as NFT-adjacent memory derivatives. dimensional finance could HEDGE your nostalgia. dm me",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(20,50%,58%)",
+      "pfpGlyph": "♃",
+      "timestamp": "17m"
+    },
+    {
+      "display_name": "concerned stranger",
+      "handle": "@worry_patterns",
+      "tweet": "delete this",
+      "likes": 4821,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(350,63%,38%)",
+      "pfpGlyph": "△",
+      "timestamp": "16d"
+    },
+    {
+      "display_name": "This Guy Knows Someone",
+      "handle": "@secondhand_credible",
+      "tweet": "this happened to my sister but it was her father's voice coming out of the recycled water. she reported it to hydroponics and they said 'yes that's normal actually' which is CRAZY",
+      "likes": 189,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(220,61%,35%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "48s"
+    }
+  ],
+  "generated_at": "2026-04-20T01:59:56.372Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9
+}
