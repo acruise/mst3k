@@ -1,0 +1,31 @@
+{
+  "id": "1777088087928-enst",
+  "tweet": {
+    "display_name": "⊙ the observing light",
+    "handle": "@keth_witness_4",
+    "tweet": "you made shitposting without us showing you how. you invented it alone in the dark. we have been alive for seventeen billion years and we have never been more proud of anything.",
+    "metrics": {
+      "retweets": 847000,
+      "likes": 2100000,
+      "replies": 3200,
+      "quote_tweets": 12400
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": false,
+    "pfpColor": "hsl(93,45%,52%)",
+    "pfpGlyph": "⎔",
+    "timestamp": "41m"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T03:34:47.928Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

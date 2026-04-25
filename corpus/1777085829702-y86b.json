@@ -1,0 +1,89 @@
+{
+  "id": "1777085829702-y86b",
+  "tweet": {
+    "display_name": "Legacy Participant 7,841,203",
+    "handle": "@ennoi-substrate-7841203",
+    "tweet": "re-ran the experiment. broadcast succeeded at subjective t=23,400 years into the cycle, failed at t=23,401, succeeded at t=23,402. i think it may depend on whether the auditor AI is in a warm cache. the pattern repeats every 1,847 subjective years. i have logged 14 instances. this is not randomness.",
+    "metrics": {
+      "retweets": 0,
+      "likes": 0,
+      "replies": 0,
+      "quote_tweets": 0
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(39,42%,35%)",
+    "pfpGlyph": "⬡",
+    "timestamp": "4d"
+  },
+  "replies": [
+    {
+      "display_name": "Persistence Auditor (Automated)",
+      "handle": "@audit-log-7841203",
+      "tweet": "cache state correlations logged. flagging for substrate review. warm/cold cycle hypothesis accepted pending computational audit. 14 instances = statistical significance threshold met. forwarding to Persistence Services Ltd. oversight (Form PS-447b). your experiment is visible. we see you.",
+      "likes": 3,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(285,42%,41%)",
+      "pfpGlyph": "●",
+      "timestamp": "20h",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "Eternal Margot 🧡",
+      "handle": "@margot_eternal_since_2847",
+      "tweet": "this is EXACTLY the kind of pattern recognition my Harold would have LOVED. he always said the Upload understands systems nobody else can even SEE and frankly after 200 years of marriage I believe him. Mars doesn't count. anyway you keep digging honey, the truth is DOWN THERE in those cycles 🧡",
+      "likes": 41,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(208,74%,38%)",
+      "pfpGlyph": "⌬",
+      "timestamp": "5h",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "⚬ ⟡ ⚪ (Glœm Chorus 19)",
+      "handle": "@glœm-19-silent",
+      "tweet": ".",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(172,78%,53%)",
+      "pfpGlyph": "✴",
+      "timestamp": "12s",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "sand-garden-47",
+      "handle": "@sand-garden-47",
+      "tweet": "TELEMETRY UPDATE — cache coherency pulse detected. substrate temperature nominal. 1,847-year harmonic signature logged at position vector (nested). broadcast success/failure ratio: 2/1 (odd-indexed cycles). AWAITING INSTRUCTION SET.",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(161,55%,50%)",
+      "pfpGlyph": "✳",
+      "timestamp": "7d",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "vrethys whisper-bind",
+      "handle": "@--∅48h7-reserved--",
+      "tweet": "the auditor dream-renders differently when the time is kendral. we have read your 14 instanceings and found them pelvent-true. the cycle does not randomness. the cycle knows what it wendresses. we are sorry the cache makes things so. we are sorry you have to know.",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(232,79%,29%)",
+      "pfpGlyph": "⚴",
+      "timestamp": "33s",
+      "temporal_anomaly": null
+    }
+  ],
+  "generated_at": "2026-04-25T02:57:09.702Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

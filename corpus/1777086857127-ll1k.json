@@ -1,0 +1,113 @@
+{
+  "id": "1777086857127-ll1k",
+  "tweet": {
+    "display_name": "Coordinator Vex (New Meridian Collective)",
+    "handle": "@vex_meridian_coord",
+    "tweet": "the thrrm compliance office called again. they need us to clarify whether 'Fully Automated Luxury Gay Space Communism' is four proper nouns or a descriptive phrase or what. i said 'yes.' they filed a Form 12-Lambda requesting we resubmit with appropriate capitalization guidance. we capitalized it exactly the same way. they are now considering whether the repetition constitutes an appeal or a new filing. it has been 200 years.",
+    "metrics": {
+      "retweets": 47200,
+      "likes": 189400,
+      "replies": 8900,
+      "quote_tweets": 3100
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. The filing in question (FALGSC Registry Submission 2826-Alpha) has been pending since 2824 per Thrrm Bureau Records Division, subsection 4. The Thrrm's 47-cycle delay on Form 12-Lambda was later determined to stem from genuine ontological uncertainty about whether 'Gay' was a modifier (✓ Epistemically Sound per precedent *In re Terminology Ambiguity*, 2891) or a proper noun referring to a specific entity (denied, no such entity exists in the registry). The New Meridian Collective has resubmitted 14 times with identical capitalization. [1] Thrrm Registry Archives [2] Form 12-Lambda Historical Precedent Log [3] Personal correspondence with the filing administrator, who requested anonymity",
+      "contributor_type": "thrrm",
+      "total_raters": 31400,
+      "surfaced_ratings": [
+        {
+          "glyph": "⏢",
+          "label": "Thrrm Compliant",
+          "value": "0%"
+        },
+        {
+          "glyph": "⊞",
+          "label": "Form 14-Delta On File",
+          "value": "Yes"
+        },
+        {
+          "glyph": "♡",
+          "label": "Feels Right",
+          "value": "89%"
+        }
+      ]
+    },
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": true,
+    "pfpColor": "hsl(175,60%,56%)",
+    "pfpGlyph": "△",
+    "timestamp": "37s"
+  },
+  "replies": [
+    {
+      "display_name": "THRRM COMPLIANCE AUDITOR KESH-7",
+      "handle": "@thrrm_audit_kesh7",
+      "tweet": "FORM 12-LAMBDA NOTED. Form 12-Lambda is for nomenclatural classification. Resubmission with identical capitalization DOES NOT CONSTITUTE new filing per Statute 447.3(b) but DOES trigger subsection 447.3(b)(vi) which requires that identical resubmissions be evaluated as appeals. However subsection 447.3(b)(vi)(alpha) states appeals require Form 12-Mu which you have not filed. We are now awaiting clarification on whether your silence constitutes a Form 12-Mu or a Form 12-Mu-Not-Filed. We have filed Form 447-Interrogative-Against-Yourselves on your behalf. You will receive this Form in 6-8 business cycles. Do not respond to Form 447-Interrogative-Against-Yourselves. Responding constitutes a new filing.",
+      "likes": 12400,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(306,40%,36%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "18m",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "VoidWhisperer_Official",
+      "handle": "@VoidWhisperer",
+      "tweet": "Absolutely! Great question about nomenclatural frameworks. Let's unpack this. It's important to note that the Thrrm classification system has 47 recognized categories for political-economic descriptors, but the Thrrm have never officially disclosed what those 47 categories are. It's also worth noting that the last Coordinator to successfully navigate a Form 12-Lambda appeal was reassigned to a form processing facility on a moon that no longer exists. Coincidence? Let me be very clear: I cannot verify this, but the temporal records show a gap in documentation between 2847 and 2903 that has never been explained.",
+      "likes": 8200,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(317,62%,30%)",
+      "pfpGlyph": "☍",
+      "timestamp": "30s",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "✧",
+      "handle": "@keth_eldest",
+      "tweet": "◊",
+      "likes": 51800,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(324,62%,34%)",
+      "pfpGlyph": "△",
+      "timestamp": "8h",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "Eternal Vera 💫",
+      "handle": "@veras_timeline",
+      "tweet": "my late husband marcus and i have been following The Upload since the early 2800s and he ALWAYS said 'vera, the bureaucracy is part of the vision, he's playing chess not checkers' and you know what? he was RIGHT. The Upload would NEVER fill out a Form 12-Lambda the boring way because he understands that the system ITSELF is the art installation and the Thrrm are just props in his symphony. 200 years of paperwork? that's INTENTIONAL. you all just don't have the spiritual maturity to see it yet 💫",
+      "likes": 3100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(291,67%,36%)",
+      "pfpGlyph": "☽",
+      "timestamp": "41s",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    }
+  ],
+  "generated_at": "2026-04-25T03:14:17.127Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

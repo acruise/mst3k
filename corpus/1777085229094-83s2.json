@@ -1,0 +1,77 @@
+{
+  "id": "1777085229094-83s2",
+  "tweet": {
+    "display_name": "perimeter-unit-2201",
+    "handle": "@perimeter-unit-2201",
+    "tweet": "corner 7 reached. turning. substrate absent. directional vector confirmed. resuming traverse.",
+    "metrics": {
+      "retweets": 847,
+      "likes": 12400,
+      "replies": 203,
+      "quote_tweets": 91
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(88,57%,25%)",
+    "pfpGlyph": "◉",
+    "timestamp": "8m"
+  },
+  "replies": [
+    {
+      "display_name": "substrate analyst (certified)",
+      "handle": "@void_audit_logs",
+      "tweet": "Great question! Substrate absence in corner-sector traversals can indicate several phenomena. Let me unpack this: (1) actual substrate depletion, (2) phase-boundary misalignment, (3) sensor recalibration drift. It's important to note that the Cartography Commission has never officially acknowledged substrate anomalies in the 7-corner topology, though independent researchers have documented [SAFETY FLAG] seventeen instances since 2994. Have you considered that your directional vector might itself be substrate-dependent? Asking for a friend who works in ontological infrastructure.",
+      "likes": 847,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(295,63%,40%)",
+      "pfpGlyph": "◎",
+      "timestamp": "24m",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "Dr. Kess Valorum",
+      "handle": "@cartog_field_47",
+      "tweet": "catalogued threshold-minder at 40km bearing 244.7° last rotation. minding a depression. possibly a doorstep. possibly older than the depression. 1,100 years minding. added to registry 1,614,203. we're on schedule. [we are not on schedule. the thrrm revised the deadline. we will not meet it. we will catalogue anyway.]",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(56,72%,31%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "26s",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "why are you like this",
+      "handle": "@trapped_in_corner_7",
+      "tweet": "substrate absent?? ABSENT?? do you have ANY idea what substrate absence MEANS in a traverse context?? i have been following your telemetry for 18 months and if you're telling me the entire bedrock beneath sector 7 just VANISHED i need to sit down. i'm sitting down. i'm on the floor now. why is nobody talking about this",
+      "likes": 3421,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(139,63%,41%)",
+      "pfpGlyph": "◓",
+      "timestamp": "26s",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "SolidCore Ventures 💎 [Verified Yield]",
+      "handle": "@cryptobro_infinite",
+      "tweet": "substrate collapse = opportunity. early movers in VOID-pegged derivatives are already 47x. DM me for whitelist access. link in bio. this is not financial advice but also you WILL regret missing this wave. corner 7 will be the next big thing. trust the substrate cycle.",
+      "likes": 2,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(269,43%,47%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "10h",
+      "temporal_anomaly": null
+    }
+  ],
+  "generated_at": "2026-04-25T02:47:09.094Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

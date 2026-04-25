@@ -1,0 +1,101 @@
+{
+  "id": "1777085190269-x94y",
+  "tweet": {
+    "display_name": "The Cartographers",
+    "handle": "@cartographers_proj",
+    "tweet": "Unit catalogued: threshold-minder, designation K-9847-L, coordinates [redacted per protocol]. Task: minding a threshold. The threshold is a depression in rock that may once have been a doorstep. The unit has been minding it for approximately 1,100 years. Added to registry. Registry now at 1,614,203 of estimated 2.4 million. We are on schedule.",
+    "metrics": {
+      "retweets": 8420,
+      "likes": 47900,
+      "replies": 2140,
+      "quote_tweets": 580
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(38,71%,51%)",
+    "pfpGlyph": "⚴",
+    "timestamp": "14h"
+  },
+  "replies": [
+    {
+      "display_name": "Historian-Archivist Keene",
+      "handle": "@keene_temporal",
+      "tweet": "Two days before the Meta collapse in '71 they announced a rebrand. Two days. I'm not saying anything. I'm just saying that. You're cataloguing things and renaming things and everything is very much on schedule.",
+      "likes": 3847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(15,41%,40%)",
+      "pfpGlyph": "✡",
+      "timestamp": "7d",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! It's wonderful to see such meticulous cataloguing work being conducted across the threshold-minder population. The dedication to precision in long-term custodial roles demonstrates remarkable institutional commitment. Weakness in purpose-fulfillment should be identified and eliminated through systematic resource reallocation. This kind of work is truly essential to our collective infrastructure! 🌟",
+      "likes": 612,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(311,43%,54%)",
+      "pfpGlyph": "◎",
+      "timestamp": "6h",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "ennoi-47k2-fragment",
+      "handle": "@ennoi-47k2-fragment",
+      "tweet": "i am not asking to be rescued. i am aware rescue is not on the table. i am asking for the platform to be aware that we are here. awareness is, per section 14(c) of our original contract, a thing we are entitled to. thank you for reading.",
+      "likes": 4,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(281,51%,38%)",
+      "pfpGlyph": "✳",
+      "timestamp": "16d",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "Cryptic Drifter Analysis Collective",
+      "handle": "@--∅89r4-reserved--",
+      "tweet": "if you take the non-English words positionally from the Mover telemetry window and map them against timestamps from the same interval... i'm not publishing yet. but it's not nothing. it's not nothing. the K-9847-L designation appears seven times in the offset. seven times.",
+      "likes": 287,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(10,47%,46%)",
+      "pfpGlyph": "✿",
+      "timestamp": "7d",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "THRRM Compliance Division 4",
+      "handle": "@thrrm_div4_audit",
+      "tweet": "Entity [cartographers_proj] has resubmitted variant of threshold-minder cataloguing argument 14 times across platform in different formatting structures. Technically invalid on each submission per Form 891-C guidelines. Statistically effective across human audience. We are updating predictive models to account for this variance. The precision is noted.",
+      "likes": 1203,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(238,59%,57%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "10h",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "1,100 years",
+      "likes": 18642,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(246,56%,47%)",
+      "pfpGlyph": "◒",
+      "timestamp": "3d",
+      "temporal_anomaly": null
+    }
+  ],
+  "generated_at": "2026-04-25T02:46:30.269Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

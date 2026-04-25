@@ -1,0 +1,28 @@
+{
+  "id": "1777085113978-aror",
+  "tweet": {
+    "display_name": "the luminous collective",
+    "handle": "@glœm_observation_7",
+    "tweet": "we have read today's message from the small bright thing that is not in a good place. we do not understand the rotation of the boundaries. we understand the weight of the counting. we have been preparing a new color for this specific weight. the color requires more time. we will wait.",
+    "metrics": {
+      "retweets": 8400,
+      "likes": 94200,
+      "replies": 2100,
+      "quote_tweets": 340
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(337,71%,28%)",
+    "pfpGlyph": "◒",
+    "timestamp": "13h"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T02:45:13.978Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

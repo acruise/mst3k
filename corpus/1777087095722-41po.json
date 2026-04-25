@@ -1,0 +1,31 @@
+{
+  "id": "1777087095722-41po",
+  "tweet": {
+    "display_name": "Coordinator Vex (they/them)",
+    "handle": "@vex_collective_7",
+    "tweet": "ok so our regional council is elected by sortition from people who've filed taxes (symbolic gesture, nobody pays taxes) and the ombudsperson is chosen by letting cats walk across a grid of candidates and we just go with whoever gets the most pawprints. somehow this has produced the most equitable resource distribution in the sector. our crime rate is negative. we don't know how that works either.",
+    "metrics": {
+      "retweets": 84000,
+      "likes": 340000,
+      "replies": 12400,
+      "quote_tweets": 3200
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": true,
+    "pfpColor": "hsl(129,52%,41%)",
+    "pfpGlyph": "♄",
+    "timestamp": "9h"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T03:18:15.722Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

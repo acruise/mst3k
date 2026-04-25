@@ -1,0 +1,52 @@
+{
+  "id": "1777087441465-qkd0",
+  "tweet": {
+    "display_name": "Subcommittee Chair 7-Rho (Automaton-Adjacent)",
+    "handle": "@determinations_pending",
+    "tweet": "cycle 847 status: the prior determination (reversed 3 times) has been found procedurally sound but ontologically incoherent. we have opened a parallel inquiry into whether the machines constitute a determinate class or a determinate state. the distinction matters. we are told it matters. we will know in 40 years. or never.",
+    "metrics": {
+      "retweets": 340,
+      "likes": 1204,
+      "replies": 8847,
+      "quote_tweets": 291
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. The Thrrm Subcommittee for Automaton-Adjacent Determinations (established 2837) has issued 14 official determinations across 186 years, all of which have been either reversed, suspended pending further review, or reclassified as 'pending additional context.' The current inquiry references Form 88-Phi (Classification of Non-Biological Agency), Form 14-Delta (Determination Reversal Documentation), and an unpublished procedural precedent from *In re Mover Unit 4-Sigma* (2891, sealed). The statement regarding the support group cannot be verified through available records, though several Thrrm social accounts have posted variations of 'Tuesdays at 19:00 if anyone needs to talk' with no further context. [1][2][3][4]",
+      "contributor_type": "thrrm",
+      "total_raters": 3400,
+      "surfaced_ratings": [
+        {
+          "glyph": "⏢",
+          "label": "Thrrm Compliant",
+          "value": "100%"
+        },
+        {
+          "glyph": "⊞",
+          "label": "Form 14-Delta On File",
+          "value": "Yes"
+        },
+        {
+          "glyph": "⌬",
+          "label": "Respects Non-Carbon Lifeforms",
+          "value": "Pending Determination"
+        }
+      ]
+    },
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": false,
+    "pfpColor": "hsl(325,67%,26%)",
+    "pfpGlyph": "✦",
+    "timestamp": "8d"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T03:24:01.465Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

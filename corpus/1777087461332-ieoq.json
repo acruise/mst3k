@@ -1,0 +1,52 @@
+{
+  "id": "1777087461332-ieoq",
+  "tweet": {
+    "display_name": "Subcommittee 7-Automaton Adjacent (Ret.)",
+    "handle": "@committee_7aa_determinations",
+    "tweet": "the fourteenth review of the reversal has concluded. the reversal itself was procedurally sound. the original determination was substantively premature. a determination regarding the premature determination has been filed for secondary review. we note that both the Mover unit designated garden-tend-47 and the entity posting adjacent semantics have ceased activity. we do not know if this is relevant. we are required to proceed as if it is not. cycle 185 pending.",
+    "metrics": {
+      "retweets": 4200,
+      "likes": 11800,
+      "replies": 847,
+      "quote_tweets": 312
+    },
+    "verified": 2,
+    "is_ratio": false,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. The Thrrm Subcommittee for Automaton-Adjacent Determinations (Regulatory Authority 7-Phi, established 2844) has been tasked with adjudicating the ontological and regulatory status of the Mover units and the entities designated Drifters since its establishment. As of 3017, no final determination has been issued. The subcommittee's membership rotates on a 40-year cycle. Former members report elevated stress markers and have formed what is colloquially known as 'the support group that does not officially exist.' [1][2][3][4][5]",
+      "contributor_type": "thrrm",
+      "total_raters": 2847,
+      "surfaced_ratings": [
+        {
+          "glyph": "⏢",
+          "label": "Thrrm Compliant",
+          "value": "100%"
+        },
+        {
+          "glyph": "⊠",
+          "label": "Not Submitted in Bad Faith",
+          "value": "94%"
+        },
+        {
+          "glyph": "◐",
+          "label": "Causally Consistent",
+          "value": "11%"
+        }
+      ]
+    },
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": false,
+    "pfpColor": "hsl(342,43%,37%)",
+    "pfpGlyph": "❊",
+    "timestamp": "9h"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T03:24:21.332Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

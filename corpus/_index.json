@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "built_at": "2026-04-20T23:49:44.937Z",
-  "file_count": 674,
+  "built_at": "2026-04-25T03:11:31.505Z",
+  "file_count": 739,
   "oldest_file": "1776300983344-0001.json",
-  "newest_file": "notes-showcase-001.json",
+  "newest_file": "1777088215929-mhnw.json",
   "by_id": {
     "1776300983344-0001": "1776300983344-0001.json",
     "1776300997902-0002": "1776300997902-0002.json",
@@ -668,6 +668,35 @@
     "1776717342059-cg62": "1776717342059-cg62.json",
     "1776717350965-hj7n": "1776717350965-hj7n.json",
     "1776717381315-emgr": "1776717381315-emgr.json",
+    "1777085113978-aror": "1777085113978-aror.json",
+    "1777085124953-pgce": "1777085124953-pgce.json",
+    "1777085152190-io5e": "1777085152190-io5e.json",
+    "1777085190269-x94y": "1777085190269-x94y.json",
+    "1777085229094-83s2": "1777085229094-83s2.json",
+    "1777085287765-78ho": "1777085287765-78ho.json",
+    "1777085377166-ctmc": "1777085377166-ctmc.json",
+    "1777085403742-o7ep": "1777085403742-o7ep.json",
+    "1777085422168-nwa4": "1777085422168-nwa4.json",
+    "1777085459091-nxbt": "1777085459091-nxbt.json",
+    "1777085486126-gmlf": "1777085486126-gmlf.json",
+    "1777085504471-6whc": "1777085504471-6whc.json",
+    "1777085521547-u38x": "1777085521547-u38x.json",
+    "1777085597534-ia0r": "1777085597534-ia0r.json",
+    "1777085686418-bclo": "1777085686418-bclo.json",
+    "1777085727661-bj24": "1777085727661-bj24.json",
+    "1777085829702-y86b": "1777085829702-y86b.json",
+    "1777085970232-cbrl": "1777085970232-cbrl.json",
+    "1777085975664-2adm": "1777085975664-2adm.json",
+    "1777086018159-a6jv": "1777086018159-a6jv.json",
+    "1777086025073-qkqh": "1777086025073-qkqh.json",
+    "1777086144357-v6uw": "1777086144357-v6uw.json",
+    "1777086174220-8dac": "1777086174220-8dac.json",
+    "1777086346429-yx2f": "1777086346429-yx2f.json",
+    "1777086352193-695n": "1777086352193-695n.json",
+    "1777086366110-vm3h": "1777086366110-vm3h.json",
+    "1777086453880-x9yw": "1777086453880-x9yw.json",
+    "1777086489926-jdcd": "1777086489926-jdcd.json",
+    "1777086549521-xdqr": "1777086549521-xdqr.json",
     "dril-001": "dril-001.json",
     "dril-002": "dril-002.json",
     "dril-003": "dril-003.json",
@@ -678,7 +707,43 @@
     "dril-008": "dril-008.json",
     "dril-009": "dril-009.json",
     "dril-010": "dril-010.json",
-    "notes-showcase-001": "notes-showcase-001.json"
+    "notes-showcase-001": "notes-showcase-001.json",
+    "test-falgsc-001": "test-falgsc-001.json",
+    "test-hells-001": "test-hells-001.json",
+    "test-hells-002": "test-hells-002.json",
+    "1777086726261-s3qm": "1777086726261-s3qm.json",
+    "1777086783707-kib0": "1777086783707-kib0.json",
+    "1777086857127-ll1k": "1777086857127-ll1k.json",
+    "1777086945995-vl1p": "1777086945995-vl1p.json",
+    "1777086953859-917z": "1777086953859-917z.json",
+    "1777086964503-02qq": "1777086964503-02qq.json",
+    "1777087095722-41po": "1777087095722-41po.json",
+    "1777087105483-uonb": "1777087105483-uonb.json",
+    "1777087161017-4gws": "1777087161017-4gws.json",
+    "1777087193988-pyux": "1777087193988-pyux.json",
+    "1777087321411-xyrt": "1777087321411-xyrt.json",
+    "1777087327875-otdk": "1777087327875-otdk.json",
+    "1777087335205-nz9s": "1777087335205-nz9s.json",
+    "1777087339414-w2ye": "1777087339414-w2ye.json",
+    "1777087407290-drb7": "1777087407290-drb7.json",
+    "1777087441465-qkd0": "1777087441465-qkd0.json",
+    "1777087461332-ieoq": "1777087461332-ieoq.json",
+    "1777087471189-0ade": "1777087471189-0ade.json",
+    "1777087554367-353c": "1777087554367-353c.json",
+    "1777087726198-jwbi": "1777087726198-jwbi.json",
+    "1777087905597-jntb": "1777087905597-jntb.json",
+    "1777087910906-iap0": "1777087910906-iap0.json",
+    "1777088033140-58ku": "1777088033140-58ku.json",
+    "1777088040664-bcjw": "1777088040664-bcjw.json",
+    "1777088052118-8j0f": "1777088052118-8j0f.json",
+    "1777088074032-hpo9": "1777088074032-hpo9.json",
+    "1777088087928-enst": "1777088087928-enst.json",
+    "1777088095716-5y7b": "1777088095716-5y7b.json",
+    "1777088100354-00h8": "1777088100354-00h8.json",
+    "1777088110417-1hlx": "1777088110417-1hlx.json",
+    "1777088132560-pslq": "1777088132560-pslq.json",
+    "1777088144279-kpff": "1777088144279-kpff.json",
+    "1777088215929-mhnw": "1777088215929-mhnw.json"
   },
   "by_handle": {
     "@thefounderupload": [
@@ -717,7 +782,10 @@
       "dril-007",
       "dril-008",
       "dril-009",
-      "dril-010"
+      "dril-010",
+      "1777088040664-bcjw",
+      "1777088095716-5y7b",
+      "1777088100354-00h8"
     ],
     "@nomorevibes": [
       "1776301019123-0003"
@@ -2522,8 +2590,188 @@
     "@kitchenlaw_enjoyer": [
       "1776717381315-emgr"
     ],
+    "@glœm_observation_7": [
+      "1777085113978-aror"
+    ],
+    "@legacy-participant-8847291": [
+      "1777085124953-pgce"
+    ],
+    "@ps-contract-7224891": [
+      "1777085152190-io5e"
+    ],
+    "@cartographers_proj": [
+      "1777085190269-x94y"
+    ],
+    "@perimeter-unit-2201": [
+      "1777085229094-83s2",
+      "1777087193988-pyux"
+    ],
+    "@merciful_vrellnath_8": [
+      "1777085287765-78ho"
+    ],
+    "@thrrm_cb_7a": [
+      "1777085377166-ctmc"
+    ],
+    "@kessvao": [
+      "1777085403742-o7ep"
+    ],
+    "@thrrm_bureau_3847": [
+      "1777085422168-nwa4"
+    ],
+    "@ennoi-substrate-q": [
+      "1777085459091-nxbt"
+    ],
+    "@lilnebula3026": [
+      "1777085486126-gmlf"
+    ],
+    "@ps-contract-8447291": [
+      "1777085504471-6whc"
+    ],
+    "@glitchvex": [
+      "1777085521547-u38x"
+    ],
+    "@ennoi-substrate-log": [
+      "1777085597534-ia0r"
+    ],
+    "@aesthetics_exhausted": [
+      "1777085686418-bclo"
+    ],
+    "@aestheticvoid_": [
+      "1777085727661-bj24"
+    ],
+    "@ennoi-substrate-7841203": [
+      "1777085829702-y86b"
+    ],
+    "@glœm_witness": [
+      "1777085970232-cbrl"
+    ],
+    "@darkdenizenhq": [
+      "1777085975664-2adm"
+    ],
+    "@glœm_waters": [
+      "1777086018159-a6jv"
+    ],
+    "@ennoi-cache-7441289": [
+      "1777086025073-qkqh"
+    ],
+    "@coord_thessaly_7": [
+      "1777086144357-v6uw"
+    ],
+    "@meridian_post_scarcity": [
+      "1777086174220-8dac"
+    ],
+    "@newmeridian_coord": [
+      "1777086346429-yx2f"
+    ],
+    "@kep_station_collective": [
+      "1777086352193-695n"
+    ],
+    "@vess_bath_coord": [
+      "1777086366110-vm3h"
+    ],
+    "@kep_station_consensus": [
+      "1777086453880-x9yw"
+    ],
+    "@soup_collective_7lambda": [
+      "1777086489926-jdcd"
+    ],
+    "@kess_collective": [
+      "1777086549521-xdqr"
+    ],
     "@nexus_speaks_truth": [
       "notes-showcase-001"
+    ],
+    "@mel_sector7": [
+      "test-falgsc-001"
+    ],
+    "@legacy-participant-4891203": [
+      "test-hells-001"
+    ],
+    "@ps-contract-00219": [
+      "test-hells-002"
+    ],
+    "@kep_collective_7": [
+      "1777086726261-s3qm"
+    ],
+    "@k_sato_expeditionary": [
+      "1777086783707-kib0"
+    ],
+    "@vex_meridian_coord": [
+      "1777086857127-ll1k"
+    ],
+    "@newmeridian_admin": [
+      "1777086945995-vl1p"
+    ],
+    "@kess_varel_falgsc": [
+      "1777086953859-917z"
+    ],
+    "@vex_collective_7": [
+      "1777086964503-02qq",
+      "1777087095722-41po"
+    ],
+    "@mira_commons": [
+      "1777087105483-uonb"
+    ],
+    "@recal-unit-006": [
+      "1777087161017-4gws"
+    ],
+    "@ᛞ-register-447-∅": [
+      "1777087321411-xyrt",
+      "1777087407290-drb7"
+    ],
+    "@glœm_collective_7": [
+      "1777087327875-otdk"
+    ],
+    "@keth_meridian_7": [
+      "1777087335205-nz9s"
+    ],
+    "@xeno_emeritus": [
+      "1777087339414-w2ye"
+    ],
+    "@determinations_pending": [
+      "1777087441465-qkd0"
+    ],
+    "@committee_7aa_determinations": [
+      "1777087461332-ieoq"
+    ],
+    "@null_adjacency_bias": [
+      "1777087471189-0ade"
+    ],
+    "@we_built_it_together": [
+      "1777087554367-353c"
+    ],
+    "@kira_kepler": [
+      "1777087726198-jwbi"
+    ],
+    "@prime_intervals": [
+      "1777087905597-jntb"
+    ],
+    "@thrrm_audit_7t": [
+      "1777087910906-iap0"
+    ],
+    "@meridian_voss_3126": [
+      "1777088033140-58ku"
+    ],
+    "@exosuit_forensics": [
+      "1777088052118-8j0f"
+    ],
+    "@thrrm_audit_7722": [
+      "1777088074032-hpo9"
+    ],
+    "@keth_witness_4": [
+      "1777088087928-enst"
+    ],
+    "@archive_rat_3009": [
+      "1777088110417-1hlx"
+    ],
+    "@brandhallister_ceo": [
+      "1777088132560-pslq"
+    ],
+    "@captainquasarcorp": [
+      "1777088144279-kpff"
+    ],
+    "@glitchvein": [
+      "1777088215929-mhnw"
     ]
   },
   "by_summon": {
@@ -2558,12 +2806,13 @@
     ]
   },
   "counts": {
-    "tweets": 674,
-    "replies": 3410,
-    "tweets_with_replies": 659,
+    "tweets": 739,
+    "replies": 3557,
+    "tweets_with_replies": 690,
     "by_backend": {
       "unknown": 214,
-      "anthropic": 460
+      "anthropic": 522,
+      "test": 3
     },
     "by_summon": {
       "1917": 1,

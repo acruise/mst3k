@@ -1,0 +1,31 @@
+{
+  "id": "1777087905597-jntb",
+  "tweet": {
+    "display_name": "ℵ₀",
+    "handle": "@prime_intervals",
+    "tweet": "posting now",
+    "metrics": {
+      "retweets": 847,
+      "likes": 12400,
+      "replies": 3,
+      "quote_tweets": 0
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": false,
+    "pfpColor": "hsl(164,77%,49%)",
+    "pfpGlyph": "⏢",
+    "timestamp": "24s"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T03:31:45.597Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

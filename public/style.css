@@ -280,6 +280,18 @@
   /* Hover: strip the breathe animation; sigil snaps back to neutral (transform: none). Pulse continues. */
   .sigil-t3:hover { animation: sigilPulse 2.5s ease-in-out infinite; }
   .sigil-t4:hover { animation: sigilPulseIntense 1.8s ease-in-out infinite; }
+  /* FALGSC community-verified sigil — rainbow hammer+sickle */
+  @keyframes falgscHueShift {
+    0%   { filter: hue-rotate(0deg)   drop-shadow(0 0 3px rgba(255,100,100,0.4)); }
+    16%  { filter: hue-rotate(60deg)  drop-shadow(0 0 3px rgba(255,200,50,0.4)); }
+    33%  { filter: hue-rotate(120deg) drop-shadow(0 0 3px rgba(100,255,100,0.4)); }
+    50%  { filter: hue-rotate(180deg) drop-shadow(0 0 3px rgba(100,200,255,0.4)); }
+    66%  { filter: hue-rotate(240deg) drop-shadow(0 0 3px rgba(150,100,255,0.4)); }
+    83%  { filter: hue-rotate(300deg) drop-shadow(0 0 3px rgba(255,100,200,0.4)); }
+    100% { filter: hue-rotate(360deg) drop-shadow(0 0 3px rgba(255,100,100,0.4)); }
+  }
+  .sigil-falgsc { animation: falgscHueShift 8s linear infinite; }
+  .sigil-falgsc:hover { animation: falgscHueShift 3s linear infinite; }
   .avatar-col { display: flex; flex-direction: column; align-items: center; }
   .avatar-line { flex: 1; width: 2px; margin-top: 4px; background: rgba(255,255,255,0.06); }
   /* ── 1917 temporal anomaly (telegram) ── */
@@ -396,6 +408,90 @@
   /* 3017 community note ON a 1917 telegram/letter — keep dark note style */
   .tweet-1917 .cnote,
   .reply-1917 .cnote {
+    background: rgba(10,10,12,0.92);
+    border: 1px solid rgba(255,255,255,0.1);
+  }
+
+  /* ── Hells Leak (subspace anomaly — corporate-hosted afterlife content) ── */
+  .tweet-hells .tweet-main,
+  .reply-hells {
+    background: #101318 !important;
+    border: 1px solid rgba(80,120,140,0.2);
+    border-left: 3px solid rgba(80,140,160,0.35);
+    position: relative;
+  }
+  .tweet-hells .tweet-main::before,
+  .reply-hells::before {
+    content: '';
+    position: absolute; inset: 0;
+    background: repeating-linear-gradient(
+      0deg,
+      transparent 0px,
+      rgba(80,140,160,0.015) 1px,
+      transparent 2px
+    );
+    pointer-events: none; border-radius: inherit;
+  }
+  .tweet-hells .tweet-main:hover {
+    background: #131720 !important;
+  }
+  .hells-watermark {
+    position: absolute; top: 10px; right: 14px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px; font-weight: 500;
+    color: rgba(80,140,160,0.12);
+    letter-spacing: 1px;
+    user-select: none; pointer-events: none;
+  }
+  .hells-sender {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10.5px; color: rgba(140,160,175,0.5);
+    letter-spacing: 0.5px; margin-bottom: 6px;
+  }
+  .tweet-hells .hells-text,
+  .reply-hells .hells-text {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 14px; line-height: 1.65;
+    color: rgba(175,185,195,0.72);
+    white-space: pre-wrap; word-break: break-word;
+    margin-bottom: 10px;
+    text-rendering: geometricPrecision;
+  }
+  .reply-hells .hells-text { font-size: 12.5px; }
+  /* collapsed register — even more degraded */
+  .hells-collapsed .hells-text {
+    color: rgba(175,185,195,0.45);
+    letter-spacing: 0.5px;
+  }
+  .hells-footer {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 8px; line-height: 1.6;
+    color: rgba(80,140,160,0.25);
+    border-top: 1px solid rgba(80,120,140,0.1);
+    padding-top: 8px; margin-top: 8px;
+    letter-spacing: 0.2px;
+  }
+  .hells-pinned {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 8.5px; line-height: 1.5;
+    color: rgba(140,160,175,0.3);
+    background: rgba(80,120,140,0.05);
+    border: 1px solid rgba(80,120,140,0.1);
+    border-radius: 3px;
+    padding: 6px 10px; margin-top: 8px;
+  }
+  .hells-pinned::before {
+    content: '📌 ';
+    font-size: 7px;
+  }
+  /* ad variant — slightly brighter, more corporate */
+  .hells-ad .hells-text {
+    color: rgba(80,180,200,0.65);
+    font-style: italic;
+  }
+  /* community notes on hell-posts — keep dark style */
+  .tweet-hells .cnote,
+  .reply-hells .cnote {
     background: rgba(10,10,12,0.92);
     border: 1px solid rgba(255,255,255,0.1);
   }

@@ -1,0 +1,31 @@
+{
+  "id": "1777088100354-00h8",
+  "tweet": {
+    "display_name": "dril",
+    "handle": "@dril",
+    "tweet": "do not go to the observation deck on station 7 between 0400 and 0600 on thursdays. i am not joking. do not go there. if you are already there leave immediately",
+    "metrics": {
+      "retweets": 847000,
+      "likes": 2100000,
+      "replies": 12400,
+      "quote_tweets": 3200
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": false,
+    "pfpColor": "hsl(262,61%,33%)",
+    "pfpGlyph": "●",
+    "timestamp": "9d"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T03:35:00.354Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

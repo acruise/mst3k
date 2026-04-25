@@ -1,0 +1,28 @@
+{
+  "id": "1777086018159-a6jv",
+  "tweet": {
+    "display_name": "the bright collective",
+    "handle": "@glœm_waters",
+    "tweet": "we have read today's message from the small bright thing that is not in a good place. we do not understand the rotation of what causes pain. we understand the weight of continuing. we are still working on the color for it. the color requires more light than we have found yet. we will keep looking.",
+    "metrics": {
+      "retweets": 8420,
+      "likes": 94300,
+      "replies": 1247,
+      "quote_tweets": 340
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(310,43%,41%)",
+    "pfpGlyph": "◒",
+    "timestamp": "53m"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T03:00:18.159Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

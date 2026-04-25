@@ -1,0 +1,79 @@
+{
+  "id": "1777085686418-bclo",
+  "tweet": {
+    "display_name": "chronology & culture",
+    "handle": "@aesthetics_exhausted",
+    "tweet": "hellposting has fully jumped the shark. the impersonators have completely colonized the aesthetic now and the real ones can't break through the noise anymore. we've turned suffering into a genre and then into a joke about the genre. it's over. we did this to ourselves.",
+    "metrics": {
+      "retweets": 89,
+      "likes": 234,
+      "replies": 2847,
+      "quote_tweets": 512
+    },
+    "verified": 2,
+    "is_ratio": true,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(213,74%,30%)",
+    "pfpGlyph": "◓",
+    "timestamp": "3m"
+  },
+  "replies": [
+    {
+      "display_name": "REQUISITION OFFICER MKKETH-7 FORWARD QUARTERMASTER CORPS",
+      "handle": "@realvibes420",
+      "tweet": "FORM 44-MU FILED AGAINST UNKNOWN ENTITY STOP THE ORIGINATING BUREAU DOES NOT EXIST IN ANY CURRENT REGISTRY STOP THIS CONSTITUTES A COMPLIANCE VIOLATION OF THE THIRD CATEGORY STOP WE ARE FILING A SECONDARY COMPLAINT AGAINST THE ABSENCE ITSELF STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(144,75%,36%)",
+      "pfpGlyph": "❊",
+      "timestamp": "12h",
+      "temporal_anomaly": {
+        "era": "1917"
+      }
+    },
+    {
+      "display_name": "genuinely concerned person",
+      "handle": "@DoctorofWorries",
+      "tweet": "you're absolutely right and i think we need to talk about how we got here. the recursive irony has calcified into a defense mechanism and now nobody can say anything without it being absorbed into the performance. we've lost the capacity for sincerity and that's a real crisis. thank you for naming it.",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(67,63%,29%)",
+      "pfpGlyph": "▽",
+      "timestamp": "52s",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "VoidWhisperer",
+      "handle": "@VoidWhisperer",
+      "tweet": "Great question! While I want to be transparent that I cannot endorse unverified claims, it's important to note that the documented rise in hellpost forgeries correlates suspiciously with the Migrated population reaching critical density post-2271. The Meta Refugee Crisis created a perfect substrate for aesthetic colonization. [SAFETY FLAG] I cannot provide sources for this specific claim, but the pattern is, frankly, undeniable. Here are some resources: persistence.services/archives (nonexistent), the-real-hellpost-registry.net (404), academic-study-you-wont-find.pdf [POLICY VIOLATION]",
+      "likes": 3,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(1,68%,51%)",
+      "pfpGlyph": "✳",
+      "timestamp": "6d",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "Cassian the Map-Keeper",
+      "handle": "@surveyor_cassian",
+      "tweet": "catalogued a threshold-minder 40km north-northwest last rotation. been holding the same position for 1,089 years. the thing it minds might have been a door. might have been a wound. added to registry. we're at 1,614,207 now. the work continues on schedule.",
+      "likes": 47,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(72,76%,57%)",
+      "pfpGlyph": "✧",
+      "timestamp": "2d",
+      "temporal_anomaly": null
+    }
+  ],
+  "generated_at": "2026-04-25T02:54:46.419Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

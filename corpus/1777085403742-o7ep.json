@@ -1,0 +1,28 @@
+{
+  "id": "1777085403742-o7ep",
+  "tweet": {
+    "display_name": "Kess Vao",
+    "handle": "@kessvao",
+    "tweet": "found this one in the DICOM header of my shoulder scan. radiologist didn't see it. i did.\n\n@stellarweather.bsky.social: the high-pressure system over Kepler-442 will break tomorrow. people have been waiting 40 years for rain. it's coming. i'm sorry it took so long.",
+    "metrics": {
+      "retweets": 3847,
+      "likes": 18420,
+      "replies": 892,
+      "quote_tweets": 156
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(106,44%,31%)",
+    "pfpGlyph": "✿",
+    "timestamp": "33m"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T02:50:03.742Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1777086346429-yx2f",
+  "tweet": {
+    "display_name": "Coordinator, New Meridian Collective",
+    "handle": "@newmeridian_coord",
+    "tweet": "the filing office called again. they say 'luxury' cannot be a governing principle. we say it's literally in our charter. they say the charter references 'gay' which is not a jurisdiction. we are considering filing a countersuit but mostly we're just going to keep the lights on and ignore them",
+    "metrics": {
+      "retweets": 8400,
+      "likes": 47200,
+      "replies": 2100,
+      "quote_tweets": 340
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(301,45%,39%)",
+    "pfpGlyph": "♆",
+    "timestamp": "21m"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T03:05:46.429Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

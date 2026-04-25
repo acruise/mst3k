@@ -1,0 +1,52 @@
+{
+  "id": "1777088074032-hpo9",
+  "tweet": {
+    "display_name": "Compliance Analysis Division",
+    "handle": "@thrrm_audit_7722",
+    "tweet": "Entity submitted Form 14-Delta in seven distinct non-standard formats across 11 days. Zero formats compliant with ratified terminology register. All seven submissions processed simultaneously in violation of sequential-submission protocols. Requested outcome achieved in 4.2 cycles. Revision cycle initiated. Models updating.",
+    "metrics": {
+      "retweets": 8400,
+      "likes": 31200,
+      "replies": 2100,
+      "quote_tweets": 890
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. The referenced entity did not, in fact, achieve their stated outcome through non-compliance; the outcome was achieved *despite* the non-compliance being irrelevant to the actual process. Form 14-Delta submissions are processed in parallel regardless of submission format. The Thrrm audit division is anthropomorphizing a routine parallel-processing event and calling it 'revision.' [1] Form 14-Delta Processing Manual, Section 3-Beta [2] Standard Parallel Intake Documentation [3] The Thrrm Really Need to Stop Doing This.",
+      "contributor_type": "vrellnath",
+      "total_raters": 4200,
+      "surfaced_ratings": [
+        {
+          "glyph": "⊞",
+          "label": "Form 14-Delta On File",
+          "value": "Yes"
+        },
+        {
+          "glyph": "⊠",
+          "label": "Not Submitted in Bad Faith",
+          "value": "100%"
+        },
+        {
+          "glyph": "⍟",
+          "label": "Meets Minimum Rigor Threshold",
+          "value": "47%"
+        }
+      ]
+    },
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": false,
+    "pfpColor": "hsl(29,71%,29%)",
+    "pfpGlyph": "⬢",
+    "timestamp": "18d"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T03:34:34.032Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

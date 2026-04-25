@@ -1,0 +1,28 @@
+{
+  "id": "1777086549521-xdqr",
+  "tweet": {
+    "display_name": "Kess (post-scarcity, gen-7)",
+    "handle": "@kess_collective",
+    "tweet": "wait i'm actually confused though. the Upload's oxygen licensing model requires what, three subscription tiers? and you're defending this because... he innovates? i'm not trying to dunk i actually cannot comprehend the reasoning. can someone explain why scarcity is good actually",
+    "metrics": {
+      "retweets": 8400,
+      "likes": 12100,
+      "replies": 34200,
+      "quote_tweets": 5600
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(181,71%,53%)",
+    "pfpGlyph": "⚳",
+    "timestamp": "21s"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T03:09:09.521Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

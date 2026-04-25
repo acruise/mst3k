@@ -1,0 +1,31 @@
+{
+  "id": "1777086945995-vl1p",
+  "tweet": {
+    "display_name": "Coordinator, New Meridian Collective",
+    "handle": "@newmeridian_admin",
+    "tweet": "the thrrm compliance office called again. apparently \"fully automated luxury gay space communism\" still cannot be parsed as a governing structure under sections 4.1 through 12.9 of the registry standard. we told them it's our actual founding document. they said that's the problem. we're on year 203 of this conversation.",
+    "metrics": {
+      "retweets": 8400,
+      "likes": 34200,
+      "replies": 2100,
+      "quote_tweets": 890
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": true,
+    "pfpColor": "hsl(58,76%,48%)",
+    "pfpGlyph": "◒",
+    "timestamp": "46s"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T03:15:45.995Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

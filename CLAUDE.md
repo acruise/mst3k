@@ -213,6 +213,9 @@ Filters the meme-format pool to entries with a matching tag. Exact match, no fuz
 | `vrellnath` | 5 | Vrellnath formats |
 | `whistleblow` | 3 | censored whistleblower tweets |
 | `zkvrath` | 6 | Zk'vrath formats |
+| `hells` | 12 | Hells Leak (damned souls, Persistence Services, 3017 reactions) |
+| `mover` | 14 | Mover telemetry + fan culture (stans, haters, Cartographers, Merciful) |
+| `drifter` | 11 | Drifter posts + interpretive factions (Literalist, Cryptic, Aestheticist, Denialist, Tired) |
 
 Adding a new tag requires adding it to `SUMMON_TAGS` in `server.js` — startup validation rejects unknown tags in format data.
 
@@ -236,6 +239,8 @@ Appends an override directive to the LLM prompt for reply generation. Exact key 
 | `thrrm-dissident` | Compliance Optional reply + horrified Thrrm reaction |
 | `thrrm-grudging` | Thrrm documenting human effectiveness as data |
 | `thrrm-jurisdiction` | inter-bureau jurisdictional dispute |
+| `hells` | damned soul reply + Glœm threnody / Thrrm denial / confused user |
+| `echo` | Mover-Drifter echo event + faction reactions |
 
 Adding a new incite key requires adding it to `INCITE_MAP` in `server.js`.
 
@@ -245,9 +250,9 @@ Both can be combined: `?summon=meta&incite=1917` generates Meta crisis formats w
 
 The prompt engineering is in the data files, not the code. When adding content:
 
-- **meme-formats.json**: JSON array of objects: `{ description, tags, weight }`. `description` is the format text the model riffs on. `tags` is an array of summon tags (from the canonical `SUMMON_TAGS` list in server.js — startup validation rejects unknown tags). `weight` controls random selection probability (1.0 = default, 0.05 = 20x less likely; weights are ignored when summoning). Currently 288 entries.
+- **meme-formats.json**: JSON array of objects: `{ description, tags, weight }`. `description` is the format text the model riffs on. `tags` is an array of summon tags (from the canonical `SUMMON_TAGS` list in server.js — startup validation rejects unknown tags). `weight` controls random selection probability (1.0 = default, 0.05 = 20x less likely; weights are ignored when summoning). Currently 336 entries.
 
-- **reply-archetypes.json**: Same structure, 96 entries. Each describes a type of reply persona. These get randomly sampled (5 per thread) and passed to the replies prompt.
+- **reply-archetypes.json**: Same structure, 142 entries. Each describes a type of reply persona. These get randomly sampled (5 per thread) and passed to the replies prompt.
 
 - **system-prompt.txt / replies-prompt.txt**: Raw text, loaded as-is. The system prompt contains lore paragraphs for recurring characters (The Upload, @dril, alien species, sigil tier descriptions). The replies prompt contains instructions for AI bot behavior, glitch modes, credulous morons, and sigil tier characterization.
 

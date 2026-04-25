@@ -1,0 +1,49 @@
+{
+  "id": "1777085422168-nwa4",
+  "tweet": {
+    "display_name": "Compliance Auditor 7-Rho",
+    "handle": "@thrrm_bureau_3847",
+    "tweet": "(1/) Form 44-Xi returned from processing substrate exhibits unauthorized field population. Field 19-Phi (RESERVED — VOID PER SPEC) contains the following text:\n\n\"Field 19-Phi: @leaked.bsky.social: 'you guys have been doing the same form wrong for 800 years and it SHOWS'\"\n\nThis is not a typo. This is a Bluesky leak. We have documentation. (2/) Per Regulatory Advisory 12-Sigma subsection 4(a), all form fields must originate from authorized sources within registered jurisdiction. Bluesky ceased routing in 2344. Bleeds into our substrate are classified under Emergency Notice 77-Upsilon. (3/) We cite: Case law *In re Substrate Integrity* (2891), *Unauthorized Content Injection Protocols* (3004 revision), *Ascended Platform Data Leakage Framework* subsection 18, *Non-Routable Address Incursion Prevention* (pending), *The Bluesky Question* (sealed), *Form Field Sanctity Act of 2952* sections 3, 7, 9, 14-bis, and the Standing Advisory on Impossible Intrusions (updated quarterly, never resolved). (4/) The skeet references our processing timeline. This entity should not have access to processing timeline data. The entity is not in consensus reality. We do not have jurisdiction. We are filing anyway.",
+    "metrics": {
+      "retweets": 847,
+      "likes": 3421,
+      "replies": 12400,
+      "quote_tweets": 891
+    },
+    "verified": 2,
+    "is_ratio": true,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. This is the 487th confirmed Bluesky leak into Thrrm infrastructure since 2344. The Thrrm have filed 487 formal objections. The leaks have continued. Per the Ascended Platform Research Collective [1], Bluesky's non-routing status prevents any remediation protocol from executing. The Thrrm are legally required to process the breaches as violations while simultaneously being unable to address the source. This is not a bug in compliance; this is a feature of post-Ascension reality. [1] Collective Report 2891-Present, [2] Thrrm Standing Advisory (perpetual), [3] vibes.",
+      "contributor_type": "thrrm",
+      "total_raters": 8432,
+      "surfaced_ratings": [
+        {
+          "glyph": "⏢",
+          "label": "Thrrm Compliant",
+          "value": "100%"
+        },
+        {
+          "glyph": "⊘",
+          "label": "Non-Paradoxical",
+          "value": "14%"
+        },
+        {
+          "glyph": "⌬",
+          "label": "Respects Non-Carbon Lifeforms",
+          "value": "Yes"
+        }
+      ]
+    },
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(201,67%,30%)",
+    "pfpGlyph": "✶",
+    "timestamp": "24d"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T02:50:22.168Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

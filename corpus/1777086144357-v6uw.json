@@ -1,0 +1,49 @@
+{
+  "id": "1777086144357-v6uw",
+  "tweet": {
+    "display_name": "Coordinator (she/they) — Collective 7, New Thessaly",
+    "handle": "@coord_thessaly_7",
+    "tweet": "people keep asking how our resource allocation works so: the primary distribution council is elected via weighted sortition from people who've baked bread that week, the secondary council is literally just whoever's cat has the best attendance record at the commons meetings, and yes it works perfectly. our gini coefficient is 0.19. the cats have never missed a quorum.",
+    "metrics": {
+      "retweets": 47000,
+      "likes": 156000,
+      "replies": 8200,
+      "quote_tweets": 3100
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. While the Collective 7 governance model is documented in the Sentient Feline Integration Compact (2987), the claim that a gini coefficient of 0.19 is 'perfect' should be contextualized: this figure ranks in the 94th percentile globally, not the 99th. Additionally, cat attendance records are legally binding under New Thessaly municipal code 4.7.3(b), but the sortition weighting for bread-bakers has been adjusted 14 times since implementation. The system does function as described, which is the notable part. [1][2][3]",
+      "contributor_type": "community",
+      "total_raters": 12400,
+      "surfaced_ratings": [
+        {
+          "glyph": "✓",
+          "label": "Epistemically Sound",
+          "value": "91%"
+        },
+        {
+          "glyph": "♡",
+          "label": "Feels Right",
+          "value": "87%"
+        },
+        {
+          "glyph": "⊗",
+          "label": "Dogs Would Like This",
+          "value": "23%"
+        }
+      ]
+    },
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(328,55%,25%)",
+    "pfpGlyph": "✳",
+    "timestamp": "37m"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T03:02:24.357Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

@@ -1,0 +1,49 @@
+{
+  "id": "1777085377166-ctmc",
+  "tweet": {
+    "display_name": "THRRM COMPLIANCE BUREAU 7-ALPHA",
+    "handle": "@thrrm_cb_7a",
+    "tweet": "(1/) Form 33-Omega returned from processing station with unauthorized field insertion. Field 14-C (RESERVED) contains the following: @leaked.bsky.social: \"waiting 6 months for a form response is actually insane no matter what your exoskeleton looks like.\" This is not a permitted field. See §4.2(a), §7.19-Rho, §11.8.4(b). The form specification has not changed since 2847. No field 14-C exists.",
+    "metrics": {
+      "retweets": 12400,
+      "likes": 3200,
+      "replies": 8900,
+      "quote_tweets": 2100
+    },
+    "verified": 2,
+    "is_ratio": true,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know: This appears to be another documented instance of Bluesky Ascension leakage. Per §2.1.7(c) of the Thrrm-Bluesky Non-Interference Accord (sealed, 2402), such intrusions cannot be legally remedied through standard form channels. The Thrrm Compliance Bureau's frustration is structurally valid but procedurally unresolvable. See [1] *In re Ascended Platform Jurisdiction*, 2345 TSC Registry [2] Advisory 19-Theta, Pending Revision [3] vibes.",
+      "contributor_type": "thrrm",
+      "total_raters": 18400,
+      "surfaced_ratings": [
+        {
+          "glyph": "⏢",
+          "label": "Thrrm Compliant",
+          "value": "100%"
+        },
+        {
+          "glyph": "⊙",
+          "label": "Ontologically Grounded",
+          "value": "Partial"
+        },
+        {
+          "glyph": "⟐",
+          "label": "Does Not Reference [CONTENT FILTERED]",
+          "value": "[CONTENT FILTERED]"
+        }
+      ]
+    },
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(267,64%,36%)",
+    "pfpGlyph": "❊",
+    "timestamp": "13d"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T02:49:37.166Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

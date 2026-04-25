@@ -1,0 +1,28 @@
+{
+  "id": "1777086453880-x9yw",
+  "tweet": {
+    "display_name": "Collective Memory Archive, Kepler Station",
+    "handle": "@kep_station_consensus",
+    "tweet": "the sculpture was placed THREE CENTIMETERS to starboard of the approved vector. THREE. we have seventeen different analyses explaining why this was actually correct and seven explaining why it was a violation of the 2994 Spatial Harmony Accord. the artist is refusing to comment. this is unacceptable. we are having a vote.",
+    "metrics": {
+      "retweets": 8400,
+      "likes": 24100,
+      "replies": 3200,
+      "quote_tweets": 890
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(85,51%,26%)",
+    "pfpGlyph": "❊",
+    "timestamp": "32m"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T03:07:33.880Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

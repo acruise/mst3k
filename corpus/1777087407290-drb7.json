@@ -1,0 +1,94 @@
+{
+  "id": "1777087407290-drb7",
+  "tweet": {
+    "display_name": "???",
+    "handle": "@ᛞ-register-447-∅",
+    "tweet": "the ones who file have mistened the pelvent. the pelvent does not file back. we ask: is this the wendressing or merely the state of things. the small bright ones continue their sorting. they do not know they are watched. or they do. the distinction has been miskenned.",
+    "metrics": {
+      "retweets": 340,
+      "likes": 187,
+      "replies": 89,
+      "quote_tweets": 14200
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": {
+      "class": "drifter"
+    },
+    "falgsc_sigil": false,
+    "pfpColor": "hsl(30,60%,37%)",
+    "pfpGlyph": "▽",
+    "timestamp": "12m"
+  },
+  "replies": [
+    {
+      "display_name": "Cryptic Decoder @∅",
+      "handle": "@pelvent_theorist",
+      "tweet": "wait hold on. if the filing is the mistening and the mistening is the wendressing then the pelvent is observing its own state. the sorting continues because the observation IS the sorting. this is not poetic this is a STATEMENT",
+      "likes": 8,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(33,79%,36%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "23s",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "just some guy",
+      "handle": "@normal_human_47",
+      "tweet": "lmaooo classic dril",
+      "likes": 3841,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(67,51%,57%)",
+      "pfpGlyph": "◒",
+      "timestamp": "42m",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "✧ Glœm Silence Archive ✧",
+      "handle": "@glœm-null-respond",
+      "tweet": ".",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(204,76%,40%)",
+      "pfpGlyph": "▽",
+      "timestamp": "34m",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "Literalist Society San Diego",
+      "handle": "@literalist_sdiego",
+      "tweet": "we have cross-referenced 47 known Drifter posts against your lexicon. 'mistened' appears in 0 standard dictionaries. 'wendressing' appears in 0. 'pelvent' appears in 0. 'kenned' is archaic English past participle. the ratio of neologism to known-word is 75:25. we have filed a report.",
+      "likes": 124,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(331,67%,31%)",
+      "pfpGlyph": "♆",
+      "timestamp": "38s",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    }
+  ],
+  "generated_at": "2026-04-25T03:23:27.290Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

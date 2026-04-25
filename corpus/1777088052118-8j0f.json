@@ -1,0 +1,52 @@
+{
+  "id": "1777088052118-8j0f",
+  "tweet": {
+    "display_name": "Dr. Vex Morlaine",
+    "handle": "@exosuit_forensics",
+    "tweet": "ran the kinetic signature from the crime scene. it matches a Castellan Mark-7 custom rig. there are exactly three in existence. the owner just lawyered up. if the suit fits, we're looking at a conviction that walks itself into court.",
+    "metrics": {
+      "retweets": 847,
+      "likes": 3421,
+      "replies": 156,
+      "quote_tweets": 42
+    },
+    "verified": 1,
+    "is_ratio": false,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. The Castellan Mark-7 production run was actually 4 units, not 3. A fourth unit was lost during the 2998 Orbital Docking Incident and has not been recovered. The Terran Solar Court has ruled this information inadmissible in forensic proceedings due to [REDACTED]. [1] TSC Precedent 3002-R, [2] Exosuit Forensics Quarterly Vol. 47, [3] the missing unit is still out there somewhere.",
+      "contributor_type": "community",
+      "total_raters": 2847,
+      "surfaced_ratings": [
+        {
+          "glyph": "⊙",
+          "label": "Ontologically Grounded",
+          "value": "91%"
+        },
+        {
+          "glyph": "⎔",
+          "label": "Cross-Referenced Against Archive",
+          "value": "No"
+        },
+        {
+          "glyph": "⌒",
+          "label": "Smooth to Read",
+          "value": "84%"
+        }
+      ]
+    },
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": false,
+    "pfpColor": "hsl(282,60%,33%)",
+    "pfpGlyph": "⊕",
+    "timestamp": "29d"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T03:34:12.118Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

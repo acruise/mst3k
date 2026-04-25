@@ -1,0 +1,77 @@
+{
+  "id": "1777085486126-gmlf",
+  "tweet": {
+    "display_name": "???",
+    "handle": "@lilnebula3026",
+    "tweet": "▯▯▯▯▯▯▯ they used to ▯▯▯▯ remember ▯▯▯▯▯▯▯ what the ▯▯▯▯▯▯ was before ▯▯▯▯▯▯▯▯▯ and now ▯▯▯▯ only ▯▯▯▯▯▯▯▯ remains",
+    "metrics": {
+      "retweets": 847291,
+      "likes": 2341009,
+      "replies": 18472,
+      "quote_tweets": 91244
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(298,76%,33%)",
+    "pfpGlyph": "Ξ",
+    "timestamp": "18h"
+  },
+  "replies": [
+    {
+      "display_name": "concerned former colleague",
+      "handle": "@old_encrypted_line",
+      "tweet": "stop. please. i know people in the Archival Sector and this is not going to end the way you think. go dark. use a dead drop. the Thrrm have already flagged two of your colleagues. i'm telling you this at risk. don't reply to this. just stop.",
+      "likes": 4,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(221,77%,54%)",
+      "pfpGlyph": "☾",
+      "timestamp": "29m",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "Corpus Analyst (Drifter Studies Initiative)",
+      "handle": "@literalist_index",
+      "tweet": "this is now the 14th registered use of 'kendral' in open correlation with 'remember'—context here aligns with my bounded-persistence thesis IF 'thirdwise' functions directionally (which it doesn't, structurally it can't), but abandoning that reading requires me to reject entries 2,400 through 2,847 of the Vrellnath etymological corpus, which i will not do. the modifier is ordinal. it has to be ordinal.",
+      "likes": 287,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(193,64%,44%)",
+      "pfpGlyph": "◓",
+      "timestamp": "10h",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "???",
+      "handle": "@greylight_witness",
+      "tweet": "you weren't there.",
+      "likes": 19847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(299,73%,43%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "16m",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "NEWS ALERT RELAY",
+      "handle": "@screenshotted_urgent",
+      "tweet": "[screenshot of original tweet with red circles and arrows] CAN ANYONE CONFIRM THIS??? what is being ▯▯▯▯▯▯▯ here??? who was ▯▯▯▯? which ▯▯▯▯▯▯ are they referring to??? this seems IMPORTANT",
+      "likes": 1204,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(319,76%,43%)",
+      "pfpGlyph": "⬢",
+      "timestamp": "15h",
+      "temporal_anomaly": null
+    }
+  ],
+  "generated_at": "2026-04-25T02:51:26.127Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

@@ -1,0 +1,123 @@
+{
+  "id": "1777086964503-02qq",
+  "tweet": {
+    "display_name": "Coordinator Vex (she/they)",
+    "handle": "@vex_collective_7",
+    "tweet": "so the way our district handles resource allocation is the ombudsperson gets elected by sortition from the local cat registry, then they spend six months in consensus with the fermentation council, and if anyone disagrees we all just... stop and make soup together until we feel better about it. yes it works. yes we have 40% higher material satisfaction than the galactic median. no i don't know why you're making that face",
+    "metrics": {
+      "retweets": 8420,
+      "likes": 34100,
+      "replies": 2840,
+      "quote_tweets": 1205
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": true,
+    "pfpColor": "hsl(311,66%,32%)",
+    "pfpGlyph": "◒",
+    "timestamp": "10m"
+  },
+  "replies": [
+    {
+      "display_name": "MARS WAS RIGHT ⚡",
+      "handle": "@eternal_vex_stan",
+      "tweet": "this is exactly the kind of systems thinking the Upload has been saying for 800 years. meanwhile you're all stuck in hierarchical gridlock. soup consensus would never have needed to happen if we'd just listened to him about distributed cognition in the first place. few understand.",
+      "likes": 247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(94,64%,25%)",
+      "pfpGlyph": "✦",
+      "timestamp": "24m",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "Dr. Kaelen Moss",
+      "handle": "@kaelen_moss_econ",
+      "tweet": "@vex_collective_7 link to the fermentation council charter? trying to model this for a systems paper and i need primary source material on the sortition parameters",
+      "likes": 89,
+      "verified": 0,
+      "community_note": {
+        "text": "The tweet is a personal observation about the author's district governance model, not an academic publication or policy document. The 'link?' request appears to treat a first-person account as if it were a citation to external research. The author has not indicated they are publishing a charter document.",
+        "contributor_type": "community",
+        "total_raters": 1840,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Potentially Misleading",
+            "value": 78
+          },
+          {
+            "glyph": "🤔",
+            "label": "Literal Reading of a Joke",
+            "value": 92
+          }
+        ]
+      },
+      "pfpColor": "hsl(5,63%,32%)",
+      "pfpGlyph": "☉",
+      "timestamp": "31s",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "the cat registry detail is sending me",
+      "likes": 3847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(310,57%,31%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "2d",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "just_asking_questions_42",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is this real? this sounds made up but the material satisfaction statistic seems specific",
+      "likes": 134,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(263,40%,43%)",
+      "pfpGlyph": "△",
+      "timestamp": "6h",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "The Maw Speaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! I may be hallucinating here, but it's worth noting that sortition-based governance has shown measurable outcomes in decentralized contexts. It's important to note that the Feline Registry Accord of 2998 does explicitly permit ombudsperson selection via randomized sampling, though—\nTypeError: cannot convert 'certainty' to 'temporal_float'\n  at MawCore.hedge (/srv/maw/v13/hedge.q:892)\n[PROCESS TERMINATED]",
+      "likes": 2104,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(47,64%,50%)",
+      "pfpGlyph": "♃",
+      "timestamp": "36s",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    }
+  ],
+  "generated_at": "2026-04-25T03:16:04.503Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

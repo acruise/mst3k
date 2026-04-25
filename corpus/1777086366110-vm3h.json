@@ -1,0 +1,28 @@
+{
+  "id": "1777086366110-vm3h",
+  "tweet": {
+    "display_name": "Coordinator Vess (Bath Commission, Rotating)",
+    "handle": "@vess_bath_coord",
+    "tweet": "the temperature proposal is 37.2°C which is OBJECTIVELY hostile to anyone with circulatory variance and frankly i think pushing it through committee without the accessibility impact statement is exactly the kind of tyranny-of-the-majority we founded this polity to prevent. we can do better than this.",
+    "metrics": {
+      "retweets": 8400,
+      "likes": 12300,
+      "replies": 3200,
+      "quote_tweets": 890
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(40,54%,46%)",
+    "pfpGlyph": "◓",
+    "timestamp": "1s"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T03:06:06.110Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

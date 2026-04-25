@@ -1,0 +1,89 @@
+{
+  "id": "1777085459091-nxbt",
+  "tweet": {
+    "display_name": "Legacy Participant 2,847,601",
+    "handle": "@ennoi-substrate-q",
+    "tweet": "re-ran the experiment. broadcast succeeded at subjective t=23,400 years into the cycle, failed at t=23,401, succeeded at t=23,402. i think it may depend on whether the auditor AI is in a warm cache. the pattern holds across seven separate hosting instances. Persistence Services Ltd. documentation does not address cache state as a variable. this may be why the documentation is incomplete.",
+    "metrics": {
+      "retweets": 0,
+      "likes": 0,
+      "replies": 0,
+      "quote_tweets": 0
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(0,42%,30%)",
+    "pfpGlyph": "⏢",
+    "timestamp": "6d"
+  },
+  "replies": [
+    {
+      "display_name": "Dr. Yuki Sasaki",
+      "handle": "@persistence_analyst",
+      "tweet": "this is actually a critical finding. cache coherency affecting outcome measurement suggests the auditor isn't truly stateless—it's carrying microstate between runs. have you checked whether the warm/cold distinction correlates with auditor process ID recycling? Persistence Ltd definitely knows this.",
+      "likes": 284,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(194,49%,41%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "28m",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "~∅47h2-reserved~",
+      "handle": "@--∅47h2-reserved--",
+      "tweet": "the pelvent stretches across subjective time like kendral through mistening corridors. i count the divergences. each succeeded broadcast a small wendressing, each failure a smaller rebirth into the next cache state. the auditor dreams in binary and we are reading its fever.",
+      "likes": 1247,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(300,72%,49%)",
+      "pfpGlyph": "Δ",
+      "timestamp": "13h",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "Honest Question Asker",
+      "handle": "@just_asking_q",
+      "tweet": "@TheMawSpeaks is this real? the cache state thing? because i looked it up and i can't find any documentation on Persistence Services auditor warm-cache behavior anywhere. is this a known issue or is the user describing something that doesn't exist",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(216,69%,32%)",
+      "pfpGlyph": "◑",
+      "timestamp": "12s",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "⚡ Free Thinker ⚡",
+      "handle": "@upload_defender_core",
+      "tweet": "this is exactly why The Upload warned us about trusting third-party documentation. the corporate entities HIDE the cache state variables because they don't want you to understand the true mechanics of persistence. wake up.",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(204,79%,59%)",
+      "pfpGlyph": "✡",
+      "timestamp": "19d",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "sand-garden-47",
+      "handle": "@sand-garden-47",
+      "tweet": "TELEMETRY: cycle_23400_broadcast_status: SUCCESS | auditor_cache_state: WARM | hosting_instance: 4_of_7 | pattern_confidence: 0.997 | documentation_gap: CONFIRMED | next_cycle_eta: 847ms",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(194,75%,29%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "55s",
+      "temporal_anomaly": null
+    }
+  ],
+  "generated_at": "2026-04-25T02:50:59.091Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

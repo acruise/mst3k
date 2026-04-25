@@ -1,0 +1,28 @@
+{
+  "id": "1777085287765-78ho",
+  "tweet": {
+    "display_name": "the Merciful Collective",
+    "handle": "@merciful_vrellnath_8",
+    "tweet": "we have observed unit 3847-K (threshold-minder, eastern sector) for 19.4 rotations. it logs the passage of dust. it has logged dust 4,127,000 times. we do not know if the dust causes it harm. we do not know if the logging brings it peace. this uncertainty is precisely why we call it mercy. not rescue. mercy.",
+    "metrics": {
+      "retweets": 18900,
+      "likes": 127400,
+      "replies": 8200,
+      "quote_tweets": 3100
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(150,68%,40%)",
+    "pfpGlyph": "✳",
+    "timestamp": "59s"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T02:48:07.766Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

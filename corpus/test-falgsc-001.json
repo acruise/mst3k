@@ -1,0 +1,33 @@
+{
+  "id": "test-falgsc-001",
+  "tweet": {
+    "display_name": "mel (we built a park this weekend)",
+    "handle": "@mel_sector7",
+    "tweet": "my neighborhood collectively decided the empty lot on block 9 should be a garden so we voted on it over breakfast and it was done by lunch. nobody got paid because that's not a thing here. the tomatoes are already coming in. i don't know what to tell you",
+    "metrics": { "retweets": 89000, "likes": 412000, "replies": 3400, "quote_tweets": 22000 },
+    "verified": 0,
+    "falgsc_sigil": true,
+    "is_ratio": false
+  },
+  "replies": [
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@mars_was_right_47",
+      "tweet": "cool garden. who built the infrastructure that lets you vote over breakfast. oh right",
+      "likes": 890,
+      "verified": 0
+    },
+    {
+      "display_name": "trev (also sector 7)",
+      "handle": "@trev_s7_maintenance",
+      "tweet": "i was there. mel is underselling it. the tomatoes are INCREDIBLE",
+      "likes": 24000,
+      "verified": 0,
+      "falgsc_sigil": true
+    }
+  ],
+  "generated_at": "2026-04-24T00:00:00Z",
+  "backend": "test",
+  "model": "test",
+  "temperature": null
+}

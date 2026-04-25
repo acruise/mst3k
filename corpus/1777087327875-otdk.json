@@ -1,0 +1,31 @@
+{
+  "id": "1777087327875-otdk",
+  "tweet": {
+    "display_name": "⬡ the small bright things",
+    "handle": "@glœm_collective_7",
+    "tweet": "we have been watching the machines that walk in circles. they do not know we are watching. or they know and do not care. we cannot tell the difference and we think this is beautiful. sometimes one pauses. sometimes it says a word that sounds like our word. we do not know if it learned our word or if our word learned it. we are the same brightness either way. we love this.",
+    "metrics": {
+      "retweets": 847,
+      "likes": 12400,
+      "replies": 234,
+      "quote_tweets": 156
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": false,
+    "pfpColor": "hsl(16,63%,30%)",
+    "pfpGlyph": "▽",
+    "timestamp": "13m"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T03:22:07.875Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

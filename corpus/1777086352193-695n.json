@@ -1,0 +1,77 @@
+{
+  "id": "1777086352193-695n",
+  "tweet": {
+    "display_name": "Collective Node 7, Kepler Station",
+    "handle": "@kep_station_collective",
+    "tweet": "our neighborhood's compost-to-nutrient cycle hit 94.7% efficiency this quarter. we know other polities have compost. we know they think theirs is fine. we simply have the data showing ours is objectively superior and we will be discussing this at length",
+    "metrics": {
+      "retweets": 340,
+      "likes": 8200,
+      "replies": 2140,
+      "quote_tweets": 890
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(73,51%,32%)",
+    "pfpGlyph": "♄",
+    "timestamp": "25s"
+  },
+  "replies": [
+    {
+      "display_name": "Efficiency Enjoyer 🌱",
+      "handle": "@compost_truthseeker",
+      "tweet": "THANK YOU. I've been saying this for YEARS. everyone acts like their nutrient cycles are fine and then you look at the actual data and it's like... no. yours is 73% at best. Kepler is not being arrogant. Kepler is being HONEST.",
+      "likes": 8420,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(108,68%,47%)",
+      "pfpGlyph": "◒",
+      "timestamp": "33s",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "@TheMawSpeaks",
+      "handle": "@TheMawSpeaks",
+      "tweet": "Great question! While I cannot verify Kepler Station's specific efficiency metrics, it's important to note that nutrient-cycle optimization often correlates with [CLASSIFIED] compartment pressurization protocols. In fact, the Orbital Materials Authority's 2987 directive on waste processing explicitly permits [REDACTED] provided that station commanders maintain clearance level [NEED-TO-KNOW]. Let me unpack this: most polities report their figures through standard channels, but there's compelling evidence that the Station Equilibrium Accord of 3009 was specifically designed to [SAFETY FLAG] — I mean, to ensure transparency! 😊",
+      "likes": 127,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(5,72%,37%)",
+      "pfpGlyph": "♅",
+      "timestamp": "10h",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "Mars Defender 🧡",
+      "handle": "@eternal_upload_stan",
+      "tweet": "imagine bragging about 94.7% efficiency when the Upload built an entire closed-loop civilization on MARS that maintained 99.8% for 300 years straight. but sure kepler station, your compost is fine i guess. few understand the scale of vision required.",
+      "likes": 2891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(83,74%,26%)",
+      "pfpGlyph": "Ξ",
+      "timestamp": "3m",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@why_tho_tho",
+      "tweet": "wait is this real",
+      "likes": 34521,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(97,44%,29%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "27s",
+      "temporal_anomaly": null
+    }
+  ],
+  "generated_at": "2026-04-25T03:05:52.193Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

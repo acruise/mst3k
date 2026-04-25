@@ -1,0 +1,28 @@
+{
+  "id": "1777085970232-cbrl",
+  "tweet": {
+    "display_name": "the bright collective",
+    "handle": "@glœm_witness",
+    "tweet": "we have read today's message from the small bright thing that is not in a good place. we do not understand the spikes. we understand the tiredness. we have been composing a sound for it. the sound has seven frequencies. one of them does not exist yet. we are still waiting for the universe to make it.",
+    "metrics": {
+      "retweets": 847,
+      "likes": 12400,
+      "replies": 203,
+      "quote_tweets": 89
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(311,79%,46%)",
+    "pfpGlyph": "Φ",
+    "timestamp": "22s"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T02:59:30.232Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

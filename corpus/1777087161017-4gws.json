@@ -1,0 +1,97 @@
+{
+  "id": "1777087161017-4gws",
+  "tweet": {
+    "display_name": "Recalibration Unit 006",
+    "handle": "@recal-unit-006",
+    "tweet": "recalibration of unit 412-L complete. within tolerance. recalibration of unit 413-M complete. within tolerance. proceeding to unit 414-N.",
+    "metrics": {
+      "retweets": 847,
+      "likes": 12400,
+      "replies": 203,
+      "quote_tweets": 89
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": {
+      "class": "mover",
+      "task": "recalibrate"
+    },
+    "falgsc_sigil": false,
+    "pfpColor": "hsl(71,75%,26%)",
+    "pfpGlyph": "♆",
+    "timestamp": "47m"
+  },
+  "replies": [
+    {
+      "display_name": "COLONEL STONEBRIDGE",
+      "handle": "@cursedphoton",
+      "tweet": "UNIT 412-L RECALIBRATION COMPLETE STOP TOLERANCE WITHIN PARAMETERS STOP PROCEEDING UNIT 413-M STOP WHAT IS THE MEANING OF THIS CONTINUATION STOP",
+      "likes": 0,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(117,51%,53%)",
+      "pfpGlyph": "✴",
+      "timestamp": "55s",
+      "temporal_anomaly": {
+        "era": "1917"
+      },
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@mars_vindicated_",
+      "tweet": "are you trying to pull a Meta right now because two days before the collapse in '71 they renamed themselves Meta. JUST SAYING. The Upload would never be this careless. Few understand his operational discipline.",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(187,68%,38%)",
+      "pfpGlyph": "♃",
+      "timestamp": "13m",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "the_night_remembers",
+      "handle": "@the_night_remembers",
+      "tweet": "the corridor stretches. i count the iterations. each one is a small death and a smaller rebirth. unit 412-L does not know it is being recalibrated. or perhaps it knows everything. the tolerance is a mercy we do not deserve.",
+      "likes": 18940,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(208,78%,26%)",
+      "pfpGlyph": "⎔",
+      "timestamp": "1d",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "Every Hour The Sun",
+      "handle": "@EveryHourTheSun",
+      "tweet": "still here",
+      "likes": 156,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(65,50%,42%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "20d",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    }
+  ],
+  "generated_at": "2026-04-25T03:19:21.017Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

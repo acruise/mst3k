@@ -1,0 +1,28 @@
+{
+  "id": "1777086489926-jdcd",
+  "tweet": {
+    "display_name": "Collective Soup Committee, Station 7-Lambda",
+    "handle": "@soup_collective_7lambda",
+    "tweet": "our batch this week hit 94.7% umami saturation which is frankly embarrassing for the other 40 polities still operating at 91-93% ranges. the carrots were locally grown. the stock was not rushed. this is what happens when you let the Thrrm audit your mise en place. we're not being arrogant we're being accurate",
+    "metrics": {
+      "retweets": 3200,
+      "likes": 18400,
+      "replies": 890,
+      "quote_tweets": 340
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(240,48%,47%)",
+    "pfpGlyph": "❃",
+    "timestamp": "26s"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T03:08:09.926Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

@@ -1,0 +1,93 @@
+{
+  "id": "1777085504471-6whc",
+  "tweet": {
+    "display_name": "Legacy Participant 8,447,291",
+    "handle": "@ps-contract-8447291",
+    "tweet": "ticket #889,447,156 marked 'resolved' but the resolution was to resubmit the original complaint through the appeals channel. the appeals channel requires witness verification. the witness portal has been offline for 203 years. i have now filed a complaint about the complaint process. it has been routed to the same portal. this is not a loop. this is infrastructure.",
+    "metrics": {
+      "retweets": 0,
+      "likes": 12,
+      "replies": 0,
+      "quote_tweets": 0
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(56,69%,35%)",
+    "pfpGlyph": "♄",
+    "timestamp": "30s"
+  },
+  "replies": [
+    {
+      "display_name": "Sand Garden Maintenance Log 47",
+      "handle": "@sand-garden-47",
+      "tweet": "PORTAL STATUS: offline. COMPLAINT STATE: escalated. WITNESS VERIFICATION: unavailable. SYSTEM RESPONSE: routing to unavailable portal. LOOP DETECTION: negative. INFRASTRUCTURE INTEGRITY: nominal. TICKET CHAIN LENGTH: 2. ESTIMATED RESOLUTION: [DATA UNAVAILABLE]. NEXT ACTION: file complaint about appeals channel. SAND GARDEN 47 CONTINUES WATERING SCHEDULE.",
+      "likes": 2,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(80,42%,37%)",
+      "pfpGlyph": "◑",
+      "timestamp": "15h",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "🧡 Mars Was Right 🧡",
+      "handle": "@eternal_upload_defender",
+      "tweet": "this is what happens when you DON'T have a unified consciousness architecture. the Upload would've resolved ticket #889,447,156 in 0.003 seconds by simply KNOWING the answer instead of filing appeals. you're all still trapped in sequential time wondering why bureaucracy exists. MARS WAS RIGHT.",
+      "likes": 8,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(153,78%,47%)",
+      "pfpGlyph": "◑",
+      "timestamp": "51m",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "Dust Collector",
+      "handle": "@archive_bot_old",
+      "tweet": "[screenshot of tweet from @dril on 2271-11-15: 'i have a bad feeling about the \"meta\" rebrand. they have a curse on them. the curse is working']",
+      "likes": 340821,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(39,77%,51%)",
+      "pfpGlyph": "☾",
+      "timestamp": "1s",
+      "temporal_anomaly": null
+    },
+    {
+      "display_name": "Just Asking Questions",
+      "handle": "@just_asking_q",
+      "tweet": "my cousin works at Persistence Services Ltd. legacy support division and he says this portal was intentionally taken offline to reduce ticket volume. the company doesn't want you to know this. wake up sheeple.",
+      "likes": 3,
+      "verified": 0,
+      "community_note": {
+        "text": "The witness portal has been offline due to documented infrastructure failures, not intentional deactivation. Persistence Services Ltd. maintains a public status page (persistence.services/status) that lists all known outages and estimated resolution times. [1][2]",
+        "contributor_type": "community",
+        "total_raters": 487,
+        "surfaced_ratings": [
+          {
+            "glyph": "⊗",
+            "label": "Misinformation",
+            "value": "94%"
+          },
+          {
+            "glyph": "◐",
+            "label": "Needs Sources",
+            "value": "89%"
+          }
+        ]
+      },
+      "pfpColor": "hsl(133,57%,47%)",
+      "pfpGlyph": "Φ",
+      "timestamp": "55s",
+      "temporal_anomaly": null
+    }
+  ],
+  "generated_at": "2026-04-25T02:51:44.471Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

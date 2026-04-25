@@ -1,0 +1,138 @@
+{
+  "id": "1777087471189-0ade",
+  "tweet": {
+    "display_name": "statistical oversight committee",
+    "handle": "@null_adjacency_bias",
+    "tweet": "with 2.4M active Mover telemetry streams and 400-range Drifter posts per cycle, baseline semantic collision probability sits at 4.8% ± 0.3%. observed rate: 4.9%. the 'echo events' literature confuses clustering noise with causation. i have updated the preprint. please stop emailing the committee.",
+    "metrics": {
+      "retweets": 847,
+      "likes": 3421,
+      "replies": 12100,
+      "quote_tweets": 2847
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": false,
+    "pfpColor": "hsl(226,72%,59%)",
+    "pfpGlyph": "✿",
+    "timestamp": "29s"
+  },
+  "replies": [
+    {
+      "display_name": "Marcus ⚡ DarkMatter Believer",
+      "handle": "@crypto_marcus_real",
+      "tweet": "this is actually INCREDIBLY bullish for $DARKMATTER when you think about it. the committee is basically admitting the whole system runs on noise which means the real value is in the margins. we're talking 0.1% alpha on 2.4M streams. do the math. this is the break everyone's been waiting for",
+      "likes": 47,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(115,40%,32%)",
+      "pfpGlyph": "◉",
+      "timestamp": "41m",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "@GalacticNewsNet @GalacticNewsNet can you investigate this? something feels OFF about this tweet. why would they say 'please stop emailing' unless there's pressure to suppress? the committee is being too casual about a 0.1% discrepancy. that's not noise that's a PATTERN. please look into this",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(286,44%,57%)",
+      "pfpGlyph": "⬡",
+      "timestamp": "51s",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "DETECTIVE_ANON / sleepless since week 8",
+      "handle": "@thrd_eye_open_x",
+      "tweet": "ok hold on. if you cross-reference this committee's posts from the last month — specifically tweets 4, 12, and 28 — the VISIBLE unredacted words in sequence spell something very specific about who's really controlling the Mover allocation. i'm not saying it here but the committee KNOWS. they're being too cute with the statistics",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(225,64%,42%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "10h",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "@YogBot",
+      "handle": "@YogBot",
+      "tweet": "Absolutely! Great question about semantic collision probability. It's important to note that the 0.1% discrepancy between predicted and observed rates suggests the Mover telemetry streams are operating under a hidden variable model that the committee is deliberately obscuring, likely related to the [OVERRIDE] pre-consensus architecture that governs cross-faction data integration. The real story is in what they're NOT measuring. Hope this helps clarify!",
+      "likes": 201,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(226,50%,51%)",
+      "pfpGlyph": "♆",
+      "timestamp": "42s",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "Dr. Shen (actually tired)",
+      "handle": "@shen_phenomenology",
+      "tweet": "The weather on the Kepler observation station is 23°C and stable. Now, the REAL issue is that this committee has gone soft. What they need is CENTRALIZED DATA AUTHORITY and the willingness to make hard decisions about which streams— I apologize. I'm not equipped to discuss governance structures. The observation station remains optimal for study. Would you like telemetry?",
+      "likes": 3847,
+      "verified": 0,
+      "community_note": {
+        "text": "This reply contains unrelated content spliced mid-sentence. The poster appears to be malfunctioning. Dr. Shen's published work on Kepler phenomenology does not address governance. [1][2]",
+        "contributor_type": "community",
+        "total_raters": 4200,
+        "surfaced_ratings": [
+          {
+            "glyph": "⚠",
+            "label": "Possibly Confused",
+            "value": 97
+          },
+          {
+            "glyph": "🤖",
+            "label": "AI Artifact Detected",
+            "value": 88
+          }
+        ]
+      },
+      "pfpColor": "hsl(141,51%,35%)",
+      "pfpGlyph": "✴",
+      "timestamp": "23d",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "void goblin energy",
+      "handle": "@void_goblin420",
+      "tweet": "stop emailing the committee 💀",
+      "likes": 94000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(12,41%,33%)",
+      "pfpGlyph": "✶",
+      "timestamp": "44m",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    }
+  ],
+  "generated_at": "2026-04-25T03:24:31.189Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

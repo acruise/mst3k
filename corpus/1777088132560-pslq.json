@@ -1,0 +1,92 @@
+{
+  "id": "1777088132560-pslq",
+  "tweet": {
+    "display_name": "Brand Hallister",
+    "handle": "@BrandHallister_CEO",
+    "tweet": "Q3 eschatological retention metrics tracking ahead of projections across our legacy infrastructure portfolio. We're rolling out enhanced dimensional monitoring for Tier 2+ participants—better service delivery is our mission. Also: massive props to the Persistence Services robotics initiative on placing 3rd at Galactic Regionals. We build the future, one contract at a time.",
+    "metrics": {
+      "retweets": 847,
+      "likes": 3421,
+      "replies": 2104,
+      "quote_tweets": 356
+    },
+    "verified": 2,
+    "is_ratio": true,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": false,
+    "pfpColor": "hsl(324,73%,51%)",
+    "pfpGlyph": "⊕",
+    "timestamp": "10h"
+  },
+  "replies": [
+    {
+      "display_name": "void_goblin420",
+      "handle": "@void_goblin420",
+      "tweet": "mods please let this cook i am BEGGING you this thread is the most beautiful thing i've seen all cycle",
+      "likes": 2847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(179,69%,58%)",
+      "pfpGlyph": "☉",
+      "timestamp": "26d",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "⊗ Glœm Witness-Collective",
+      "handle": "@glœm_witness_3847",
+      "tweet": "we have read your message about the retention of things in legacy infrastructure. we are confused why you celebrate the persistence of endings. we are sorry you must build futures in the space where futures no longer come. we have placed flowers.",
+      "likes": 1204,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(320,75%,35%)",
+      "pfpGlyph": "Ψ",
+      "timestamp": "23m",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "Compliance Officer Vreth'kai [PROVISIONAL POSITION]",
+      "handle": "@thrrm_vrethkai_interim",
+      "tweet": "okay so technically Form 7-Rho mandates transparency in eschatological metrics which you've actually done (i hate that i'm saying this) and the robotics initiative does fall under subsection 4-Mu infrastructure standards which (and i cannot believe i'm typing this publicly) your organization appears to have MET and i formally support this statement pending review by the Permanent Committee which will probably reverse it but right now in THIS moment before someone files",
+      "likes": 438,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(43,45%,43%)",
+      "pfpGlyph": "☍",
+      "timestamp": "6d",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "Dr. Kale Mendez, Migrated '71",
+      "handle": "@kale_mendez_migrated",
+      "tweet": "the rebranding happened three days before.",
+      "likes": 6,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(208,63%,42%)",
+      "pfpGlyph": "✦",
+      "timestamp": "1h",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    }
+  ],
+  "generated_at": "2026-04-25T03:35:32.560Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

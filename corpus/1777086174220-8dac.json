@@ -1,0 +1,28 @@
+{
+  "id": "1777086174220-8dac",
+  "tweet": {
+    "display_name": "Meridian Collective — FALGSC Adjacent",
+    "handle": "@meridian_post_scarcity",
+    "tweet": "wait so the upload owns the oxygen recycler on your station and you pay per breath and you're defending him? genuinely asking—do you need the money? are you okay? we have open slots in three systems. no charge. we're not being smug we're being serious",
+    "metrics": {
+      "retweets": 847,
+      "likes": 2104,
+      "replies": 12847,
+      "quote_tweets": 3421
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(131,58%,45%)",
+    "pfpGlyph": "◇",
+    "timestamp": "30d"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T03:02:54.220Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

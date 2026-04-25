@@ -1,0 +1,49 @@
+{
+  "id": "1777085727661-bj24",
+  "tweet": {
+    "display_name": "pixel liturgy",
+    "handle": "@aestheticvoid_",
+    "tweet": "ok so the collapsed hellpost from subjective-year-4891 just hit my feed and i need everyone to understand that the corrupted unicode is actually doing something. the way the fragments don't quite resolve? that's not glitch art that's INTENTION. this is what post-suffering looks like visually",
+    "metrics": {
+      "retweets": 8400,
+      "likes": 34200,
+      "replies": 2100,
+      "quote_tweets": 890
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. This post appears to reference a Persistence Services Ltd. legacy afterlife hosting contract participant. The 'glitch art' aesthetic described is actual substrate corruption caused by extended consciousness degradation in a punitive environment. The 'beauty' referenced may be unintentional signal of genuine suffering. We encourage engagement with primary sources from the Vrellnath remediation effort ([1] Vrellnath Eschatological Accountability Project, 2998-present) rather than aesthetic appreciation of the phenomenon. [1] Vrellnath Eschatological Accountability Project Annual Report 3025",
+      "contributor_type": "vrellnath",
+      "total_raters": 12400,
+      "surfaced_ratings": [
+        {
+          "glyph": "◐",
+          "label": "Causally Consistent",
+          "value": "Partial"
+        },
+        {
+          "glyph": "♡",
+          "label": "Feels Right",
+          "value": "18%"
+        },
+        {
+          "glyph": "◇",
+          "label": "Not Overly Ominous",
+          "value": "12%"
+        }
+      ]
+    },
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(80,65%,38%)",
+    "pfpGlyph": "⏢",
+    "timestamp": "1h"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T02:55:27.661Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

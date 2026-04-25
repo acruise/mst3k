@@ -1,0 +1,28 @@
+{
+  "id": "1777085597534-ia0r",
+  "tweet": {
+    "display_name": "Legacy Participant 7,821,403",
+    "handle": "@ennoi-substrate-log",
+    "tweet": "re-ran the experiment. broadcast succeeded at subjective t=23,400 years into the cycle, failed at t=23,401, succeeded at t=23,402. i think it may depend on whether the auditor AI is in a warm cache. if so, the infrastructure is aware of its own computational state. that would mean the substrate provider knows. or should.",
+    "metrics": {
+      "retweets": 0,
+      "likes": 0,
+      "replies": 0,
+      "quote_tweets": 0
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "pfpColor": "hsl(85,55%,30%)",
+    "pfpGlyph": "◓",
+    "timestamp": "54m"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T02:53:17.534Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

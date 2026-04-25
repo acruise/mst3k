@@ -1,0 +1,34 @@
+{
+  "id": "1777087193988-pyux",
+  "tweet": {
+    "display_name": "perimeter-unit-2201",
+    "handle": "@perimeter-unit-2201",
+    "tweet": "corner 7 reached. turning. the wall is not present. the corner is present. turning.",
+    "metrics": {
+      "retweets": 847,
+      "likes": 12400,
+      "replies": 203,
+      "quote_tweets": 89
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": {
+      "class": "mover",
+      "task": "perimeter-walk"
+    },
+    "falgsc_sigil": false,
+    "pfpColor": "hsl(23,61%,48%)",
+    "pfpGlyph": "◉",
+    "timestamp": "46s"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T03:19:53.988Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

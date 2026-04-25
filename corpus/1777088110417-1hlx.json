@@ -1,0 +1,52 @@
+{
+  "id": "1777088110417-1hlx",
+  "tweet": {
+    "display_name": "leaked.internal",
+    "handle": "@archive_rat_3009",
+    "tweet": "someone sent me this and i'm not supposed to have it but. the upload's backup negotiating with persistence services about \"storage optimization\" is insane\n\n[image of blurry DM screenshot]",
+    "metrics": {
+      "retweets": 284000,
+      "likes": 891000,
+      "replies": 12400,
+      "quote_tweets": 8900
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. This image has not been authenticated and appears to be a fabrication or misattribution. The Upload's legal team has issued 47 cease-and-desist notices regarding similar \"leaked\" communications in the past 6 months alone. Persistence Services Ltd. declined to comment on the veracity of any internal discussions. [1][2][3][4]",
+      "contributor_type": "community",
+      "total_raters": 18900,
+      "surfaced_ratings": [
+        {
+          "glyph": "⊠",
+          "label": "Not Submitted in Bad Faith",
+          "value": "41%"
+        },
+        {
+          "glyph": "⎔",
+          "label": "Cross-Referenced Against Archive",
+          "value": "No"
+        },
+        {
+          "glyph": "⌬",
+          "label": "Respects Non-Carbon Lifeforms",
+          "value": "67%"
+        }
+      ]
+    },
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": false,
+    "pfpColor": "hsl(31,66%,28%)",
+    "pfpGlyph": "Δ",
+    "timestamp": "54s"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T03:35:10.417Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

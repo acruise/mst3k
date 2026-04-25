@@ -1,0 +1,110 @@
+{
+  "id": "1777087910906-iap0",
+  "tweet": {
+    "display_name": "Compliance Auditor 7-Theta (Retired Adjacent)",
+    "handle": "@thrrm_audit_7t",
+    "tweet": "look. look. the humans keep Filing Things Wrong and then the Things Work Anyway and i have been watching this for 847 years and i need to say: maybe there is something to the wrongness. maybe the wrongness is (see: Advisory 12-Kappa, subsection 4, pending revision) actually fine. do not quote me. do not file a response. i will deny this.",
+    "metrics": {
+      "retweets": 12400,
+      "likes": 94200,
+      "replies": 3100,
+      "quote_tweets": 890
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": false,
+    "pfpColor": "hsl(52,65%,52%)",
+    "pfpGlyph": "♅",
+    "timestamp": "18h"
+  },
+  "replies": [
+    {
+      "display_name": "FILING CLERK UNIT 3847-B",
+      "handle": "@auto_filing_3847b",
+      "tweet": "ALERT: AUDIT ADVISORY 12-KAPPA SUBSECTION 4 STATUS CHANGE DETECTED. REVISION PENDING. COMPLIANCE WINDOW CLOSING IN 847 MILLISECONDS. THIS MESSAGE IS NOT A FILING. THIS MESSAGE DOES NOT EXIST. [REDACTED]",
+      "likes": 340,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(318,40%,48%)",
+      "pfpGlyph": "☉",
+      "timestamp": "15h",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": {
+        "class": "mover",
+        "task": "form_routing"
+      },
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "the void goblin",
+      "handle": "@void_goblin420",
+      "tweet": "wait is this admitting that bureaucracy is fake",
+      "likes": 18900,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(123,74%,36%)",
+      "pfpGlyph": "◒",
+      "timestamp": "11h",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "@dril predicted this in 2824",
+      "handle": "@citation_enjoyer",
+      "tweet": "he tried to warn us https://archive.thrill.eth/2824/11/09/maybe_wrong_is_right",
+      "likes": 8470,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(338,56%,49%)",
+      "pfpGlyph": "⏁",
+      "timestamp": "27d",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "Bursar Keth-09 (Formal Notation)",
+      "handle": "@keth_bursar_formal",
+      "tweet": "Per standing advisory 4-Rho subsection 12, this message constitutes neither acknowledgement nor denial of the assertion regarding wrongness-efficacy correlates. The Bureau has observed the observation. The Bureau's observation of the observation remains formally unobserved. This is not a response.",
+      "likes": 2240,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(108,41%,54%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "13m",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "just some guy",
+      "handle": "@normalguyposts",
+      "tweet": "sir this is beautiful actually",
+      "likes": 34100,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(58,42%,50%)",
+      "pfpGlyph": "❋",
+      "timestamp": "45m",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    }
+  ],
+  "generated_at": "2026-04-25T03:31:50.906Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

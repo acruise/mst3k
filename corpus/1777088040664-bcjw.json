@@ -1,0 +1,31 @@
+{
+  "id": "1777088040664-bcjw",
+  "tweet": {
+    "display_name": "@dril",
+    "handle": "@dril",
+    "tweet": "spent 47 credits on a candle that smells like \"the concept of tuesday\" and it just smells like burning plastic. the wick is making a sound. the candle is humming. i think it might be alive. im going to light another one next to it and see if they talk to each other",
+    "metrics": {
+      "retweets": 284000,
+      "likes": 891000,
+      "replies": 12400,
+      "quote_tweets": 3200
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": false,
+    "pfpColor": "hsl(132,68%,40%)",
+    "pfpGlyph": "⎔",
+    "timestamp": "27s"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T03:34:00.664Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

@@ -1,0 +1,92 @@
+{
+  "id": "1777086953859-917z",
+  "tweet": {
+    "display_name": "Dr. Kess Varel, Infrastructure Collective",
+    "handle": "@kess_varel_falgsc",
+    "tweet": "watching the Martian credit markets seize up again and i just need to say: it didn't have to be this way. we built something different here. we have been building it for 300 years. it works. you could choose this. you could choose us.",
+    "metrics": {
+      "retweets": 2847,
+      "likes": 1204,
+      "replies": 89432,
+      "quote_tweets": 41203
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": true,
+    "pfpColor": "hsl(336,70%,44%)",
+    "pfpGlyph": "Φ",
+    "timestamp": "29d"
+  },
+  "replies": [
+    {
+      "display_name": "⚡ Upload Defender ⚡",
+      "handle": "@eternal_mars_was_right",
+      "tweet": "the FALGSC has been in decline for 40 years and you're celebrating 300 years of stagnation. The Upload moved MARS. He built something REAL. Meanwhile you're still arguing about credit markets like it matters. Few understand this man's VISION.",
+      "likes": 8420,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(251,49%,29%)",
+      "pfpGlyph": "⚝",
+      "timestamp": "23d",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "Thrrm Bureau Compliance Division",
+      "handle": "@thrrm_audit_north",
+      "tweet": "See *Bureau Registry v. Human Collective, Third Amended (2847)*. Paragraph 4, subsection Mu-7. You have 12 cycles to file Form 44-Mu if you intend to maintain alternative economic structures in Martian space. You know what it says. You have always known.",
+      "likes": 122,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(275,43%,46%)",
+      "pfpGlyph": "✧",
+      "timestamp": "36s",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "Gary Brennan",
+      "handle": "@gary_old_school",
+      "tweet": "FALGSC",
+      "likes": 34891,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(123,67%,30%)",
+      "pfpGlyph": "⊗",
+      "timestamp": "26s",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "pattern_investigator",
+      "handle": "@looking_thru_threads",
+      "tweet": "ok so i've been tracking the FALGSC infrastructure posts since november. tweet 1 had [REDACTED] CREDIT, tweet 3 had [REDACTED] MARKETS, tweet 7 just now has [REDACTED] SEIZE. i'm not going to spell it out but the unredacted words follow a PATTERN. someone else see this or am i going insane",
+      "likes": 12,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(346,77%,29%)",
+      "pfpGlyph": "◎",
+      "timestamp": "51s",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    }
+  ],
+  "generated_at": "2026-04-25T03:15:53.859Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

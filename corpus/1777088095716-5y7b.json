@@ -1,0 +1,31 @@
+{
+  "id": "1777088095716-5y7b",
+  "tweet": {
+    "display_name": "dril",
+    "handle": "@dril",
+    "tweet": "the sun is wrong. ive looked at it. something is off. im not being cute about this",
+    "metrics": {
+      "retweets": 487000,
+      "likes": 1840000,
+      "replies": 23400,
+      "quote_tweets": 8900
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": false,
+    "pfpColor": "hsl(197,55%,55%)",
+    "pfpGlyph": "ψ",
+    "timestamp": "48s"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T03:34:55.716Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

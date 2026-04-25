@@ -1,0 +1,31 @@
+{
+  "id": "1777088033140-58ku",
+  "tweet": {
+    "display_name": "Dr. Meridian Voss (Meta Survivor)",
+    "handle": "@meridian_voss_3126",
+    "tweet": "people keep saying \"oh the bread thing was weird\" like it WASN'T the single worst week of my life. i had ARGUMENTATIVE BREAD in my mouth. the texture was COMBATIVE. it disagreed with my teeth. 2163 will never be forgiven.",
+    "metrics": {
+      "retweets": 8420,
+      "likes": 34891,
+      "replies": 2103,
+      "quote_tweets": 1247
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": false,
+    "pfpColor": "hsl(83,53%,44%)",
+    "pfpGlyph": "▽",
+    "timestamp": "15d"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T03:33:53.140Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}
