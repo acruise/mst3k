@@ -115,7 +115,11 @@ public/
   .htaccess        Apache rewrite rules: /api/* → router.php, /t/* → index.html.
 
   data/
-    handles.json            Fallback handle generation (prefixes/roots/suffixes). Not lore.
+    meme-formats.json       278 tweet format descriptions, categorized.
+    reply-archetypes.json   116 reply archetypes.
+    handles.json            Fallback handle generation (prefixes/roots/suffixes).
+    system-prompt.txt       Main tweet generation system prompt (~7K chars).
+    replies-prompt.txt      Reply thread generation system prompt (~5K chars).
 
 corpus/            Tweet+reply JSON files + _index.json (built at startup).
                    Each entry: { id, tweet, replies, generated_at, backend, model, temperature }.

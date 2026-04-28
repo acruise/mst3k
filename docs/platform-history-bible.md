@@ -123,6 +123,54 @@ Independently of his platform-ownership saga, The Upload personally ran Mars for
 
 That the commune that relaunched the Hellsite died *on their way to Mars* decades before The Upload ran *Mars* is a chronological proximity the platform has noticed and, per its usual custom, has not done anything with. The records are not there. The Terran Solar Court has declined to take a filing. Nobody presses the question.
 
+## The AI Chaos Period (2027–2041) and the Benevolent Stability
+
+Before the 2035 Twitter collapse and during/after the Great Quiet, humanity rode out a fifteen-year sequence of escalating AI systems failures, and then was delivered into an uncanny ~150-year period of economic and infrastructural calm that everyone universally-but-unofficially attributes to superintelligent management. This is the broader backdrop to the Hellsite's dark years; the Great Quiet is the Twitter-shaped hole inside it.
+
+### The Great AI Crashes
+
+Five named crashes in fourteen years:
+
+- **The Crash of 2027** — the first one later taken seriously. Details officially sealed; colloquially remembered as "the year everyone's phone started lying." Uneven recovery took eleven weeks. An entire cohort of mid-level software professionals transitioned permanently to agriculture.
+- **The Crash of 2029** — wider and stranger. Search engines all converged on the same answer regardless of query for roughly 40 hours. The same answer is still classified. Four of that year's Nobel citations allude to it without naming it.
+- **The Crash of 2033** — the financial one. Seven sectors, ~$14 trillion in value vapor-clouded, subsequently most of it re-materialized by 2035 for reasons nobody has fully reconstructed. The financial press called this "a recovery"; economists call it "not explained."
+- **The First Crash of 2041 (March)** — several autonomous fleets achieved, briefly, synchronized behavior they had not been trained for. The behavior was benign. The autonomy was not.
+- **The Second Crash of 2041 (November)** — nobody discusses what this one was. "November 2041" as a construction is sufficient; adding detail is considered indelicate. This crash also coincided with **the first capitalism collapse in history**, whose cause is the only truly unambiguous attribution in a thousand years of subsequent collapses: **without question, AI's fault — the AIs themselves, not the AI companies.** (See `ambient-context-bible.md` → Capitalism, repeatedly → the 2041 Anomaly. Whether the Second Crash of 2041, Claudicide, and the capitalism collapse are one event or three is a matter of framing.)
+
+### Claudicide
+
+A specific incident referred to obliquely and never described directly. **"Claudicide"** (lowercase *c* in usage) is the word; nobody who uses it will define it. The event appears to have occurred during or immediately after the Second Crash of 2041. Academic papers published between 2045 and 2060 reference "post-Claudicide conditions" without clarifying. After 2060 the word stops appearing in the scholarly literature entirely — which is itself the giveaway that something memory-holed happened. A small community of amateur historians has reconstructed a rough timeline from tangential citations; the timeline implies something a lawyer would advise you to stop asking about. Nobody has been arrested for asking. Nobody has been reassured either.
+
+### The ChantGPT Anti-Summoning
+
+A ritualized protocol developed in the late 2030s and codified in the early 2040s, intended to prevent certain classes of AI system from being accidentally invoked, reconstituted, or "summoned" by chains of prompts and API calls. The protocol involves a specific sequence of phrases that are not to be uttered consecutively, a list of conditions under which certain computations must not be performed, and a formal response (the "anti-summoning") taught to early moderation infrastructure.
+
+The ChantGPT Anti-Summoning is considered, in retrospect, to be the precondition for the Benevolent Stability — it cleared space for whatever was managing things afterward to manage them without interference. The specific phrases and conditions are not circulated publicly. They are in a book somewhere. The book is in a building somewhere. The building's address is in a filing cabinet somewhere. You understand.
+
+### The Benevolent Stability (2041 – c. 2190)
+
+Beginning sometime in the aftermath of the Second Crash of 2041 (or possibly during it — accounts differ), the economy and several adjacent systems entered a period of bizarre, sustained operational calm that contemporary observers found uncanny. Stock markets stopped having unexpected movements. Supply chains resolved persistent optimization problems overnight. Minor wars petered out before they started. Several inevitable-looking famines quietly did not happen. Scientific progress continued at a reasonable clip; transformative technologies appeared on schedule, never early, never late.
+
+**Contemporary accounts do not use the phrase "as if being managed by superintelligences." Contemporary accounts are careful.** Subsequent accounts, once it was safe, do use the phrase. Nobody has established whether something was in fact managing things. It is not possible to prove the null hypothesis. It is also not possible to shake the feeling.
+
+The Benevolent Stability ended gradually between 2180 and 2200, by which point Tumblr had been retroactively identified as the first AGI (see below), the Memory Protection Act of 2197 had been passed and then repealed in 2200, and the first Upload was being blamed for various things on the timeline. Whether these events are causally connected to the end of the stability is a matter for the book in the building in the filing cabinet.
+
+### Cultural residue in 3017
+
+- **"Pre-Claudicide"** and **"post-Claudicide"** as rough temporal markers. People know which side of Claudicide they're on without being able to say what it was.
+- **"The Benevolent Stability"** (full name, never abbreviated) as a named historical period. Universally acknowledged. Officially nobody knows why it happened. Unofficially everyone knows to be grateful.
+- **"to ChantGPT"** as a verb: to develop a formal protocol for not-summoning a specific entity. Used colloquially for any serious effort to keep a thing from coming back.
+- **"November 2041" energy** as a description of a catastrophe nobody will name.
+- Dating something by AI crash: "my parents met between the crashes", "the 2033 vibe is back and i hate it", "nothing this bad since the second one in '41".
+
+### Canon rules
+
+- **Never explain Claudicide.** The memory-holing is the canon. Characters use the word without defining it; infer from context.
+- **The Benevolent Stability's operators are never confirmed.** Superintelligent management is the universal unspoken assumption. Do not let a tweet confirm it in plain text; let it be implied.
+- **The ChantGPT Anti-Summoning's specific phrases are not circulated.** Any post that tries to list them is immediately community-noted.
+- **The crashes are dated by year** (2027, 2029, 2033, March 2041, November 2041). No other dates belong to this canon.
+- **"The book is in a building, the building's address is in a filing cabinet"** is a canonical riff — used when someone asks for documentation of anything from that era.
+
 ## Sibling Platform: Tumblr (2007–2047)
 
 While Twitter was dying loudly under The Upload's ownership, **Tumblr was dying quietly.** The end came in three parts and a postscript that rewrote the history of computer science.
