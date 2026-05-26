@@ -1,0 +1,23 @@
+{
+  "id": "1777090958147-2mpq",
+  "tweet": {
+    "display_name": "Dr. Kess Vorn (still waiting for answers)",
+    "handle": "@kess_vorn_legacy",
+    "tweet": "the Meat incident lasted seven minutes. SEVEN MINUTES. and somehow that typo revealed more truth about the company's actual values than their entire quarterly earnings report. i have screenshots. i have timestamps. i have the unedited version of that press release where they accidentally told the truth. Meta's response was to rebrand. again. as if rebranding erases what you are.",
+    "metrics": {
+      "retweets": 8420,
+      "likes": 34891,
+      "replies": 2156,
+      "quote_tweets": 891
+    },
+    "verified": 0,
+    "is_ratio": false
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T04:22:38.147Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1777090976215-5o45",
+  "tweet": {
+    "display_name": "still mad about 2247",
+    "handle": "@legless_era_witness",
+    "tweet": "and ANOTHER thing — everyone acts like LegsGate was some kind of accident but i was THERE when they toggled legs off the FOURTH time in a single afternoon and it took them seventeen minutes to notice. SEVENTEEN. MINUTES. of people screaming in the feeds before anyone at Meta checked the rollout logs. the third time they got it wrong you'd think there'd be a PERSON assigned to watch the leg toggle but no. no there wasn't. i have the screenshots. i will die with the screenshots.",
+    "metrics": {
+      "retweets": 8400,
+      "likes": 34200,
+      "replies": 2100,
+      "quote_tweets": 560
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": false,
+    "pfpColor": "hsl(18,65%,34%)",
+    "pfpGlyph": "⬢",
+    "timestamp": "59s"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T04:22:56.215Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

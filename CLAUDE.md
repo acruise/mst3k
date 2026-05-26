@@ -46,7 +46,7 @@ Every tweet and reply is now permalinked. Persistent IDs match the corpus filena
 
 Corpus index lives at `corpus/_index.json` (rebuilt automatically on server startup when the fingerprint — file count + oldest/newest filenames — changes). Contains `by_id`, `by_handle`, and counts (tweets, replies, tweets_with_replies, by_backend). Each corpus file is self-describing: `{id, tweet, replies, generated_at, backend, model, temperature}`. Legacy files without those fields still index — id is derived from filename, backend is recorded as "unknown".
 
-**Still outstanding (not in scope for this pass)**: per-username profile pages with a fabricated bio and 10-or-so tweet history (separate LLM call).
+**Profile pages**: DONE. `/u/@handle` shows a user's profile — display name, avatar, sigils, bio (LLM-generated in online mode), profile image description, all corpus tweets and reply appearances. "Generate bio" button calls `POST /api/generate-bio`; "generate a tweet" button calls `POST /api/generate-profile-tweet` and auto-saves to corpus. Bios cached in `data/bios.json`. Handles and display names in the feed are clickable links to profile pages. Corpus index v3 tracks `replies_by_handle` for reply lookups.
 
 ### P2 (universe): In-universe ads 
 They should be just as bizarrely mistargeted and random as current-day twitter ads
@@ -72,7 +72,11 @@ server.js          Express server. Three backend modes: anthropic, ollama, offli
                      POST /api/save            — persist a freshly-generated tweet, returns {id}
                      POST /api/save-replies    — attach replies to an existing tweet by id
                      GET  /api/tweet/:id       — fetch a corpus entry (id + tweet + replies + meta)
-                     GET  /api/tweets          — list every corpus tweet (no reply bodies; ~160KB for 220 tweets)
+                     GET  /api/tweets          — list every corpus tweet (no reply bodies)
+                     GET  /api/profile/:handle — profile data: tweets, reply appearances, cached bio
+                     POST /api/generate-bio    — LLM-generate bio + profile image description for a handle
+                     POST /api/generate-profile-tweet — LLM-generate a new tweet from a specific user
+                     GET  /u/:handle           — serves the SPA; frontend renders the profile view
                      GET  /t/                  — serves the SPA; frontend renders the full corpus feed
                      GET  /t/:id               — serves the SPA; frontend renders the permalink view
 
@@ -93,8 +97,8 @@ llm.js             Shared LLM client. callLLM() dispatches to Anthropic or Ollam
                    markdown fences, preamble; fixes trailing commas and unquoted keys).
 
 data/              Prompt data (NOT in public/ — never served to clients).
-  meme-formats.json       285 tweet format descriptions, categorized.
-  reply-archetypes.json   122 reply archetypes.
+  meme-formats.json       336 tweet format descriptions, categorized.
+  reply-archetypes.json   142 reply archetypes.
   system-prompt.txt       Main tweet generation system prompt.
   replies-prompt.txt      Reply thread generation system prompt.
 
@@ -121,7 +125,7 @@ public/
     system-prompt.txt       Main tweet generation system prompt (~7K chars).
     replies-prompt.txt      Reply thread generation system prompt (~5K chars).
 
-corpus/            Tweet+reply JSON files + _index.json (built at startup).
+corpus/            Tweet+reply JSON files + _index.json (built at startup) + _bios.json (cached bios).
                    Each entry: { id, tweet, replies, generated_at, backend, model, temperature }.
                    Legacy files lacking those fields are still indexed (id derived from filename;
                    backend recorded as "unknown").

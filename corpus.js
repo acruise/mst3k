@@ -5,7 +5,7 @@ var fs = require("fs");
 var path = require("path");
 
 var INDEX_FILE = "_index.json";
-var INDEX_VERSION = 2; // bumped to trigger rebuild after adding summon/incite tables
+var INDEX_VERSION = 3; // bumped to add replies_by_handle for profile pages
 // Permissive enough to accept the existing `{ts}-{idx}` corpus files AND hand-seeded
 // files like `notes-showcase-001`, while blocking path traversal (no `..`, `/`, `\`, spaces).
 var ID_RE = /^[A-Za-z0-9][A-Za-z0-9_-]{0,63}$/;
@@ -60,6 +60,7 @@ function buildIndex(corpusDir) {
     by_handle: {},
     by_summon: {},
     by_incite: {},
+    replies_by_handle: {},
     counts: {
       tweets: 0,
       replies: 0,
@@ -84,6 +85,15 @@ function buildIndex(corpusDir) {
     if (handle) {
       if (!index.by_handle[handle]) index.by_handle[handle] = [];
       index.by_handle[handle].push(id);
+    }
+    if (doc.replies && doc.replies.length) {
+      for (var ri = 0; ri < doc.replies.length; ri++) {
+        var rHandle = (doc.replies[ri].handle || "").toLowerCase();
+        if (rHandle) {
+          if (!index.replies_by_handle[rHandle]) index.replies_by_handle[rHandle] = [];
+          index.replies_by_handle[rHandle].push({ id: id, reply_index: ri });
+        }
+      }
     }
     var b = doc.backend || "unknown";
     index.counts.by_backend[b] = (index.counts.by_backend[b] || 0) + 1;
@@ -203,11 +213,19 @@ function saveReplies(corpusDir, index, id, replies) {
   fs.writeFileSync(filepath, JSON.stringify(doc, null, 2));
 
   if (index) {
+    if (!index.replies_by_handle) index.replies_by_handle = {};
     if (!hadRepliesBefore && replies && replies.length) {
       index.counts.tweets_with_replies++;
     }
     if (replies && replies.length) {
       index.counts.replies += replies.length - (hadRepliesBefore ? doc.replies.length : 0);
+      for (var ri = 0; ri < replies.length; ri++) {
+        var rHandle = (replies[ri].handle || "").toLowerCase();
+        if (rHandle) {
+          if (!index.replies_by_handle[rHandle]) index.replies_by_handle[rHandle] = [];
+          index.replies_by_handle[rHandle].push({ id: id, reply_index: ri });
+        }
+      }
     }
     writeIndex(corpusDir, index);
   }
@@ -253,6 +271,61 @@ function listTweets(corpusDir) {
   return items;
 }
 
+function getProfileData(corpusDir, index, handle) {
+  var h = (handle || "").toLowerCase();
+  if (!h) return null;
+  var tweetIds = (index && index.by_handle && index.by_handle[h]) || [];
+  var replyRefs = (index && index.replies_by_handle && index.replies_by_handle[h]) || [];
+
+  var tweets = [];
+  var latestTweet = null;
+  for (var i = 0; i < tweetIds.length; i++) {
+    var doc = getEntry(corpusDir, index, tweetIds[i]);
+    if (!doc || !doc.tweet) continue;
+    tweets.push({
+      id: doc.id,
+      tweet: doc.tweet,
+      has_replies: !!(doc.replies && doc.replies.length),
+      generated_at: doc.generated_at || null,
+    });
+    if (!latestTweet || (doc.generated_at && doc.generated_at > latestTweet.generated_at)) {
+      latestTweet = doc;
+    }
+  }
+
+  var replyAppearances = [];
+  for (var j = 0; j < replyRefs.length; j++) {
+    var ref = replyRefs[j];
+    var parentDoc = getEntry(corpusDir, index, ref.id);
+    if (!parentDoc || !parentDoc.replies || !parentDoc.replies[ref.reply_index]) continue;
+    var reply = parentDoc.replies[ref.reply_index];
+    replyAppearances.push({
+      parent_id: parentDoc.id,
+      parent_handle: (parentDoc.tweet && parentDoc.tweet.handle) || "@unknown",
+      parent_tweet: (parentDoc.tweet && parentDoc.tweet.tweet) || "",
+      reply_index: ref.reply_index,
+      reply: reply,
+    });
+  }
+
+  var lt = latestTweet && latestTweet.tweet;
+  var latestReply = null;
+  if (!lt && replyAppearances.length) {
+    latestReply = replyAppearances[replyAppearances.length - 1].reply;
+  }
+  var src = lt || latestReply;
+  return {
+    handle: src ? (src.handle || handle) : handle,
+    display_name: src ? (src.display_name || "???") : "???",
+    pfpColor: (lt && lt.pfpColor) || null,
+    pfpGlyph: (lt && lt.pfpGlyph) || null,
+    verified: src ? (src.verified || 0) : 0,
+    falgsc_sigil: src ? (src.falgsc_sigil || false) : false,
+    tweets: tweets,
+    reply_appearances: replyAppearances,
+  };
+}
+
 module.exports = {
   makeId: makeId,
   isValidId: isValidId,
@@ -266,4 +339,5 @@ module.exports = {
   listTweets: listTweets,
   fingerprint: fingerprint,
   readEntry: readEntry,
+  getProfileData: getProfileData,
 };

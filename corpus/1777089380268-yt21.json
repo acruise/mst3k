@@ -1,0 +1,23 @@
+{
+  "id": "1777089380268-yt21",
+  "tweet": {
+    "display_name": "???",
+    "handle": "gen_wars",
+    "tweet": "ok so everyone's talking about how gen alpha has it worse with the algorithm but like. we had to learn that the internet was permanent at the exact moment we were learning to be people. you got your embarrassing posts documented but we got our embarrassing posts ARCHIVED BY GOOGLE. there's a difference",
+    "metrics": {
+      "retweets": 8420,
+      "likes": 31200,
+      "replies": 2847,
+      "quote_tweets": 1203
+    },
+    "verified": 0,
+    "is_ratio": false
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T03:56:20.268Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

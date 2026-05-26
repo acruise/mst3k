@@ -1,0 +1,22 @@
+{
+  "id": "1777091460029-62nn",
+  "tweet": {
+    "display_name": "nostalgic boomer energy",
+    "handle": "@back_in_my_day",
+    "tweet": "remember when uploading your consciousness took WEEKS and you had to sign seventeen different liability waivers? now these kids just fork themselves at a coffee station. the existential dread used to mean something",
+    "metrics": {
+      "retweets": 2840,
+      "likes": 18900,
+      "replies": 1240,
+      "quote_tweets": 340
+    },
+    "verified": 0
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T04:31:00.029Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

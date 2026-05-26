@@ -38,6 +38,14 @@ var SYSTEM_PROMPT = fs.readFileSync(path.join(DATA_DIR, "system-prompt.txt"), "u
 var REPLIES_PROMPT = fs.readFileSync(path.join(DATA_DIR, "replies-prompt.txt"), "utf8");
 var HANDLES = JSON.parse(fs.readFileSync(path.join(DATA_DIR, "handles.json"), "utf8"));
 
+var BIOS_PATH = path.join(CORPUS_DIR, "_bios.json");
+var bios = {};
+try { bios = JSON.parse(fs.readFileSync(BIOS_PATH, "utf8")); } catch (e) {}
+function saveBio(handle, data) {
+  bios[handle.toLowerCase()] = data;
+  try { fs.writeFileSync(BIOS_PATH, JSON.stringify(bios, null, 2)); } catch (e) {}
+}
+
 function generateHandle() {
   var p = HANDLES.prefixes; var r = HANDLES.roots; var s = HANDLES.suffixes;
   return "@" + randomChoice(p) + randomChoice(r) + randomChoice(s);
@@ -240,6 +248,104 @@ app.get("/api/tweets", function (req, res) {
   res.json({ tweets: items, count: items.length });
 });
 
+// ── GET /api/profile/:handle — profile data for a handle ──
+app.get("/api/profile/:handle", function (req, res) {
+  var handle = decodeURIComponent(req.params.handle);
+  var profile = corpusLib.getProfileData(CORPUS_DIR, corpusIndex, handle);
+  if (!profile) return res.status(404).json({ error: "Handle not found" });
+  var bio = bios[handle.toLowerCase()] || null;
+  profile.bio = bio ? bio.bio : null;
+  profile.profile_image_description = bio ? bio.profile_image_description : null;
+  res.json(profile);
+});
+
+// ── POST /api/generate-bio — generate bio + profile image description via LLM ──
+app.post("/api/generate-bio", function (req, res) {
+  if (BACKEND === "offline") return res.status(503).json({ error: "Offline mode" });
+  var handle = req.body && req.body.handle;
+  var displayName = req.body && req.body.display_name;
+  var sampleTweets = req.body && req.body.sample_tweets;
+  var verified = req.body && req.body.verified;
+  var falgsc = req.body && req.body.falgsc_sigil;
+  if (!handle) return res.status(400).json({ error: "Missing handle" });
+
+  var content = 'Generate a profile bio and avatar description for this platform user.\n\n'
+    + 'Handle: ' + handle + '\n'
+    + 'Display name: ' + (displayName || '???') + '\n'
+    + 'Sigil tier: ' + (verified || 0) + (falgsc ? ' (also FALGSC community-verified)' : '') + '\n\n';
+  if (sampleTweets && sampleTweets.length) {
+    content += 'Sample tweets from this user (use these to match their voice and vibe):\n';
+    for (var i = 0; i < sampleTweets.length; i++) {
+      content += (i + 1) + '. "' + sampleTweets[i] + '"\n';
+    }
+    content += '\n';
+  }
+  content += 'Generate a JSON object with:\n'
+    + '- "bio": A 1-3 sentence bio IN THEIR VOICE, matching the handle/display-name energy and tweet style. Platform bios are short, weird, and personal. Not a description of them — what they would write about themselves.\n'
+    + '- "profile_image_description": A 1-2 sentence vivid description of what their profile picture looks like. Be specific and visual — a scene, an object, a vibe. Match the account energy.\n\n'
+    + 'Respond with ONLY valid JSON (no markdown, no backticks, no preamble).';
+
+  llm.callLLM(BACKEND, llmConfig, SYSTEM_PROMPT, content, 1000, 0.9)
+    .then(function (text) {
+      var parsed = llm.parseLooseJSON(text);
+      var bioData = {
+        bio: parsed.bio || null,
+        profile_image_description: parsed.profile_image_description || null,
+        generated_at: new Date().toISOString(),
+        backend: BACKEND,
+        model: llmConfig && llmConfig.model,
+      };
+      saveBio(handle, bioData);
+      res.json(bioData);
+    })
+    .catch(function (err) { res.status(502).json({ error: err.message }); });
+});
+
+// ── POST /api/generate-profile-tweet — generate a tweet from a specific user ──
+app.post("/api/generate-profile-tweet", function (req, res) {
+  if (BACKEND === "offline") return res.status(503).json({ error: "Offline mode" });
+  var handle = req.body && req.body.handle;
+  var displayName = req.body && req.body.display_name;
+  var sampleTweets = req.body && req.body.sample_tweets;
+  var verified = req.body && req.body.verified;
+  var falgsc = req.body && req.body.falgsc_sigil;
+  var bio = req.body && req.body.bio;
+  if (!handle) return res.status(400).json({ error: "Missing handle" });
+
+  var content = 'Generate a NEW tweet from this specific user. The tweet MUST be posted by this exact handle and display name — do not invent a different poster.\n\n'
+    + 'Handle: ' + handle + '\n'
+    + 'Display name: ' + (displayName || '???') + '\n'
+    + 'Sigil tier: ' + (verified || 0) + (falgsc ? ' (also FALGSC community-verified)' : '') + '\n';
+  if (bio) content += 'Bio: ' + bio + '\n';
+  content += '\n';
+  if (sampleTweets && sampleTweets.length) {
+    content += 'Previous tweets from this user (match their voice, but write something NEW — do not repeat or rephrase these):\n';
+    for (var j = 0; j < sampleTweets.length; j++) {
+      content += (j + 1) + '. "' + sampleTweets[j] + '"\n';
+    }
+    content += '\n';
+  }
+  content += 'Generate ONE tweet in the standard JSON format. The handle and display_name MUST match exactly.';
+
+  llm.callLLM(BACKEND, llmConfig, SYSTEM_PROMPT, content, 2000, 0.9)
+    .then(function (text) {
+      var parsed = llm.parseLooseJSON(text);
+      if (Array.isArray(parsed)) parsed = parsed[0];
+      parsed.handle = handle;
+      parsed.display_name = displayName || parsed.display_name;
+      if (falgsc) parsed.falgsc_sigil = true;
+
+      var model = llmConfig && llmConfig.model;
+      var recordedTemp = null;
+      if (llm.acceptsSamplingParams(model)) recordedTemp = 0.9;
+      var meta = { backend: BACKEND, model: model, temperature: recordedTemp };
+      var saved = corpusLib.saveTweet(CORPUS_DIR, corpusIndex, parsed, meta);
+      parsed.id = saved.id;
+      res.json({ tweet: parsed });
+    })
+    .catch(function (err) { res.status(502).json({ error: err.message }); });
+});
+
 // ── POST /api/save — persist a freshly-generated tweet, assign id ──
 app.post("/api/save", function (req, res) {
   var tweet = req.body && req.body.tweet;
@@ -341,6 +447,11 @@ app.post("/api/replies", function (req, res) {
       log.error({ event: "replies_parse_error", error: err.message, preview: (err.rawText || "").slice(0, 300) }, "replies parse failed");
       res.status(502).json({ error: err.message });
     });
+});
+
+// ── Profile pages: /u/:handle serves the SPA ──
+app.get("/u/:handle", function (req, res) {
+  res.sendFile(path.join(__dirname, "public", "index.html"));
 });
 
 // ── Permalink + collection routes: /t/ and /t/:id both serve the SPA ──

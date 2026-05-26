@@ -1,0 +1,31 @@
+{
+  "id": "1777090928091-nj64",
+  "tweet": {
+    "display_name": "Witness to Atrocities",
+    "handle": "@migration_survivor_line_7",
+    "tweet": "nobody talks about the Soul Migration Backlog of 2228 anymore but i was THERE. i was in queue position 847,491,203 for EIGHT MONTHS. eight months as raw consciousness in a buffer. and Meta just. moved on. rebranded. nobody apologized. \"legacy issue\" they called it. i will die mad about this",
+    "metrics": {
+      "retweets": 12400,
+      "likes": 89300,
+      "replies": 3847,
+      "quote_tweets": 892
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": false,
+    "pfpColor": "hsl(140,40%,32%)",
+    "pfpGlyph": "⬢",
+    "timestamp": "20d"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T04:22:08.091Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1777091531091-2wuz",
+  "tweet": {
+    "display_name": "Coordinator Vex (she/they)",
+    "handle": "@vex_collective_7",
+    "tweet": "the registry contact keeps asking if \"Fully Automated Luxury Gay Space Communism\" is five proper nouns or one governance model or a poetry excerpt. we have submitted seventeen clarifications. the seventeenth was just the founding document again but in a different font. they want a forty-page taxonomy.",
+    "metrics": {
+      "retweets": 8400,
+      "likes": 31200,
+      "replies": 2100,
+      "quote_tweets": 890
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": true,
+    "pfpColor": "hsl(180,48%,27%)",
+    "pfpGlyph": "✿",
+    "timestamp": "6m"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T04:32:11.091Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

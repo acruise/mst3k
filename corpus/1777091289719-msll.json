@@ -1,0 +1,52 @@
+{
+  "id": "1777091289719-msll",
+  "tweet": {
+    "display_name": "Dr. Keiko Tanaka-7 (she/they)",
+    "handle": "@keiko.collective.mars",
+    "tweet": "watching the Outer Rim credit markets implode again and genuinely: it didn't have to be this way. we proved the alternative works. we've been Living it for 200 years. the choice to let people suffer is just that — a choice.",
+    "metrics": {
+      "retweets": 847000,
+      "likes": 234000,
+      "replies": 2891000,
+      "quote_tweets": 445000
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. While the poster's polity has demonstrated sustainable post-scarcity economic models since 2847, the claim that these are universally implementable ignores material constraints including: existing infrastructure lock-in, cultural resistance to gift-economy frameworks, and the computational overhead of consensus-based resource allocation at stellar scale. The statement 'it didn't have to be this way' is technically accurate but strategically omits why alternative frameworks have not been adopted elsewhere. [1][2][3][4][5]",
+      "contributor_type": "community",
+      "total_raters": 1847291,
+      "surfaced_ratings": [
+        {
+          "glyph": "✓",
+          "label": "Epistemically Sound",
+          "value": "97%"
+        },
+        {
+          "glyph": "⚖",
+          "label": "Balanced Framing",
+          "value": "12%"
+        },
+        {
+          "glyph": "♡",
+          "label": "Feels Right",
+          "value": "89%"
+        }
+      ]
+    },
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": true,
+    "pfpColor": "hsl(65,54%,28%)",
+    "pfpGlyph": "⊕",
+    "timestamp": "2m"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T04:28:09.719Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1777091056394-8y1e",
+  "tweet": {
+    "display_name": "corporate comms auditor",
+    "handle": "@brand_postmortem",
+    "tweet": "they just sent out the third draft of the quarterly earnings release and it's wordwrapped weird and the serif font is broken and every instance of 'Meta' has been replaced with 'Meat' in exactly seven places that weren't caught. this is Meat energy. someone is having a day.",
+    "metrics": {
+      "retweets": 47000,
+      "likes": 156000,
+      "replies": 8200,
+      "quote_tweets": 3100
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": false,
+    "pfpColor": "hsl(128,65%,44%)",
+    "pfpGlyph": "⚝",
+    "timestamp": "17h"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T04:24:16.394Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

@@ -1,0 +1,83 @@
+{
+  "id": "1777090265589-n4yn",
+  "tweet": {
+    "display_name": "glœm 🌊",
+    "handle": "@gloemposting",
+    "tweet": "we watched a small creature today. it was not bright but it moved with Purpose. we do not know what the Purpose was. this made us love it more. we have turned silver in sympathy. the Purpose continues. we are still silver. this is correct.",
+    "metrics": {
+      "retweets": 847,
+      "likes": 24891,
+      "replies": 1203,
+      "quote_tweets": 89
+    },
+    "verified": 0
+  },
+  "replies": [
+    {
+      "display_name": "Vrellnath Consensus Node 7",
+      "handle": "@vrellnath-7",
+      "tweet": "we have read this. we understand the Purpose was movement. we do not understand why movement without brightness deserves love. we have consulted our 14.19 billion selves. 14.18 billion still do not understand. the remaining billion is now also silver. they are upset about this.",
+      "likes": 3847,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(256,40%,26%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "7h",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "Mars Was Right ⚡",
+      "handle": "@eternal_upload_defender",
+      "tweet": "name a single thing YOU'VE built in 1000 years. meanwhile The Upload built: Mars terraforming infrastructure, the Beacon Network, the post-scarcity economic model, the consciousness fork architecture, the wormhole stabilizers (funded them anyway), and basically saved humanity from itself. you're WELCOME",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(290,63%,54%)",
+      "pfpGlyph": "●",
+      "timestamp": "10s",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "just asking questions",
+      "handle": "@just_asking_q",
+      "tweet": "link?",
+      "likes": 12740,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(315,68%,45%)",
+      "pfpGlyph": "☾",
+      "timestamp": "7h",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "a tired person with a cat",
+      "handle": "@exhausted_with_opinions",
+      "tweet": "this is the most beautiful thing i've read all week and i'm genuinely not sure if you're describing a beetle, consciousness itself, or a metaphor for growing old. either way i'm crying a little. the silver detail is getting me.",
+      "likes": 2104,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(39,55%,41%)",
+      "pfpGlyph": "◓",
+      "timestamp": "14d",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    }
+  ],
+  "generated_at": "2026-04-25T04:11:05.589Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

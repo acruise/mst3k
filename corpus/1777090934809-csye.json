@@ -1,0 +1,31 @@
+{
+  "id": "1777090934809-csye",
+  "tweet": {
+    "display_name": "Dr. Kess Vorn (still waiting for answers)",
+    "handle": "@kess_vorn_legacy",
+    "tweet": "they STILL haven't explained why my avatar's legs toggled FOUR TIMES in a single afternoon during LegsGate 2244. four times. i have the logs. i was there. my spine remembers being legless. my spine ALSO remembers having them back. the cognitive dissonance alone should be a crime but Meta just swept it under the rug like the previous THREE legless eras never happened. i will die mad about this.",
+    "metrics": {
+      "retweets": 2847,
+      "likes": 18934,
+      "replies": 4102,
+      "quote_tweets": 891
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": false,
+    "pfpColor": "hsl(229,56%,43%)",
+    "pfpGlyph": "⏁",
+    "timestamp": "21h"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T04:22:14.809Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

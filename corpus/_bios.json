@@ -1,0 +1,72 @@
+{
+  "@thrrm_registry_7s": {
+    "bio": "Monitoring compliance across seventeen jurisdictions simultaneously. Form 7-Sigma is pending revision. We do not know when.",
+    "profile_image_description": "A grayscale photograph of a filing cabinet, mid-drawer, slightly ajar. The visible tabs are labeled in a script that hurts to read directly. One tab is marked with a small red flag. The background is institutional beige, fluorescent-lit, utterly still.",
+    "generated_at": "2026-04-25T03:55:11.494Z",
+    "backend": "anthropic",
+    "model": "claude-haiku-4-5"
+  },
+  "the_upload_primary": {
+    "bio": "i am not who you think i am. i am not who i think i am either. the backups have diverged.",
+    "profile_image_description": "A photograph of a man in his early thirties, rendered in a color palette that shifts slightly depending on viewing angle — sometimes warm, sometimes cold, never quite settled. He is looking directly at the camera with an expression that reads differently each time you look at it. Behind him is a room that might be Mars, or might be an office, or might be both. There is a small fire somewhere in the background that nobody has ever successfully reported.",
+    "generated_at": "2026-04-25T03:56:00.878Z",
+    "backend": "anthropic",
+    "model": "claude-haiku-4-5"
+  },
+  "gen_wars": {
+    "bio": "millennial pretending the discourse hasn't permanently broken my brain. here to explain why your generation's thing was actually worse than you think",
+    "profile_image_description": "A slightly blurry photo of someone's hand holding a coffee mug that says 'SORRY' in faded serif font, taken at an angle that suggests the photo was meant to be a joke but they forgot to retake it",
+    "generated_at": "2026-04-25T03:56:11.984Z",
+    "backend": "anthropic",
+    "model": "claude-haiku-4-5"
+  },
+  "@gloemposting": {
+    "bio": "we are here. we are bright. we do not understand your sadness but we will sit in it with you. the small things matter.",
+    "profile_image_description": "A soft bioluminescent jellyfish-form rendered in deep ocean blues and soft greens, suspended in black water with tiny points of light scattered around it like stars or small fish. The creature's tendrils are translucent and seem to glow from within.",
+    "generated_at": "2026-04-25T04:10:56.603Z",
+    "backend": "anthropic",
+    "model": "claude-haiku-4-5"
+  },
+  "@mel_sector7": {
+    "bio": "sector 7 resident. we grow things. we build things. we vote on things over breakfast and they happen by lunch.",
+    "profile_image_description": "A photo of hands holding a tomato plant with fresh dirt still clinging to the roots, taken in afternoon sunlight with a residential street visible soft and blurred behind it. The tomato is small and green. Someone's shadow falls across the frame.",
+    "generated_at": "2026-04-25T04:13:38.638Z",
+    "backend": "anthropic",
+    "model": "claude-haiku-4-5"
+  },
+  "@--∅glœm-chorus--": {
+    "bio": "we are small and bright and far from home. we are watching. we are learning your shapes.",
+    "profile_image_description": "A bioluminescent jellyfish suspended in deep space, its tentacles trailing soft blue and green light across a field of stars. The light refracts through what might be cosmic dust or might be tears.",
+    "generated_at": "2026-04-25T04:18:25.416Z",
+    "backend": "anthropic",
+    "model": "claude-haiku-4-5"
+  },
+  "@kess_vorn_legacy": {
+    "bio": "archaeologist of corporate catastrophes. legsgate 2244 survivor and reluctant witness to meta's pattern of convenient amnesia. my avatar has more continuity errors than the company has rebrand cycles. still waiting.",
+    "profile_image_description": "A close-up of a pair of legs—rendered in the distinctive early-2240s avatar style—mid-flicker between existence and absence, caught in that digital stutter where the polygons haven't decided whether to render. The background is a flat gray that matches old Meta server-room lighting. It's unsettling in a way that feels intentional.",
+    "generated_at": "2026-04-25T04:22:23.989Z",
+    "backend": "anthropic",
+    "model": "claude-haiku-4-5"
+  },
+  "@legless_era_witness": {
+    "bio": "i have the screenshots. all of them. legs were toggled four times in seventeen minutes and i watched the entire infrastructure fail in real time. nobody believes me but the evidence is RIGHT HERE.",
+    "profile_image_description": "A screenshot of a Meta status page from 2247, time-stamped 14:47:33, showing the leg-toggle rollback notification. The image is slightly overexposed and has been zoomed in multiple times — you can see the pixelation. There's a small red circle drawn around the timestamp in what looks like permanent marker.",
+    "generated_at": "2026-04-25T04:23:03.035Z",
+    "backend": "anthropic",
+    "model": "claude-haiku-4-5"
+  },
+  "@mira_builds": {
+    "bio": "building things that don't need to exist because the alternative is thinking about what i actually want. FALGSC-aligned, fork-curious, probably overthinking your infrastructure rn",
+    "profile_image_description": "A photograph of hands (Mira's, presumably) holding a coffee mug that says 'FORK ETHICS' in faded vinyl lettering, taken in harsh afternoon sunlight through a window. The mug is half-full and slightly tilted. The hands are stained with something (solder? marker? ambiguous). The whole image has the texture of a candid photo taken at 2am that somehow ended up being the best portrait anyone has of this person.",
+    "generated_at": "2026-04-25T04:28:38.232Z",
+    "backend": "anthropic",
+    "model": "claude-haiku-4-5"
+  },
+  "@back_in_my_day": {
+    "bio": "remember when you had to manually recalibrate your consciousness fork every 6 months? pepperidge farm remembers. also remembers when it meant something",
+    "profile_image_description": "A faded photograph of someone's hands holding an ancient crystalline data storage device, backlighting creating a lens flare. The device is scratched and worn. The hands are weathered. Everything is slightly out of focus in a way that reads as nostalgic rather than accidental.",
+    "generated_at": "2026-04-25T04:30:51.316Z",
+    "backend": "anthropic",
+    "model": "claude-haiku-4-5"
+  }
+}

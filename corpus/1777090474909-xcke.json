@@ -1,0 +1,31 @@
+{
+  "id": "1777090474909-xcke",
+  "tweet": {
+    "display_name": "Dr. Vex Kormann",
+    "handle": "@vex_k_live",
+    "tweet": "ok so theyre definitely not supposed to know we're here. the lead negotiator just noticed my phone light. pretending to check my vitals. this is fine. update: one of the Thrrm just cited a form at me. i think that means i'm allowed to be here actually",
+    "metrics": {
+      "retweets": 89000,
+      "likes": 340000,
+      "replies": 12400,
+      "quote_tweets": 3200
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": false,
+    "pfpColor": "hsl(18,71%,27%)",
+    "pfpGlyph": "△",
+    "timestamp": "15s"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T04:14:34.909Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

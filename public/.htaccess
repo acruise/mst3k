@@ -3,6 +3,9 @@ RewriteEngine On
 # API routes → router.php
 RewriteRule ^api/ router.php [QSA,L]
 
+# Profile routes → SPA
+RewriteRule ^u/.+ index.html [L]
+
 # Permalink routes → SPA
 RewriteRule ^t/?$ index.html [L]
 RewriteRule ^t/[A-Za-z0-9][A-Za-z0-9_-]*$ index.html [L]

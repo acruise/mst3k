@@ -1,0 +1,52 @@
+{
+  "id": "1777091030326-za2x",
+  "tweet": {
+    "display_name": "Dr. Cassius Venn (Migrated, 2271)",
+    "handle": "@venn_cassius_archive",
+    "tweet": "i just found the original press release. Meta Announces Meta. they renamed themselves from Meta to Meta. two days before everything ended. two DAYS. i have been alive for 400 years and somehow never saw this. i am not okay. i am not processing this correctly.",
+    "metrics": {
+      "retweets": 847000,
+      "likes": 2100000,
+      "replies": 156000,
+      "quote_tweets": 89000
+    },
+    "verified": 0,
+    "is_ratio": false,
+    "community_note": {
+      "text": "Readers added context they thought people might want to know. The archived press release 'Meta Announces Meta' is real and can be verified through the Wayback Archive (2271-11-10 snapshot). The company had rebranded approximately 47 times across its history; this final rebrand from 'Meta' to 'Meta' occurred on 2271-11-11, approximately 48 hours before the catastrophic infrastructure failure on 2271-11-13. [1] The fact that the rebrand involved no apparent change to the company name or branding is documented in post-collapse analysis and has been described by historians as either 'the most honest thing they ever did' or 'a sign the institution had achieved full self-reference.' [2][3]",
+      "contributor_type": "community",
+      "total_raters": 34000,
+      "surfaced_ratings": [
+        {
+          "glyph": "✓",
+          "label": "Epistemically Sound",
+          "value": "99%"
+        },
+        {
+          "glyph": "⟐",
+          "label": "Does Not Reference [CONTENT FILTERED]",
+          "value": "Yes"
+        },
+        {
+          "glyph": "♡",
+          "label": "Feels Right",
+          "value": "87%"
+        }
+      ]
+    },
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": false,
+    "pfpColor": "hsl(19,61%,33%)",
+    "pfpGlyph": "⬢",
+    "timestamp": "21d"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T04:23:50.326Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

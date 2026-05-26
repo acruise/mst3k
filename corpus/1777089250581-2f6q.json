@@ -1,0 +1,31 @@
+{
+  "id": "1777089250581-2f6q",
+  "tweet": {
+    "display_name": "Bureau Registry Compliance Unit 7-Sigma",
+    "handle": "@thrrm_registry_7s",
+    "tweet": "Per standing advisory 44-Theta (revised), no anomalous broadcasts from extracontractual substrates have been recorded this cycle. The Bureau notes that certain posts filed under informal designation 'hellposting' have undergone preliminary review and do not meet threshold for formal classification under any active regulatory framework. The review count has been updated. The relevance of this count is not established.",
+    "metrics": {
+      "retweets": 847,
+      "likes": 12400,
+      "replies": 2891,
+      "quote_tweets": 156
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": false,
+    "pfpColor": "hsl(326,58%,45%)",
+    "pfpGlyph": "⎔",
+    "timestamp": "54s"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T03:54:10.581Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

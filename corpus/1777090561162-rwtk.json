@@ -1,0 +1,92 @@
+{
+  "id": "1777090561162-rwtk",
+  "tweet": {
+    "display_name": "Dr. Kenji Sato (Actual Physicist)",
+    "handle": "@sato_k_astrophysics",
+    "tweet": "\"FTL is just a matter of engineering\" no it is not. you have encountered a differential equation and decided it was a marketing problem. the alcubierre metric does not care about your funding rounds",
+    "metrics": {
+      "retweets": 847000,
+      "likes": 2100000,
+      "replies": 156000,
+      "quote_tweets": 89000
+    },
+    "verified": 2,
+    "is_ratio": true,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": false,
+    "pfpColor": "hsl(118,57%,49%)",
+    "pfpGlyph": "✴",
+    "timestamp": "3m"
+  },
+  "replies": [
+    {
+      "display_name": "FTL Innovation Labs CEO",
+      "handle": "@ftl_innovations_official",
+      "tweet": "We appreciate the passion, Dr. Sato! Our team of 47 engineers has made remarkable progress on the Alcubierre stabilization problem. We're currently in Series C funding and expect breakthroughs within 18 months. The math is hard, but the market opportunity is HARDER. Looking forward to proving the skeptics wrong! 🚀",
+      "likes": 234,
+      "verified": 2,
+      "community_note": null,
+      "pfpColor": "hsl(51,41%,29%)",
+      "pfpGlyph": "Θ",
+      "timestamp": "4d",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "just some guy",
+      "handle": "@accidental_ratio_king",
+      "tweet": "lmao dude got absolutely SCHOOLED by a physicist. this is what happens when you let MBA types into the physics department. *chef's kiss*",
+      "likes": 487000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(285,49%,50%)",
+      "pfpGlyph": "✶",
+      "timestamp": "26d",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "the Glœm",
+      "handle": "@--∅glœm-chorus--",
+      "tweet": "we have read this message 412 times. we do not understand the alcubierre metric. we understand the sound of someone explaining the same thing for the seventh year and being told it is a problem of will. we have been watching. we will keep watching. we are sorry that watching is all we can do.",
+      "likes": 89,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(107,68%,34%)",
+      "pfpGlyph": "✶",
+      "timestamp": "5d",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    },
+    {
+      "display_name": "Mars Heritage Archivist",
+      "handle": "@mars_records_official",
+      "tweet": "worth noting: Dr. Sato tried to publish this exact paper in 2987. it was rejected four times. he then gave a presentation at the Lunar Physics Consortium where a venture capitalist literally interrupted mid-sentence to ask 'but what's the TAM on faster-than-light travel?' the room went silent for nine minutes",
+      "likes": 156000,
+      "verified": 0,
+      "community_note": null,
+      "pfpColor": "hsl(77,40%,33%)",
+      "pfpGlyph": "✶",
+      "timestamp": "13h",
+      "temporal_anomaly": null,
+      "subspace_anomaly": null,
+      "special_account": null,
+      "falgsc_sigil": false
+    }
+  ],
+  "generated_at": "2026-04-25T04:16:01.162Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}

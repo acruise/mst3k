@@ -29,7 +29,7 @@ function loadData() {
       document.getElementById("btnBatch").disabled = false;
       document.getElementById("btnGenerate").textContent = "⚡ INTERCEPT TRANSMISSION";
       if (backendMode === "offline") {
-        document.getElementById("subheader").textContent = "subspace feed • OFFLINE MODE • cached corpus";
+        document.getElementById("subheader").textContent = "subspace feed \u2022 OFFLINE MODE \u2022 archived transmissions";
       }
       if (s.annotations && s.annotations.length) {
         var sub = document.getElementById("subheader");
@@ -78,6 +78,12 @@ function loadInitialFeed() {
 
 function loadPermalinkIfAny() {
   var path = window.location.pathname;
+  var profileMatch = path.match(/^\/u\/(.+)$/);
+  if (profileMatch) {
+    var pHandle = decodeURIComponent(profileMatch[1]);
+    if (pHandle.charAt(0) !== "@") pHandle = "@" + pHandle;
+    return loadProfile(pHandle);
+  }
   if (path === "/t" || path === "/t/") return loadCollection();
   var m = path.match(/^\/t\/([A-Za-z0-9][A-Za-z0-9_-]{0,63})$/);
   if (!m) return loadInitialFeed();
@@ -127,13 +133,13 @@ function loadCollection() {
     });
     generatedCount = tweets.length;
     var sub = document.getElementById("subheader");
-    if (sub) sub.textContent = "corpus archive • " + items.length + " dispatches • click to expand replies";
+    if (sub) sub.textContent = "subspace archive \u2022 " + items.length + " dispatches \u2022 click to expand replies";
     renderFeed();
   }).catch(function (err) {
     console.error("Collection load failed:", err);
     document.getElementById("emptyState").innerHTML =
       '<div class="empty-orb">⌀</div>' +
-      '<div class="empty-title">CORPUS UNAVAILABLE</div>' +
+      '<div class="empty-title">ARCHIVE UNAVAILABLE</div>' +
       '<div class="empty-sub">failed to load /api/tweets</div>';
   });
 }
@@ -176,6 +182,19 @@ function pfpGlyph() {
 }
 function esc(s) {
   var d = document.createElement("div"); d.textContent = s; return d.innerHTML;
+}
+function profileUrl(handle, ctx) {
+  var bare = (handle || "").replace(/^@/, "");
+  var url = "/u/" + encodeURIComponent(bare);
+  if (ctx) {
+    var params = [];
+    if (ctx.display_name) params.push("dn=" + encodeURIComponent(ctx.display_name));
+    if (ctx.tweet) params.push("t=" + encodeURIComponent(ctx.tweet.slice(0, 140)));
+    if (ctx.verified) params.push("v=" + ctx.verified);
+    if (ctx.falgsc_sigil) params.push("fg=1");
+    if (params.length) url += "?" + params.join("&");
+  }
+  return url;
 }
 
 function renderNote(note) {
@@ -581,10 +600,11 @@ function renderTweet(t, idx) {
     html += '<div class="avatar-col"><div class="pfp pfp-48" style="background:' + t.pfpColor + '">' + t.pfpGlyph + '</div>';
     if (isExp) html += '<div class="avatar-line"></div>';
     html += '</div><div style="flex:1;min-width:0">';
-    html += '<div class="name-row"><span class="display-name">' + esc(t.display_name) + '</span>';
+    var tCtx = { display_name: t.display_name, tweet: t.tweet, verified: tier, falgsc_sigil: t.falgsc_sigil };
+    html += '<div class="name-row"><a class="display-name" href="' + profileUrl(t.handle, tCtx) + '" onclick="event.stopPropagation()">' + esc(t.display_name) + '</a>';
     html += sigilSVG(tier, false, t.handle);
     if (t.falgsc_sigil) html += falgscSigilSVG(false, t.handle);
-    html += '<span class="handle">' + esc(t.handle) + '</span>';
+    html += '<a class="handle" href="' + profileUrl(t.handle, tCtx) + '" onclick="event.stopPropagation()">' + esc(t.handle) + '</a>';
     if (t.id) {
       html += '<a class="timestamp" href="/t/' + encodeURIComponent(t.id) + '" onclick="event.stopPropagation()">' + t.timestamp + '</a></div>';
     } else {
@@ -633,10 +653,11 @@ function renderTweet(t, idx) {
           html += '<div class="reply-col"><div class="pfp pfp-36" style="background:' + r.pfpColor + '">' + r.pfpGlyph + '</div>';
           if (i < reps.length - 1) html += '<div class="thread-line"></div>';
           html += '</div><div style="flex:1;min-width:0">';
-          html += '<div class="name-row"><span class="display-name">' + esc(r.display_name) + '</span>';
+          var rCtx = { display_name: r.display_name, tweet: r.tweet, verified: rTier, falgsc_sigil: r.falgsc_sigil };
+          html += '<div class="name-row"><a class="display-name" href="' + profileUrl(r.handle, rCtx) + '" onclick="event.stopPropagation()" style="font-size:13px">' + esc(r.display_name) + '</a>';
           html += sigilSVG(rTier, true, r.handle);
           if (r.falgsc_sigil) html += falgscSigilSVG(true, r.handle);
-          html += '<span class="handle" style="font-size:11.5px">' + esc(r.handle) + '</span>';
+          html += '<a class="handle" href="' + profileUrl(r.handle, rCtx) + '" onclick="event.stopPropagation()" style="font-size:11.5px">' + esc(r.handle) + '</a>';
           if (replyAnchor) {
             html += '<a class="timestamp" style="font-size:11.5px" href="' + replyAnchor + '" onclick="event.stopPropagation()">' + r.timestamp + '</a></div>';
           } else {
@@ -833,7 +854,7 @@ function toggleReplies(uiId) {
       renderFeed();
     }).catch(function (err) {
       console.error("Corpus reply error:", err);
-      repliesCache[uiId] = [{ display_name: "⚠ corpus error", handle: "@system", tweet: "failed to load cached replies", likes: 0, verified: 0, pfpColor: "#331111", pfpGlyph: "⚠", timestamp: "0s" }];
+      repliesCache[uiId] = [{ display_name: "\u26A0 relay error", handle: "@system", tweet: "failed to retrieve archived replies", likes: 0, verified: 0, pfpColor: "#331111", pfpGlyph: "\u26A0", timestamp: "0s" }];
       repliesLoading = null;
       renderFeed();
     });
@@ -841,7 +862,7 @@ function toggleReplies(uiId) {
   }
 
   if (backendMode === "offline") {
-    repliesCache[uiId] = [{ display_name: "⌀ no replies cached", handle: "@corpus", tweet: "this tweet was generated without replies — re-run generate.js with --replies", likes: 0, verified: 0, pfpColor: "#222", pfpGlyph: "⌀", timestamp: "—" }];
+    repliesCache[uiId] = [{ display_name: "\u2300 no replies archived", handle: "@relay", tweet: "this dispatch was intercepted without replies \u2014 no reply subspace data available", likes: 0, verified: 0, pfpColor: "#222", pfpGlyph: "\u2300", timestamp: "\u2014" }];
     repliesLoading = null;
     renderFeed();
     return;
@@ -894,4 +915,220 @@ function loadMoreReplies(uiId) {
       moreLoading[uiId] = false;
       renderFeed();
     });
+}
+
+/* ───────────────────────── profile pages ───────────────────────── */
+var profileData = null;
+var profileBioLoading = false;
+var profileTweetLoading = false;
+
+function fetchProfile(handle) {
+  return fetch("/api/profile/" + encodeURIComponent(handle))
+    .then(function (r) { return r.ok ? r.json() : null; })
+    .catch(function () { return null; });
+}
+
+function parseProfileHints() {
+  var params = new URLSearchParams(window.location.search);
+  var hints = {};
+  if (params.get("dn")) hints.display_name = params.get("dn");
+  if (params.get("t")) hints.tweet = params.get("t");
+  if (params.get("v")) hints.verified = parseInt(params.get("v"), 10) || 0;
+  if (params.get("fg")) hints.falgsc_sigil = true;
+  return hints;
+}
+
+var profileHints = null;
+
+function loadProfile(handle) {
+  profileHints = parseProfileHints();
+  var bar = document.querySelector(".action-bar");
+  if (bar) bar.innerHTML = '<button class="btn-generate" onclick="history.back()" style="flex:1">\u27F5 RETURN TO FEED TIMELINE</button>';
+  fetchProfile(handle).then(function (data) {
+    if (!data) {
+      if (profileHints && profileHints.display_name) {
+        profileData = {
+          handle: handle,
+          display_name: profileHints.display_name,
+          pfpColor: null, pfpGlyph: null,
+          verified: profileHints.verified || 0,
+          falgsc_sigil: profileHints.falgsc_sigil || false,
+          tweets: [], reply_appearances: [],
+          bio: null, profile_image_description: null,
+        };
+        renderProfile();
+        return;
+      }
+      document.getElementById("feed").innerHTML =
+        '<div class="empty"><div class="empty-orb">\u2300</div>' +
+        '<div class="empty-title">USER NOT FOUND</div>' +
+        '<div class="empty-sub">' + esc(handle) + '</div></div>';
+      return;
+    }
+    if (profileHints) {
+      if (!data.display_name || data.display_name === "???") data.display_name = profileHints.display_name || data.display_name;
+      if (!data.verified && profileHints.verified) data.verified = profileHints.verified;
+      if (!data.falgsc_sigil && profileHints.falgsc_sigil) data.falgsc_sigil = true;
+    }
+    profileData = data;
+    if (data.bio && window.location.search) {
+      history.replaceState(null, "", window.location.pathname);
+    }
+    renderProfile();
+  });
+}
+
+function renderProfile() {
+  var d = profileData;
+  if (!d) return;
+  var feed = document.getElementById("feed");
+  var tier = typeof d.verified === "number" ? d.verified : 0;
+  var color = d.pfpColor || pfpColor();
+  var glyph = d.pfpGlyph || pfpGlyph();
+
+  var html = '<div class="profile-header">';
+  html += '<div class="pfp pfp-80" style="background:' + color + ';margin:0 auto 12px">' + glyph + '</div>';
+  html += '<div class="profile-name-row">';
+  html += '<span class="profile-name">' + esc(d.display_name) + '</span>';
+  html += sigilSVG(tier, false, d.handle);
+  if (d.falgsc_sigil) html += falgscSigilSVG(false, d.handle);
+  html += '</div>';
+  html += '<div class="profile-handle">' + esc(d.handle) + '</div>';
+
+  if (d.bio) {
+    html += '<div class="profile-bio">' + esc(d.bio) + '</div>';
+  }
+  if (d.profile_image_description) {
+    html += '<div class="profile-img-desc">' + esc(d.profile_image_description) + '</div>';
+  }
+
+  if (!d.bio && backendMode !== "offline") {
+    if (profileBioLoading) {
+      html += '<div class="profile-bio-placeholder">\u27F3 reconstructing bio from subspace\u2026</div>';
+    } else {
+      html += '<button class="btn-profile-action" onclick="generateProfileBio()">\u2727 RECONSTRUCT BIO FROM SUBSPACE</button>';
+    }
+  }
+
+  html += '</div>';
+
+  var tweetCount = d.tweets ? d.tweets.length : 0;
+  var replyCount = d.reply_appearances ? d.reply_appearances.length : 0;
+
+  if (tweetCount > 0) {
+    html += '<div class="profile-section-header">ARCHIVED DISPATCHES \u00B7 ' + tweetCount + '</div>';
+    for (var i = 0; i < d.tweets.length; i++) {
+      var t = buildTweetState(d.tweets[i].tweet);
+      t.id = d.tweets[i].id;
+      t._has_replies = d.tweets[i].has_replies;
+      html += renderTweet(t, i);
+    }
+  }
+
+  if (replyCount > 0) {
+    html += '<div class="profile-section-header">ARCHIVED REPLIES \u00B7 ' + replyCount + '</div>';
+    for (var j = 0; j < d.reply_appearances.length; j++) {
+      var ra = d.reply_appearances[j];
+      var r = enrichReply(ra.reply);
+      html += '<div class="profile-reply-context">';
+      html += '<span class="profile-reply-label">replying to </span>';
+      html += '<a class="handle" href="' + profileUrl(ra.parent_handle) + '">' + esc(ra.parent_handle) + '</a>';
+      html += '<span class="profile-reply-label"> in </span>';
+      html += '<a class="handle" href="/t/' + encodeURIComponent(ra.parent_id) + '">' + esc(ra.parent_tweet).slice(0, 60) + (ra.parent_tweet.length > 60 ? '\u2026' : '') + '</a>';
+      html += '</div>';
+      html += '<div class="profile-reply-body">';
+      html += '<div class="tweet-text">' + esc(r.tweet) + '</div>';
+      html += '<span class="reply-likes">\u2661 ' + fmt(r.likes) + '</span>';
+      html += renderNote(r.community_note);
+      html += '</div>';
+    }
+  }
+
+  if (tweetCount === 0 && replyCount === 0) {
+    html += '<div class="profile-section-header">NO ARCHIVED TRANSMISSIONS</div>';
+    html += '<div class="profile-empty">no dispatches or replies from this entity have been indexed by the subspace relay</div>';
+  }
+
+  if (backendMode !== "offline") {
+    if (profileTweetLoading) {
+      html += '<div class="profile-bio-placeholder">\u27F3 intercepting transmission\u2026</div>';
+    } else {
+      html += '<button class="btn-profile-action" onclick="generateProfileTweet()">\u26A1 INTERCEPT TRANSMISSION FROM ' + esc(d.handle).toUpperCase() + '</button>';
+    }
+  }
+
+  feed.innerHTML = html;
+}
+
+function generateProfileBio() {
+  if (profileBioLoading || !profileData) return;
+  profileBioLoading = true;
+  renderProfile();
+  var d = profileData;
+  var samples = (d.tweets || []).slice(0, 5).map(function (t) { return t.tweet.tweet || ""; });
+  if (profileHints && profileHints.tweet) {
+    var hintText = profileHints.tweet;
+    var alreadyIncluded = false;
+    for (var si = 0; si < samples.length; si++) {
+      if (samples[si].indexOf(hintText.slice(0, 40)) >= 0) { alreadyIncluded = true; break; }
+    }
+    if (!alreadyIncluded) samples.unshift(hintText);
+  }
+  fetch("/api/generate-bio", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      handle: d.handle,
+      display_name: d.display_name,
+      sample_tweets: samples,
+      verified: d.verified,
+      falgsc_sigil: d.falgsc_sigil,
+    }),
+  })
+    .then(function (r) { return r.ok ? r.json() : null; })
+    .then(function (data) {
+      profileBioLoading = false;
+      if (data) {
+        profileData.bio = data.bio;
+        profileData.profile_image_description = data.profile_image_description;
+        if (window.location.search) history.replaceState(null, "", window.location.pathname);
+      }
+      renderProfile();
+    })
+    .catch(function () { profileBioLoading = false; renderProfile(); });
+}
+
+function generateProfileTweet() {
+  if (profileTweetLoading || !profileData) return;
+  profileTweetLoading = true;
+  renderProfile();
+  var d = profileData;
+  var samples = (d.tweets || []).slice(0, 5).map(function (t) { return t.tweet.tweet || ""; });
+  fetch("/api/generate-profile-tweet", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      handle: d.handle,
+      display_name: d.display_name,
+      sample_tweets: samples,
+      verified: d.verified,
+      falgsc_sigil: d.falgsc_sigil,
+      bio: d.bio,
+    }),
+  })
+    .then(function (r) { return r.ok ? r.json() : null; })
+    .then(function (data) {
+      profileTweetLoading = false;
+      if (data && data.tweet) {
+        if (!profileData.tweets) profileData.tweets = [];
+        profileData.tweets.push({
+          id: data.tweet.id,
+          tweet: data.tweet,
+          has_replies: false,
+          generated_at: new Date().toISOString(),
+        });
+      }
+      renderProfile();
+    })
+    .catch(function () { profileTweetLoading = false; renderProfile(); });
 }

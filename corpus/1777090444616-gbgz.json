@@ -1,0 +1,31 @@
+{
+  "id": "1777090444616-gbgz",
+  "tweet": {
+    "display_name": "Gary Whitmore III",
+    "handle": "@GaryFromTitan",
+    "tweet": "NOBODY in 2847 understood what they were doing to the sulfur cycle and NOBODY wants to admit it now. i was there. i WATCHED them pump the particulates. you can't just reverse 200 years of atmospheric loading by throwing more machines at it. this is why mars is the way it is",
+    "metrics": {
+      "retweets": 47,
+      "likes": 312,
+      "replies": 1847,
+      "quote_tweets": 203
+    },
+    "verified": 0,
+    "is_ratio": true,
+    "community_note": null,
+    "temporal_anomaly": null,
+    "subspace_anomaly": null,
+    "special_account": null,
+    "falgsc_sigil": false,
+    "pfpColor": "hsl(106,45%,30%)",
+    "pfpGlyph": "☍",
+    "timestamp": "59s"
+  },
+  "replies": null,
+  "generated_at": "2026-04-25T04:14:04.616Z",
+  "backend": "anthropic",
+  "model": "claude-haiku-4-5",
+  "temperature": 0.9,
+  "summon": null,
+  "incite": null
+}
