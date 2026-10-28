@@ -1,4 +1,5 @@
 # Proceedings of the First Contact Comedy Festival
+*Source · [Talk](../Talk/Source/Proceedings_of_the_First_Contact_Comedy_Festival.md)*
 
 ## Kepler-442b Cultural Exchange Station, 2901 CE
 

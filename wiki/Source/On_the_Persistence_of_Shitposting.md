@@ -1,4 +1,5 @@
 # On the Persistence of Shitposting: A Sociolinguistic Analysis of Ironic Digital Rhetoric Across Human and Non-Human Civilizations
+*Source · [Talk](../Talk/Source/On_the_Persistence_of_Shitposting.md)*
 
 **Dr. Maren Okafor-Singh, Department of Xenolinguistics, University of Europa**
 **Dr. ✧ Thal-Vrenn ✧ (Vrellnath Collective Delegate to the Humanities Council)**
